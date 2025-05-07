@@ -1,0 +1,308 @@
+DRDO Test Facilities for Industries 
+
+A. 
+
+DRDO Proof and Fire Ranges 
+
+i. 
+
+PXE 
+
+Proof and Experimental Establishment (PXE) 
+Chandipur 
+Balasore– 756025 
+Orissa 
+
+Phone : 06782-273105 
+Fax : 06782-272126 
+Email : director[dot]pxe[at]gov[dot]in 
+
+ii. 
+
+TBRL 
+
+Terminal Ballistics Research Laboratory 
+(TBRL) 
+Sector-30 
+Chandigarh-160003 
+
+Phone: 0172-3957100, 2651824-26 
+Fax:0172-2657506 
+E-Mail:director[dot]tbrl[at]gov[dot]in 
+
+1.    Ballistic Evaluation test 
+
+2.    Blast testing 
+
+3.    Acceleration Test 
+
+4.    Grenade Testing 
+
+5.    Arena Testing of Fragmentation warhead 
+
+6.    Hypervelocity Impact 
+
+7.    EMI/EMC  CS115, CS116 and CS1216 Test 
+
+B. 
+
+DRDO Test Facilities 
+
+Lab Name and Address 
+
+S.No.  Test Facility 
+
+Aeronautical Development Establish-
+ment (ADE) 
+Defence Research and Development Or-
+ganisation (DRDO) 
+Ministry of Defence (MoD) 
+New Thippasandra Post 
+Bengaluru - 560 075 
+
+Phone : 080-2528 3404 / 2505 7005 / 
+2505 7007 
+Fax : 080-2528 3188 
+Email : director[dot]ade[at]gov[dot]in 
+
+Centre for Airborne Systems (CABS) 
+Ministry of Defence 
+
+1.    Flying and performance evaluation of UAVs 
+
+2.    Direct Effect Lighting Arc Test 
+
+3.    Environmental Test Facility 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.    Antenna Pattern Measurement 
+
+5.    Thermal Chamber Test Facility 
+
+6.    Acceleration Test 
+
+7.    RBD P. Oil Analysis 
+
+8.    Nutritional Analysis 
+
+Belur, Yemlur Post 
+Bengaluru – 560037 
+
+Phone: 080-25049002/03 
+Fax: 080-25222326 
+Email: director[dot]cabs[at]gov[dot]in 
+
+CASDIC(Erstwhile DARE) 
+Defence Avionics Research Establish-
+ment 
+Defence Research & Development Or-
+ganisation 
+Post Box No. 9366, CV Raman Nagar 
+Bengaluru-560093 
+
+Phone: +91 80 25047500 
+Fax: 080-25347717 
+Email: director[dot]dare[at]gov[dot]in 
+
+Centre for Fire, Explosive & Environ-
+ment Safety (CFEES) 
+Ministry of Defence 
+Brig. S.K. Mazumdar Marg 
+Timarpur, Delhi-110054 
+
+Tel:-01123813239 (Director) 
+01123907102 (TSO) 
+01123907103 (Director Secretariat) 
+01123907104 (Director Secretariat) 
+
+Fax:01123819547 
+
+Email 
+
+:director[dot]cfees[at]gov[dot]in 
+
+RTI(CPIO):01123907143,  01123907141 
+
+Grievance :01123907123 
+
+PRO :01123907141 
+
+Director, Defence Food Research Labora-
+tory (DFRL), 
+Ministry of Defence, Siddarth Nagar, 
+Mysore-570 011 
+
+E-mail :director[dot]dfrl[at]gov[dot]in 
+Phone :0821-2579003, 2579004, 
+2473783 
+Fax :0821- 2473468 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Instruments R&D Establishment (IRDE) 
+Raipur Road, Dehradun – 248008 
+
+Phone :0135-2787004 to 2787007 
+Fax : 0135-2787161 & 2787128 
+Email:director[dot]irde[at]gov[dot]in 
+
+Electronics and Radar Development Es-
+tablishment (LRDE) 
+Ministry of Defence, DRDO 
+CV Raman Nagar, Bengaluru-560093, 
+INDIA 
+
+Phone: 91-80-2524 3873 
+Fax: 91-80-25242916 
+Email:director[dot]lrde[at]gov[dot]in 
+
+9.    Black Spots 
+
+10.   Testing of Night Vision Device, Thermal Im-
+
+aging Camera system 
+
+11.   Testing of Image Intensifier tubes 
+
+12.   Environmental Test Facility (Vibration, Me-
+chanical shock and humidity, Transit Drop) 
+
+13.   Environmental Test Facility  (Acceleration, 
+
+Test, Dust, Rain Test) 
+
+14.   Limited Qualification Test 
+
+15.   EMI EMC Testing 
+
+16.   HASS Test 
+
+17.   Altitude Test, CATH Test 
+
+18.   MIL STD 704D Test 
+
+Vehicles Research & Development Estab-
+lishment (VRDE) 
+PO: Vahan Nagar 
+Ahmednagar – 414006 
+
+19.   ABS Test Track  
+
+20.   Automotive Bumper Test System  
+
+21.   Automotive Door Hinges Test System  
+
+Phone: 0241-2544006 
+Fax: 0241-2548410, 0241-2548449 
+E-mail ID: direc-
+tor[dot]vrde[at]gov[dot]in 
+
+22.   Automotive Noise Test Track  
+
+23.   Belgian Pave Track  
+
+24.   AVL Eddy Current Dynamometer (Apha-80) 
+With EDACS, Gravimetric Fuel Flow meter  
+
+25.   CE 101 Test Set up  
+
+26.   CE 102 Test Set up  
+
+27.   Chassis Twister Track  
+
+28.   Corrugated Track (50mm & 100mm)  
+
+29.   Cross Country Track  
+
+30.   CS 101 Test Set up  
+
+31.   CS 109 Test Set up  
+
+32.   CS114, CS115,CS116  
+
+33.   Customized Test Tracks for Mini UGV  
+
+34.   Deep Wading Trough Track  
+
+35.   Driving rain chamber  
+
+36.   Dry heat, Dry Cold & Climatic test chamber  
+
+37.   Dust Tunnel Track  
+
+38.   Frontal Impact Test  
+
+39.   Gradient Track  
+
+40.   Gradient Track For ‘A’ Vehicle  
+
+41.   High Speed Track  
+
+ 
+ 
+ 
+ 
+ 
+ 
+42.   Integrated Lightening Induced Transients 
+
+Susceptibility Test System  
+
+43.   Load Dump Generator, Voltage Dip Simula-
+
+tor, Electric Fast Transient  
+
+44.   Long Wave Pitching Track  
+
+45.   Mud Track  
+
+46.   Pot Hole Track  
+
+47.   RE 101 Test Set up  
+
+48.   RE 102 Test Set up (Antenna: Biconilog, 
+Rod, Biconical, DRG Horn & Horn)  
+
+49.   RS 101 Test Set up  
+
+50.   RS 103 Test Set up (Antennas: Biconical, V-
+
+Log, Horn)  
+
+51.   Sand Track  
+
+52.   Sealed Housing Evaporative Determination  
+
+53.   Serpentine Track  
+
+54.   Shallow Water Trough Track  
+
+55.   Shielding Effectiveness Test set up  
+
+56.   Side Slope Track For ‘A’ Vehicle  
+
+57.   Step Climbing Facility For ‘A’ Vehicle  
+
+58.   Vehicle Dynamics Test Track  
+
+ 
+

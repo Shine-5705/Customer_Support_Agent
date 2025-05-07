@@ -1,0 +1,37 @@
+Digital Telemetry Receiver and Transmitter (DTRT) 
+
+The  digital  telemetry  receiver  (DTR)  is  compliant  to  IRIG-106  standards  for  applications  in 
+aeronautical  telemetry  links.  It  plays  a  crucial  role  in  the  ground  telemetry  system  for  missile 
+telemetry and satellite communication application right from assembly/ integration of the flight 
+vehicle until the actual flight test. The DTR belongs to third generation receiver in the telemetry 
+industry, in which it can interface the telemetry antenna with the display system, by performing 
+all signal/ data processing operations using analog and digital hardware and firmware. The DTR 
+is equipped with independent local oscillators for tuning. The down-converter outputs are band-
+limited  using  filters  and  then  digitized  using  high-speed  ADC.  The  digitized  signals  are 
+converted into equivalent, complex base-band representation, denoted as IQ signals, for further 
+processing using DSP algorithms implemented on FPGA.  
+
+Key Features 
+
+•  Dual Channel RF and IF Receiver 
+•  Trellis Detection for improved performance 
+•  Diversity Combiner and Equalizer 
+•  Convolutional, Demodulation and LDPC Decoding 
+•  Frame Synchronization 
+•  Telemetry over IP Support and In-built Telemetry Generator  
+•  Supports display over Ethernet and HDMI 
+
+The digital transmitter (DTX) is compliant with IRIG-106 standard and is suitable for air-borne 
+applications.  The  data  rate,  carrier  frequency,  output  power  and  modulation  scheme  are 
+configurable  by  user.  Advanced  features  like  FEC  encoding,  light-weight  etc  have  been 
+implemented.  It  can  accept  variety  of  inputs  viz.,  unfiltered  PCM  stream,  filtered  PCM  stream 
+and pass-band signal and configurable parameters like data rate, carrier frequency, output power 
+and modulation scheme has been indigenously realized.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+

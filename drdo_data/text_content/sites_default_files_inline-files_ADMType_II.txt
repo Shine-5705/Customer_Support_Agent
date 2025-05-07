@@ -1,0 +1,39 @@
+Area Denial Munition Type-II warhead for Artillery Rocket System  
+
+This  is  one  type  of  ammunition  to  be  deployed  for  Multi  Barrel  Rocket  System.  This 
+
+ammunition  uses  already  developed  Ground  system,  propulsion  &  launcher  POD 
+
+assembly.  The warhead portion for which present TOT is being proposed houses the 
+
+ADM type-II munitions.  
+
+The warhead consists of an outer ballistic casing, which is made up of Al Alloy Ogive & 
+
+Shell  assemblies.  Sub-munitions  are  packed  along  the  length  of  the  warhead  in  six 
+
+layers and each layer consists of three Nos. These are axi-symmetrically packed inside 
+
+the  casing.  The  ejection  of  these  munitions  near  the  target  area  is  one  of  key  design 
+
+activity. Flexible Liner Shaped Charge (FLSC) coupled with spring-based force ejection 
+
+mechanism is developed and proved in several dynamic trials.  
+
+Munition  houses  the  required  kill  mechanism.    In  addition,  it  is  having  the  Safety  and 
+
+arming  Mechanism  (SAM)  which  caters  for  full  safety  during  handling,  storage  and 
+
+transportation.  Also,  the  SAM  would  provide  necessary  launcher  and  flight  safety. 
+
+Munition is initiated by an electro-magnetic fuze. The fuze triggers the ATM on sensing 
+
+the  required  change  in  magnetic  flux  when  a  Tank  passes  over  that.  The  fuze  also 
+
+contains an anti-tilt device in addition to self-destruct capability.  
+
+ 
+ 
+ 
+ 
+

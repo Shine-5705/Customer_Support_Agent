@@ -1,0 +1,127 @@
+Brief description for Transfer of Technology
+on
+“DMR-249A Grade Steel Bulb Bars for Naval Applications”
+
+i. Description of the technology
+
+Bulb  bars  are  used  as  stiffeners  in  shipbuilding,  especially  in  naval  construction.
+They are long products with an asymmetric cross-section (see Figure below) that
+are produced by hot rolling using semi-rolled continuous cast slabs or billets from
+authorized  manufacturers  as  feedstock.  The  manufacturing  process  is  fairly
+complex and involves multiple steps including roll pass design, actual rolling, and
+subsequently  heat  treatment.  The  bulb  bars  have  to  meet  stringent  geometrical,
+dimensional, physical and metallurgical requirements. Eleven different sections of
+bulb bars ranging from P6 to P24 (Fig. a) have been developed and productionized
+in  lengths  up  to  12m.  The  number  following  P  is  the  base  width  of  the  bulb  bar
+section given in cm (‘h’ in Fig. a).
+
+Figure:  (a)  Schematic  of  bulb  bar  cross-section  indicating  the  main  sectional
+parameters, (b) sample piece of bulb bar, (c) relative sizes of the eleven sections
+required,  and (d) stacks of painted bulb bars ready for dispatch
+
+Table: Dimensions of representative bulb bars
+
+Bulb 
+Section
+
+Bar
+
+h
+(mm)
+
+b
+(mm)
+
+s
+(mm)
+
+r1, 
+
+r, 
+(mm)
+
+r2
+
+P7
+
+P12
+
+P24a
+
+P24b
+
+70
+
+120
+
+240
+
+240
+
+21
+
+30
+
+52
+
+54
+
+5.0
+
+6.5
+
+12.0
+
+14.0
+
+3.5
+
+5.0
+
+9.0
+
+9.0
+
+During  the  initial  development,  DMRL  has  worked  in  close  coordination  with  the
+straightening,
+manufacturing  agency 
+microstructural  evaluations  etc.  to  meet  the  strict  requirements  i.e.  mechanical
+properties, dimensional tolerances and other criteria.
+
+treatment  optimization, 
+
+for  heat 
+
+The  vendor  has  to  develop  the  roll  pass  design  on  his  own  for  converting  the
+feedstock to the bulb bars to meet dimensional requirements.
+
+Bulb  bars  have  been  accepted  by  the  competent  authority  of  Indian  Navy  and  a
+Naval  Construction  Document:  NCD  0249  Part-III  Issue  1,  April  2011  has  been
+issued by Directorate of Naval Architecture (DNA), Integrated Headquarters (IHQ),
+MOD (Navy).
+
+DMR 249A steel Bulb bars are currently in routine production at approved vendors
+for use in construction and repair/refit of warships for the Indian Navy.
+
+ii. Application areas
+
+The bulb bars find use in construction and repair/refit of warships.
+
+iii. Its USP-such as certifications and test results etc.
+
+DMR249A bulb bars manufactured by two authorized vendors have met all
+requirements qualifying them for use in warship construction. The bulb bars
+produced by one vendor have also been certified through a more rigorous process
+for use in submarine applications.
+
+iv. Photographs at appropriate places on the technology developed (if available)
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+

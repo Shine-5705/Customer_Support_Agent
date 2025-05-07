@@ -1,0 +1,502 @@
+Wireless Control cum Actuation System (RED)
+
+Remote electronic actuation device, Wireless Control cum Actuation System consists of
+two electronic hardware systems (user’s remote and ground system). Both remote and
+ground systems communicate to each other over encrypted RF signal in the command
+and  response   mode.   The  design   of   the   remote   system   is  such  that   it   is  capable   to
+configure and can engage multiple number of ground systems. Both systems are having
+compatible   transceiver   RF   modules,   which   enables   system   operation   up   to   certain
+distance in the line of sight (LoS). 
+
+Micro-cotroller based processing  electronics in the remote and ground side systems,
+rechargeable   main   battery   and   two   dedicated   non-chargeable   batteries   for   two
+independent triggering signals by the ground side system, remote system design having
+segment  LED  display  interfaced   to  the   I/O   of  the   micro-controller   board  and   ground
+system which is having two levels of in-built software controlled hardware circuit and its
+feedback display on the remote etc.
+
+Interested companies/  industries  are  requested  to  apply against  this  EoI  to  following
+
+address:-
+
+Director,
+Terminal Ballistics Research Laboratory (TBRL)
+Sector-30
+Chandigarh-160030
+Fax: 0172-2657506
+E-Mail: director.tbrl@gov.in
+
+A copy of interest may be sent to the following address (without any attachment):-
+
+Director 
+Directorate Industry Interface and Technology Management (DIITM) 
+Room No 447, DRDO Bhawan, DRDO HQrs, Rajaji Marg, New Delhi – 110011
+Phone No: 01123013209/23015291
+Fax No: 011-23793008
+Email ID: diitm[dot]hqr[at]gov[dot]in
+
+All   industries   interested   in   seeking   ToT   are   requested   to   fill   in   the   Application   cum
+Industry Assessment form given below  and provide reference of page no. of supporting
+document   (wherever   applicable)   in   the   relevant   field.   The   list   of   documents   to   be
+attached is provided in Annexure - I. 
+
+Page 1 of 8
+
+Application cum Industry Assessment Form
+
+General Information 
+
+PART-1
+
+a) Name of the Technology requested for Technology Transfer
+
+(Technology name and concerned Lab, Category)
+
+b) Name of the industry/ organization
+
+c) Complete Address and other details
+
+Registered Office
+
+State
+Phone No
+Fax
+Email
+Website
+
+Factory
+
+State
+Phone No
+Fax
+Email
+Website
+
+4. Point of Contact
+
+Name
+Designation
+Address
+Mobile No
+Ph No
+Email ID
+
+5. NAME OF CMD/ MD /PARTNERS/ PROPRIETOR/ etc
+
+Name
+Designation
+Address
+
+Page 2 of 8
+
+Mobile No
+Ph No
+Email ID
+Date of Incorporation of company
+
+f)
+
+g)
+
+Foreign Direct Investment in company (if any in %)
+
+h) Shareholding pattern
+
+i)
+
+j)
+
+k)
+
+Turn over as per  Audited Balance Sheet for the preceding
+three years.
+Year ____
+Year ____
+Year ____
+
+Annual budget for R&D during last three years
+(if any)
+Year ____
+Year ____
+Year ____
+
+Income Tax returns for the preceding three years period
+Year ____
+Year ____
+Year ____
+
+l)
+
+Nature of company
+
+DPSU, Private Limited, Public Limited, Partnership, Proprietary,
+Ex- Serviceman Unit
+
+m) Category of industry
+
+Large Scale, Medium Scale, Small Scale, Micro, Startup
+
+n) MSME Registration No
+
+o) Certificates of registration as a manufacturing unit, if any.
+
+p)
+
+If Startup, DPIIT Registration No
+
+q) UDYOG AADHAR No
+
+r)
+
+PAN Number
+
+s) Details   of   Industrial   license   for   defence   manufacturing
+
+issued by DPIIT (if any)
+
+t)
+
+Details of PESO license (if any)
+
+u) GST Number
+
+v) Nature of business
+
+Page 3 of 8
+
+Manufacturing/   Sole   Selling   or   Authorized   Agent/   Assembler/
+Traders/ Dealer/ Processor/ Repacker/ Others
+
+w) Details of current products and services
+
+Products and services Supplied (please specify Govt/ Domestic
+market/ Export)
+
+x)
+
+Record   of   past   performance  (e.g.,   Supply   orders   executed
+against   of   Ministry   of   Defence   orders,   Public   Sectors   and
+Paramilitary Forces, if any).
+
+y) Details of registration with
+
+NSIC   /   SSI,   DGS&D,   other   Defence   Department,   other   Govt.
+Dept,  membership of  FICCI/ASSOCHAM/CII  or other Industrial
+Association
+
+(Attach relevant copies of registration letters)
+
+z) Have you already taken any technology from DRDO  (If yes,
+
+give details attaching separate sheet)
+
+Name of the Technology, Lab, Year, License number & Status
+
+aa)
+
+ISO/   ISI   certification   or  any   other   certification  (If   yes,   give
+details)
+
+bb) Relevant clearances form the authorities/ ministries (if any)
+cc) Capacity   and   capability   to   undertake   developmental   work
+and to accept attendant financial and commercial risks.
+dd) Capacity/capability   to   market   the   product   through   the
+marketing network, sales and service network, reliability to
+maintain confidentiality.
+
+Infrastructure and other Information
+
+PART-2
+
+a.
+
+b.
+
+c.
+
+d.
+
+Total area of factory
+Covered (m2),
+Uncovered (m2),
+Bonded space available (m2)
+Ownership of factory
+Self-owned, partnership, rental
+Electric power
+Sanctioned
+Installed
+Standby (if any)
+Availability   of   adequate   infrastructure  (List   of
+machines and their production capacities) and technical
+
+Page 4 of 8
+
+e.
+
+expertise
+Name of bank & A/c No
+Name of bank
+A/c type
+A/c no
+Address of the bank
+Phone: Email:
+
+(a) Details of current products:
+
+Sl.no.
+
+Type
+
+Description
+
+Licensed/installed
+capacity
+
+Annual
+  production
+for preceding 3 years
+
+(b) Details of foreign collaboration, if any
+
+Sl.no. Product
+
+Name & address of collaborator
+
+Year
+
+Remarks
+
+(c) Details of products developed for services
+
+Sl.no.
+
+Nomenclature of stores Order no and date
+
+Remarks
+
+(d) Please   give   details   of   important   facilities   &   infrastructure   as   per   following
+
+format for:
+
+Production
+
+a.
+b. Unconventional, special m/c
+c.
+
+Testing & quality control facilities
+  &
+
+Sl.no. Description   of
+
+m/c
+
+Make
+model
+
+Qty
+
+date   of
+purchase
+
+Remarks
+
+(e) Furnish the following details with relevant certificates and documents
+
+a. R&D facilities available
+b.
+c.
+d.
+
+Inspection quality control of raw material components
+Assistance from central agency for testing / calibration etc. :
+:
+laboratory and drawing office facility
+
+:
+:    
+
+(f) Principal customers:
+
+Page 5 of 8
+
+Sl.no. Name & address
+
+S.O   No.   &
+date
+
+Date   of   last
+supply
+
+Products
+supplied
+
+Value
+
+(g) Future   plan   (if   any)   in   respect   of   expansion   programme   installation   of
+
+additional machines/ test facilities etc.
+
+(h) Name   of   the   technology   requested  for  transfer  (give   self-assessment   of   your
+
+capability to absorb the technology)   
+
+(i) Details of employee as on date on firm’s pay roll 
+
+Number Qualification
+
+Total
+Service
+
+PERMANENT
+Category
+
+Post Held
+
+Technical
+
+Prod. Manager
+Q.C. Manager Supervisor
+Testing  Staff   (Qc)   Skilled
+workers
+Unskilled workers, etc.
+
+Administrative Purchase
+
+  Manager
+Accounts   Officer   Office
+Superintendent
+  Clerical
+Others etc
+
+Number Qualification Total
+
+Service
+
+TEMPORARY
+Category
+
+Post Held
+
+Technical
+
+Prod. Manager
+Q.C. Manager Supervisor
+Testing   Staff   (Qc)   Skilled
+workers
+Unskilled workers, etc
+
+Administrative Purchase Manager Accounts
+Officer Office Superintendent
+Clerical Others, etc
+
+DECLARATION :
+
+I / we confirm that the information furnished in Part 1 & 2 above is correct. In the
+event of any information given by me / us is found incorrect / false at any time, I / we
+understand our EoI for ToT will be cancelled/ rejected without notice, beside any other
+appropriate action against me / us.
+
+Page 6 of 8
+
+Industry seal
+
+Authorized signatory
+
+Name(s) in capital
+designation   and   seal   of   authorized
+signatory
+
+dated:
+Place:
+
+List of Supporting documents to be attached with EoI
+
+(a)  Memorandum and Articles of Association (Should be incorporated as per Indian
+
+Companies Act, as amended time to time)
+
+Annexure - I
+
+(b) 
+
+Certificates of registration as a manufacturing unit, if any.
+
+(c) 
+
+Audited Balance Sheet for the preceding three years. 
+
+(d) 
+
+Income Tax returns for the preceding three year period 
+
+(e) 
+
+Details   of   shareholding/ownership   pattern   especially   foreign   partners/
+shareholders,  foreign  employees,  directors,  etc.  The company must  adhere  to
+the prevailing Govt of India policies and regulations on Foreign Direct Investment
+(FDI)/DIPP norms as applicable. 
+
+(f) 
+
+Annual budget for R&D during last three years. 
+
+(g) 
+
+Numbers and details of IPR or patents, etc., held by the company.
+
+(h) 
+
+Number of technically or professionally qualified personnel.
+
+(i) 
+
+(j) 
+
+Record of past performance (e.g., Supply orders executed against of Ministry of
+Defence orders, Public Sectors and Paramilitary Forces, if any). 
+
+Availability   of   adequate   infrastructure   (List   of   machines   and   their   production
+capacities) and technical expertise. 
+
+(k) 
+
+List of Testing and Support equipment’s
+
+(l) 
+
+ISO/ ISI certification or any other certification 
+
+Page 7 of 8
+
+(m)  Relevant clearances form the authorities/ ministries (if any)
+
+(n) 
+
+(o) 
+
+(p) 
+
+(q) 
+
+Capacity   and   capability   to   undertake   developmental   work   and   to   accept
+attendant financial and commercial risks. 
+
+Capacity/capability to market the product through the marketing network, sales
+and service network, reliability to maintain confidentiality.
+
+PESO and DPIIT license for explosive handling if ToT is for high energy Material,
+explosives, propellants, and component/ system dealing with it etc. 
+
+Under taking form company seeking ToT that none of its Directors, Independent
+Directors, non-executive Directors, Key management personnel are involved in
+any corrupt practices, unfair means and illegal activities.
+
+(r)
+
+Details of the industrials license for defence manufacturing be provided by the
+industry seeking ToTs.
+
+Page 8 of 8
+
+

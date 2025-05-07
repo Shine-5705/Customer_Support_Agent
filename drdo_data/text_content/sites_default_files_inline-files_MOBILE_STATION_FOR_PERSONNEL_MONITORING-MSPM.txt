@@ -1,0 +1,62 @@
+MOBILE STATION FOR PERSONNEL MONITORING (MSPM) SYSTEM 
+
+Introduction:  MSPM  System  is  a  transportable  Gamma  Portal  Monitor  which  is  used  for 
+rapid  screening  of  personnel  with  respect  to  radiation  contamination  during  nuclear  or 
+radiological  emergency.    The  system  can  also  be  used  at  entry  and  exit  of  important 
+installations to interrupt the unauthorized movement of radiation source. The system utilizes 
+six plastic scintillator detectors mounted on all the four sides of the portal (two each on left & 
+right and one each on top & bottom). The user can set the monitoring mode (walk through or 
+programmable counting time. The system continuously acquires the counts and monitors the 
+background  radiation.  The  data  is  displayed  on  the  front  panel  touch  LCD.  The  system 
+generates an alarm when the counts exceed the preset alarm values. The instrument can work 
+in  standalone  mode  however  a  remote  control  station  has  also  been  developed.  The  counts 
+and alarm data can be transferred via Ethernet or wireless RF communication. The image of 
+the occupant can be seen at the remote control station and image can be captured in case of 
+contamination and corresponding data can be stored for further analysis. It is equipped with a 
+rechargeable  battery.  The  complete  system  is  modular,  can  be  quickly  set  up  and  can  be 
+packed inside a transportation case. 
+
+Salient Features:   
+
+  Radiation Detector: Six Plastic Scintillator cylindrical sensor rods (diameter: 5cm  & 
+
+for 
+
+length 50 cm) Each coupled with PMT having inbuilt high voltage and pre amplifier. 
+Sensitivity: 2µCi of 137Cs under ambient background condition  
+
+ 
+  Monitoring Modes: Walk-Through and Stop & Count (1 to 9 second programmable)  
+  Alarm, Display & Controls: Audio as well as visual LED indicators, Display of signal 
+counts 
+all  
+       detectors  simultaneously,  Adjustable  radiation  alarm  level,  signal  &  background 
+counting interval etc. 
+ 
+ 
+  Remote  Control  and  display  for  centralized  viewing  of  portal  monitor  operations 
+through Ethernet/ RF 
+  Weight: 50 kg approx (Without battery and carrying case) 
+ 
+ 
+  Modular, Transportable, Self-contained, quick and easy set up (Approx. 15 minutes) 
+
+Portal Construction: PVC/HDPE/POM cylindrical enclosure, SS base with wheels.  
+Pedestrian opening: 185 x 75 cm (H x W) approx 
+
+Power Supply: 230 VAC as well as Battery operated (8 hrs battery backup) 
+Integrated Camera for image capturing 
+
+MSPM System with Remote Control 
+Station and Transportation Case 
+
+Application:    Screening  of  personnel  for  radiation  contamination  during  nuclear  or 
+radiological emergency Armed Forces, Disaster Management Agencies, Airport and Strategic 
+Installations 
+Status:  Prototype has been developed and tested.  
+
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,45 @@
+LINEAR THERMAL DETECTOR 
+
+Linear Thermal detector is being used to detect the over heat and fire condition in engine
+
+compartment of Armoured Fighting Vehicles (AFVs) and aerospace application. Till date it
+
+is being imported and contributes the major cost in fire detection and suppression system.
+
+CFEES has developed Linear thermal detector to detect overheat and fire condition in Engine
+
+compartment of Armoured Fighting Vehicles (AFVs). Linear thermal detector is a coaxial
+
+cable in which negative temperature coefficient material is filled between outer sheath and
+
+central conductor. It provides overheat warning and actuates fire extinguisher in case of fire
+
+in engine compartment of AFVs 
+
+Materials for outer  sheath, central  conductor and material to be filled between outer and
+
+central conductor has been identified and fabrication process of linear thermal detector has
+
+been devised. Fabrication process includes filling of NTC material between hollow tube and
+
+centre conductor, drawing & annealing.
+
+Design  and  development   of   linear   thermal   detector  having  ≤   2.5mm   outer   diameter   and
+
+20feet   length   has   been   carried   out.  Testing   and   evaluation   of   prototype   has   been   done
+
+successfully.   Linear   thermal   detector   qualified   environmental   tests   as   per   JSS55555.
+
+Resistance between outer sheath and inner conductor decreases with increase in temperature.
+
+Cost   of   indigenously   developed   linear   thermal   detector   will   be  lesser   as   compared   to
+
+imported one. Linear thermal detector can be used for aviation application also to detect the
+
+fire in engine. It can also be used to detect the fire in civil vehicles as well as in process
+
+plants coupled with fire fighting system.
+
+Fig. Linear Thermal Detector  
+
+

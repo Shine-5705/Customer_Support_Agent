@@ -1,0 +1,33 @@
+120mm Tandem Warhead System for Anti-Tank Application
+
+TBRL has developed 120mm tandem shaped charge warhead systems for Anti-
+
+Tank Application. In tandem warhead system configuration, two shaped charge
+
+namely  main shaped charge  and  precursor shaped charge  are mounted in
+
+the same missile and are initiated one after the other with pre-defined time delay
+
+of  the order of micro seconds. Both these shaped charges are mounted at a
+
+certain   distance   from   each   other   keeping   in   view   the   warhead   system
+
+constraints. It is necessary to protect the second charge (Main Shaped Charge)
+
+from the blast effects of the first charge (Precursor shaped charge) during the
+
+time delay between the initiations of two shaped charges.
+
+The advanced  homogeneous armour, add  –ones like ERA and active  armour
+
+protection   systems   are   normally   being   used   for   protection   of   latest   MBT’s.
+
+Hence   the  requirement   of  tandem   shaped  charge  warhead  emerges.  Various
+
+performance evaluation trials have been carried out to ensure the capability of
+
+tandem warhead to defeat ERA protected RHA.                              
+
+                                   Page 1 of 1
+
+

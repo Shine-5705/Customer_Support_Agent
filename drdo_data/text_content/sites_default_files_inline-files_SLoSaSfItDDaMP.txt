@@ -1,0 +1,433 @@
+Second list of Systems and Subsystems 
+
+ for Industry to  
+Design, Develop and Manufacture 
+
+Directorate of Industry Interface and Technology Management (DIITM) 
+DRDO Bhawan, Rajaji Marg, New Delhi-11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Second list of Systems and Subsystems for 
+Industry to Design, Develop and Manufacture 
+
+In line with the objective of capitalising the capability of Indian industry for  
+design  and  development  of  Defence  System,  DRDO  had  promulgated  a  
+list of 108 systems and subsystems which will not be taken up for design & 
+development by DRDO. 
+
+In  order  to  give  further  boost  to  the  Defence  R&D  Industrial  Ecosystem, 
+2nd list comprising of 75 systems/subsystems that the DRDO labs will not 
+take up for design and development and can be taken up by industry has 
+been  compiled  and  appended  below.  DRDO  may  provide  scientific/ 
+technological  support  (https://drdo.gov.in/industry-support)  and  testing 
+the 
+for 
+support 
+development of these systems and subsytems on case to case basis. 
+
+(https://drdo.gov.in/test-facilities)  wherever 
+
+required 
+
+System/ Subsystem 
+
+Year  
+
+Sl 
+No. 
+
+1 
+
+2 
+
+Unguided Arial Bombs up to 500Kg 
+
+Battle Field Surveillance Radar (BFSR)  
+
+3  Ground Penetrating Radar (GPR) 
+
+4 
+
+Through Wall Imaging Radar (TWIR) 
+
+5  Medium Power Radar (MPR) 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Air Defence Fire Control Radar (ADFCR) 
+
+Air Defence Tactical Control Radar (ADTCR) 
+
+Remotely Control Weapon Stations (RCWS)   
+
+Small RoVs for Land application 
+
+10  Small Gas turbines of 40 and 80 Kgf thrust 
+
+11 
+
+Low Level Transportable Radar (LLTR) 
+
+12  Mine Plough  
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+13  Artillery Gun System  
+
+14 
+
+Tank based Artillery Gun 
+
+15  Ultra-Light Artillery Gun 
+
+16  Optical Target Locators up to 1.5 KM range 
+
+17  Unguided Multi Barrel Rocket System  
+
+18  UAV Drone Jammer 
+
+19  Armoured Amphibious Dozer(AAD) 
+
+20 
+
+Laser Fence 
+
+21 
+
+Laser Dazzlers for crowd control 
+
+22  Vision system - Driver’s  Night sight (DNS) 
+
+23  Stabilization system for ships  
+
+24  Gloves & Clothing for extreme cold conditions  and 
+
+high altitude upto -30℃ 
+
+25 
+
+Laser Target Designators 
+
+26 
+
+Transporter cum Loader Vehicles 
+
+27  Blast resistance vehicles 
+
+28  Magazine Fire Fighting System for Naval Ships 
+
+29 
+
+Fire Detection and Suppression System for Armoured 
+Fighting Vehicles 
+
+30  Combat Boot 
+
+31  Electro Optical Tracking System (EOTS) 
+
+32  Holographic sight 
+
+33 
+
+Integrated multi sensor sights 
+
+34 
+
+Toxic Gas Sensors  & Detectors  for industrial gases 
+and pollutants 
+
+35  Missile/Target Motion Simulators 
+
+36  Auxiliary power unit for land system 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+37  Auxiliary power unit for aircrafts 
+
+38  Mobile Weapon testing station 
+
+39  Weapon loading platform for aircraft 
+
+40  Missile handling Trollies 
+
+41 
+
+Fire Fighting Foam 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+42  Health  and  Usage  Monitoring  System  (HUMS)  for 
+
+2023 
+
+enhancing Aircraft Serviceability  
+
+43  Weapon Locating Radar (WLR) 
+
+44 
+
+1.25  MW  Marine  Gas  Turbine  Generators  for  Power 
+Generators for Ship application 
+
+45  Surface Surveillance Radar 
+
+46  Special Operation Rigid Hull Boat 
+
+47  All-Terrain Vehicles (AATVs) 
+
+48  High Capacity Radio Relay 
+
+49  Multipurpose Vessels 
+
+50  High Mobility Vehicle (HMV) (6x6) 
+
+51  Composite Pumps 
+
+52 
+
+Flexi Life Saver Water Purifier 
+
+53  Space Heating Device-Bukhari type 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+2023 
+
+54  Armour panels for small arms protection covering up to 
+
+2023 
+
+7.62x54 mm calibre ammunition 
+
+55  Wheeled Armour Platform (WhAP) 8x8 
+
+56  Counter Mine Flail 
+
+57  Digital Video Switching and display systems 
+
+58  Drones for Carriage of 20 Kg stores in high Altitude  
+
+59 
+
+Fuel Probe for Aircraft Application 
+
+2023 
+
+2023 
+
+2023 
+
+2024 
+
+2024 
+
+60  Auxiliary pressure reducing & shut off Valve for Aircraft 
+
+2024 
+
+application 
+
+61  Dual flow self-regulation JT Cooler  
+
+62  WT(Water  Tight)_GT(Gas 
+
+tight)  and  Fire  Class 
+EMI_EMC  compliant  doors  and  hatches  for  Indian 
+Naval Ships  
+
+2024 
+
+2024 
+
+63  Avionics Antenna LRUs for Aircraft Application 
+
+2024 
+
+64  Marine  Desalinators  for  Life  Rafts  On-board  Indian 
+
+2025 
+
+Naval Ships 
+
+65 
+
+Two way Data-link systems for weapon and Launch 
+platform & High band width for Video transmission for 
+BDA 
+
+66  Development of VLF LOOP AERIAL 
+
+2025 
+
+2025 
+
+67  High Energy Rechargeable Batteries (Li-ion chemistry 
+
+2025 
+
+based batteries in prismatic configuration 
+
+68  Assault Riffle 
+
+69  Mounted Artillery Gun 
+
+70 
+
+Flexible Solar Panel 
+
+2026 
+
+2026 
+
+2026 
+
+71  Development  of  Slide  and  Swivel  Joint  for  Aircraft 
+
+2026 
+
+Application 
+
+72  VHF Radar   
+
+73  Machine Carbine  
+
+74 
+
+Terrestrial Data links  
+
+75 
+
+30mm Ammunition  
+
+2027 
+
+2027 
+
+2027 
+
+2027 
+
+ 
+ 
+

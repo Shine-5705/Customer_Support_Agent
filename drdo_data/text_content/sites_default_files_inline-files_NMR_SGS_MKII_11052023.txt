@@ -1,0 +1,52 @@
+SHAFT GROUNDING SYSTEM SYSTEMS MK-II (NMR-SGS-MK-II) FOR SHIPS 
+
+To minimize current flow through the bearings and gears, most ships are fitted 
+with  a  Passive  Shaft Grounding  (PSG) system,  which  electrically  grounds  the  shaft 
+through a mechanical slip ring assembly. As the bearings and seals are not perfectly 
+round and concentric with the shaft, and because of the properties of the insulating 
+oil  film,  the  resistance  between  the  shaft  and  hull  varies  as  the  shaft  rotates.  This 
+change  in  resistance  modulates  the  ICCP  current  flowing  down  the  shaft  and 
+generates  what  is  termed  the  extremely  low  frequency  electric  (ELFE)  signature  of 
+the  ship.  This  modulation  of  the  current  generates  an  electromagnetic  wave  in  the 
+region  surrounding  the  ship.  This  signature  can  be  detected  hundreds  of  meters 
+away  from  the  ship  and  can  be  used  to  trigger  naval  sea  mines  or  to  monitor  and 
+identify particular ships and their movements. To control this ELFE,  Naval Materials 
+Research  Laboratory  (NMRL),  Ambernath  has  developed  a  microcontroller  based 
+active shaft grounding (ASG) system. 
+
+The  Microcontroller  based  active  shaft  grounding  (ASG)  is  developed  to 
+effectively  minimize  the  voltage  between  the  shaft  and  the  hull  which  significantly 
+reduces  fluctuations  in  current  between  shaft  and  hull  and  therefore  reduction  of 
+shaft rate extremely low frequency electromagnetic signature (SR ELFE) originating 
+from rotation of shaft. ASG also protects propeller from corrosion.  
+
+Salient Features 
+
+ Shaft  to  hull  potential  substantially 
+
+reduces fluctuations in current.  
+
+ Provision 
+
+for  monitoring 
+
+shaft  
+
+potential and current 
+
+ Provision  for  interconnecting  with 
+modular  ACU  and  monitoring  ASG 
+parameters of ACU. 
+
+ Provision for data logging 
+
+Application 
+Reduction of ELFE signatures and also 
+corrosion protection of ship Propellers. 
+
+ 
+ 
+ 
+ 
+ 
+

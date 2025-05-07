@@ -1,0 +1,41 @@
+RADIATION DETECTION MEASUREMENT AND CONTROL
+UNIT (RADMAC)
+
+PRODUCT   BRIEF:   The   RADMAC,   developed   by   Defence   Research   and   Development
+Organisation (DRDO) is capable of detecting nuclear detonation and measurement of fallout
+radiation   (gamma)  in the   nuclear   contaminated  zone.   It  generates  necessary  signals  for
+activation of NBC protection system of the vehicles / tracked vehicles / installations. The
+RADMAC type RM101 is a battery operated electronic unit designed to be fitted into tracked
+vehicles as part of the NBC protection system. It has sensors for detecting Initial Nuclear
+Radiation (INR) and measurement of Residual Nuclear Radiations (RNR). The RADMAC is
+microcontroller based equipment with user friendly interface, RS-485 networking capability
+and gives direct display of information like; Current Dose Rate, Total Dose, Temperature,
+Date and Time, situation based help messages etc. on front panel VFD, Bar Graph and 7-
+segment displays. The N. Exp., CWA, High Dose (HD)/High Dose Rate (HDR) and ERR are
+indicated through status LEDs. The equipment has built-in diagnosis to identify bugs/failures
+in hardware and calculation of future dose rate and stay time for the user.
+
+Salient Features:
+
+a) Covers the wide range of gamma radiation measurement (1mR/h – 1000R/h).
+b) Temperature sensor for compensation against temperature variations of the INR stage.
+c) RS485 serial port for PC communication.
+d) Audio as well as Visual indications for various alarms.
+e) Relay activation control outputs for prompt INR pulse and high dose rate for activation of
+f) Protection system
+g) Extensive help to the user depending upon the current background radiation status.
+h) Self-check on Power ON and option to initiate hardware check of various stages.
+i)
+j)
+k) Environmental specifications as per JSS55555 standards.
+
+Interface to auxiliary input (CWA detector)
+EMI/EMC compliance as per MIL STD 461C/462
+
+Applications: The equipment has been developed for fitment into tracked vehicles as part of
+NBC protection system. It can also be installed in shelters, Emergency response centers etc.
+
+Status: Developed and productionised. ONE TOT done with industry. The equipment has
+potential for export.
+
+

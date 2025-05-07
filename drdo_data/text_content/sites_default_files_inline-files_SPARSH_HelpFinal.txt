@@ -1,0 +1,196 @@
+MIGRATION OF PENSIONERS ON “SPARSH” 
+
+1.  Who is Being Migrated? 
+
+All legacy Pensioners are being migrated to SPARSH in a phased manner.  It is being 
+
+ensured  that  only pensioners  with  purified  data  (where  all  information  like  mobile  no., 
+
+Aadhar  no. 
+
+Is  available)  are  migrated 
+
+to  SPARSH  with 
+
+the  minimum 
+
+turbulence/inconvenience to the pensioners.  
+
+2.  What Does it Imply? 
+
+Physically  your  Pension  account  remains  in  the  same  Bank  and  Branch  but  the 
+
+processing  and  disbursement  of  Pension  which  was  being  done  by  the  (Central 
+
+Pension  Processing  Centre)  CPPC  of  the  Bank,  gets  shifted  to  PCDA  (Pensions), 
+
+Prayagraj. Bank branch will only act as a face for operating of the pension account. 
+
+3.  Migration Process and Steps Involved  
+
+Transition  Methodology:  CGDA  through  PCDA(P)  is  exercising  due  diligence  in 
+
+migration  of  pensioners  from  banks  to  SPARSH.  Prior  to  shifting  on  SPARSH,  data 
+
+mapping  is  undertaken  by  PCDA  (P)  in  consultation  with  bank  where  the individual  is 
+
+drawing  the  Pension  and  compared  with  the  data  held  with  PCDA(P)  and  only  after 
+
+correct  mapping  of  mandatory  fields,  cases  are  migrated.  If  even  after  this  diligent 
+
+process,  Pension  gets  stopped/reduced,  the  Pensioner  needs  to  follow  the  following 
+
+steps:-  
+
+(a) SPARSH  Service  Centre:  Pensioner  can  visit  nearest  SPARSH  Service  Centre 
+
+(SBI,  PNB  &  Kotak  Mahindra  Bank  etc),  the  details  of  these  Service  Centres  ar 
+
+avaiable  on 
+
+the  sparsh  website  under  service 
+
+locator 
+
+tab  on 
+
+the 
+
+https://sparsh.defencepension.gov.in 
+
+(b) Common  Service  Centre  (CSC):  An  MoU  has  been  signed  by  CGDA  with 
+
+Common  Service  Centre  e-Governance Services  India  Ltd  with the  aim  to provide 
+
+last mile connectivity to Pensioners especially those who reside in remote areas of 
+
+the  country.  CSC  has  about  4.5  Lakh  operational  outlets  and 
+
+the 
+
+applicant/beneficiary  can  visit  any  nearby  CSC  to  enquire/  avail  pension  related 
+
+services. Payment of services provided by the CSCs will be made directly by CGDA 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+to CSCs as per rates fixed through MoU and the pensioner does not need to pay for 
+
+it. 
+
+4.  The Process and Steps Involved for Migration into SPARSH.  
+
+The process commences as follows:- 
+
+(a) When your pension  is transferred from the Bank to SPARSH, you will get an SMS 
+
+giving your Username and Password for SPARSH Login. 
+
+(b) Ensure you save this information and use it for accessing/login the SPARSH Portal. 
+
+(c) All  other  relevant  details  on  new  system  are  available  on  SPARSH  portal 
+
+https://sparsh.defencepension.gov.in/ 
+
+(d) In case the pensioner has not received any SMS/ email and the Bank has informed 
+
+him/her  that  his/her  pension  has  been  migrated  to  Sparsh,  you  can  check  the 
+
+migration status on the above mentioned website. 
+
+5.  SPARSH Account Creation on Receipt of Username /Password SMS 
+
+(a) Initial SMS 
+
+i.  All  pensioners  who  are  being  migrated  will  receive  a  SPARSH  username  and 
+
+password  on  their  registered  mobile  number  and  email  Id  as  per  the  database 
+
+obtained by CGDA from your Bank. 
+
+ii.  It is therefore essential that you get your mobile number and email Id updated with 
+
+your Bank in the first instance. 
+
+iii.  A message as under will be received on the registered mobile number & email ID 
+
+of the Pensioner: - 
+
+“Dear Customer, As per PCDA directives, your Pension has been transferred from 
+
+SBI/ BoB (respective Bank) to SPARSH (PCDA Pensions)”. 
+
+(b) SMS for Account Creation 
+
+i.  After message indicating migration of Pension account is received, a message for 
+
+account  creation  along  with  Username  &  Password  will  be  received  on  your 
+
+registered mobile number and email ID as under:- 
+
+“Dear (Rank), Your account has been  created.Your Pensioner ID is 809xxxxxxxx 
+
+(PPO  
+
+No). To login and avail the services provided by SPARSH use either of 
+
+the following options:  
+
+(aa) Visit: https://sparsh.defencepension.gov.in  
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+(ab)  Visit  nearest  SPARSH  Service  Centre.  Your  SPARSH  Account  Credentials 
+
+are:  Username:  xxxxxxxxxxxx01Password:  xxxxxxxxxx.  For  assistance,  contact 
+
+your HOO or  
+
+Call 18001805325 between 9:30AM - 6:00PM (Mon- Fri) PCDA 
+
+(Pension)18001805325.  
+
+ii.  You  require  to  login  to  https://sparsh.defencepension.gov.in/  website  (URL) 
+
+and  register  with  this  User  ID  and  Password.  (The  Login  tab  is  there  in  the  top 
+
+right-hand corner). 
+
+iii.  To 
+
+understand 
+
+Login 
+
+process, 
+
+please 
+
+click 
+
+on 
+
+the 
+
+link 
+
+https://www.youtube.com/watchv=q59ErvBov0Y and follow steps as shown. 
+
+3 
+
+ 
+ 
+ 
+ 
+

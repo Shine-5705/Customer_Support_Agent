@@ -1,0 +1,582 @@
+Research Problems for DIA-CoEs 
+
+ 
+Introduction 
+
+DRDO  is  funding  multi-institutional  and  multi-disciplinary  directed  research  projects  to  Academia 
+
+and  National  Research  Institutes  to  develop  cutting  edge  defence  technologies.  The  funding  is 
+
+focused  on  translational  research  for  developing  the  crucial  and  futuristic  technologies  in  defined 
+
+research  domains  through  a  network of  DRDO  Industry  Academia  –  Centre  of  Excellences  (DIA-
+
+CoEs) at premier and capable academic institutes and universities in the country.   
+
+To  foster  the  research  in  academia,  DFTM  invites  project  proposals  on  problem  statements  in 
+
+multiple areas, that will be taken up through DIA-CoEs for directed research. Received proposals 
+
+will  be  scrutinized  by  DFTM  and  forwarded  to  respective  DIA-CoEs  as  per  research  verticals  for 
+
+further evaluation. 
+
+Forms for submission are provided at drdo.gov.in/drdo/adv-tech-center  
+
+Fully furnished project proposals shall be submitted to DFTM through techforesight.drdo@gov.in  
+
+Research Problems for DIA-CoEs  
+
+3 
+
+ 
+ 
+ 
+ 
+of 
+
+indigenous 
+
+Development 
+light  weight 
+multiprocessor and multi-core OS complying with 
+guidelines of DO 297 & ARINC 653 for scheduling 
+multiple safety critical applications on multi core/
+multi processor hardware environment  
+
+Technology Area 
+Embedded Systems  
+
+Technology Category 
+Integrated Avionics  
+
+Brief of the Research Problem  
+Integrated  Modular  Avionics  (IMA)  is  the  need  of  the  hour  to  build  SWaP  (Size,  Weight,  and 
+Power)  optimized  avionics  for  aircrafts.  Availability  of  reliable  COTS  hardware  with  multi  core  or 
+multi  processors  enables  deployment  of  multiple  avionics  applications  such  as  navigation,  flight 
+control,  weapon/payload  management,  ground  communication,  etc.  in  a  single  box.  However, 
+achieving safe separation (both spatial and temporal) among different applications and meeting the 
+safety and certification requirements poses a big challenge. Though COTS hypervisors and multi-
+core Operating Systems are available, they are of foreign origin, heavy weight and opaque. Hence, 
+the need for an indigenously developed light weight multi-core OS which can be used for various 
+avionics applications for manned and unmanned aircrafts.  
+
+Major Objectives  
+ 
+
+Indigenous,  light  weight  multi-core  and  multiprocessor  OS  complying  to  DO-297  and  ARINC 
+653 guidelines 
+
+  Complete spatial and temporal separation among the applications hosted  
+  Highest  available  standard  of  safety  through  compliance  to  DO-178C  Level  A  and  CAST32A 
+
+guidelines  
+
+  Provision  to  host  multiple  applications  (4  or  more)  of  varying  criticality.  Time  and  resource 
+
+allocation specification through XML file.  
+
+  APIs providing complete abstraction from hardware and IO layer  
+  APIs facilitating deterministic and guaranteed inter-application communication 
+  Provisions for monitoring of health and resource usage of applications  
+  Provision to restart a failed application through checkpoints or other mechanism  
+  Utilities for applications such as logging, file IO, timing, timed waits, event notification (based on 
+
+IO, messages, etc)  
+
+  Framework  for  developing  the  BSP  (Board  Support  Package)  and  porting  the  OS  to  various 
+hardware (at least Power PC and ARM architecture to be supported at the time of completion)  
+
+4   
+
+Research Problems for DIA-CoEs 
+
+(Continued on page 5) 
+
+ 
+ 
+(Continued from page 4) 
+
+Expected Deliverables 
+  The multi-core and multiprocessor OS along with source code (C or C++) with ready support for 
+
+Power PC and ARM  
+
+  Documentation on requirements, design, software configuration index, test designs, test cases 
+and  procedures,  etc.  as  required  to  facilitate  DO-178C  certification  at  Level  A  (Structural 
+coverage is optional)  
+
+  A COTS hardware with 2 processors each with 2 or more cores (either Power PC or ARM), at 
+least 2 serial channels, 4 or more Discrete inputs and outputs, 4 or more analogue inputs and 
+outputs to demonstrate the OS  
+
+  At  least  2  applications  involving  IO  and  inter-application  communication  for  demonstration  of 
+
+scheduling, spatial and temporal separation and all other features  
+
+  One set of tool chain (compiler, linker, etc.) to be able to recreate the build 
+  Demonstration of the OS and sample applications  
+  User guide containing steps to compile, build, and host applications, API documentation, format 
+
+for specifying time and resource usage by applications 
+
+  Formal verification design and results at design or code level to prove that OS satisfies safety 
+
+requirements (desirable)  
+
+Figures of Merit  
+
+S no  Parameter 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Ability to host and schedule multiple applications 
+
+Efficiency in terms of execution time 
+
+Lights OS - Memory usage inclusive of instruction and code 
+
+Deterministic Scheduling - low jitter in expected scheduling periodicity 
+
+< 1 % 
+
+Ability for granular scheduling (in milliseconds) 
+
+<=1 ms 
+
+Value 
+
+4 or more 
+
+5 % or less 
+
+<=0.5 MB 
+
+Research Problems for DIA-CoEs  
+
+5 
+
+ 
+ 
+Automated material classification using a combination 
+of spatial & textural features and generation of Multi-
+Sensor  Data  Fusion  (MSDF)  at  pixel/data/decision 
+level  using  High  (sub-meter)  Resolution  Satellite 
+Imagery for Imaging Sensor scene creation  
+
+Technology Area 
+Hardware In Loop Simulation  
+
+Technology Category 
+Flight Simulation  
+
+Brief of the Research Problem  
+Flight Simulators require high fidelity & detailed large gaming areas of the order of 500km X 500 
+km or more, typically centered around an airfield. Currently available COTS tool have technology 
+for material classification that are based on pixel colour of the satellite imagery used. However, the 
+technology  to  make  use  of  inherent  textural  features  (like  energy,  entropy,  contrast  etc.)  for 
+material  classification  is  currently  not  available.  In  addition  to  creation  of  visual  scenes,  it  is  also 
+required to create correlated imaging sensor scenes like EO/IR & Synthetic Aperture Radar (SAR) 
+scenes that are available to the pilots/operators training in the Flight Simulators. With advances in 
+AI and fast image processing algorithms for generation of textural features, it is very much possible 
+to extract such features for the entire large gaming area with minimal interaction on the part of the 
+human  operator.  It  is  proposed  to  automatically  classify  the  gaming  area  into  different  materials, 
+using  a  combination  of  colour  and  textural  features  derived  from  the  satellite  imagery.  With  the 
+usage of Multi-Sensor Data Fusion (MSDF) in various airborne systems there is a requirement to 
+simulate the same in Flight Simulators to effectively train the users (Pilots/Sensor Operator) on the 
+utilization  of  MSDF.  Hence,  it  is  also  proposed  to  generate  fused  outputs  of  optical  and  imaging 
+sensor  views  to  generate  MSDF  outputs  by  using  a  suitable  weighing/combination  of  input  data. 
+The implementation can also provide a basis for comparing MSDF outputs generated at different 
+levels (pixel/data/decision levels). The material classified and synthetically created MSDF outputs 
+can  be  integrated  with  visual  &  sensor  scenes  using  in  Flight  Simulators  for  more  accurate  and 
+effective training.  
+
+Major Objectives  
+  Automatic  classification  of  the  gaming  area  into  different  materials,  using  a  combination  of 
+
+colour and textural features derived from the satellite imagery  
+
+  Generation  of  fused  outputs  from  optical  and  imaging  sensor  views  to  generate  Multi-Sensor 
+Data Fusion (MSDF) outputs by using a suitable weighing/combination of the input scenes  
+
+Expected Deliverables 
+  Algorithms  for  Automatic  classification  of  the  gaming  area  into  different  materials,  using  a 
+combination  of  colour  and  textural  features  derived  from  the  satellite  imagery,  for  usage  in 
+Flight Simulators  
+
+  Algorithms for Generation of fused outputs from optical and imaging sensor views to generate 
+Multi-Sensor  Data  Fusion  (MSDF)  outputs  by  using  a  suitable  weighing/combination  of  the 
+input scenes for usage in Flight Simulators  
+
+6   
+
+Research Problems for DIA-CoEs 
+
+ 
+Radar  Waveforms  for  Low 
+Probability  of  Intercept  (LPI) 
+Radar  
+
+Technology Area 
+Radar 
+
+Technology Category 
+LPI Radar 
+
+Brief of the Research Problem  
+Design,  Development  and  Simulation  of  the  waveforms  for  Pulse  Doppler  Radars,  which  are:  1. 
+Difficult to detect/identify by Radar Warning Receiver (RWR) 2. Difficult to regenerate (by Jammer) 
+in the battlefield i.e. random in nature (Ex: Noise or pseudorandom signals etc.) 3. Doppler tolerant 
+in nature for detection and tracking of targets like Fighter Aircrafts, UAVs, Drones etc. (Max target 
+speed  up  to  1000  m/s  (>  03  Mach)  4. Waveform  bandwidth  can  be  up  to  5/10  MHz  5.  Minimum 
+deterioration  in  radar's  performance  in  comparison  to  conventional  radar  waveforms  such  as 
+Frequency (LFM) / Phase (P4 codes) Modulation.  
+
+Major Objectives  
+ 
+  Simulation  and  Analysis  of  the  identified  LPI  waveforms  on  the  radar's  performance  with 
+
+Identification and Simulation of LPI waveforms  
+
+respect to the existing waveforms such as LFM and P4 codes  
+
+  Comparison  of  Receiver  Operation  Characteristics  (ROCs)  for  various  target  characteristics 
+
+and velocity  
+
+Expected Deliverables 
+Software  programs  (Example:  MATLAB/  Octave/  any  Open  Source  S/w  codes)  for  generation, 
+simulation and analysis of LPI waveform's coefficients  
+
+Figures of Merit  
+
+S no  Parameter 
+
+Value 
+
+1 
+
+2 
+
+Receiver  Operating  Characteristic  (RoC)  for  various  target  characteristics 
+(such as Swerling models) including target velocity  
+
+NA 
+
+Range Doppler Characteristics in comparison with existing waveforms  
+
+NA 
+
+Research Problems for DIA-CoEs  
+
+7 
+
+ 
+Design  and  Development  of  1-
+6  GHz  True  Time  delay  (TTD) 
+Bidirectional Core Chip (MMIC)  
+
+Technology Area 
+Electronic Devices  
+
+Technology Category 
+Microwave MMIC Devices  
+
+Brief of the Research Problem  
+TTD based array beam steering is frequency independent having squint free wide band operation 
+suitable  for  EW  applications.  TTD  Bidirectional  corechip  is  basic  building  block  for  array  based 
+beam steering. This chip should have:  
+a.  TTD resolution of 1ps with maximum delay of approx. 2053 ps,  
+b.  Attenuation with resolution of 0.25dB, and maximum 31.75 dB,  
+c.  Fully integrated on-chip digital control section for high speed control and supply 
+
+Major Objectives  
+  Design and Development of 1-6 GHz True Time delay (TTD) Bidirectional Core Chip (MMIC) 
+  TTD resolution of 1ps with maximum delay of approx. 2053 ps 
+  Attenuation with resolution of 0.25dB, and maximum 31.75 dB  
+  Fully integrated on-chip digital control section for high speed control and supply  
+
+Expected Deliverables 
+  Detailed Design & analysis report of complete corechip 
+  Development & Fabrication of TTD Bidirectional core chip  
+ 
+
+Initial  iteration:  20  nos.  KGD  (Known  Good  Dies)  with  on-wafer  probe  test  report  (within  2 
+years) 
+
+  Final  iteration  :100nos  KGDs  with  on-wafer  probe  test  report  (within  9  months  from  initial 
+
+iteration)  
+
+  Final GDSII layout files for fabrication  
+
+(Continued on page 9) 
+
+8   
+
+Research Problems for DIA-CoEs 
+
+ 
+ 
+(Continued from page 8) 
+
+Figures of Merit  
+
+S no  Parameter 
+
+Frequency 
+
+Technology 
+
+TTD Step Size 
+
+TTD range 
+
+Attenuation Step Size 
+
+Attenuation Range  
+
+Digital Interface 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+Digital Interface Signals: Clock , Datain1, Datain2, Dataout, LatchEnable 
+
+5 Wire 
+
+State Switching Speed 
+
+Gain 
+
+Gain Flatness 
+
+Form Factor 
+
+Operating Temperature 
+
+Storage Temperature 
+
+>200 MHz 
+
+TBD 
+
++/-2dBmax 
+
+MMIC 
+
+-40to+85 C 
+
+-40to+125C  
+
+Value 
+
+1 to 6 GHZ 
+
+CMOS/any 
+
+1 ps 
+
+2053 ps 
+
+0.5dB 
+
+31.5 dB 
+
+SPI 
+
+9   
+
+Research Problems for DIA-CoEs 
+
+ 
+ 
+Automated  Extraction  of  3D 
+features  (like 
+tracks)  using  a 
+buildings,  bridges,  metro 
+combination  of  High  (sub-meter)  Resolution 
+Mono/Stereo  Satellite  Imagery  &  DEM  Data  for 
+Visual & Imaging Sensor scene creation  
+
+Technology Area 
+Hardware In Loop Simulation  
+
+Technology Category 
+Flight Simulation  
+
+Brief of the Research Problem  
+Flight Simulators require high fidelity and detailed large gaming areas of the order of 500km X 500 
+km  or  more,  typically  centered  around  an  airfield.  Current  technologies  involve  manual  &  semi-
+automated  creation  of  densely  populated  3D  structures  in  urban  areas  around  the  airfield  and 
+creation of additional structures based on end-user requirement only in specific areas. Creation of 
+a  visual  scene  takes  anywhere  between  three  months  to  one  year  based  on  the  amount  of 
+detailing  and  fidelity  expected  by  the  end-user.  With  requirement  for  high  fidelity  simulators  for 
+practicing  missions  in  a  variety  of  terrain  and  geographic  locations  coming  up  at  a  fast  pace,  it 
+would  be  prudent  to  automate  this  process.  With  the  advances  in  AI,  computing  power  &  image 
+processing  algorithms,  it  is  very  much  possible  to  extract  3D features for  the entire  large  gaming 
+area  with  only  minimal  interaction  on the part  of  the  human  developer/operator. It  is proposed  to 
+automatically  extract  various  3D-structures  like  buildings,  bridges  &  metro  tracks  using  a 
+combination of High resolution Mono/Stereo Satellite Imagery & DEM data. While Satellite Imagery 
+can  provide  the  spatial  details,  the  information  from  shadows,  meta-data  from  the  satellite 
+capturing  the  image,  triangulation  based  on  stereo  imagery  and  Digital  Elevation  Model  (DEM) 
+data can provide the required height information of the 3D structures. The problem can be broken 
+down into two parts:  
+  Part  1)  Automated  Creation  of  a  Vector  Map  (information  in  points,  lines,  polygons)  using 
+
+Artificial Intelligence  
+
+  Part 2) Conversion of this vector information into an extruded 3D model/scene using AI making 
+
+use of the information embedded in the vector map generated in Part 1.  
+
+Major Objectives  
+Automatic  extraction  of  various  3D-structures  like  buildings,  bridges  &  metro  tracks  using  a 
+combination of High resolution Mono/Stereo Satellite Imagery & DEM data  
+
+10   
+
+Research Problems for DIA-CoEs 
+
+(Continued on page 11) 
+
+ 
+ 
+(Continued from page 10) 
+
+Expected Deliverables 
+  Vector  Map  (information  in  points,  lines,  polygons)  that  provides  the  areal  footprint  of  3D 
+
+structures in the area of interest in standard GIS vector file formats  
+
+  Extruded  3D  model/scene  making  use  of  the  information  embedded  in  the  vector  map 
+
+generated in Sl. No. 1 
+
+Figures of Merit  
+
+S no  Parameter 
+
+1 
+
+2 
+
+3 
+
+Number  of  3D  structures  per  square  kilometer  of  gaming  area  in  densely 
+populated areas like metropolitan cities  
+
+Number  of  3D  structures  per  square  kilometer  of  gaming  area  in  medium 
+populated areas like towns  
+
+2000+ 
+
+Number  of  3D  structures  per  square  kilometer  of  gaming  area  in  sparsely 
+populated areas like small villages  
+
+500+ 
+
+Value 
+
+8000+ 
+
+11   
+
+Research Problems for DIA-CoEs 
+
+ 
+ 
+Development of conduction cooled 
+light weight electronics chassis 
+for Man portable mountaineering  
+
+Technology Area 
+Electronic Warfare  
+
+Technology Category 
+Thermal Management  
+
+Brief of the Research Problem  
+Four  PC  Boards  (6U)  each  dissipating  of  75W  is  placed  vertically  in  4  slot  conduction  cooled 
+chassis  for  Man  portable  mountaineering.  All  the  PCBs  are  plugged  in  to  the  horizontal  mother 
+board. The heat of the components will be transferred from PCB to chassis edge through wedge 
+locks.  Chassis  edge  temperature  should  be  maintained  at  71Deg  C  in  the  ambient  of  55  DegC. 
+The chassis may be designed with suitable innovative and advanced concepts in materials/cooling 
+techniques.  Constraints:  i.  Operational  condition:  -20  DegC  to  55  DegC  ii.  Mechanical  Weight  of 
+the chassis including cooling solution: ≤ 4 Kg iii. Noise level of the system at 1m distance: ≤ 50dB. 
+iv.  Size  of  the  chassis  with  cooling  system:  300  (W)  X  300  (D)  X  240  (H)  mm.  (Max.)  v.  Man 
+portable for mountaineering Test details: Sl No. Test Specification Remarks 1 Physical inspection : 
+Dimensional test 2 High temperature test: High Temperature test at 55 Deg C to be carried out with 
+dummy heater loads and edge temperature to be measured. Duration: 4 hours 3 Random Vibration 
+Frequency 20 Hz to 2000 Hz , PSD 0.02g²/Hz, Test Duration: 15 min in X & Y axes. Heaters will be 
+ON during test  
+
+Major Objectives  
+To  develop  conduction  cooled  light  weight  electronics  chassis  which  dissipate  300W  and  to 
+maintain 71 Deg C at chassis edge temperature  
+
+Expected Deliverables 
+  Conduction cooled light weight electronics chassis (Hardware) 
+  Classical Design and simulation reports 
+  Functional test reports 
+  ESS  reports  (Test  conditions  are  given  at  brief  of  the  research  problem)  1)  a)  Physical 
+
+inspection report b) Random vibration test report c) High temperature test report  
+
+Figures of Merit  
+
+S no  Parameter 
+
+Chassis edge temperature  
+
+Chassis weight  
+
+1 
+
+2 
+
+12   
+
+Value 
+
+<71Deg C 
+
+≤ 4 Kg 
+
+Research Problems for DIA-CoEs 
+
+ 
+

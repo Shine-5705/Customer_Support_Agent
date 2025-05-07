@@ -1,0 +1,50 @@
+ToT OF OPTICAL TARGET LOCATER 600 (OTL600)
+
+LASTEC has developed an Optical Target Locater for detection and location of commonly used
+active and passive surveillance devices. It provides an important tool for detection of camouflaged
+passive or active surveillance device like optical day sight or sniper telescope, Night Vision Device,
+CCD   cameras   or   electronic   sensors   as   in   Laser   Range   Finder,   binoculars   during   day   and   night
+operations  in urban scenarios.  The  Short Range Optical  Target Locater  (OTL300) developed  by
+LASTEC has an operational range of 300m. After several interaction with users, this equipment
+(OTL300) has now been upgraded to OTL600 which has several advanced features and operational
+range up gradation to 600m.
+OTL600 comprises of a NIR laser source with appropriate divergence control and a customized
+optical   assembly   with   a   NIR   sensor   having   high   sensitivity   at   the   wavelength   of   operation.   It
+operates on Li ion rechargeable batteries and is ergonomically designed as a hand held equipment
+and tripod mounting capability. The optics and the system electronics  are highly customized for
+contrast   limited   imaging   so   that   the   detected   target   appears   as   a   bright   pulsating   spot   on   the
+background scene on a micro display screen that can be viewed through the monocular
+ OTL 600 finds application with military and Para military forces. It can be used for active scanning
+and monitoring of specific areas, VIP security and detection of pointed optics viz., snipers and area
+sanitization. 
+The   equipment   has   been   extensively   demonstrated   to   several   potential   users.   Various   agencies
+responsible for homeland security have shown keen interest in this device. OTL600 has undergone
+extensive   user   evaluation   with   Indian   Army,   and   paramilitary   forces   and   is   short   listed   for
+procurement. 
+Although a few commercial systems are available internationally for detection of optical devices but
+following salient features of the developed device make it unique for the mentioned application:
+
+Improved image quality
+
+1.
+2. Laser ’On’ at user’s discretion for saving power 
+3. Coloured target marking  and clutter rejection modes
+
+for confirmation of target detection
+4. Audio buzzer on target confirmation.
+5.
+
+In built cartridge  type field replaceable  battery    for
+powering the device
+
+6. Capability   of   live   video   streaming   at   a   remote
+
+location
+
+7. Video recording feature.
+8. Mostly maintenance free operation
+9. Networking and remote operation capability 
+
+Photograph of developed OTL600
+
+

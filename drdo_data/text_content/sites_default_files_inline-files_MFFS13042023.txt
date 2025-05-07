@@ -1,0 +1,42 @@
+Magazine fire fighting system for Naval Ships (MFFS) 
+
+Magazine  fire  fighting  system  has  been  successfully  developed,  installed,  commissioned, 
+
+tested and evaluated in magazine simulators at CFEES. The system is accepted in principal 
+
+by Indian Navy for its installation in different naval platforms. The system comprises of wet, dry 
+
+& bulkhead sprinkling system, inhibitor system and fire detection & control system (FDCS). In 
+
+case  of  any  fire  alarm  detected  by  temperature,  pressure  and  IR  sensor  three  types  of 
+
+sprinkling system & inhibitor system get activated automatically.    
+
+It consists of following systems: - 
+
+a)  Sprinkling System:  Sprinkling system comprises of Wet, Dry & Bulkhead sprinklers with 
+
+flowrates, response time and Cone spray angle 90°-120° and 180°.  
+
+b)  Inhibitor system: The inhibitor system consists of blow off plates & gas release systems. 
+
+c)  Fire detection & control system: Fire detection & control system consists of detectors 
+
+(temperature, pressure & IR), logic & control system (LCU & RCU) & Display panels. 
+
+Salient Features: 
+
+•  Sprinkling system cools down the ammunition below the critical temperature. 
+
+•  Automatic,  local,  remote  and  manual  mode  of  operation  for  sprinkling  &  inhibitor 
+
+system 
+
+•  Easy to operate & low maintenance cost   
+
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,23 @@
+Propellant and Igniter for HL-P007 
+
+This system is fired from fighter aircraft and it consists of propellant and igniter.The 
+
+propellant  used is composite  propellant.  The  propellant  developed  for  motor  is  high  energy 
+
+propellant cast as a solid grain. This developed propellant provides the desired total impulse 
+
+requirement, and hence the required range, speed and manoeuvrability to the system.  
+
+The igniter consists of two parts namely metallic igniter canister, igniter closure and 
+
+canister liner. The igniter charge mass and pellets are designed to meet the desired propulsion 
+
+requirement. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

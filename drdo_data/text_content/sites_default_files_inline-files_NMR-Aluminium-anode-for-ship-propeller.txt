@@ -1,0 +1,56 @@
+NMR-Aluminium anode for ship propeller  
+(NMR-AASP) 
+
+Introduction  
+
+The  present  invention  is  on  the  development  of  sacrificial  anodes  with  low  driving 
+potential and is particularly useful for fitment to the propeller in manner such that the 
+potential drop between propeller and cathodically protected ship hull is close to zero 
+thereby reducing potential difference between the anode / hull and the propeller and 
+hence the UEP/ SR signatures and also the ELFE signatures.  
+
+Salient Features  
+
+Aluminium alloy anode  
+The Indium free aluminiun alloy anode has the following features: 
+i. Open circuit potential  
+ii. Closed circuit potential  
+iii. Current capacity 
+
+:    -820  to -840 m V vs SCE  
+:    -800 to -820  m V vs SCE 
+:     min   2400 Ahr/Kg 
+
+The anodes are available in different shape and size, so that anodes can be selected as 
+per  requirement  of  the  user.    Also  the  anodes  are  designed  to  give  maximum  current 
+output. 
+
+Application Areas 
+Corrosion protection of ship Propellers and reduction of ELFE signatures 
+
+Present Status: Technology available for ToT. 
+
+Propeller anode  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

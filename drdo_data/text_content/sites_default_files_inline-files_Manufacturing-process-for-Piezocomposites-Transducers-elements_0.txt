@@ -1,0 +1,31 @@
+Manufacturing process for Piezocomposites Transducers elements 
+
+PZT-Polymer Composite (Piezocomposite) elements and linear arrays for advanced 
+sonar transducers have been developed by NMRL, as a high promise alternative for 
+conventionally  used  PZT  piezoceramic  material  having  the  limitations  like  high 
+acoustic  impedance,  higher  weight  factor  and  poor  mechanical  properties.  The 
+Piezocomposite  based  sonar 
+receiving  and 
+transmitting response over a large frequency bandwidth and narrow beamwidth. 
+
+transducers  exhibit  enhanced 
+
+Salient Features 
+
+  Low acoustic impedance 
+  Wide range of dielectric constants 
+  Ease of dividing into acoustically isolated array elements 
+  Formability to curved shapes 
+
+Areas of Application 
+
+  Transducer arrays for Ship Wake Measurement 
+  Miniaturized FET-Piezocomposite Hydrophones 
+  Thin Line Towed Array 
+  High frequency sonar transducers 
+
+ 
+ 
+ 
+ 
+

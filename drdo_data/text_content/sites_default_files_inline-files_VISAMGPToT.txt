@@ -1,0 +1,53 @@
+Automated Gun Propellant Metrology System  -VisAM GP 
+
+Gun propellants grains are of different compositions, and are designed to meet the internal
+ballistics  requirements  of various  calibres  of guns. Other than  the chemical  composition,
+dimensions  of gun propellant  grains  are  also very important  parameters  in the  design of
+grains for fulfilling the internal ballistic requirements. To ensure that the manufactured grains
+are within the design tolerance, various dimensions such as sizes of inner web, outer web,
+diameter of inner holes, outer diameter and length etc are measured on a sample size of grains
+drawn from manufactured lot. The physical dimensions of gun propellant grains are not only
+important in inspection of grains, but they are also very important parameters for internal
+ballistics evaluation of gun propellant (GP) grains. The manual process of measurement is
+time consuming and is also prone to errors as the consistency of measurement varies from
+person to person. Hence there was a requirement for the development of an automated gun
+propellant metrology system.
+
+DRDO   Laboratory   High   Energy   Materials   Research   Laboratory   (HEMRL),   Pune     has
+designed and developed an Automated Gun Propellant Metrology System-VisAM GP (Vision
+assisted Automated Measurement Gun Propellant) for accurate and robust measurement of
+simple as well as complex geometry of gun propellant grains. The system has capability of
+automated   and   simultaneous   measurement   of   dimensions   of   GP   Grains   such   as  outer
+diameter, outer web(s), diameter of internal hole(s), inner web(s) & length of the grain etc,
+without requiring a person to perform any manual measurements. The system also performs
+statistical analysis for automated calculation of Average Web size, Average outer diameter
+etc for a batch of large numbers of grains, which assists the user to accept or reject the batch
+under inspection. 
+
+VisAM GP online metrology and inspection of gun propellants in a production line, to save
+the time, efforts and manpower requirements for the end user. 
+
+The salient features of Automated Gun Propellant Metrology System 
+
+ Simultaneous measurement across multiple axis.
+ Automated, reliable, faster and accurate measurement.
+ Measurement for different shapes of grains.
+ Non contact method without manual intervention.
+ Automated detection of grain features such as holes and outer boundary.
+ Image processing algorithms  for inspection of Grains  with complex geometry and
+
+shape.
+
+ Menu to create a new record for storing the measurement of fresh batch, and also to
+
+update the results in the existing record for earlier batch.
+
+ Automated calculation of statistical parameters such as average web, average OD etc
+
+for a batch of grains.
+
+ Scalability for inspection of newer type of grain with different geometry, shape &
+
+color.
+
+

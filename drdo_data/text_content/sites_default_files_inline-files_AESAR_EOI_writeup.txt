@@ -1,0 +1,113 @@
+Active Electronically Scanned Array Radar (AESAR) 
+
+Electronics  and  Radar  Development  Establishment  (LRDE),  a  premier  lab  under 
+
+DRDO  has  developed  state-of-art  Radar  systems  and  associated  technologies.  LRDE  is 
+
+seeking  Expression  of  Interest  (EOI)  from  prospective  bidders/recipient  for  Transfer  of 
+
+Technology in the area of Radars.  
+
+Presently,  LRDE  is  ready  for  ToT  for  the  “Active  Electronically  Scanned  Array 
+
+Radar  (AESAR)”.  Prospective  bidders  for  EOI  are  advised  to  refer  the  document, 
+
+“Guidelines for Transfer of Technology” published in the Transfer of Technology link on the 
+
+website,  www.drdo.gov.in  for  the  terms  and  conditions  to  be  complied  by  the  bidders  for 
+
+receipt of technology. 
+
+1  Description of Technology:  
+
+The AESA Radar is multimode, solid-state active phased array fire control Radar in X-
+
+Band  with  modular  and  scalable  architecture  with  graceful  degradation  that  can  be 
+
+adapted for various types of airborne fighter class platforms. 
+
+AAAU 
+
+ERP 
+
+Front-End 
+
+Cooling Unit 
+
+Radar Sub-Systems 
+
+The  Active  Electronically  Scanned  Array  is  configured  using  large  number  of  Transmit 
+
+Receive  Modules  (TRM’s)  to  achieve  the  power  aperture  required  for  the  Radar.  The 
+
+processing is achieved using state of the art Exciter Receiver Processor (ERP) optimised for 
+
+use on fighter class platforms. Active phased array technology in the Radar enables user to 
+
+achieve  high  mission  reliability  with  multi-target  tracking  capability.  The  radar  operational 
+
+modes are designed to assist the fighter pilot in the execution of various combat missions in 
+
+air-to-air, air-to-ground and air-to-sea operations. 
+
+2  Salient Features: 
+
+The  AESA  based  fire  control  radar  is  capable  of  providing  interleaved  multimode  of 
+
+operation to meet the operational requirements of the fighter aircraft. The radar has state- 
+
+of–the-art ECCM features. The Radar provides better situational awareness of the modern 
+
+battlefield scenario. It is capable of tracking multiple targets with high accuracy suitable for 
+
+1/2 
+
+ 
+ 
+ 
+ 
+ 
+fire  control  along  with  interleaved  Air  to  Air,  Air  to  Ground  and  Air  to  Sea  modes  in  all 
+
+terrain solution. 
+
+3  Application Areas 
+
+The AESA based fire control Radar can be configured for  use on any fighter class aircraft.
+
+Interested  Industries  may  submit  their  company  profile,  financial  &  technical              
+Capabilities  etc.  as  per  the  EOI  terms  (Refer  Appendix-G  in  ‘Guidelines  for  ToT’ 
+document) to Director, LRDE, Bangalore and copy to Director DI2TM on the following 
+addresses within 45 days of this advertisement. 
+
+Director, LRDE 
+DRDO, Min. of Defence, 
+C V Raman Nagar 
+Bengaluru-560093 
+Contact No : 080 - 25025415  
+                     080 - 25025518 (ToT cell) 
+Fax : 080 - 25242916 
+
+Director, DIITM 
+Room No 446 DRDO Bhawan 
+DRDO HQrs Ministry of Defence 
+Rajaji Marg New Delhi – 110011 
+Contact No : (011) 23016216 / 23007446 
+Fax : (011) 23793008 
+
+2/2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,70 @@
+NMR-Indium free Aluminium Sacrificial Anode  
+(NMR-IFASA) 
+
+Introduction  
+
+Steel structures in immersed condition undergo corrosion due to environmental attack. 
+The  protection  of  metals  from  corrosion  has  become  a  very  important  issue  from 
+structural  integrity  and  economic  point  of  view.  Organic  coatings  along  with  cathodic 
+protection  are  widely  used  for  corrosion  protection  of  metallic  materials  in  immersed 
+condition.  In  cathodic  protection  the  steel  structure  is  made  cathode  with  respect  to 
+external anode. Conventionally cathodic protection is provided with galvanic / sacrificial 
+anodes.  In  galvanic  cathodic  protection  system,  the  anode  material  dissolves  and 
+provides  the  necessary  current  for  protection  of  immersed  structure.  Al  alloys  having 
+activating  element  are  already  used  as  sacrificial  anode  for  cathodic  protection  of 
+structural steels and marine grade Al alloys. However, most of the activating elements 
+such as Hg, Sn, In etc., are hazardous in nature and are either banned or will be banned. 
+Thus there is a need to develop Aluminium alloy sacrificial anodes with environmental 
+friendly  metals  and  having  working  potential  sufficient  enough  to  offer  protection 
+against corrosion of structural steel as well as Al alloys in seawater medium.  
+
+Technology developed at NMRL and its advantage. 
+
+The  present  invention  relates  to  the  development  of 
+sacrificial  anodes  with  high  negative  potential  and  is 
+particularly  useful  for  cathodic  protection  of  structural 
+steels and marine grade Al alloys in marine environment.  
+In  order  to  have  desired  working  potential  with 
+invention  provides 
+protection  criteria,  the  present 
+aluminium 
+zinc, 
+comprising 
+anodes 
+magnesium,  zirconium  and  silicon  so  as  to  provide 
+efficient  and  long  cathode  protection  to  structural  steel 
+and marine grade Aluminium alloys.  
+
+sacrificial 
+
+NMR-Indium free Aluminium 
+Sacrificial Anode 
+
+Salient Features  
+Aluminium alloy anode  
+The Indium free aluminiun alloy anode has the following features: 
+i. Open circuit potential  
+ii. Closed circuit potential  
+iii. Current capacity 
+The anodes are available in different shape and size, so that anodes can be selected as 
+per  requirement  of  the  user.    Also  the  anodes  are  designed  to  give  maximum  current 
+output. 
+
+:  -950 to -1050 m V vs SCE  
+:  -900 to -950 m V vs SCE 
+:    min   2400 Ahr/Kg 
+
+Application Areas 
+
+•  Cathodic protection of ship underwater hull and other floating and submerged 
+
+structures.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

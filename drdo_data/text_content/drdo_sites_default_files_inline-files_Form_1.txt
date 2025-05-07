@@ -1,0 +1,241 @@
+Complete Title of the Project 
+
+DIA COE Institute Name 
+
+Research Vertical 
+
+PI – Prof Principal Investigator Name 
+
+Institute Name 
+
+12-07-2024 
+
+Form 1: Summary of Proposal 
+1. 
+
+  Project Title 
+
+Complete Title of the Project 
+
+2. 
+
+  Proposal Type (Choose Dropdown) 
+
+Choose an item. 
+
+(Laboratory Demo/ Prototype 
+Development/ Technology. Translation/ 
+Operational Strategies/ Study, Simulation 
+and Experimental Validation) 
+
+  Keywords (4-5) 
+
+Technology, Deliverables, Science, Area of 
+research 
+
+  Reference Project (Dropdown) 
+
+Choose an item. 
+
+(New/ Followup) 
+
+  Name of PI 
+
+Prof Principal Investigator Name 
+
+  Contact Details of PI 
+
++91 9999999999, abc@iitx.ac.in 
+
+Institute Name 
+
+Institute Type (Dropdown) 
+(Government Academic/ Government 
+Research/ Private Academic/ Private 
+Research/ Others) 
+In case of ‘Others’ please specify 
+
+  Project Duration (months) 
+
+Institute Name 
+
+Choose an item. 
+
+  Cost (Rs Lakhs) 
+
+₹  
+
+  Stakeholder DRDO Lab 
+
+  DIA CoE 
+
+(Liaison Institute – approved CoE) 
+
+DIA COE Institute Name 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+  Collaborating Institute Co-PI Details 
+
+Write NIL if no collaboration 
+
+14. 
+
+15. 
+
+(Can add more rows if required) 
+
+Co-PI 1 
+Co-PI 2 
+Co-PI 3 
+Industry Collaboration (Dropdown) 
+(Yes/ No) If yes, Name & type of Industry 
+(Can add more rows if required) 
+
+Industry1 (Start-up/ MSME/Other) 
+Industry 2 (Start-up/ MSME/Other) 
+Industry 3 (Start-up/ MSME/Other) 
+International Collaboration 
+(Yes/ No) 
+Collaborating PI  
+Collaborating Institute Name  
+QS world Univ. Ranking 
+
+Name               Institute          Sanction 
+
+Yes/ No 
+Yes/ No 
+Yes/ No 
+
+Write NIL if no collaboration 
+Choose an item. 
+Name                 Type               Sanction 
+
+Choose an item. 
+Choose an item. 
+Choose an item. 
+
+Yes/ No 
+Yes/ No 
+Yes/ No 
+
+Choose an item. 
+
+Signature:Director – DIA COE Institute 
+Name 
+
+Signature: Prof Principal Investigator Name 
+
+Page 5 of 33 
+
+Note: Proposal to be revised based on recommendation of TEC/ RAB/ GC 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Complete Title of the Project 
+
+DIA COE Institute Name 
+
+Research Vertical 
+
+PI – Prof Principal Investigator Name 
+
+Institute Name 
+
+12-07-2024 
+
+16. 
+
+Collaborating Institute Department 
+QS Ranking of the Department 
+Collaborating Institute Country 
+
+  Deliverable Artefacts (click on the box, 
+multiple choices can be selected by the 
+PI. For others, please write what is 
+being offered.) 
+
+☐ Dataset 
+☐ Simulation Model 
+☐ Standard 
+☐ Others  
+____________ 
+
+☐ Prototype 
+☐ Process & 
+Methodology 
+☐ Research facility 
+☐ Source Code/ 
+Algorithm 
+
+Signature:Director – DIA COE Institute 
+Name 
+
+Signature: Prof Principal Investigator Name 
+
+Page 6 of 33 
+
+Note: Proposal to be revised based on recommendation of TEC/ RAB/ GC 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

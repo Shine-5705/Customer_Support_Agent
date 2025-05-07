@@ -1,0 +1,42 @@
+Weaponisation of Hand Held Thermal Imager (WHHTI) 
+
+WHHTI is state of art weaponisation platform with Weapon Station (WS), Surveillance Station 
+(SS) and Control Station (CS). Weapon Station consists of in-service 7.62mm MAG mounted on 
+Pan  and Tilt Unit  (PTU) which will have freedom in  azimuth  and elevation  axes. Surveillance 
+Station consists of HHTI mounted on another PTU also having freedom in azimuth and elevation 
+axes. Control Station consists of Controller and Display Unit (CDU), which will enable remote 
+surveillance  and  engagement  of  target  from  a  safe  location  and  in  a  comfortable  environment. 
+With this system, only one soldier is required, communication error is eliminated and operational 
+efficiency is enhanced. 
+
+Salient Specifications 
+  Armament : 7.62mm MAG 2A1* (In-service) 
+  Firing Control : Single shot, burst round 
+  Operation Modes : Remote  
+  Control : Traverse & Elevation  
+  Surveillance sensor : HHTI with LRF (In-service) 
+  Fire Control : Yes 
+
+Interested industries may write at the following address:- 
+
+To 
+Director, IRDE  
+DRDO, Min. of Defence, 
+Raipur PO, Dehradun – 248008  
+
+Fax: 0135-2787161/ 2787128 
+director[dot]irde[at]gov[dot]in 
+
+Copy to  
+Director, DIITM,DRDO HQ  
+Min. of Defence, DRDO Bhawan  
+Room No. 447, B Block  
+Rajaji Marg, New Delhi - 110011  
+
+Fax: 011-23793008 
+diitm[dot]hqr[at]gov[dot]in 
+
+ 
+ 
+ 
+

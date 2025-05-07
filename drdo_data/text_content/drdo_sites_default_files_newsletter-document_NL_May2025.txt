@@ -1,0 +1,3809 @@
+NEWSLETTER
+
+https://www.drdo.gov.in/newsletter
+
+ISSN: 0971-4391
+
+ISSN: 0971-4391
+
+MAY 2025 | VOLUME 45 | ISSUE 05
+
+A Monthly Bulletin of Defence Research and Development Organisation
+
+LIGHT AS A WEAPON: DRDO’S DEW MARKS 
+ INDIA’S DEFENCE MILESTONE
+
+Scan QR Code to access e-version 
+of DRDO Newsletter
+
+Editor-in-Chief:  Ms Kiran Chauhan
+
+Associate Editor-in-Chief: Sudhanshu Bhushan
+
+Editor: Dipti Arora
+
+Design & Pre-press: Raj Kumar
+
+Printing: Rajesh Kr Singh
+
+Distribution: Pratyaksh Sharma 
+
+45th Year of Publication
+
+MAY 2025 | VOLUME 45 | ISSUE 05
+
+LABORATORY CORRESPONDENTS
+
+Delhi 
+
+Bengaluru 
+
+Chandigarh 
+
+Chennai 
+Dehradun 
+
+Ahmednagar   
+Ambernath 
+Balasore 
+
+:   Shri RA Shaikh, Vehicle Research and Development Establishment (VRDE)
+:  Dr Ganesh S Dhole, Naval Materials Research Laboratory (NMRL)
+:   Shri Mrinal Goswami, Integrated Test Range (ITR) 
+  Shri Ratnakar S Mohapatra, Proof & Experimental Establishment (PXE) 
+:  Shri Satpal Singh Tomar, Aeronautical Development Establishment (ADE) 
+  Smt MR Bhuvaneswari, Centre for Airborne Systems (CABS)
+	 Smt	Faheema	AGJ,	Centre	for	Artificial	Intelligence	&	Robotics	(CAIR)	
+  Dr Josephine Nirmala M, Combat Aircraft Systems Development & Integration Centre (CASDIC) 
+  Dr Sanchita Sil & Dr Sudhir S Kamble, Defence Bioengineering & Electromedical Laboratory (DEBEL)
+  Dr V Senthil, Gas Turbine Research Establishment (GTRE)
+  Smt Saima Bashir, Electronics & Radar Development Establishment (LRDE) 
+  Ms Mita Jana, Microwave Tube Research & Development Centre (MTRDC) 
+:   Dr Pal Dinesh Kumar, Terminal Ballistics Research Laboratory (TBRL)
+:  Dr Anuja Kumari, Defence Geoinformatics Research Establishment (DGRE)
+:   Shri K Anbazhagan, Combat Vehicles Research & Development Establishment (CVRDE) 
+:   Shri DP Tripathi, Defence Electronics Applications Laboratory (DEAL) 
+  Shri JP Singh, Instruments Research & Development Establishment (IRDE)
+:   Shri Hemant Kumar, Centre for Fire, Explosive & Environment Safety (CFEES)
+  Shri Santosh Kumar Choudhury, Defence Institute of Psychological Research (DIPR)
+  Smt Arun Kamal, DPARO&M, DRDO HQrs 
+  Dr Navin Kumar Soni, Institute of Nuclear Medicine and Allied Sciences (INMAS) 
+  Dr Sujata Dash, Institute for Systems Studies & Analyses (ISSA) 
+	 Shri	Ashok	Kumar,	Scientific	Analysis	Group	(SAG)
+  Dr Rupesh Kumar Chaubey, Solid State Physics Laboratory (SSPL)
+:   Dr MK Meghvansi, Defence R&D Establishment (DRDE) 
+:  Dr Atul Grover, Defence Institute of Bio-Energy Research (DIBER)
+:   Shri Hemant Kumar, Advanced Systems Laboratory (ASL)
+  Shri Srinivas Juluru, Defence Research and Development Laboratory (DRDL)
+  Shri Ch Narasimhachari, Defence Electronics Research Laboratory (DLRL)
+  Shri S Shashi Nath, Defence Metallurgical Research Laboratory (DMRL)
+:   Shri Khilawan Singh, SF Complex (SFC)
+:   Shri DK Tripathi, Defence Laboratory (DL)
+:   Dr Mohit Katiyar, Defence Materials & Stores Research & Development Establishment (DMSRDE)
+:   Smt Letha MM, Naval Physical & Oceanographic Laboratory (NPOL) 
+:   Dr Dorjey Angchok, Defence Institute of High Altitude Research (DIHAR) 
+:   Shri Sunil Bhandari, Institute of Technology Management (ITM) 
+:   Dr M Palmurugan, Defence Institute of Bio-defence Technologies (DIBT) 
+:   Shri Ashutosh Sharma, Advanced Centre for Energetic Materials (ACEM) 
+:   Shri Ajay K Pandey, Armament Research and Development Establishment (ARDE)
+  Dr Vijay Pattar, Defence Institute of Advanced Technology (DIAT)
+  Dr Ganesh Shankar Dombe, High Energy Materials Research Laboratory (HEMRL)
+Tezpur 
+:   Dr KS Nakhuru, Defence Research Laboratory (DRL)
+Visakhapatnam  :   Smt Jyotsna Rani, Naval Science & Technological Laboratory (NSTL)
+
+Jagdalpur 
+Jodhpur 
+Kanpur 
+Kochi 
+Leh 
+Mussoorie 
+Mysuru 
+Nasik 
+Pune 
+
+Gwalior 
+Haldwani 
+Hyderabad 
+
+2
+
+|   MAY 2025DRDO NEWSLETTER 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+COVER STORY
+
+INNOVATIONS
+
+TEST & TRIALS
+
+TOT
+
+EVENTS
+
+HRD ACTIVITIES
+
+RAJBHASHA  ACTIVITIES 
+
+PERSONNEL NEWS 
+
+SOCIAL ACTIVITIES 
+
+VISITS
+
+3
+
+4
+
+6
+
+8
+
+10
+
+11
+
+  23
+
+  28
+
+  30
+
+32
+
+   33
+
+|   MAY 2025DRDO NEWSLETTERCOVER STORY
+
+LIGHT AS A WEAPON: DRDO’S DEW MARKS 
+INDIA’S DEFENCE MILESTONE
+
+cost	
+
+Mastering  the  technology  of 
+disabling  missiles,  drones  and 
+smaller  projectiles  with  Laser- 
+Directed  Energy  Weapon  (DEW) 
+has  long  been  the  holy  grail  of 
+air  defence.  The  DEW  will  soon 
+be  replacing  traditional  kinetic 
+weapons  and  missile  defence 
+systems due to its ease of operation 
+and	
+effectiveness.	 The	
+proliferation  of  Unmanned  Aerial 
+Systems (UAS) and the emergence 
+of  drone  swarms  as  asymmetric 
+threats  are  driving  the  demand 
+for  DEWs  with  counter-UAS  and 
+counter-swarm  capabilities.  The 
+extent  of  havoc  can  be  caused 
+by  UAVs  and  drones  is  visible 
+in	 all	 the	 recent	 conflicts	 like	
+ongoing	 Russia-Ukraine	 conflict,	
+
+Armenia-Azerbaijan	 conflicts	 or	
+Houthis	attack	on	US	naval	fleets	
+where  relatively  weaker  state  and 
+non-state  players  are  accruing 
+disproportionate  gains  against 
+their stronger adversaries.
+
+tracking 
+
+Once  detected  by  a  radar 
+followed  by 
+through 
+Electro-optic  (EO)  system,  laser-
+DEW  can  engage  targets  at  the 
+speed of light, and use an intense 
+beam  of  powerful 
+laser  beam 
+to  neutralize  the  target,  leading 
+to  structural 
+failure  or  more 
+impactful  results.  This  type  of 
+cutting-edge  weaponry  has  the 
+potential to revolutionize the battle 
+space  by  reducing  the  reliance 
+on  expensive  ammunition,  while 
+also lowering the risk of collateral 
+
+damage. The requirement for cost-
+effective	defence	solutions	to	offset	
+the  low-cost  drone  attacks  amidst 
+constrained  defence  budget 
+is 
+driving  the  adoption  of  DEWs  by 
+military organizations worldwide. 
+Prototype  of  Mk-II(A)  DEW 
+system is the result of a prolonged 
+development  research  of  DRDO 
+in	 the	 field	 of	 DEW	 at	 Centre	
+for  High  Energy  Systems  and 
+Sciences 
+(CHESS),  Hyderabad 
+along  with  Electronics  &  Radar 
+Development 
+Establishment 
+(LRDE),  Instruments  Research 
+&  Development  Establishment 
+Electronics 
+(IRDE),  Defence 
+Research  Laboratory 
+(DLRL),  
+and  Defence  Laboratory  (DL)  in 
+harnessing the high power of laser 
+
+4
+
+|   MAY 2025DRDO NEWSLETTERCOVER STORY
+
+Directed  Energy  into  a  potent 
+weapon.  Indigenously  designed 
+and  developed  Mk-II  (A)  DEW 
+system  has  demonstrated 
+its 
+entire  spectrum  of  capability  by 
+engaging	the	fixed	wing	drones	at	
+long  range,  thwarting  a  multiple 
+drone  attack  and  destroying 
+enemy  surveillance  sensors  and 
+antennae. 
+The 
+
+of 
+engagement,  the  precision  and 
+the 
+the 
+lethality  delivered  at 
+target  within  few  seconds  made 
+it the most potent Counter Drone 
+System.	 Cost	 of	 firing	 it	 for	 few	
+seconds is equivalent to the cost of 
+couple of litres of petrol. Therefore, 
+it  has  the  potential  to  be  a  long-
+term  and 
+low-cost  alternative 
+to  defeat  the  target  what  guided 
+missiles currently do.  
+
+lightning 
+
+speed 
+
+All the three Services, i.e. Army, 
+
+Air  Force  and  Navy  are  already 
+using  the  earlier  version  of  DEW 
+Mk-I  as  part  of  their  air-defence 
+capabilities. 
+This  milestone 
+achieved  has  demonstrated  the 
+ability to engage aerial targets at a 
+very  long  range  and,  therefore,  it 
+will be a major step in Atmanirbhar 
+Bharat. The inclusion of DEW Mk-
+II (A) in the Services will boost their 
+capability. 
+layered  air-defence 
+This  landmark  achievement  will 
+also  act  as  the  cornerstone  for  all 
+the  future  development  of  high-
+power  DEWs.  The  demonstration 
+on 13 April 2025 was witnessed by 
+the Dr Samir V Kamat, Chairman, 
+DRDO  &  Secretary  DDR&D  and 
+Dr BK Das, DS & DG (ECS) along 
+with	 Directors	 and	 officers	 of	
+DRDO laboratories.
+
+The  DEW  trial  at  the  NOAR, 
+testimony  of 
+
+Kurnool 
+
+is 
+
+a 
+
+Atmanirbhar  Bharat  as  it  has 
+been  developed  by 
+the  R&D 
+and  production  ecosystem  of  all 
+stakeholders. 
+
+design 
+
+system 
+
+The  critical  subsystems  along 
+with components are designed and 
+developed indigenously by CHESS, 
+DRDO’s  sister  laboratories  and 
+academic  institutions  along  with 
+more  than  15  Nos.  of  Indian 
+industries. 
+The 
+
+and  
+integration  along  with  cutting-
+edge  niche  technology  of  high-
+power  laser  beam  directed  to  an 
+aerial  target  with  micro  radian 
+accuracy  was  developed  and 
+mastered  by  CHESS,  DRDO.  Its 
+success  has  announced  India’s 
+arrival in the exclusive and limited 
+club  of  the  global  powers  who 
+possess  the  high  power  Laser-
+DEW.
+
+5
+
+|   MAY 2025DRDO NEWSLETTERINNOVATION
+
+DESIGN AND DEVELOPMENT OF INDIVIDUAL 
+UNDER WATER BREATHING APPARATUS FOR 
+T-90 TANK CREW 
+
+Defence 
+
+Breathing 
+
+Bio-engineering 
+&  Electromedical  Laboratory 
+(DEBEL), Bengaluru has designed 
+and  developed  Individual  Under 
+Water 
+Apparatus 
+(IUWBA) for T-90 Tank Crew, a life 
+saving equipment, as per approved 
+Provisional	
+Staff	 Qualitative	
+Requirements (PSQR). The system 
+was designed for enabling the T-90 
+tank crew for safe escape from the 
+T-90  tank  during  deep  fording  in 
+the  event  of  emergency  situation 
+(Tank	 stalling/switching	 off	 mid-
+crossing  of  water)  for  a  depth 
+of  up  to  5m.  In  such  unforeseen 
+situation, where the crew is unable 
+to  restart  the  engine,  there  is  no 
+alternative  for  the  crew  except 
+to	 flood	 the	 tank	 and	 escape	 via	
+cupola.
+
+Salient Features:
+•  Closed  circuit-based  individual 
+
+breathing apparatus
+
+•  Capable  to  provide  breathing 
+support  up  to  60  min  at  5  m 
+depth under water
+
+•  Regenerates  Oxygen 
+
+from 
+
+been  accorded  to  IUWBA  and 
+presently CNC has been concluded 
+for  production  of  947  sets  (Phase 
+I)  by  the  Indian  Army.  Balance 
+quantity of 3080 (Approx.) will be 
+completed  in  Phase  II  and  Phase 
+III.
+
+exhaled carbon dioxide (CO2)
+
+•  Demand-based breathing
+
+•  Two  mode  breathing,  i.e.  from 
+atmosphere and from apparatus
+
+•  Lightweight  (~  5.25  kg)  and 
+
+modular
+
+successfully 
+has 
+IUWBA 
+its 
+functional 
+completed 
+i.e.  Ingress  and 
+performance, 
+Egress  from  T-90  tank  cupolas, 
+compatibility  during  T-90  tank 
+operations  and  breathing  support 
+of 60 minutes under water during 
+field	evaluation	trial	conducted	by	
+ACC&S,  Ahmednagar  of  Indian 
+Army. 
+
+i.e. 
+
+IUWBA  has  exhibited  its 
+satisfactory  performance  in 
+environmental 
+simulated 
+conditions, 
+high 
+temperature, damp heat, low 
+temperature, dust, vibrations 
+and  bump  and  successfully 
+completed  DGQA  evaluation 
+trials  conducted  by  CQA-
+FFE,  Pune.  Maintenance 
+Evaluation  Trials 
+(MET) 
+conducted  by  MAG  No. 
+7,  Medak,  Telegana  on 
+IUWBA  was  also  completed 
+successfully.
+
+Technology  of  IUWBA  is 
+transferred  to  six  industries 
+out of which ToT is absorbed 
+by 
+three  DEBEL’s  ToT 
+partners:  M/s  JK  Fenner 
+India Ltd, Chennai; M/s Shiva 
+Industries, Kanpur; and M/s 
+Elite Polymer, Howrah.
+
+The  DAC  clearance  has 
+
+6
+
+|   MAY 2025DRDO NEWSLETTERINNOVATION
+
+INDIAN ARMY FINALISED CONTRACT FOR 
+PROCUREMENT OF LIFE SAVING EQUIPMENT 
+FOR EXTREME HIGH ALTITUDE
+
+The Indian Army has released a 
+purchase  order for the procurement 
+of  Qty.  5761  nos.  of  One-Man 
+High Altitude Pulmonary Oedema 
+(HAPO) Chambers equipped with 
+automation  units  from  Defence 
+Bioengineering  & Electro-medical 
+Laboratory  (DEBEL),  Bengaluru, 
+developed  by  ToT  holders  of 
+DRDO.  The  purchase  order 
+dated  4  February  2025  has  been 
+placed	on	three	qualified	DEBEL-
+developed ToT holders in the ratio 
+of 50:30:20. The total order value 
+is Rs. 147.53 Cr.
+
+The  One  Man  HAPO  Chamber 
+is  a  life-saving  device  used  for 
+protecting	 soldiers	 affected	 by	
+Acute  Mountain  Sickness  (AMS) 
+&  HAPO  and  other  CAPF  posted 
+in	 far-flung	 and	 extreme	 high-
+altitude  regions  of  Himalayan 
+borders.  The 
+forces  deployed 
+in  the  high-altitude  regions  are 
+subjected  to various physiological 
+stresses  due  to  severe  climatic 
+conditions.  Major  problems  faced 
+by  soldiers  positioned  at  high 
+altitude are extreme cold weather, 
+low  barometric  pressure,  and 
+hypoxia. Low barometric pressure 
+
+automatic and does not require 
+intervention  except 
+manual 
+initial 
+ON/OFF  and  during 
+pressure building.
+
+•  The  HAPO  automation  unit 
+is	 field	 usable.	 A	 built-in	
+rechargeable  battery  provides 
+about 5-6 hours of endurance.
+
+the 
+
+•  The  battery  is  automatically 
+system 
+charged  when 
+operates  with  AC  mains. 
+Alternatively,  it  can  also  be 
+charged  with  an  optional 
+lightweight  and  foldable  solar 
+panel.
+
+ HAPO chambers are also being 
+procured  from  time  to  time  by 
+the  Indian  Army,  ITBP,  BSF,  SF, 
+BRO,	etc.	This	is	the	first	time	that	
+such  a  large  bulk  purchase  order 
+has  been  released  by  the  Indian 
+Army, which is a testament to the 
+technological excellence achieved. 
+The shipment will boost the morale 
+of	the	soldiers	fighting	in	the	most	
+unforgiving borders to protect our 
+great nation, besides contributing 
+to  the 
+industrial  growth.  The 
+product has good export potential 
+and is likely to be used as dual-use 
+technology in some allied areas.
+
+to 
+
+leads  to  HAPO,  a  condition  that 
+leads 
+the  accumulation  of 
+fluids	 in	 the	 lungs,	 which	 could	
+be  rapidly  fatal  if  not  attended  to 
+immediately.  The  technology  is 
+indigenously developed by DEBEL 
+Bangalore, and IPR is protected by 
+Patent No. 363717.
+
+The  salient  features  of  the 
+
+HAPO chamber are:
+•  The  HAPO  chamber  (made 
+from  polyamide  coated  with 
+neoprene, i.e. polychloroprene) 
+can  withstand  harsh  military 
+The  HAPO 
+environments. 
+chamber  has  three  transparent 
+windows  to  allow  light  inside 
+and 
+the  placement  of 
+medical equipment, if any.
+
+for 
+
+•  The  HAPO 
+
+chamber 
+
+is 
+automatically	 inflated	 to	 130	
+±10 mm Hg, which simulates a 
+descent  of  about  6,000-8,000 
+feet,  thereby  ensuring  that  the 
+patient is not de-acclimatized.
+
+•  An  intentional  leak  (set  at  20 
+LPM)  valve  avoids  the  buildup 
+of  carbon  dioxide  inside  the 
+HAPO chamber.
+
+•  The  pressure  management  is 
+
+7
+
+|   MAY 2025DRDO NEWSLETTERTEST & TRIALS
+
+DRDO CONDUCTS SUCCESSFUL RELEASE 
+TRIALS OF LONG-RANGE GLIDE BOMB ‘GAURAV’ 
+FROM SU-30 MKI AIRCRAFT
+
+(LRGB) 
+
+The  Defence  Research  and 
+Development 
+Organisation 
+(DRDO)  successfully  conducted 
+the release trials of the Long-Range 
+Glide  Bomb 
+‘Gaurav’ 
+during  8-10  April  2025  from  the 
+Su-30  MKI  aircraft.  During  the 
+trials,  the  weapon  was  integrated 
+into	 multiple	 stations	 in	 different	
+warhead	configurations,	with	land	
+targets  on  the  island.  The  trials 
+successfully demonstrated a range 
+close  to  100  km  with  pinpoint 
+accuracy.
+
+ LRGB ‘Gaurav’ is a glide bomb 
+in  the  1,000  kg  class,  designed 
+indigenously 
+and 
+developed 
+Imarat 
+by  Research  Centre 
+(RCI),  Armament  Research  and 
+Establishment 
+Development 
+(ARDE),  and 
+Integrated  Test 
+Range  (ITR),  Chandipur.  Senior 
+officials	 of	 DRDO	 and	 the	 Indian	
+
+Air  Force  (IAF)  participated  and 
+reviewed these trials.
+
+and 
+
+Forge, 
+
+  The  system  has  been  realised 
+with the support of development-
+cum-production  partners  Adani 
+Defence  Systems  &  Technologies, 
+Bharat 
+various 
+MSMEs.  The  trials  are  paving 
+the  way  towards  induction  of  the 
+weapon  into  the  IAF.  The  Center 
+for  Military  Airworthiness  and 
+Certification	 and	 the	 Directorate	
+General  of  Aeronautical  Quality 
+to 
+Assurance 
+
+contributed 
+
+certification	and	quality	assurance.
+Hon'ble  Raksha  Mantri  Shri 
+complimented 
+Rajnath  Singh 
+DRDO,  IAF,  and 
+industry  for 
+successful  development  trials  of 
+‘Gaurav.’ He said the development 
+of  LRGB  will  further  enhance  the 
+capabilities  of  the  Armed  Forces 
+to	 a	 significant	 extent.	 Secretary,	
+Department  of  Defence  R&D, 
+and  Chairman  DRDO  Dr  Samir 
+V  Kamat  also  congratulated  the 
+entire DRDO team on conducting 
+the successful release trials.
+
+DRDO & INDIAN ARMY CONDUCT FOUR 
+SUCCESSFUL FLIGHT-TESTS OF ARMY VERSION 
+OF MRSAM
+
+The  Defence  Research  and 
+Organisation 
+Development 
+(DRDO)  and  the  Indian  Army 
+conducted	 four	 successful	 flight	
+tests  of  the  Army  version  of  the 
+Surface-to-Air 
+Medium-Range 
+Missile  (MRSAM)  from  Dr  APJ 
+Abdul	 Kalam	 Island	 off	 the	 coast	
+of  Odisha  during  3-4  April  2025. 
+
+The	 four	 operational	 flight	 trials	
+were  carried  out  against  high-
+speed  aerial  targets.  The  missiles 
+intercepted  the  aerial  targets  and 
+destroyed them, registering direct 
+hits.  The  trials  were  carried  out 
+to  intercept  four  targets  at  long 
+range,  short  range,  high  altitude, 
+low  altitude,  proving  the 
+and 
+
+operational capability.  
+
+The	 flight	 tests	 were	 carried	
+out  with 
+the  weapon  system 
+in  operational  condition.  The 
+weapon 
+system's  performance 
+was	 confirmed	 using	 flight	 data	
+collected  by  range  tools  such  as 
+radars and electro-optical tracking 
+systems set up by Integrated Test 
+
+8
+
+|   MAY 2025DRDO NEWSLETTERTEST & TRIALS
+
+Range,	Chandipur.	The	flight	tests	
+were  carried  out  in  the  presence 
+of	senior	officials	from	DRDO	and	
+the Indian Army.
+
+The  trials  were  carried  out  by 
+the Indian Army from Eastern and 
+Southern Commands under DRDO 
+guidance. These trials have proven 
+the  operational  capability  of  both 
+Army  Commands  and  paved  the 
+for  operationalisation  of 
+way 
+weapon systems in two regiments.
+is  developed 
+jointly  by  DRDO  and 
+Israel 
+Aerospace  Industries  for  use  by 
+the  Indian  Army.  The  MRSAM 
+Army  weapon  system  comprises 
+multi-function  radar,  a  command 
+post,  a  mobile  launcher  system, 
+and other vehicles.
+
+The  MRSAM 
+
+Hon'ble  Raksha  Mantri 
+Shri  Rajnath  Singh  has 
+DRDO, 
+congratulated 
+Indian  Army,  and 
+the 
+the 
+the 
+industries 
+successful	flight	tests.	Four	
+successful  tests  have  re-
+established  the  capability 
+of  the  weapon  system  in 
+intercepting 
+at 
+targets 
+critical ranges, he said.
+
+for 
+
+teams 
+
+Secretary,  Department 
+of  Defence  R&D,  and 
+Chairman DRDO Dr Samir 
+V  Kamat  complimented 
+the 
+in 
+the	 successful	 flight	 trial,	
+terming  them  as  major 
+milestones 
+for  building 
+operational  capability  of 
+the Indian Army.
+
+involved 
+
+DRDO & IN SUCCESSFULLY FLIGHT-TEST 
+INDIGENOUSLY-DEVELOPED VLSRSAM
+
+The  Defence  Research  & 
+Development 
+Organisation 
+(DRDO)  and  the  Indian  Navy 
+conducted	 the	 successful	 flight	
+test of the indigenously developed 
+Vertically-Launched 
+Short-
+Surface-to-Air  Missile 
+Range 
+(VLSRSAM)  from  the  Integrated 
+Test	 Range	 (ITR),	 Chandipur,	 off	
+the  coast  of  Odisha  on  26  March 
+2025.	 The	 flight	 test	 was	 carried	
+out  from  a  land-based  vertical 
+launcher  against  a  high-speed 
+aerial  target  at  very  close  range 
+and low altitude. It has established 
+the  near-boundary-low-altitude 
+capability of the missile system.
+
+During  the  test,  the  target 
+was  completely  destroyed  by  the 
+missile executing the high turn rate 
+required  for  engaging  targets  at 
+very  close  range  and  establishing 
+
+the missile’s agility, reliability, and 
+pinpoint  accuracy.  The  test  was 
+conducted with all weapon system 
+elements  deployed 
+in  combat 
+configuration.	 These	 elements,	
+including  the  missile  with  an 
+indigenous radio frequency seeker, 
+multi-function radar, and weapon 
+control system, have performed as 
+per expectations. The performance 
+of the system was validated by the 
+flight	 data	 captured	 by	 various	
+range  instruments  developed  by 
+ITR Chandipur.
+
+Congratulating  DRDO, 
+
+the 
+Indian  Navy,  and  the  industry, 
+Hon'ble  Raksha  Mantri  Shri 
+Rajnath  Singh  referred  to  the 
+missile  system  as  proof  of  India’s 
+strong  design  and  development 
+capabilities in defence R&D. It will 
+be an excellent force multiplier for 
+
+9
+
+the Indian Navy, he said.
+
+|   MAY 2025DRDO NEWSLETTERTOT
+
+LDAM TECHNOLOGY TRANSFER TO INDUSTRY
+
+The  Defence  Research  and 
+Development Laboratory (DRDL), 
+Hyderabad,  has  developed  a  Low 
+Density Ablative Material (LDAM) 
+coating for the thermal protection 
+of  missile  systems.  This 
+low-
+density thermal protection coating 
+is  widely  used  for  the  external 
+thermal  protection  of  various 
+missile  systems.  LDAM  can  be 
+applied  in  spray  or  putty  form 
+on  metallic  as  well  as  composite 
+structures  in  varying  thicknesses 
+as  per  design  requirements.  The 
+
+Licensing  Agreement  for  Transfer 
+of Technology (LAToT) for LDAM 
+
+was  handed  over  to  Industries 
+during Aero India 2025.  
+
+MOD INKS RS 6,900 CR CONTRACTS FOR 155 
+MM/52 CALIBRE ATAGS 
+
+The  Ministry  of  Defence 
+(MoD)  has  signed  contracts  with 
+Bharat  Forge  Limited  and  Tata 
+for 
+Advanced  System  Limited 
+the  procurement  of  155  mm/52 
+Caliber Advanced Towed Artillery 
+Gun  Systems  (ATAGS)  and  High 
+Mobility Vehicle 6x6 Gun Towing 
+Vehicles,  respectively,  at  a  total 
+cost  of  about  Rs  6,900  crore. 
+The  contracts  were  signed  in  the 
+presence of Defence Secretary Shri 
+Rajesh Kumar Singh in New Delhi 
+
+on March 26, 2025.
+
+the 
+
+With 
+
+signing, 
+
+total 
+contracts worth Rs 1.40 lakh crore 
+have  been  signed  by  MoD  for 
+capital procurement to date in the 
+current	 financial	 year,	 2024-25.	
+During  the  contract  signing,  the 
+project  director  of  ATAGS  from 
+DRDO’s  Armament  Research 
+and  Development  Establishment, 
+Pune,  who  played  a  pivotal  role 
+in  the  realisation  of  the  project, 
+was  felicitated  by  the  Defence 
+
+Secretary  as  an  honor  for  his 
+immense contribution.
+
+The 155 mm/52 Caliber ATAGS 
+the  vintage  and 
+will  replace 
+smaller  caliber  guns  and  enhance 
+the  artillery  capabilities  of  the 
+Indian Army. The procurement of 
+this	gun	system	marks	a	significant	
+milestone in the modernisation of 
+the artillery regiments, enhancing 
+operational  readiness.  ATAGS, 
+renowned 
+its  exceptional 
+lethality, will play a crucial role in 
+
+for 
+
+10
+
+|   MAY 2025DRDO NEWSLETTEREVENTS
+
+bolstering	the	Army's	firepower	by	
+enabling  precise  and  long-range 
+strikes.
+
+the	
+
+Being	
+
+first	 major	
+procurement  of 
+towed  guns 
+from  the  private  sector  by  the 
+
+Indian  Army,  the  project  will 
+provide  a  boost  to  the  Indian 
+gun  manufacturing  industry  in 
+particular  and 
+indigenous 
+defence  manufacturing  ecosystem 
+as a whole. This project is a proud 
+
+the 
+
+by	
+
+flag-bearer	 of	 Aatmnanirbhar	
+significantly	
+Bharat	
+employment 
+to 
+contributing 
+generation  and  economic  growth 
+in  consonance  with  the  Make-in-
+India initiative.
+
+ADVANCED ARMOURED PLATFORMS (TRACKED 
+& WHEELED): METAL CUTTING CEREMONY
+
+manufacturing (prototype welding 
+process)  at  premises  of  both  the 
+aforementioned industry partners. 
+The  event  was  attended  by  Prof. 
+Prateek Kishore, Director General 
+(ACE),  Shri  GRM  Rao  Director, 
+VRDE  and  Shri  K  Senthilkumar, 
+Project Director-VIKRAM VT-21.  
+Dr  Kamat  appreciated  VRDE 
+for  conceiving  and  designing 
+both 
+AAP, 
+state-of-the-art 
+Tracked 
+and  Wheeled.  He 
+lauded	 the	 efforts	 of	 both	 the	
+industry  partners  for  initiating 
+
+manufacturing  of  both  platforms. 
+Prof. Kishore congratulated VRDE 
+and  development  partners  and 
+emphasized  on  the  importance  of 
+the  project  to  DRDO,  industry  as 
+well as the Indian Army. Shri Rao 
+appreciated	the	efforts	of	industry	
+partners  for  the  development  of 
+VIKRAM  VT  21  and  brought  out 
+that  synergy  between  DRDO  and 
+industry  shall  play  an  important 
+role in the design and development 
+of  high  quality  indigenous  future 
+land system platforms.
+
+Research 
+
+Ahmednagar 
+
+and 
+Vehicle 
+Establishment 
+Development 
+has 
+(VRDE), 
+undertaken	 a	 flagship	 project	
+“Design  and  Development  of 
+Advanced  Armoured  Platform 
+(AAP)–VIKRAM VT 21” to develop 
+AAP  (Tracked),  AAP  (Wheeled) 
+and 30 mm crew-less turret. This is 
+a potential solution for the Indian 
+Army’s requirement of indigenous 
+FICV. The AAP has been designed 
+with  host  of  advanced  systems 
+and  technologies  including  high 
+power  diesel  engine  with  fully 
+automatic  transmission,  double-
+floor	 blast	 protection,	 composite	
+add-on  armour,  30  mm  crew-less 
+turret  with  APFSDS  ammunition, 
+3rd  Gen  ATGMs  and  solid-state 
+electric  drives,  digital  driver  dash 
+board,  crew  vision  system,  etc. 
+Firing  trials  for  proving  of  new 
+feeding system and the gun mount 
+of 30 mm crewless turret has also 
+been  successfully  completed  by 
+VRDE. 
+
+in 
+The  project  has  entered 
+crucial  phase  of  realization  with 
+the  development  partners  M/s 
+TASL  and  M/s  BFL.  In  view  of 
+this,  a  metal  cutting  ceremony 
+was  conducted  on  2  April  2025 
+at  their  premises.  Dr  Samir  V 
+Kamat,  Secretary  DDR&D  & 
+Chairman  DRDO  graced 
+the 
+occasion of commencement of hull 
+
+11
+
+|   MAY 2025DRDO NEWSLETTEREVENTS
+
+RAISING DAY 2025 CELEBRATIONS AT ITM
+
+Institute 
+
+Technology 
+of 
+Management  (ITM),  Mussoorie, 
+celebrated 
+its  64th  Laboratory 
+Raising Day on 7 March 2025.  Shri 
+LC Mangal, DS & DG (TM), graced 
+the  event  as  the  Chief  Guest.    Ms 
+Anita  Mohindra,  Sc 
+‘F,’  Dean, 
+Management  Services,  delivered 
+the welcome address and also gave 
+a  pictorial  glimpse  of  activities 
+at  ITM  during  the  previous  year, 
+2024.
+
+in 
+
+ITM, 
+
+Director, 
+
+his 
+address,  highlighted  the  overall 
+performance and achievements of 
+the institute during the preceding 
+year  and  congratulated 
+‘Team 
+ITM’  for  their  contribution.  He 
+urged  all  employees  to  continue 
+to	 achieve	
+their	 best	 efforts	
+excellence  in  future  endeavors. 
+In  his  keynote  address,  Chief 
+Guest  Shri  Mangal  congratulated 
+all  employees  for  the  64th  Lab 
+Raising  Day  and  highlighted  the 
+
+importance  of  ITM  towards  the 
+training  of  DRDO  employees  and 
+nation  building.  He  also  released 
+the ITM Training Calendar 2025-
+26  and  the  local  Hindi  magazine, 
+'Srijan'. Lab Level Commendation 
+Certificates	 were	 presented	 to	 the	
+employees on the occasion by the 
+Chief Guest, and he also felicitated 
+
+photography 
+
+the  employees  who  completed  25 
+years  of  service  at  DRDO.    Apart 
+from  this,  various  events  such 
+competitions 
+as 
+and  slogan  competitions  were 
+organized  and  sports  prizes  were 
+also  distributed.  Gp  Captain  MP 
+Kundran concluded the event with 
+a vote of thanks. 
+
+NATIONAL SCIENCE DAY CELEBRATED AT VRDE
+
+Research 
+
+and 
+Vehicles 
+Establishment 
+Development 
+(VRDE),  Ahmednagar  celebrated 
+National  Science  Day  2025 
+with  a  great  deal  of 
+fervor 
+and  enthusiasm.  It  serves  as  a 
+reminder  regarding  the  role  of 
+science and technology in national 
+development  and  inspires  young 
+in 
+minds 
+R&D.  The  National  Science  Day 
+Oration,  'Modelling  &  Testing  of 
+Crew  Cabin  for  Vehicle-Mounted 
+Large-Caliber  Guns  Subjected 
+to  Muzzle  Blast,  authored  by 
+Shri  Muddaboana  Sai  Munesh 
+Kumar,  Sc  ‘C’  was  presented  by 
+Shri  Ashutosh  Maurya,  Sc  ‘B’  on 
+
+to  pursue  careers 
+
+his behalf. The chief guest for the 
+occasion was Dr Yogesh Velankar, 
+Professor and Director, Symbiosis 
+Institute	 of	 Staff	 Training	 and	
+Professional  Development  under 
+the  aegis  of  Symbiosis  Open 
+Education  Society,  Pune.  He 
+delivered  the  keynote  address  on 
+the  topic  'Towards  Viksit  Bharat: 
+Innovative  and 
+Fostering  an 
+Growth Mindset for a Sustainable 
+Future.' 
+concluding 
+remarks,  Shri  GRM  Rao,  OS  & 
+Director  VRDE,  brought  out  the 
+need  &  importance  of  innovative 
+initiatives by R & D organizations 
+&	 the	 scientific	 community	 for	
+nation building.
+
+the 
+
+In 
+
+12
+
+|   MAY 2025DRDO NEWSLETTER 
+EVENTS
+
+INTERNATIONAL WOMEN’S DAY CELEBRATION 
+
+International  Women’s  Day 
+(IWD)  is  celebrated  globally  on 
+8  March  each  year  to  recognize 
+the  achievements  of  women  and 
+reflect	 on	 the	 progress	 made	
+towards  gender  equality.  To 
+mark  the  occasion,  the  following 
+laboratories  of  DRDO  celebrated 
+IWD at their respective locations:
+
+CAIR, Bengaluru
+
+The IWD 2025 was celebrated at 
+the	Centre	for	Artificial	Intelligence	
+& Robotics (CAIR), Bengaluru, on 
+17  March  2025,  with  Smt  Suma 
+Varughese,  DS  &  DG  (MCC),  as 
+the Chief Guest. The event started 
+with  a  formal  inauguration  in  the 
+presence  of  Dr  Rituraj  Kumar, 
+OS  &  Director,  CAIR,  and  Smt 
+Desiraju  Padma,  OS,  Chairperson 
+of  the  Women’s  Cell,  CAIR.  Smt 
+‘F’, 
+Paromita  Choudhury,  Sc 
+Chairperson 
+IWD  celebrations 
+committee,  extended  a  warm 
+welcome to the Chief Guest and to 
+all CAIR employees.
+
+ Smt Suma Varughese, DS & DG 
+(MCC) in her address emphasized 
+how  empowered  women  inspire 
+in  their 
+and  empower  others 
+journey.  Smt  Padma,  addressed 
+the  audience,  highlighting  the 
+importance  of  supporting  and 
+encouraging  women’s 
+growth 
+within 
+the  organization.  Dr 
+Rituraj  Kumar  briefed  about  the 
+to 
+organization’s 
+creating  an  environment 
+that 
+encourages growth, collaboration, 
+and success for all. 
+
+commitment 
+
+The  program concluded  with a 
+vote  of  thanks  by  Smt  Savita  DK, 
+Sc ‘F’.
+
+DLRL, Hyderabad
+
+graced 
+
+Defence  Electronics  Research 
+Laboratory  (DLRL),  Hyderabad, 
+celebrated 
+IWD  2025  on  11 
+March  2025. Dr  M  Chakravarthy, 
+Officiating	 Director,	 and	 Sri	
+K  Murali,  Associate  Director, 
+occasion.  
+also 
+Chitti, 
+Dr 
+educationist  &  parent  educator, 
+was  invited  as  the  Guest  Speaker 
+to  deliver  the  talk  on  parent 
+education  and  engagement.  All 
+the  women  employees  and  many 
+male employees were present and 
+participated in the celebrations.
+
+the 
+Vishnupriya 
+
+In  her  address,  Chairperson, 
+IWD	 highlighted	 the	 significance	
+of  the  day  and  the  need  to 
+to  address 
+accelerate  action 
+the 
+and 
+systematic  barriers 
+biases  that  women  face,  both  in 
+personal  and  professional  fronts.  
+Dr  Chakravarthy  also  addressed 
+the  gathering  and  congratulated 
+all  the  women  of  the  fraternity  of 
+DLRL on the occasion of Women’s 
+Day.  A  video  on  inspiring  women 
+of the nation and also about DLRL 
+was  played,  which  highlighted 
+that  women  have  no  bounds  in 
+
+13
+
+|   MAY 2025DRDO NEWSLETTEREVENTS
+
+various  professions.  The  senior 
+women  of  the  laboratory  due  for 
+superannuation  this  year  were 
+felicitated 
+their  dedicated 
+service.
+
+for 
+
+DMRL, Hyderabad
+
+Defence Metallurgical Research 
+Laboratory  (DMRL),  Hyderabad, 
+marked  the  IWD  2025  on  12 
+March  2025  with  celebrations 
+centered around the global theme, 
+‘Accelerate Action.’
+
+The  event  commenced  with 
+the  traditional 
+lighting  of  the 
+lamp  followed  by  an  invocation 
+song by Shri D Anjaneyulu, Stores 
+Officer.	 Dr	 NV	 Rama	 Rao,	 Sc	 ‘F’	
+&  Chairman,  Works  Committee, 
+delivered  the  welcome  address. 
+Mrs  VL  Niranjani,  convener  of 
+the Women’s Cell, extended warm 
+greetings to all women employees 
+and  presented  a  report  on  the 
+Women’s Cell activities at DMRL.
+
+The 
+
+function  was  presided 
+over  by  Dr  K  Gopinath,  OS  & 
+Associate  Director  and  OITC, 
+DMRL,  who  highlighted 
+the 
+incredible balancing act of women 
+in their personal and professional 
+lives.  Shri  Nishant  Manish,  Vice 
+President,  DEFMETLAB  Workers 
+National  Union;  Shri  M  Reetesh, 
+President, 
+Karmika 
+DMRL 
+Sangh;  and  Shri  Rashid  Ali,  Vice 
+Chairman,  Works  Committee, 
+also  shared  their  thoughts  on 
+the	 significance	 of	 accelerating	
+progress  toward  gender  equality 
+and extended their best wishes to 
+all women employees.
+
+The  highlight  of  the  event  was 
+a  keynote  address  by  Dr  Manjula 
+S  Nair,  Project  Director,  High 
+Thrust Electric Propulsion, LPSC, 
+ISRO,  who  presented  a  talk  titled 
+‘You are Unstoppable!!!’ 
+
+Adding to the celebrations, two 
+
+women  personnel  from  DMRL, 
+Ms  Anand  Ashwini  Avinash 
+Chander,  Sc  ‘B’  and  Ms  Satabdi 
+‘A,’  represented  the 
+Roy,  TO 
+organization  at 
+‘SAMPURNA-
+Altruists	 Making	
+Scientific	
+Positive  Upliftment  in  Research 
+through  New 
+Achievements 
+DRDO IWD-2025’ held during 7-8 
+March  2025  at  DRDO  HQrs.  Ms 
+Aswini presented a research paper 
+at the event, which was dedicated 
+to  recognise  the  contributions  of 
+women in advancing India’s vision 
+of Atmanirbhar and Viksit Bharat 
+by 2047.
+
+Defence 
+
+DMSRDE Kanpur
+Materials 
+
+and 
+Stores  Research  &  Development 
+(DMSRDE), 
+Establishment 
+Kanpur,  celebrated  IWD  2025 
+
+on  6  March  2025  to  honour  the 
+achievements  and  contributions 
+of	 women	
+in	 various	 fields.	
+The  Chief  Guest  of  the  event 
+was  Ms  Diksha  Jain,  IAS,  Chief 
+(CDO),	
+Development	 Officer	
+Kanpur.  The  celebration  began 
+with 
+the  heartfelt  welcome 
+address  by  Dr  Kavita  Agarwal, 
+Sc  ‘F’  &  Head,  Women  Cell.  She 
+shared  the  remarkable  strides 
+made by the women cell members 
+of DMSRDE. This was followed by 
+an address of Dr Mayank Dwivedi, 
+OS  &  Director,  DMSRDE.  He 
+discussed	
+significance	 of	
+Women's  Day  and  the  role  of 
+women in building a better society.  
+Mrs  Jyoti  Srivastava,  Sc  ‘G’  & 
+Advisor, Women Cell, gave a short 
+talk  on  Women  Empowerment. 
+The  Chief  Guest  in  her  speech 
+
+the	
+
+14
+
+|   MAY 2025DRDO NEWSLETTEREVENTS
+
+giving 
+
+emphasized 
+equal 
+opportunity  to  women  in  every 
+sphere of life. The event concluded 
+with a vote of thanks by Smt Savita 
+Verma,	Admin	Officer,	followed	by	
+the national anthem. 
+
+HEMRL, Pune
+
+IWD  2025  was  celebrated 
+at  the  High  Energy  Materials 
+Research  Laboratory  (HEMRL), 
+Pune,  on  13  March  2025.  About 
+350 women employees of HEMRL 
+in  the  celebration 
+participated 
+with  great  enthusiasm.  As  part 
+of  the  celebrations,  the  HEMRL 
+women’s 
+organised 
+council 
+‘ABHIRUCHI,’  an  exhibition  by 
+women entrepreneurs on 11 March 
+2025.  Prof.  Prateek  Kishore,  DS 
+&  DG  (ACE),  inaugurated  the 
+exhibition.  Many  employees  of 
+HEMRL  visited  the  stalls  and 
+purchased various items from the 
+women entrepreneurs.
+
+Ms  Suma  Varughese,  DG 
+(MCC),  was  invited  as  the  Chief 
+Guest.  She  shared  her  experience 
+and knowledge regarding women's 
+empowerment  and self-resilience. 
+The  talk  was  well  appreciated  by 
+
+the audience and raised awareness 
+about  the  overall  progress  of 
+women in society. 
+
+On  the  occasion,  the  HEMRL 
+council  magazine, 
+the 
+
+women’s 
+‘URJA,’  was  released  by 
+dignitaries.
+
+IRDE, Dehradun
+
+Instruments 
+
+Research 
+& 
+Establishment 
+Development 
+(IRDE),  Defence 
+Electronics 
+Application  Laboratory  (DEAL), 
+Institute  of  Technology 
+and 
+Management 
+jointly 
+(ITM) 
+celebrated  IWD  2025  on  21 
+March  2025  to  commemorate 
+of  women 
+the 
+
+contribution 
+
+15
+
+employees  in  the  technologies  of 
+communication, 
+electro-optics, 
+and 
+technology  management. 
+The  event  was  held  at  IRDE,  and 
+it  brought  together  women  from 
+three	 different	
+laboratories	 of	
+DRDO. 
+
+and  Ms 
+IPS, 
+
+Prof.  Surekhha  Dangwal,  Vice 
+Chancellor  of  Doon  University, 
+Shweta 
+Dehradun, 
+Choubey, 
+Commandant 
+IRB,  Dehradun,  were  the  Chief 
+Guests  on  the  occasion.  Both 
+dignitaries 
+shared  experiences 
+in	 their	 respective	 fields.	 Dr	 Ajay	
+Kumar,  OS  &  Director  IRDE, 
+the  gathering, 
+also  addressed 
+highlighting 
+contributions 
+the 
+made by women in the workplace 
+as well as at home. 
+
+He  encouraged  all  with  his 
+inspiring words to work together in 
+tandem to break down the barriers 
+that prevent women from reaching 
+their full potential and emphasized 
+gender  equality  at  the  workplace.  
+Shri  Manoj  Kumar  Dhaka,  OS  & 
+Director,  DEAL,  addressed  the 
+gathering, highlighting the role of 
+women  in  shaping  the  future.  He 
+emphasized  the  role  of  women  in 
+achieving success. 
+
+The event showcased the fusion 
+of  three  premier  laboratories  as 
+one  family,  instilling  the  message 
+of togetherness in the workplace.
+
+|   MAY 2025DRDO NEWSLETTEREVENTS
+
+LRDE, Bengaluru
+
+IWD  2025  was  celebrated  at 
+Electronics & Radar Development 
+Establishment  (LRDE),  Benga-
+luru,  on  26  March  2025  with 
+from  all 
+active  participation 
+employees  of  LRDE.  Dr  Arathi 
+VB,  founder  of  Vibhu  Academy 
+and  Dr  Sundaravalli  A,  Dean, 
+Natural  Sciences,  Mount  Carmel 
+College, were the Chief Guest and 
+Guest  of  Honour  for  the  event.  
+Shri  Gampala  Viswam,  Director, 
+LRDE  and  Chairman,  Women’s 
+cell,  LRDE  presided  over  the 
+function.  Spouses  of  Associate 
+Directors  of  LRDE  and  senior 
+officers	 from	 O/o	 DG	 ECS	 were	
+specially 
+invited  to  grace  the 
+occasion.  Dr  Arathi  spoke  about 
+the  multifaceted  role  played  by 
+the Indian woman, the challenges 
+faced by her in all spheres of life and 
+introduced  many  real-life  success 
+stories  with  interesting  historical 
+Sundaravalli 
+Dr 
+references. 
+delivered a presentation on the role 
+of  nutrition  for  the  overall  health 
+and  wellbeing  of  women.  Later, 
+Director distributed mementos for 
+the  retiring  women  employees  of 
+LRDE and felicitated the guests as 
+part of the celebrations.
+
+MTRDC, Bengaluru
+
+IWD  2025  was  celebrated  at 
+the  Microwave  Tube  Research  & 
+Development  Centre  (MTRDC), 
+Bengaluru,  on  11  March  2025. 
+Various 
+rangoli, 
+singing,	 cooking	 without	 fire	
+
+events 
+
+like 
+
+cultural 
+
+competitions, 
+events, 
+etc.,  were  organised  on  that  day. 
+Dr  Shubha  Madhusudhan,  Senior 
+Clinical  Psychologist  from  Fortis 
+Hospital,  Bengaluru,  graced  the 
+occasion as the Chief Guest. 
+
+On the onset, Dr SK Datta, OS & 
+Centre  Head,  MTRDC,  welcomed 
+all.  Dr  Madhusudhan  delivered  a 
+talk  on  women's  empowerment. 
+The  Hindi 
+home  magazine 
+‘UMANG’ was released by the Chief 
+Guest.  Smt  Mala  Ramaswamy,  Sc 
+‘G’, proposed the vote of thanks.
+
+NSTL, Visakhapatnam
+
+IWD  2025  was  organized 
+in	 a	 befitting	 manner	 on	 13	
+March  2025  at  Naval  Science  & 
+Technological Laboratory (NSTL), 
+Visakhapatnam.  The  event  was 
+graced by Dr Abraham Varughese, 
+OS  &  Director,  NSTL;  Smt  R  Sasi 
+Sri, First Lady of Naval Systems & 
+
+16
+
+Materials  Cluster;  Smt  Ilin  Dinah 
+Abraham,  First  Lady  of  NSTL 
+&  President  MKM  (MKM);  Smt 
+Lakshmi  Mukkavilli,  Managing 
+Director,  PATRA 
+India  BPO 
+Services  and  Smt  K  Sangeeta, 
+IDAS,  IFA  (R&D).  Smt  Binita 
+the  gathering 
+Sahu  welcomed 
+and  highlighted 
+the  presence 
+of  committees  like  the  Women 
+Cell  and  Internal  Complaint  Cell 
+(ICC)  at  NSTL,  which  focus  on 
+women’s welfare and safety in the 
+workplace. 
+
+A 
+
+of 
+
+key  highlight 
+
+the 
+celebration  was  the  launch  of 
+a  book  written  by  Smt  Kanti 
+Rekha,  a  member  of  MKM,  titled 
+‘The  Modern  Woman’s  Guide: 
+Financial  Independence’.  On  the 
+occasion,  the  MKM  E-newsletter 
+was  released  and  a  free  medical 
+camp was organized for all women 
+fraternity of NSTL. 
+
+|   MAY 2025DRDO NEWSLETTEREVENTS
+
+NATIONAL SAFETY WEEK CELEBRATION
+
+Every year, March 4 is observed 
+as National Safety Day and March 
+4-10  as  National  Safety  Week  in 
+India to highlight safety measures 
+and  explore  ways  to  make  the 
+office	 a	 safer	 place	 for	 people.	 To	
+mark  the  occasion,  the  following 
+laboratories  of  DRDO  celebrated 
+National Safety Week (NSW) with 
+the  theme  "Safety  &  Well-being 
+Crucial  for  Viksit  Bharat"  at  their 
+respective places:
+
+CAIR, Bengaluru
+
+National 
+
+Safety  Week 
+
+is 
+celebrated  annually  at  Centre  for 
+Artificial	 Intelligence	 &	 Robotics	
+(CAIR),  Bengaluru, 
+from  4-10 
+March  every  year.  This  year, 
+CAIR  has  organized  the  event 
+on  6  March  2025  by  inviting  Mr 
+Shanmukha, Manager of Safety and 
+Environment, Aerospace Division, 
+HAL,  who  has  vast  experience 
+in  safety  measures.  To  create 
+awareness  among  the  employees, 
+banners  were  displayed  at  the 
+main  gate  and  the  systems  and 
+admin blocks of CAIR. The safety 
+committee  of  CAIR  distributed 
+the	 fire	 &	 safety	 pocket	 manual	
+soft  copy  to  all  users  during  the 
+event. Smt Desiraju Padma, OS & 
+Chairperson,  Safety  Committee, 
+welcomed  the  speaker  and  the 
+gathering.  Shri  Sanjaya,  Sc  ‘E’, 
+member  of  the  safety  committee, 
+
+introduced  the  speaker  to  the 
+audience  and  his  achievements. 
+Finally,  Mr  Shanmuka,  Manager, 
+Environment, 
+Safety 
+delivered a talk on 'Industrial and 
+Environmental Safety'.
+
+and 
+
+DGRE, Chandigarh
+
+Defence 
+
+National  Safety  Week  2025 
+(NSW  2025)  was  organised 
+at 
+Geoinformatics 
+Research  Establishment  (DGRE), 
+Chandigarh,  during  4-10  March. 
+During the week, various activities 
+were  conducted  at  DGRE,  viz., 
+safety  mock  drills  by  the  Fire  & 
+Safety  Group  and  slogan  writing 
+and painting competitions. Under 
+the training-cum-awareness event, 
+guest  lectures  were  delivered  by 
+Dr  Usha  Dutta,  Post  Graduate 
+Institute  of  Medical  Education  & 
+Research (PGIMER), Chandigarh, 
+and  Ms  Ramandeep  Beniwal, 
+Govt.  Medical  College 
+and 
+Hospital  (GMCH),  Chandigarh, 
+internal  members 
+followed  by 
+talks on laboratory safety manual/
+policy, 
+prediction 
+quality  assessment,  GeoInt  data 
+quality  assessment,  and  DRDO 
+Q&R  guidelines 
+to  encourage 
+the  adoption  of  QRS  culture  in 
+the  laboratory.  The  event  was 
+concluded  with  a  reminder  of 
+shared  responsibility  in  creating 
+a secure environment, reinforcing 
+
+avalanche 
+
+the	significance	of	safety	and	well-
+being in achieving sustainable and 
+equitable  growth  for  a  developed 
+nation.
+
+DMRL, Hyderabad
+
+Defence 
+
+Metallurgical 
+(DMRL), 
+Research  Laboratory 
+Hyderabad,  celebrated  the  54th 
+NSW  2025  during  20-21  March 
+2025.  The  celebrations  kicked 
+off	 on	 20	 March,	 2025,	 with	 all	
+employees  being  greeted  with 
+safety  badges  at  the  main  gate.  A 
+live	 firefighting	 demonstration	
+was  conducted,  where  employees 
+received hands-on training on the 
+proper	 use	 of	 different	 types	 of	
+fire	extinguishers,	including	Class	
+A, B, and C. This practical session 
+aimed to empower employees with 
+the knowledge and skills needed to 
+handle	fire	emergencies.
+
+The highlight of the proceedings 
+was a safety talk by the Chief Guest, 
+Shri  Kamlesh  Rana,  Sr  DGM, 
+Head-EHS,  L&T  Special  Steels, 
+who shared invaluable insights on 
+‘Industrial Safety’. The event began 
+with a welcoming address by Shri 
+Chandrakanth Parlikar, Sc ‘F’ and 
+in charge of the Safety Committee, 
+who	 highlighted	 the	 significance	
+of  NSW  Week,  workplace  safety, 
+and  the  vital  role  of  the  safety 
+committee in fostering a culture of 
+safety within the laboratory. Dr K 
+
+17
+
+|   MAY 2025DRDO NEWSLETTEREVENTS
+
+Gopinath, OS & Associate Director, 
+DMRL,  discussed  the  importance 
+of  cultivating  a  safety-conscious 
+work culture. He emphasized that 
+building a system rooted in safety 
+requires the commitment of every 
+individual at DMRL.
+
+In  his 
+
+case 
+accidents 
+
+lecture,  Shri  Rana 
+included 
+presentations 
+video 
+and 
+real-life 
+studies 
+and 
+of  workplace 
+discussed	 effective	 strategies	 to	
+prevent  similar 
+incidents.  Shri 
+Rana  also  covered  crucial  topics, 
+such  as  the  importance  of  safety, 
+Environmental, Health, and Safety 
+(EHS) policies, risk management, 
+accident	 investigation,	 and	 fire	
+safety. He stressed the importance 
+of  each  employee  maintaining 
+vigilance  and  taking  sustained 
+efforts	 to	 create	 a	 safe	 working	
+environment  for  themselves  and 
+their colleagues.
+
+DMSRDE Kanpur
+
+The  Defence  Materials  and 
+Stores  Research  &  Development 
+Establishment 
+(DMSRDE), 
+Kanpur, celebrated the 54th NSW 
+2025  during  4-10  March  2025. 
+The  event  was  inaugurated  by  
+Dr Mayank Dwivedi, OS & Director, 
+DMSRDE.  He  said  that  safety 
+should be a matter of concern for 
+every individual and expressed his 
+satisfaction that there are no major 
+safety issues in the establishment. 
+Shri  Kamlesh  Kumar,  Sc  'E'  & 
+Head,  QRS,  delivered  a  lecture 
+on  'Fire  &  Safety  Practices'.  A 
+mutual	 aid	 fire	 mock	 drill-cum-
+awareness  and  training  program 
+about	 firefighting	 equipment	 was	
+conducted	 by	 the	 fire	 &	 safety	
+experts  from  Govt.  Fire  Station, 
+Jajmau,  Kanpur, 
+and  COD, 
+Kanpur. Shri Kamlesh Kumar and 
+his  team  also  conducted  a  safety 
+
+quiz.  The  Director,  DMSRDE 
+distributed 
+the 
+winners.
+
+the  prizes 
+
+to 
+
+High 
+
+HEMRL, Pune
+Materials 
+Energy 
+Research  Laboratory  (HEMRL), 
+Pune, celebrated the 54th National 
+Safety  Week  during  4-10  March 
+2025.  Shri  Navaneeth  Mohan 
+N,  Joint  Director  of  Factories, 
+Karnataka, was the Chief Guest of 
+the event. Dr Himanshu Shekhar, 
+‘G’	 &	 Officiating	 Director,	
+Sc	
+addressed 
+the  gathering  and 
+stressed  the  importance  of  a  very 
+positive  safety  culture  and  urged 
+the  employees  to  keep  safety  the 
+priority  at  the  workplace  and 
+that  there  will  be  zero  tolerance 
+towards  safety  violations.  The 
+28th issue of the Safety, Health & 
+Environment  (SHE)  bulletin  was 
+released at the hands of the Chief 
+Guest.  Prizes  were  distributed  to 
+winners  of  various  competitions 
+and  for  the  best  articles  of  SHE 
+Bulletin 2025.
+
+The  Safety  Rolling  Trophy  for 
+the  year  2024-25  was  awarded  to 
+the  Igniter  Division  (Technical 
+Division) and the Security Division 
+(Support Division), respectively.
+
+Shri  Mohan,  the  Chief  Guest, 
+gave  a  talk  on  ‘Management  of 
+Human  Factors  and  Psychosocial 
+Issues’  and  covered  motivation 
+for  the  Frozen  Middle,  mindset, 
+standards, 
+values, 
+attitude, 
+
+18
+
+judgment,  motive,  ethics,  beliefs, 
+self-evaluation  & 
+evaluation, 
+and  prevention  of  risk  under  risk 
+management. 
+
+INMAS, Delhi
+
+The  54th  National  Safety 
+Week  2025  was  celebrated  at  the 
+Institute  of  Nuclear  Medicine 
+and  Allied  Sciences  (INMAS), 
+Delhi,  during  4-10  March  2025. 
+The  focus  was  on  building  a 
+positive safety culture, motivating 
+employees to make the workplace 
+safer, and promoting participation 
+in various safety activities. All the 
+employees  of  the  establishment 
+took  the  safety  and  health  pledge 
+as per the guidelines.
+
+A  technical  presentation  on 
+‘Safety  &  Well-Being  Crucial  for 
+Viksit  Bharat’  was  delivered  by  
+Dr Rajiv Narang, OS & Ex-Director, 
+CFEES,  DRDO,  on  7  March  2025 
+in the presence of senior scientists 
+and	staff.
+
+|   MAY 2025DRDO NEWSLETTEREVENTS
+
+IRDE, Dehradun
+
+Instruments 
+
+Research 
+& 
+Establishment 
+Development 
+(IRDE),  Dehradun, 
+celebrated 
+NSW  2025  during  4-10  March 
+2025. Shri Anup Dutt, Sc ‘E’, DEAL, 
+Dehradun,  delivered  a 
+lecture 
+to  sensitize 
+IRDE  employees 
+about	 industrial	 &	 fire	 hazards	
+and  mitigation  techniques.  He 
+highlighted the causes of industrial 
+&	 fire	 hazards	 &	 emphasized	 the	
+do's  and  don’ts  in  the  event  of 
+industrial	&	fire	incidents.	Dr	Ajai	
+Kumar Sahani, Sc 'G' & Secretary of 
+Safety Council, thanked Shri Dutt 
+for  his  very  informative  lecture. 
+He also thanked IRDE employees 
+&  Safety  Council  members  for 
+participation  in  safety  measures. 
+A  safety  quiz  was  also  organised 
+during the event for the employees 
+of  IRDE  to  show  the  importance 
+of safety in day-to-day activities. A 
+slogan  competition  on  safety  and 
+its  necessity  was  also  conducted, 
+and  the  three  best  slogans  were 
+awarded with prizes. 
+
+MTRDC, Bengaluru
+
+The  54th  NSW  2025  was 
+celebrated at the Microwave Tube 
+Research  &  Development  Centre 
+(MTRDC),  Bengaluru,  during 
+4-10,  March  2025.  Several  events 
+were  organised  during  the  safety 
+week.  The  MTRDC  safety  team 
+organised  a  safety  quiz  to  create 
+awareness of safety. All employees 
+of  MTRDC  were  given  hands-on 
+
+training	 in	 the	 operation	 of	 CO₂-
+based	 fire	 extinguishers	 by	 the	
+safety  team.  The  safety  pledge 
+was administered by Dr SK Datta, 
+Centre head, MTRDC. The pledge 
+was  followed  by  a  safety  lecture 
+on 
+‘Industrial  Safety  Aspects 
+and  Practices’  by  Shri  Ravi  L, 
+Additional	 Chief	 Safety	 Officer,	
+BEL, Bengaluru.
+
+NPOL, Kochi
+
+Naval 
+
+Physical 
+
+and 
+Oceanographic 
+Laboratory 
+(NPOL),  Kochi,  organised  54th 
+the  safety 
+to  enhance 
+NSW 
+awareness 
+employees. 
+among 
+Competitions  like  essay,  slogan, 
+cartoon, poster, and story in three 
+languages	 focusing	 on	 different	
+aspects  of  safety  were  conducted 
+for employees.  The National Safety 
+
+Day  was  celebrated  on  4  March 
+2025  with  a  series  of  events.  The 
+program	started	with	flag	hoisting	
+by the senior technician. This was 
+followed by a safety day pledge by 
+the  NPOL  fraternity.  The  pledge 
+was  led  by  Dr  D  Seshagiri,  OS 
+&	 Director,	 NPOL.	 A	 fire	 mock	
+drill  was  conducted  by  the  NPOL 
+firefighting	 section	 involving	 the	
+firefighting	 team	 from	 the	 Naval	
+Armament  Depot  (NAD)  and  the 
+Alwaye, Kerala State Fire Brigade.
+the 
+concluding day of the celebration, 
+a  quiz  on  safety 
+topics  was 
+conducted  by  Shri  RP  Raju,  Sc 
+‘F’.  The  quiz  was  followed  by  an 
+enlightening safety awareness talk 
+on  ‘Road  Safety’  by  Shri  Manoj, 
+RTO Enforcement. Director NPOL 
+distributed the prizes to winners.
+
+On  5  March  2025, 
+
+19
+
+|   MAY 2025DRDO NEWSLETTEREVENTS
+
+VIGILANCE AND SECURITY WORKSHOP
+
+IRDE, Dehradun
+
+was 
+
+Instruments 
+
+Research 
+& 
+Development 
+Establishment 
+(IRDE),  Dehradun,  conducted  a 
+Vigilance  and  Security  Awareness 
+on  26  March  2025.  A  lecture  on 
+‘Vigilance  on  FE  Procurement 
+Cases’ 
+by  
+Shri	 Rajiv	 Saini,	 Stores	 Officer,	
+IRDE.  The  lecture  focused  on 
+vigilance matters while making FE 
+procurement.  Another  lecture  on 
+‘Awareness  on  Security’  was  also 
+conducted  in  which  all  the  points 
+that  are  necessary  for  security 
+awareness were discussed.
+
+delivered 
+
+ISSA Delhi
+
+The 
+
+Institute 
+
+for  Systems 
+Studies  &  Analyses  (ISSA),  Delhi, 
+conducted  a  Vigilance  Awareness 
+lecture  on  13  March  2025.  Shri 
+Anurag  athak,  Sc  ‘E’  &  Vigilance 
+Officer,	briefed	about	the	different	
+vigilance  aspects  to  be  compiled 
+on  a  routine  basis  while  carrying 
+out	
+the	 official	 activities.	 He	
+delivered a lecture on the handling 
+of	
+classified	 documents	 and	
+information.
+
+DRDO PARTICIPATION IN VARIOUS EVENTS
+
+Techkriti 25, IIT, 
+Kanpur
+
+technical 
+
+Techkriti  2025,  Asia’s  largest 
+and 
+intercollegiate 
+festival,  was 
+entrepreneurial 
+held  at 
+IIT,  Kanpur,  during 
+27-30  March  2025.  Defence 
+Materials  and  Stores  Research 
+&  Development  Establishment 
+(DMSRDE),  Kanpur,  was 
+the 
+nodal  laboratory  for  organising 
+the 
+the  DRDO  exhibition  at 
+
+20
+
+|   MAY 2025DRDO NEWSLETTEREVENTS
+
+event.	 Chief	 of	 Defence	 Staff	
+(CDS)  General  Anil  Chauhan 
+inaugurated the event on 27 March 
+2025.  DFTM,  DHRD,  and  DIA-
+CoE (IIT, Kanpur) participated in 
+the  event.  DMSRDE  showcased 
+indigenously  developed 
+various 
+technologies, namely, BPJ Level-6, 
+ACF-based  CBRN  Suit  Mk-VI, 
+Advanced  Riot  Protection  Suit, 
+etc.,  in  the  event.  Dr  Gobardhan 
+Lal,	Sc	‘F’	was	the	nodal	officer	for	
+the event.
+
+Materials 
+
+Vendor Development 
+Programme-Cum- 
+MSME Expo2025 at 
+Kanpur
+Defence 
+
+and 
+Stores  Research  &  Development 
+(DMSRDE), 
+Establishment 
+Kanpur,  participated  in  Vendor 
+Development  Programme  cum 
+MSME  Expo  2025,  organised 
+18-19  February  2025 
+during 
+at  MSME-  Development  & 
+Facilitation	 Office,	 Fazalganj,	
+Kanpur 
+primary 
+(UP).  The 
+objective  of  the  program  was 
+to  enhance  the  development  of 
+MSEs  as  potential  vendors  for 
+central  government  ministries, 
+departments,  CPSUs,  and  state 
+PSUs. DMSRDE displayed various 
+
+participated in the event. DMSRDE 
+showcased  various  indigenously 
+developed  technologies,  namely, 
+BPJ  Level-6,  ACF-based  CBRN 
+Suit  Mk-VI,  Advanced  Riot 
+Protection  Suit,  etc.,  at  the  event. 
+Dr  Gobardhan  Lal,  Sc  'F'  was  the 
+nodal	officer	for	the	event.
+
+Viksit Bharat- Viksit 
+Uttarakhand
+Instruments 
+
+& 
+Research 
+Development 
+Establishment 
+(IRDE),  Dehradun,  participated 
+in 
+‘Viksit  Bharat  Viksit 
+Uttarakhand’ exhibition, organized 
+by  Tarmeh  Events  at  Nehru 
+Stadium,  Roorkee,  Uttarakhand, 
+during  4-6  March  2025.  The 
+‘Viksit 
+exhibition  was  part  of 
+Bharat  2047  –  Innovate  India,’  a 
+
+the 
+
+products  in  its  stall  during  the 
+Expo.  During  the  two  days  of 
+exhibition,  the  DMSRDE  stall 
+attracted  numerous  visitors  from 
+institutions, 
+industry,  academic 
+and PSUs. Dr Gobardhan Lal, Sc‘F’ 
+was the coordinator for the event. 
+
+Technex 25 at IIT-
+BHU, Varansi
+
+Technex’25, an annual technical 
+festival  organised  by  IIT  (BHU), 
+Varanasi,  during  28  February 
+2025  to  2  March  2025.  Defence 
+Materials  and  Stores  Research 
+&  Development  Establishment 
+(DMSRDE),  Kanpur,  was 
+the 
+nodal  laboratory  for  organizing 
+the  DRDO  exhibition  at 
+the 
+event.  DTTC  Lucknow,  DFTM, 
+DHRD,  and  DIA-CoE  (IIT-BHU) 
+
+21
+
+|   MAY 2025DRDO NEWSLETTEREVENTS
+
+government's 
+
+Govt.  of  India  initiative  with  the 
+vision  to  make  India  a  developed 
+nation by 2047. The main objective 
+of  the  exhibition  was  to  provide 
+a  platform  for  highlighting  the 
+development,  policies,  welfare 
+programs, shared innovations, and 
+department’s  joint  collaboration 
+for  promoting  Indian  industries. 
+The 
+schemes, 
+policies,  achievements,  priorities, 
+and 
+the 
+exhibition.  IRDE  was  the  nodal 
+laboratory for the DRDO pavilion. 
+Defence  Electronics  Application 
+Laboratory  (DEAL),  Dehradun, 
+also participated in the exhibition. 
+IRDE  and  DEAL  presented  a 
+range of exhibits at the exhibition. 
+The  DRDO  pavilion  was  awarded 
+the best presentation award in the 
+exhibition. Dr Vinay Kumar, Sc ‘E’ 
+of IRDE, received this award.
+
+dominated 
+
+plans 
+
+The  valedictory 
+function  was 
+graced  by  Hon’ble  Shri  Mauvin 
+Gudinho,  Minister  of  Transport, 
+Industries,  Panchayat  Raj,  and 
+Protocol, Government of Goa, who 
+delivered  an  inspiring  lecture  as 
+the  Chief  Guest.  The  DRDO  stall 
+attracted	
+attention	
+significant	
+from visitors, with students shown 
+keen  interest  in  learning  about 
+emerging technologies.
+
+NMRL’s participation 
+in Destination Goa 
+2025 exhibition
+
+Naval  Materials  Research 
+Laboratory  (NMRL),  Ambernath, 
+participated  in  3rd  Destination 
+Goa  2025  exhibition,  held  at 
+Panjim.  The 
+exhibition  was 
+inaugurated  by  Shri  Sadanand 
+Tanavade,  MP,  Rajya  Sabha, 
+Goa,  and  Shri  Rohan  Khaunte, 
+Minister of Tourism, Goa. Various 
+central government organizations, 
+including CBC, ICMR, GeM, ISRO, 
+GSI,  and  RBI,  along  with  DRDO 
+laboratories such as NMRL, NPOL, 
+DMRL,  and  DYSL,  participated 
+and  showcased  their  technologies 
+during  the  event.  The  Hon’ble 
+Chief Minister of Goa, Shri Pramod 
+Sawant,  visited  the  exhibition. 
+
+DR AMBEDKAR’S ANNIVERSARY CELEBRATION
+
+Naval Science & Technological 
+(NSTL),  Visakha-
+Laboratory 
+patnam, 
+organized  Dr  BR 
+Ambedkar 134th birth anniversary 
+celebration on 14 April 2025. The 
+Chief  Guests  Dr  RV  Haraprasad, 
+DS  &  DG  (NS&M);  Dr  Abraham 
+Varughese, OS & Director, NSTL; 
+the  Guests  of  Honour  Sri  MVS 
+Sarma, 
+  Ex-MLC,  Uttarandhra 
+Graduates Constituency;
+
+Dr Varughese suggested all to read 
+the books written by Dr Ambedkar 
+and opined that Ambedkar’s vision 
+is  most  appropriate  to  Amrit  Kal. 
+The  Chief  Guest  Dr  Haraprasad 
+summated the life of Dr Ambedkar 
+and  presented  him  as  the  best 
+
+visionary  that  we  have  in  the 
+entire world. Dr HN Das, Sc ‘G’ & 
+Chairman  Works  Committee;  Sri 
+Akiri Suneel, President, NSTL Civil 
+Employees Union; Sri Alok Chand, 
+Secretary, Works Committee; also  
+participated in the celebration.
+
+‘F’ 
+
+graced 
+
+Controller, 
+Office	
+
+Sri  B  Bala  Jawahar,  IDAS, 
+Area 
+Additional 
+(Navy),	
+Accounts	
+the 
+Visakhapatnam; 
+occasion.  Sri  V  Babu  Prasad, 
+Sc 
+opening 
+remarks;  Sri  U  Urban  Kumar, 
+S  ‘E’  &  President,  NSTL  SC/ST 
+Employees  Association  and  Sri 
+Amarjeet,  Member  NSTL  SC/ST 
+Employees Association addressed 
+the gathering. During his address,  
+
+gave 
+
+the 
+
+22
+
+|   MAY 2025DRDO NEWSLETTERHRD ACTIVITIES
+
+A DECADE OF CONTINUOUS LEARNING: IN-
+HOUSE TRAINING INITIATIVE AT DMRL
+
+response 
+
+In 
+to  guidelines 
+from  DHRD,  DRDO 
+received 
+HQrs  referring  to  directives  from 
+the  Department  of  Personnel 
+&  Training 
+(DOPT,  Min  of 
+Personnel)  in  2015,  DMRL  took 
+proactive  steps  to 
+in-
+house  training  programs  for  all 
+employees,  with  a  special  focus 
+on	 Group	 B	 and	 Group	 C	 staff.	
+This 
+introduced 
+as  part  of  a  broader  strategy  to 
+enhance workforce capabilities by 
+improving  Knowledge,  Skills,  and 
+Attitude (KSA).
+
+initiative  was 
+
+initiate 
+
+Recognizing  the  importance  of 
+structured  learning  in  a  rapidly 
+evolving  work  environment,  the 
+HRD  group,  DMRL  devised  and 
+implemented a systematic training 
+plan. 
+
+Over  the  past  decade,  this 
+
+initiative  has  grown 
+into  a 
+impactful 
+well-established  and 
+program.  The  results  speak  for 
+themselves:
+•  41 training programs conducted
+
+•  200+  hours  of 
+
+structured 
+
+learning 
+
+•  800+	
+
+employees	 benefited	
+
+across various disciplines
+
+One  of  the  key  highlights  of 
+this  initiative  has  been  its  cost-
+effectiveness	and	sustainability.	By	
+leveraging in-house subject matter 
+experts, the training sessions were 
+conducted  without  any  additional 
+expenditure,	 making	
+financial	
+this  a  self-sustaining  model  of 
+professional development. 
+
+The initiative not only provided 
+enhanced 
+with 
+employees 
+technical knowledge and problem-
+
+solving skills but also contributed 
+to	greater	efficiency	and	improved	
+work 
+across 
+performance 
+departments.
+
+initiative 
+
+contributed	
+
+As  we  celebrate  a  decade  of 
+success,  we  take  pride  in  this 
+transformative 
+that 
+has  strengthened  our  workforce 
+and	
+significantly	
+to  our  organizational  growth. 
+Moving forward, our commitment 
+remains  steadfast  in  continuing 
+this training framework, exploring 
+new areas of learning, and further 
+enhancing employee skill sets.
+
+With  ten  years  of  impactful 
+look 
+training  behind  us,  we 
+ahead  to  expanding  our  learning 
+programs  and 
+to 
+empower  our  employees  with 
+knowledge,	 skills,	 and	 confidence	
+to excel in their roles.
+
+continuing 
+
+TRAINING ON LOW CYCLE FATIGUE TESTING OF 
+METALLIC MATERIALS AT DMRL
+
+Defence Metallurgical Research 
+Laboratory  (DMRL),  Hyderabad, 
+conducted  a  training  program  on 
+'Low  Cycle  Fatigue  (LCF)  Testing 
+of  Metallic  Materials'  on  5  March 
+2025,  aimed  at  raising  awareness 
+about	 the	 significance	 of	 fatigue	
+under  cyclic  loading,  particularly 
+in the context of LCF testing.
+program 
+
+commenced 
+with  a  welcome  address  by  Shri 
+N  Chittibabu,  Sc 
+‘G’  &  Head, 
+Mechanical  Behavior  Group, 
+followed  by  a  course  overview 
+delivered  by  Shri  Shahnawaz 
+‘F’,  Joint  Course 
+Ahmad,  Sc 
+
+The 
+
+23
+
+|   MAY 2025DRDO NEWSLETTERHRD ACTIVITIES
+
+Coordinator.  During  the  session, 
+Shri  A  Sridhar,  Sc 
+‘F’,  Joint 
+Course  Coordinator,  delivered 
+comprehensive  presentation 
+a 
+various 
+covering 
+critical 
+aspects  of 
+fatigue.  Following 
+the  presentations,  participants 
+engaged 
+training 
+in  practical 
+through  a  visit  to  the  Advanced 
+Fatigue  Testing  Lab,  where  they 
+gained hands-on experience in LCF 
+
+testing.  A  total  of  42  participants 
+attended  the  session,  enhancing 
+technical  expertise  and 
+their 
+understanding  of  LCF 
+testing 
+procedures for metallic materials.
+
+ The training program is part of 
+DMRL’s ongoing in-house training 
+initiative,  launched  in  response 
+to 
+from  DHRD, 
+DRDO  HQr,  and  DOPT,  Min.  of 
+Personnel. This initiative, focused 
+
+guidelines 
+
+on  enhancing  the  knowledge  and 
+skills  of  Group  B  and  Group  C 
+staff,	has	conducted	41	programs,	
+benefiting	 over	 800	 employees	
+with  more  than  200  hours  of 
+structured  learning  over  the  past 
+decade. For a detailed overview of 
+this  initiative,  please  refer  to  the 
+article  ‘A  Decade  of  Continuous 
+Learning: 
+Training 
+In-house 
+Initiative at DMRL’ in this issue.
+
+SKILL DEVELOPMENT PROGRAM ON HEXAGON 
+DIGIMAT AND ADAMS TOOL AT DTTC, LUCKNOW
+
+A  two-day  workshop  under 
+the  skill  development  program 
+on  ‘Hexagon  Digimat  and  Adams 
+Tool’  was  organized  by 
+the 
+Defence Technology & Test Centre 
+(DTTC),  Lucknow,  during18-19 
+February  2025.  The  program  was 
+aimed  at  raising  awareness  about 
+the simulation tool and providing 
+basic  concepts  with  practical 
+sessions  to  industry  professionals 
+
+and  students.  The  event  was 
+inaugurated  by  Dr  Mayank 
+Dwivedi, OS & Director, DMSRDE, 
+the  Chief  Guest  of  the  workshop. 
+He	 emphasized	 the	 efforts	 being	
+taken  by  DRDO  to  develop  the 
+skilled  workforce  required  at 
+various  defence  and  aerospace 
+industries.  Dr  Ashish  Dubey,  Sc 
+‘F’  &  PD  DTTC,  addressed  the 
+participants  and  brought  out  the 
+
+role  of  DTTC  for  strengthening 
+MSMEs, startups, and academia’s 
+young aspirants. 
+
+Shri Amit Kumar, Sc ‘F,’ DTTC, 
+discussed the ‘Importance of Skill 
+Development for the Aerospace & 
+Defence  Sector’  and  stressed  the 
+significance	 of	 'Hexagon	 Digimat	
+in 
+&  Adams'  simulation  tools 
+industries along with the available 
+opportunities.
+
+24
+
+|   MAY 2025DRDO NEWSLETTERHRD ACTIVITIES
+
+COURSE ON MATLAB AND SIMULINK AT IRDE
+
+Instruments 
+
+Research 
+& 
+Development 
+Establishment 
+(IRDE),  Dehradun,  conducted  an 
+intensive	 five-day	 training	 course	
+on ‘MATLAB and Simulink’ during 
+3-7 March 2025. The course aimed 
+at	enhancing	technical	proficiency	
+and  innovation  among  employees 
+of  the  IRDE.  The  course  was 
+designed  to  be  highly  interactive, 
+with live demonstrations, research 
+&  development  problem-solving 
+sessions,  and  guided  projects.  An 
+expert trainer from Cranes Varsity, 
+Bangalore,  provided  personalized 
+guidance and ensured participants 
+gained practical exposure to using 
+MATLAB  and  Simulink  in  their 
+respective	fields.
+
+The 
+
+fundamental 
+
+training 
+and 
+
+covered 
+advanced 
+
+of  MATLAB 
+
+concepts 
+and 
+Simulink, MATLAB programming 
+and 
+scripting,  data  analysis, 
+real-time 
+visualization, 
+applications,  case  studies,  and 
+
+and 
+
+industry-relevant projects. During 
+the valedictory session, Shri Punit 
+‘G’  &  Additional 
+Vashisth,  Sc 
+distributed 
+Director, 
+certificates	to	the	participants.
+
+IRDE, 
+
+DRDO ADMIN CONCLAVE
+
+The  DRDO  Admin  Conclave 
+on  ‘Nurturing  New  Joinings  for 
+jointly 
+Future  Challenges’  was 
+organized  by  the  Directorate  of 
+Personnel  (DoP),  DRDO  HQrs, 
+and  the  High  Energy  Materials 
+Research  Laboratory  (HEMRL), 
+Pune,  at  HEMRL,  Pune.  The 
+conclave  was 
+inaugurated  by  
+Dr Sameer V Kamat, Secretary DD 
+R&D & Chairman DRDO, through 
+VC, who emphasized the need for 
+admins to be more proactive, being 
+administrative  backbones 
+the 
+for  achieving  the  organizational 
+goals.  The  inaugural  session  of 
+the  conclave  was  graced  by  Prof. 
+(Dr)  Prateek  Kishore,  DS  &  DG 
+(ACE), Dr Manu Korulla, OS & DG 
+(R&M);  and  Smt  U  Jeya  Santhi, 
+OS & DG (HR).
+
+More  than  150  admin  heads 
+
+senior	 officers	 handling	
+and	
+admin  matters  participated 
+in 
+the  conclave,  which  had  sessions 
+on  issues  related  to  new  joinings. 
+Director  Admins  of  cluster  DGs 
+also  gave  presentations  on  the 
+issues, initiatives, and suggestions 
+their  cluster.  The 
+related 
+
+to 
+
+conclave  was  also  addressed  by 
+speakers from DoP, Shri Shantam 
+Shukla, strategist, and Shri Sharad 
+Kumar Srivastava, joint secretary, 
+UPSC.  The  valedictory  address 
+of  the  Conclave  was  made  by  the 
+byVice Chancellor of DIAT, Pune, 
+and the Director,HEMRL.
+
+25
+
+|   MAY 2025DRDO NEWSLETTERHRD ACTIVITIES
+
+BRAINSTRORMING SESSION ON DEVELOPMENT 
+CUM PRODUCTION PARTNERS (DCPP) POLICY
+
+a 
+
+Services 
+
+conducted 
+
+The  Directorate  of  Interaction 
+for  Business 
+with 
+(DISB) 
+one-
+day    brainstorming  session  on 
+Development 
+cum  Production 
+Partners  (DcPP)  policy  on  24 
+March  2025  at  DRDO  Bhawan 
+with  the  objective  of  deliberating 
+on  the  experiences  of  the  DRDO 
+the  major 
+and 
+laboratories 
+DcPPs,  sharing  best  practices, 
+and  evolving  adaptability  as  per 
+today’s  scenario.  The  session  was 
+inaugurated by Secretary DDR&D 
+& Chairman DRDO. More than 100 
+delegates  from  DRDO,  industry, 
+the armed forces, SIDM, and MoD 
+participated  in  the  brainstorming 
+session. 
+
+ The panel discussion was a huge 
+success, as many queries came up 
+from  the  delegates,  bringing  out 
+plausible  ways  forward  for  the 
+future. The aspects of abnormally 
+low  bids  for  the  development 
+phase, infrastructure, and trained 
+
+manpower  with  the  DcPP,  supply 
+chain  management,  and  handling 
+
+of design iterations were discussed 
+in detail.
+
+HANDS ON TRAINING ON USAGE OF IGIST
+
+(IGIST) 
+
+Hands-on 
+
+the 
+training  on 
+for 
+usage  of  Indigenous  GIS 
+involving 
+Tri-Services 
+its  operations 
+through  server, 
+rich,  and  thin  clients  was  held  at 
+Defence Communication Network 
+(DCN),  New  Delhi,  during  17-21 
+March  2025.  The  training  was 
+imparted	 to	 the	 officers	 from	
+various  formations  of  the  Indian 
+Army. The hands-on training was 
+imparted  through  the  systems 
+connected in the DCN. 
+
+The  event  was  inaugurated  by 
+AVM  DS  Joshi  ACIDS  (ICT)  of 
+
+26
+
+|   MAY 2025DRDO NEWSLETTERHRD ACTIVITIES
+
+HQRD IDS. In his inaugural talk, 
+he  emphasized  the  importance  of 
+IGIST and its operations potential 
+in  Tri-Services.  Dr  Narayan 
+Panigrahi, OS & Project Director of 
+IGIST, emphasized the importance 
+
+of  the  indigenous  nature  of  the 
+IGIST and its technical superiority 
+operation 
+for 
+planning 
+heterogeneous 
+operations.  He  also  highlighted 
+the  capacity  of  the  system,  where 
+
+collaborative 
+in 
+
+more  than  1500  simultaneous 
+clients pan India can operate and 
+leverage  the  digital  map  services 
+encompassing  digital  topographic 
+maps, bathymetric charts, and air 
+navigation charts.
+
+COURSE ON STEMS – 23 AT ITM  
+
+Institute 
+
+The  mandatory 
+
+training 
+program 
+‘Specialized  Training 
+on  Essential  Management  Skills’ 
+(STEMS-23)  for  newly  promoted 
+‘G’  was  organized  by 
+Scientist 
+the 
+of  Technology 
+Management  (ITM),  Mussoorie, 
+during          17-28  February  2025 
+at  Dehradun.  The  course  was 
+organized  with  the  aim  to  orient 
+the  scientists  towards  leadership 
+excellence,  R&D  management, 
+and 
+strategic  management, 
+
+corporate  functions  of  DRDO.  A 
+total  of  121  participants  attended 
+the course. 
+
+A total of 26 topics were covered 
+in  45  sessions.  Important  topics 
+related to DPFM, DRDO-Industry-
+Academia Collaborations, the S&T 
+landscape, handling requirements 
+in 
+from 
+the  development  of  platforms, 
+futuristic 
+future 
+warfare, 
+leadership  skills,  etc. 
+were discussed during the training 
+
+technologies, 
+
+challenges 
+
+services, 
+
+course  by  distinguished  guest 
+faculties. 
+Course 
+
+participants  were 
+divided into 20 teams (syndicates) 
+for  deliberation  and  discussions 
+on  important  topics  related  to 
+DRDO and the defence sector. The 
+course was inaugurated by Dr Ajay 
+Kumar, Director, IRDE Dehradun, 
+on 17 February 2025. Smt U Jeya 
+Santhi,  DG  (HR),  interacted  with 
+the course participants during the 
+valedictory session.
+
+COURSE ON ASMAFT-20 AT DIBT
+
+a  4  day 
+
+Defence Institute of Biodefence 
+Technologies 
+(DIBT),  Mysuru 
+organised 
+course 
+Supply  Chain 
+on 
+Management  &  Food  Technology 
+(ASMAFT-20)' during 3-6 March, 
+2025 at DIBT, Mysuru. 16 numbers 
+
+'Advance 
+
+of	senior	Army	ASC	officers	along	
+with  3  faculties  from  ASC  Centre 
+& College, Bengaluru attended the 
+course.
+
+Besides  lectures  a  hands  on 
+trainings  were  provided  on  state-
+of-the-art and novel technologies to 
+
+render  comprehensive  knowledge 
+to	 the	 senior	 Army	 officers	 in	
+food  processing,  frozen  &  chilled 
+meat/chicken, quality control and 
+management. A visit to Karnataka 
+Milk  Federation  (KMF)  Dairy, 
+Mysore,  CFTRI,  Mysore  and  ITC 
+
+27
+
+|   MAY 2025DRDO NEWSLETTERRAJBHASHA ACTIVITIES
+
+foods  Pvt  Ltd  were  arranged  as  a 
+part of the course to understand the 
+different	 technological	 aspects	 of	
+milk  processing,  milling  of  grains 
+and  processing  and  production 
+of  RTE  foods  and  potato  chips,  
+respectively.
+
+The  programme  end  with 
+briefing	 about	 the	 programme	 by	
+Course Director, Dr Rajendran C, Sc 
+'E' and vote of thanks by Dr Sajeev 
+Kumar,  Sc  'G',  Head  (FDAPT). 
+Dr  Kumar  R,  Centre  Head,  DIBT 
+distributed	 the	 certificates	 to	 the	
+course participants.
+
+PXE ALONG WITH TOLIC CONDUCTED HINDI 
+WORKSHOP       
+
+and 
+
+Proof 
+
+Experimental 
+Establishment  (PXE),  Chandipur  
+organized the 97th Hindi workshop 
+along  with  TOLIC,  Balasore,  on 
+12  March  2025.  The  workshop 
+was inaugurated by Shri Subodha 
+Kumar Nayak, OS & Director, PXE. 
+Dr  HS  Panda,  Sc  ‘G’  &  Associate 
+Director,  Chief  Speaker  Prof. 
+Dilip  Kumar  Ghosh,  Principal, 
+FM  College,  Balasore  and  Guest 
+speaker Dr Sunil Kumar, Member 
+Secretary, TOLIC, Balasore. In the 
+
+inaugural  address,  the  Director, 
+PXE  mentioned  the  Rajbhasha 
+activities at PXE and his gratitude 
+towards  TOLIC,  Balasore,  and 
+appreciated	their	efforts	regarding	
+progressive  usage  of  Rajbhasha. 
+He  discussed  the  changing  form 
+of  Hindi  in  this  digital  era  and 
+expressed 
+importance  of 
+Rajbhasha.  He  mentioned  that 
+PXE	always	put	efforts	toward	the	
+progressive  usage  of  Rajbhasha 
+with enthusiasm. 
+
+the 
+
+Dr  Panda,  portrayed  the  role 
+of  TOLIC  &  the  importance  of 
+Rajbhasha  in  central  government 
+offices.	He	told	them	that	PXE	is	an	
+active member of TOLIC, Balasore, 
+and has been playing a crucial role 
+in  the  implementation  of  Hindi 
+in	 office	 activities	 and	 andalso	
+encouraged all the participants to 
+use  Rajbhasha  more  and  more  in 
+their	respective	offices.	Smt	Anita	
+Parida,  AO  &  OIC,  proposed  the 
+vote of thanks. 
+
+28
+
+|   MAY 2025DRDO NEWSLETTERRAJBHASHA ACTIVITIES
+
+RELEASE OF HINDI HOUSE JOURNAL 'SUVIGYA' 
+AT CAIR
+
+The	quarterly	Official	Language	
+Committee 
+Implementation 
+meeting	 of	 Centre	 for	 Artificial	
+Intelligence  &  Robotics  (CAIR), 
+Bengaluru,  was  organised  on  27 
+March  2025.  It  was  held  under 
+the  chairmanship  of  Shri  KR 
+Prasanna	Kumar,	OS	&	Officiating	
+Director,  CAIR.  In  this  meeting, 
+the	 progress	 of	 official	 language	
+implementation in the center was 
+reviewed  and  discussed,  and  the 
+CAIR  House  Journal 
+'Suvigya' 
+Twentieth  Edition  and  Fourth 
+
+Technical  Edition  were  released. 
+This  magazine  is  a  collection  of 
+technical articles, general articles, 
+
+poems,  etc.  contributed  by  the 
+officers	&	staff	of	CAIR,	and	it	also	
+reflects	the	activities	of	the	center.
+
+HINDI KARYASHALA AT DMSRDE
+
+A  Hindi  Karyashala 
+
+on 
+‘Bharatiya  Gyan  Parampara  aur 
+Hindi’  was  organised  by  Defence 
+Materials  and  Stores  Research 
+&  Development  Establishment 
+(DMSRDE),  Kanpur, 
+on  27 
+March  2025.  The  Karyashala 
+was  inaugurated  by  Dr  Mayank 
+Dwivedi, OS & Director, DMSRDE. 
+Prof.  Rakesh  Kumar  Shukla, 
+Department  of  Hindi,  VSSD 
+
+College,  Kanpur,  was  the  invited 
+speaker.  During  his 
+inaugural 
+address,  the  Director  appraised 
+the  Rajbhasha  activities  ongoing 
+in the laboratory and urged all the 
+officers	to	use	Hindi	in	their	work	
+field.	Dr	Shukla	elaborated	on	the	
+meaning/definition	of	bhasha	and	
+its  importance.  He  said  that  to 
+make  Hindi  a  globally  accepted 
+language,  our  S&T  knowledge 
+
+should be made available in Hindi. 
+He  also  spoke  about  Bharatiya 
+Gyan  Parampara,  which  is  based 
+on  our  ancient  scriptures  such  as 
+the  Vedas,  Puranas,  Upanishads, 
+etc. During the event, the technical 
+edition  of  DMSRDE's  annual 
+Hindi  magazine,  Navchintan, 
+was  also  released.  Shri  Harikesh 
+Yadav,	 Admin	 Officer,	 delivered	
+the vote of thanks.
+
+29
+
+|   MAY 2025DRDO NEWSLETTERPERSONNEL NEWS
+
+APPOINTMENT
+
+Director, DEAL
+
+Shri 
+MK 
+D h a k a , 
+Outstanding 
+Scientist, 
+is 
+a p p o i n t e d 
+as  Director, 
+D e f e n c e 
+Electronics 
+Applications 
+Laboratory  (DEAL),  Dehradun, 
+with	
+17	 March	
+from	
+2025.  Shri  Dhaka  joined  DEAL 
+in  the  October  1990  as  Sc  ‘B’ 
+Electronics 
+after 
+Fellowship Course-5 at IAT, Pune. 
+Thereafter,  he  has  worked  on 
+several  important  DRDO  projects 
+in	 the	 field	 of	 communication.	
+Some  of  the  projects  are  Meteor 
+Burst	Communication,	TCP	traffic	
+
+completing 
+
+effect	
+
+accelerator  for  satellite  medium, 
+Network  management  system  for 
+secure  Satcom  network,  Mobile 
+satcom  network  for  Low  intensity 
+conflicts,	 Integrated	 development	
+of	software	defined	radio	for	Navy,	
+Development  of  S-band  Hub  and 
+ground satcom terminals, Combat 
+Identification	 of	 Friend	 or	 Foe	
+(CIFF),  Development  of  Indian 
+Automatic	 Identification	 System	
+for Integrated Coastal Surveillance 
+System 
+(ICSS),  Realization  of 
+satellite terminals for load testing, 
+Realization  of  dedicated  satellite 
+Hub  for  future  satellite(s)  and 
+Advanced  Satcom  Technologies  & 
+Systems. 
+
+He  was  deputed  to  Indian 
+from 
+
+Antarctic  Station,  Maitri 
+
+providing 
+
+expedition. 
+
+November  1995  to  April  1996 
+as	 Radio	 Officer.	 During	 this	
+period  DEAL,  DRDO  took  charge 
+communication 
+of 
+Indian 
+to  multi-organisation 
+As 
+Antarctic 
+Associate  Director  of  Satcom 
+and  SDR  verticals  in  DEAL,  he 
+has  successfully  conceptualized 
+and  delivered  several  products 
+to  user  community.  For  his 
+significant	 contributions,	 he	 has	
+been awarded DRDO Agni Award 
+for  Excellence  in  Self-reliance  in 
+years  2005,  2010  &  2018;  DRDO 
+Performance  excellence  award 
+2018 for SDR-NC; DRDO Scientist 
+of  the  Year  2019;  and  Laboratory 
+Group  Technology  awards 
+for 
+years 2014, 2016 & 2017.
+
+INMAS Scientist Awarded with Leadership Program in UK by DST, India
+
+The  Department  of  Science  and  Technology  (DST), 
+in 
+collaboration with the British Council, launched the ‘Women in Space 
+Leadership Programme (WiSLP)’ as part of the UK-India Education 
+and Research Initiative (UKIERI). The prestigious program aims to 
+empower	women	researchers	in	the	field	of	space	and	allied	sciences.	
+250 women researchers from Indian R&D institutes and academia 
+participated in Phase 1 training in India; out of them, 15 scientists 
+were selected, with the approval of the Secretary, DST, to attend the 
+advanced Phase 2 training in the United Kingdom. Dr Shuchi Bhagi, 
+Sc ‘D’ Institute of Nuclear Medicine and Allied Sciences (INMAS), 
+Delhi, successfully completed Phase 1 training at IIT, Hyderabad, held in February 2025, and was the sole 
+DRDO representative selected for Phase 2 training. She was a part of the Indian contingent that underwent 
+advanced training at Coventry University, UK,, during 17-19 March 2025. The advanced program aimed to 
+enhance the research skills, leadership capabilities, and international collaborations.
+
+Best Paper Award
+
+Dr Sushanth Kumar Chotray, Sc ‘F’ from the Microwave Tube Research & Development Centre (MTRDC), 
+Bengaluru,  was  awarded  the  best  paper  award  at  the  4th  International  Conference  on  Range  Technology 
+(ICORT-2025) organised by Integrated Test Range (ITR), Chandipur, during 6-8 March, 2025, for his paper 
+‘Harmonic	Generation	in	Modified	Relativistic	Magnetron'.
+
+30
+
+|   MAY 2025DRDO NEWSLETTERPERSONNEL NEWS
+
+Commendation from Chief of the Air Staff (CAS) 
+On	 the	 occasion	 of	 Republic	 Day	 2025,	 Mr	 Ashutosh	 Saxena,	 Sc	 'D'	 from	 the	 O/o	 Scientific	
+Advisor	to	Chief	of	the	Air	Staff	(CAS)	has	received	the	coveted	commendation	from	Chief	of	the	
+Air	Staff	for	his	exceptional	performance	and	consistently	delivering	exceptional	results	for	the	
+Indian Air Force.
+
+Higher Qualification Acquired 
+
+Ms Sakshi Verma., Sc ‘B’, Naval Physical and Oceanographic Laboratory (NPOL), Kochi, has 
+been  awarded  a  PhD  from  Delhi  Technological  University  for  the  thesis  titled  ‘Studies  on 
+Graphene Oxide-based Nanocomposites and their Applications'.
+
+DRDO WALKATHON
+
+The DRDO Sports Board (DSB) 
+at  DRDO  Hqrs,  New  Delhi,  is 
+entrusted with the responsibility of 
+organising various sports activities 
+at	different	laboratories	of	DRDO.	
+The  DRDO  Sports  Board  is  aided 
+by  4  zonal  councils,  namely  the 
+South Zone Sports Council (SZSC), 
+the  North  Zone  Sports  Council 
+(NZSC),  the  Central  Zone  Sports 
+Council  (CZSC),  and  the  West 
+Zone Sports Council (SZSC). 
+
+Various  sports  activities  are 
+organised	in	different	laboratories	
+of  DRDO  at 
+their  respective 
+places  throughout  the  year  for 
+the  promotion  of  sports.  Under 
+the  aegis  of  the  DSB,  a  4  km 
+walkathon 
+for  DRDO  Hqrs 
+employees was organised at Nehru 
+Park,  Chanakyapuri,  Delhi,  to 
+create awareness about physical & 
+mental health, well-being, and the 
+implementation of sportsmanship 
+
+spirit at the workplace. 
+
+The  event  was  attended  by 
+Secretary DD R&D and Chairman 
+Generals, 
+Director 
+DRDO, 
+Directors,  Senior  Scientists,  and 
+employees  of  DRDO  Hqrs.  More 
+than  200  participants  joined  the 
+Walkathon. 
+
+Dr Sunita Godara, former Asian 
+Marathon  Champion,  gave  health 
+&	 fitness	 tips	 and	 instructed	 all	
+participants during the session.
+
+31
+
+|   MAY 2025DRDO NEWSLETTERSOCIAL ACTIVITIES
+
+SOCIAL ACTIVITIES AT NPOL
+
+Naval 
+
+Physical 
+
+Eye Check-up Camp       
+and 
+Oceanographic 
+Laboratory 
+(NPOL),  Kochi,  organised  an  eye 
+check-up  camp 
+in  cooperation 
+with  Little  Flower  Hospital  and 
+Center,  Angamaly, 
+Research 
+during 11-12 March 2025 at NPOL 
+and  on  27  March  2025  at  UARF 
+Kulamavu. Around 350 permanent 
+employees  and  sanitary  workers 
+utilised  this  facility.  The  free 
+checkup 
+consultation 
+by  an  ophthalmologist,  vision 
+refraction  &  glass 
+checking, 
+prescription,  and  eye  pressure 
+checking. 
+
+includes 
+
+the 
+
+introduction  of 
+
+Dr  Rema  Devi  M,  Sc 
+
+‘G’, 
+Chairperson,  Works  Committee, 
+the 
+gave 
+camp.  Smt  Miny  G,  Sc 
+‘G’  & 
+Director  (S&T)  inaugurated  the 
+function. Shri K Mohanan, Sc ‘H’, 
+Director (Management), made the 
+felicitation speech. 
+
+from 
+
+The  doctors,  leading  a  medical 
+the  Little  Flower 
+team 
+Hospital  and  Research  Center, 
+Angamaly, briefed the importance 
+of  detecting  and  taking  timely 
+medical treatment for glaucoma as 
+part of the World Glaucoma Week 
+observance. 
+
+Shri  Tinto  Chacko,  Tech  ‘B’, 
+Secretary,  Works  Committee, 
+made the vote of thanks. The event 
+was  coordinated  by  the  NPOL 
+Works Committee.
+
+Health Check-up 
+Camp For Women 
+Employees
+
+As  part  of  the  International 
+Women's  Day  Celebration,  Naval 
+and  Oceanographic 
+Physical 
+
+(NPOL), 
+
+  Kochi 
+Laboratory 
+organised a Health Check-up camp 
+for lady employees in co-operation 
+with  Thrikkakara  Municipal  Co-
+operative  Hospital    on  26  March 
+2025.
+
+Dr  Rema  Devi  M,  Sc  'G'  & 
+Chairperson,  Works  Committee, 
+NPOL welcomed the gathering and 
+greeted  wishes  to  every  woman 
+gathered  there.  Shri  Vasudevan, 
+
+camp 
+
+‘H’  &  Director  (Systems) 
+Sc 
+inaugurated 
+and 
+the 
+emphasised  the  importance  of 
+health of women in every walk of 
+life  considering  the  multitasking 
+roles performed by them.
+
+Shri  Tinto  Chacko,  Tech  ‘B’, 
+Secretary,  Works  Committee 
+proposed the vote of thanks. The 
+event  was  co-ordinated  by  the 
+Works Committee, NPOL.
+
+32
+
+|   MAY 2025DRDO NEWSLETTERVISITS
+
+VISITORS TO DRDO LABORATORIES
+
+ARDE, Pune
+
+  Lt  Gen  Navneet  Singh  Sarna, 
+AVSM,  SM,  VSM,  Commandant, 
+visited 
+of  Artillery, 
+School 
+Armament 
+and 
+Research 
+Development 
+Establishment 
+(ARDE),  Pune,  on  7  March  2025, 
+along  with  two  accompanying 
+officers	 of	 the	 rank	 of	 colonel.	
+Shri  A  Raju,  OS  &  Director, 
+ARDE,  briefed  him  about  various 
+ARDE  ongoing  projects.  Detailed 
+presentations  were  made  on 
+ATAGS,  the  Pinaka  System,  155 
+mm  Bourrelet  Ammunition,  and 
+the  155  mm  Ramjet  Projectile 
+by  respective  groups.  A  static 
+display  of  ATAGs  and  Pinaka 
+was  also  conducted  along  with  a 
+visit  to  the  EM  Rail  Gun  Facility.
+  Thirty-seven 
+Indian  Navy 
+officers	undergoing	the	NW&MTC	
+course  at  MILIT,  Pune,  along 
+with	 one	 directing	 staff	 member,	
+visited  ARDE  on  12  March  2025. 
+The  visitors  were  briefed  about 
+ARDE, 
+a  presentation-
+cum-demonstration  on  infantry 
+weapons  was  given.  The  visit 
+introduction 
+also 
+to  the  EM  Rail  Gun  and  a  visit 
+to  the  Static  Exposition  Hall.
+  Six	service	officers	of	the	Indian	
+Air  Force  undergoing  Armament 
+&  Disposal  Course  19  (AADC)  at 
+14  Tettra  School,  Amla  Depot, 
+MP,	along	with	one	directing	staff	
+member  of  the  rank  of  Wg  Cdr, 
+visited  ARDE  on  13  March  2025. 
+The  visitors  were  briefed  about 
+ARDE,  and  a  visit  to  the  Static 
+Exposition  Hall  was  arranged. 
+A  visit 
+the  Air  Delivered 
+Munition  (ADM)  Group  and  APP 
+&  CSS  Group  was  also  arranged.
+
+included  an 
+
+and 
+
+to 
+
+33
+
+|   MAY 2025DRDO NEWSLETTERVISITS
+
+Materials 
+
+  24	 officers	 (including	
+four		
+foreign  nationals)  of  the  rank  of 
+lieutenant  colonel,  Major  and 
+Captain 
+undergoing  Advance 
+Materials  Management  (AMM) 
+Course  Sr.  No.  54  at  the  College 
+Management 
+of 
+(CMM),  Jabalpur,  along  with  one 
+directing	 staff	 member,	 visited	
+ARDE  on  26  March  2025.  The 
+visitors were briefed about ARDE, 
+and  a  demonstration  of  small 
+arms  was  given.  An  interactive 
+session  on  defect  investigation 
+of  the  barrel  was  conducted.
+  One hundred eighteen student 
+officers	 of	 the	 rank	 of	 Lieutenant	
+undergoing	Young	Officers	Course	
+Sr.  No.  3002  at  the  School  of 
+Artillery,  Devlali,  Nashik,  along 
+with	two	directing	staff	members,	
+visited  ARDE  on  27  March  2025. 
+The  visitors  were  briefed  about 
+ARDE,  and  a  presentation  on 
+155mm  Bourrelet  Ammunition 
+was  given.  A  demonstration  of 
+small  arms  was  arranged 
+for 
+the  visitors.  A  static  display  and 
+demonstration of ATAGS & Pinaka 
+were  also  arranged  at  the  end.
+
+DEAL, Dehradun
+
+Bajpai,  GM 
+Ms  Deepa 
+along  with 
+BEL,  Panchkula 
+BEL  Panchkula  team 
+  visited 
+Defence  Electronics  Applications 
+Laboratory (DEAL), Dehradun, on 
+4  April  2025.  She  was  greeted  by 
+Shri  Manoj  Kumar  Dhaka,  OS  & 
+Director,  DEAL  along  with  DEAL 
+team.	The	visit	marked	a	significant	
+opportunity for direct engagement, 
+in-depth  review  and  valuable 
+feedback  on  ongoing  projects  & 
+activities  at  BEL  including  VLF 
+receiver,    Manpack  SDR,  CTCS  & 
+NATSAT.  GM BEL informed that 
+BEL  has  received  large  amounts 
+of  production  orders  from  users 
+
+and  a  number  of  budgetary 
+proposals  are  in  considerations 
+for DEAL developed products. She 
+
+appreciated  the  support  of  DEAL 
+towards Transfer of Technology of 
+CTCS.
+
+34
+
+|   MAY 2025DRDO NEWSLETTERVISITS
+
+DIHAR, Leh
+
+Lt.  Gen.  Hitesh  Bhalla,  UYSM, 
+SC**,  SM,  VSM,  GOC  14  Corps, 
+visited  Defence  Institute  of  High 
+Altitude  Research  (DIHAR),  Leh, 
+on 5 April 2025. Dr OP Chaurasia, 
+Centre Head, DIHAR, briefed him 
+about  the  various  R&D  activities 
+being undertaken by DIHAR, after 
+which  he  visited  the  technology 
+demonstration  cum  experimental 
+fields	 of	 DIHAR	 and	 took	 special	
+interest  in  the  solar-based  space 
+heating  technology,  greenhouse 
+technology,  and  double-humped 
+camels. He appreciated DIHAR for 
+the  pioneering  yeoman  service  in 
+high-altitude research to empower 
+the armed forces and the people of 
+Ladakh.
+
+DMRL, Hyderabad
+On  March  24,  2025, 
+
+the 
+Defence  Metallurgical  Research 
+Laboratory  (DMRL),  Hyderabad, 
+had  the  privilege  of  hosting  an 
+tour: 
+instructional-cum-study 
+Course  Ser  OAAE-60 
+for  25 
+officers,	 accompanied	 by	 one	
+directing	
+from	
+EME  School,  Vadodara.  The  visit 
+aimed to provide a comprehensive 
+overview  of  DMRL's  research 
+capabilities  and  the  pivotal  role 
+it  plays 
+in  advancing  defence 
+technologies.
+
+staff	 member	
+
+Dr  Ashish  Pathak,  Sc 
+
+‘E’, 
+delivered	 an	 insightful	 briefing	
+laboratory's  mandate, 
+on 
+the 
+current 
+initiatives, 
+research 
+established  technologies,  and  key 
+advancements.	 The	 briefing	 also	
+highlighted  the 
+importance  of 
+collaboration  between  research 
+institutions and the Indian Armed 
+Forces.
+
+During	the	tour,	the	officers	had	
+the opportunity to explore various 
+
+in 
+
+scientists, 
+
+technical  divisions,  where  they 
+were  exposed  to  the  laboratory’s 
+infrastructure 
+cutting-edge 
+and  ongoing  research  projects. 
+Engaging in interactive discussions 
+with  DMRL’s 
+the 
+officers	 demonstrated	 a	 keen	
+interest 
+laboratory's 
+the 
+innovative 
+research,  products, 
+and  technologies.  They  expressed 
+their  appreciation  for  DMRL's 
+contributions  to  the  development 
+of advanced materials for defense 
+applications.
+This	
+
+industrial	 tour	 offered	
+a  valuable  opportunity  for  the 
+theoretical	
+officers	
+real-world 
+knowledge 
+
+to	 connect	
+
+with 
+
+applications, 
+providing 
+unique  insights  into  the  latest 
+in  metallurgical 
+advancements 
+research  and  its  implications  for 
+the defence sector.
+
+DMSRDE, Kanpur
+
+Shri  RV  Hara  Prasad,  DS  & 
+DG 
+(NS&M),  visited  Defence 
+Materials  and  Stores  Research 
+&  Development  Establishment 
+(DMSRDE), 
+on 
+17  February  2025.  He  was 
+accompanied  by  Dr  Seshagiri 
+Duvvuri,  OS  &  Director  NPOL; 
+Shri  VS  Shenoi,  OS  &  Director, 
+DLJ; and Shri SK Panigrahi, Sc ‘G’ 
+& Director (PM) O/o DG (NS&M). 
+
+Kanpur, 
+
+35
+
+|   MAY 2025DRDO NEWSLETTERVISITS
+
+technology 
+
+Dr  Mayank  Dwivedi,  OS  & 
+Director, DMSRDE, welcomed the  
+dignitaries.  Director,  DMSRDE 
+gave  a  presentation  highlighting 
+the  laboratory’s  vision,  mission, 
+charter,  and 
+focus 
+areas.  DG  (NS&M)  conducted 
+an  EB  meeting  for  6  projects  (4 
+ongoing and 2 closed) of DMSRDE 
+and  a  technical  review  of  2 
+ongoing projects whose PDC is in 
+the current FY. He met with JCM 
+and  DMSRDE  Works  Committee 
+members.  He  also  visited  DTTC, 
+its 
+Lucknow, 
+activities  at  both  the  Amausi  and 
+Nadarganj campuses.
+
+reviewed 
+
+and 
+
+NPOL, Kochi
+
+Dr  Samir  V  Kamat,  Secratery, 
+DD  R&D  &  Chairman,  DRDO 
+and 
+visited  Naval  Physical 
+Oceanographic 
+Laboratory 
+(NPOL),  Kochi  during  10-11  April 
+2025.  Secretary,  DD  R&D  and 
+the 
+Chairman,  DRDO  visited 
+site	
+for	 establishing	
+the  proposed  DRDO  test  facility 
+at  Poovar,  near  Vizhinjam  Port, 
+Thiruvananthapuram  on  10  April 
+2025. 
+
+identified	
+
+He  was  accompanied  by  Dr  K 
+Rajalakshmi  Menon,  DS  &  DG 
+(Aero), Shri R V Hara Prasad, DS 
+&  DG  (NS&M),  Dr  Jaiteerth  R 
+Joshi,  OS  &  DG  BrahMos,  Dr  D 
+Seshagiri,  OS  &  Director,  NPOL, 
+Kochi and Dr Ramana Murthy SV, 
+OS & Director, GTRE, Bengaluru. 
+The  visited  team  also  included 
+team,  Dr 
+ATTROSC  project 
+Biswajeet Choubey, Director , Civil 
+Works & Estates. 
+
+Senior	 Officials	 from	 NPOL	
+
+and CCE (R&D) gave presentation 
+and  briefed  about  the  details  of 
+land	identified	for	establishing	the	
+
+facility,  the  test  facilities  planned 
+onshore	&	offshore	and	on	the	way	
+ahead.
+
+Please mail your feedback and suggestions at:  
+director.desidoc@gov.in; drdonl.desidoc@gov.in; 
+Contact at: 011-23902403; 23902472; Fax: 011-23819151
+
+36
+
+Published by DESIDOC, Metcalfe House, Delhi-110 054
+
+|   MAY 2025DRDO NEWSLETTER

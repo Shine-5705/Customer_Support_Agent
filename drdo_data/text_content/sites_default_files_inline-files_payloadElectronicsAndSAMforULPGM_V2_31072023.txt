@@ -1,0 +1,121 @@
+Payload electronics and SAM System for UAV Launched Precision Guided Missile V2 
+
+(ULPGM-V2) 
+
+I.  PAYLOAD ELECTRONICS SYSTEM 
+
+Introduction  
+
+The payload electronics under consideration is a micro controller based intelligent system which 
+
+is  interfaced  with  day/night  seeker  system  (EO),  RF  communication  transceiver,  Control  unit, 
+
+Aerial Platform, as well as manages the V2 missile Power on-board. Its configuration consists of 
+
+two electronic boards which are electrically interfaced with rest of the missile. The MCU based 
+
+board  (mother-board)  transmit  and  receive  commands.  The  payload  mother-board  will  have 
+
+number of independent sensors/logic's on-board to perform the desired operations with EO and 
+
+SAM electronics.  
+
+Payload Modules comprises of following: - 
+
+a.  Power Electronics Board 
+
+b.  Release Sense & Safe-Arming Unit 
+
+c.  RF Electronics & Wireless transceiver Board 
+
+d.  Mother-Board Electronics 
+
+II.  SAM ELECTRONICS SYSTEM 
+
+Missile safety and operational effectiveness are closely linked to the way the explosive warhead 
+
+is initiated. Modern munitions demand enhanced safety over the complete logistical and tactical 
+
+cycles. SAM is equipped with three safeties namely, ARM, CHARGE and FIRE. It operates only 
+
+on getting or generating specific input based on various events or timings of flight trajectory. The 
+
+interlocks  are  bound  to  minimum  three  totally  independent  physical  or  time  events  of  flight 
+
+trajectory  of  missile.  The  health  of  SAM  can  be  ascertained  during  its  operational  lifetime 
+
+without compromising safety. 
+
+III.  Terms and Conditions for EOI 
+
+a.  Documents  to  be  submitted  with  EoI.  The  company  must  provide  details  about 
+
+company and documents in support of their claim. Any additional documents as required  
+
+      by DRDO shall be sought based on request received from the interested industries. 
+
+b.  The  industry  should  essentially  have  experience  in  fabrication  and  qualification  of  
+
+        on-board electronics/ similar system. 
+
+ 
+ 
+ 
+ 
+c.  The  Industry  should  also  have  skilled  manpower,  established  quality  control  team, 
+
+willingness and capability to setup specialized infrastructure (Load test facilities, FRA,    
+
+Recorder, Power Supplies etc). 
+
+d.  The Other Terms and conditions for industry seeking ToT are as per the ‘DRDO Policy 
+
+and Procedures for ToT’ for Category ‘A’. 
+
+Interested  Industries  are  requested  to  forward  their  Expression  of  Interest  (EoI)  to  Director  TBRL, 
+Chandigarh with a copy to Director DIITM, DRDO HQ on following address: - 
+
+To, 
+
+Director  
+Terminal Ballistic Research Laboratory (TBRL)  
+Sector-30  
+Chandigarh-160030 
+Phone: 0172-2307100, 2657674 
+Fax: 0172-2657506 
+
+Email ID: director [dot]tbrl[at]gov[dot]in 
+
+Copy to 
+
+Director 
+Directorate of Industry Interface & Technology Management (DIITM) 
+Room No. 447, DRDO Bhawan, DRDO HQrs, Rajaji Marg, New Delhi-110011 
+Phone: 011-23013209/23015291 
+Fax: 011-23793008 
+
+Email: diitm[dot]hqr[at]gov[dot]in 
+
+Industries are requested to enclose supporting document with EoI as per Appendix ‘D” of DRDO Policy 
+and 
+https://www.drdo.gov.in/sites/default/files/inline-
+files/drdo%20Policy%20%26%20Procedure%20%20for%20ToT.pdf 
+
+for  ToT 
+
+Procedure 
+
+available 
+
+at 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

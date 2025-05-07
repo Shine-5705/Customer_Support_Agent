@@ -1,0 +1,257 @@
+Research Problems for DIA-CoEs 
+
+ 
+Introduction 
+
+DRDO  is  funding  multi-institutional  and  multi-disciplinary  directed  research  projects  to  Academia 
+
+and  National  Research  Institutes  to  develop  cutting  edge  defence  technologies.  The  funding  is 
+
+focused  on  translational  research  for  developing  the  crucial  and  futuristic  technologies  in  defined 
+research  domains  through  a  network of  DRDO  Industry  Academia  –  Centre  of  Excellences  (DIA-
+CoEs) at premier and capable academic institutes and universities in the country.   
+
+To  foster  the  research  in  academia,  DFTM  invites  project  proposals  on  problem  statements  in 
+multiple areas, that will be taken up through DIA-CoEs for directed research. Received proposals 
+will  be  scrutinized  by  DFTM  and  forwarded  to  respective  DIA-CoEs  as  per  research  verticals  for 
+further evaluation. 
+
+Forms for submission are provided at drdo.gov.in/drdo/adv-tech-center  
+
+Fully furnished project proposals shall be submitted to DFTM through techforesight.drdo@gov.in  
+
+Research Problems for DIA-CoEs  
+
+3 
+
+ 
+ 
+ 
+ 
+Development of FPGA IP Core for 
+Eigen Vector Decomposition and 
+Singular Value Decomposition 
+
+Technology Area 
+Electronic Warfare 
+
+Technology Category 
+Single Processing 
+
+Brief of the Research Problem  
+Super  resolution  algorithms  for  DOA  Estimation  like  MUSIC  ,  ESPRIT  or  their  variants  require 
+Eigen Vector and Singular Value Decomposition of Data Covariance Matrix estimated using signal 
+samples acquired from multiple antennas. In EW, each channel has to be processed in parallel and 
+therefore there is a need for efficient FPGA IP Core for EVD and SVD. Number of Antennas could 
+be 2, 5, 6 or 7. It is also expected that number of sources to be estimated in the IP Core using the 
+computed Eigen Values making use of Information Theoretic Criteria like AIC and MDL.  
+
+Major Objectives  
+Development of FPGA IP Core for Eigen Vector Decomposition and Singular Value Decomposition 
+capable of Real Time Performance. 
+
+Expected Deliverables 
+FPGA IP Core along with Profiling Results, Test Results, Technical Report and Computational 
+Requirements for Xilinx Kintex Ultrascale, Intel Stratix 10 or Xilinx Versal Computation Engines.  
+
+Figures of Merit  
+Parameter: Time taken for Eigen Value Eigen Vector Decomposition.  
+
+4   
+
+Research Problems for DIA-CoEs 
+
+ 
+Single Station Location Algorithm 
+for HF DF using Azimuth Bearing, 
+Elevation Bearing and Ionospheric 
+Model Software 
+
+Technology Area 
+Electronic Warfare 
+
+Technology Category 
+COMINT  
+
+Brief of the Research Problem  
+In High Frequency Direction Finding (HF DF) Stations, geolocation of distant HF transmitters need 
+to  be  carried  out  using  estimated  Azimuth  and  Elevation  bearings.  The  mode  of  propagation 
+assumed  is  Ionospheric  or  Sky  Wave.  The  Virtual  Height  of  Ionospheric  Layer  that  caused  total 
+internal reflection  of  Sky Wave  signal is dependent  on  Location, Time  of  the  Day,  Season  of  the 
+Year,  Sun  Spot  Number,  Frequency  of  Signal  etc.  Scope  of  Work  is  to  identify  and  procure 
+Ionospheric  Model  Software.  Further  use  information  like  Frequency  of  Signal,  Azimuth  Bearing, 
+Elevation Bearing and Virtual Height obtained using Ionospheric Model Software for estimating the 
+geolocation of HF Transmitter.  
+
+Major Objectives  
+Development of Single Station Location Algorithm for HF DF using Azimuth Bearing, Elevation 
+Bearing and Ionospheric Model Software.  
+
+Expected Deliverables 
+Ionospheric Model Software, Simulation Results with Profiling of Execution Time, Tool for test 
+signal generation, Technical Report and Geolocation Algorithm Description along with 
+Computational Requirements and Code.  
+
+Figures of Merit  
+Parameter: Accuracy of Single Station Location of HF Emitter  
+
+Research Problems for DIA-CoEs  
+
+5 
+
+ 
+Classification of LPI Signals into Burst 
+and FH with Hop Rate Estimation in 
+Direction Finder System using Deep 
+Learning/Machine Learning 
+
+Technology Area 
+Communication  
+
+Technology Category 
+Electronic Warfare 
+Brief of the Research Problem  
+DLRL  Direction  Finder  (DF)  System  currently  uses  azimuth  bearings  for  identifying  Frequency 
+Hopper  Signals  and  also  classify  detected  signals  among  three  categories  viz.,  Fixed  Frequency 
+(FF), Frequency Hopper (FH) and Burst. The DF System scans in frequency domain and performs 
+DF  of  all  detected  signals.  Since  signal  processing  is  frame/batch  based  and  performed  in 
+frequency domain, in parallel for each of the channels, the accuracy of time duration estimation for 
+bursts  and  individual  hops  is  limited  due  to  which  Hop  Rate  estimates  are  inaccurate  for  fast 
+hoppers.  It  is  required  to  develop  an  algorithm  based  on  Deep  Learning/Machine  Learning  using 
+time domain IQ data from each of the two or five DF antennas to classify the received signals into 
+FF,  FH  and  Burst.  Training  data  needs  to  be  generated  by  appropriate  mathematical  models  that 
+should  allow  to  introduce  Noise  and  Fading.  Signal  generated  should  allow  for  multiple  signals 
+present simultaneously at different frequencies within the instantaneous bandwidth. It is expected to 
+be able to estimate Hop and Burst durations of the order of 200 micro seconds. The performance of 
+the proposed approach need to be validated using Simulations and also test on Workstation/Laptop 
+or PC using data that is generated or captured using commercial phase coherent signal acquisition 
+hardware  with  minimum  2  channels.  DLRL  seeks  solutions  with  Academic  Institutions  to  develop 
+and implement the Complex Statistical Digital Signal Processing Algorithms.  
+
+Major Objectives  
+Classification of LPI Signals into Burst and FH with Hop Rate Estimation in Direction Finder System 
+using Deep Learning/Machine Learning  
+
+Expected Deliverables 
+Deep Learning Model with Parameters, Simulation Results with Profiling of Execution Time, Tool for 
+training  and  test  signal  generation,  Technical  Report  and  Algorithm  Description  along  with 
+Computational Requirements and Code  
+
+Figures of Merit  
+Parameter: Percentage of correct classification and Accuracy of Hop Rate Estimation  
+
+6   
+
+Research Problems for DIA-CoEs 
+
+ 
+Geolocation of Terrestrial Radio 
+Emitters from RF Payloads on LEO 
+Satellites 
+
+Technology Area 
+Space Technologies  
+
+Technology Category 
+Electronic Warfare  
+
+Brief of the Research Problem  
+3D  Hawk  Eye  from  USA,  is  a  “Data  as  a  Service”  Product,  that  is  made  recently  available  to 
+subscribers  for  Situational  Awareness  through  Space  Based  EW.  It  consists  of  constellations  of 
+satellites  in  Formation  Flying  in  LEO  &  it  is  projected  that  with  multiple  constellations  in  multiple 
+orbits, revisit time for surveillance of a given area of interest would be close to 15 minutes in the 
+foreseeable  future.  Targets  include  AIS,  ADS-B,  Military  Radio/Radars.  Performance  data  with 
+respect to geo location accuracies is not publically available in the open domain. Similar systems 
+(Kleos etc.) are being commissioned by some other countries in Europe. Difference is number and 
+geometry  of  satellites  in  Formation  Flying.  Some  use  three  Satellites  in  Triangular  Geometry 
+whereas, others use four satellites in Rectangular Geometry. These systems work on the principle 
+of  Joint  TDOA  and  FDOA  and  require  precise  Time/Frequency  Synchronization  across  multiple 
+satellites and multiple constellations. The spacecraft move at a speed of approximately 50 Kms/s. 
+Knowledge  of  precise  location  of  spacecraft’s  that  carries  these  payloads  with  respect  to  a 
+common  frame  of  reference  is  mandatory  apart  from  synchronization  requirements  listed  above. 
+The digitized IQ data of the signals received would have to be recorded when spacecraft is moving 
+with  area  of  interest  in  the  field  of  view.  The  recorded  data  would  have  to  be  relayed  back  to 
+Ground Control Station (GCS) when it is in field of view of the spacecraft’s. All the signal detection 
+and  parameter  estimation  would  have  to  be  done  on  the  ground  to  perform  geolocation  of  the 
+potential emitters. DLRL seeks solutions with Academic Institutions to develop and implement the 
+Algorithms.  
+
+Major Objectives  
+Development of Practically Implementable Algorithms for Geolocation of Terrestrial Radio Emitters 
+from RF Payloads on LEO Satellites that will be enabling technology for future Projects  
+
+Expected Deliverables 
+System  Design  Document  specifying  Satellite  Geometry,  Trajectory,  Data  Link  Throughput,  RF 
+Payload  Capabilities,  Signal  Processing  Algorithms  for  Payload,  Ground  Station  for  Geolocation 
+Computation along with Profiling of Execution Time, Simulation Results for Statistical Performance 
+Evaluation, Tool for signal generation, Technical Report, Algorithm Description and Computational 
+Requirements.  
+Figures of Merit  
+Parameter: Accuracy of Geolocation, Minimum number of Satellites  
+
+Research Problems for DIA-CoEs  
+
+7 
+
+ 
+Quality Function Deployment (QFD) 
+Model for the Small Turbojet 
+Engine for the Missile Application 
+
+Technology Area 
+Aero Structures 
+
+Technology Category 
+Processing/Fabrication 
+
+Brief of the Research Problem  
+Develop  a  QFD  model  for  the  design  and  development  of  a  turbojet  engine  for  the  missile 
+application. 
+
+Major Objectives  
+  Develop a QFD matrix 
+  Prepare a full House of Quality 
+  Carry out competitive analysis 
+  Prepare a correlation matrix  
+
+Expected Deliverables 
+A full QFD report and Chart with House of Quality. 
+
+8   
+
+Research Problems for DIA-CoEs 
+
+ 
+Establishing Appropriate Scaling Laws 
+to Analyze the Blast Resistance of Hull 
+Plates used in Infantry Combat 
+Vehicles: A Numerical Investigation 
+
+Technology Area 
+Materials 
+
+Technology Category 
+Smart Materials 
+
+Brief of the Research Problem  
+Optimizing blast solution using UHSS and cellular structure for survivability. Also defining scaling 
+laws for blast resistance of structures.  
+
+Major Objectives  
+To establish consistent scaling laws that correlate the blast response of full-scale and scaled-down 
+models of hull plates composed of monolithic metallic structures.  
+
+Expected Deliverables 
+Development of suitable scaling laws to correlate the blast responses of reduced-models and full-
+scale prototypes for metallic plates. The applicability of the proposed scaling laws will be verified 
+through numerical (FE-based) simulations and experimental observations.  
+
+Figures of Merit  
+Parameter: Scaling laws that correlate the blast response of full-scale and scaled-down models.  
+
+Research Problems for DIA-CoEs  
+
+9 
+
+ 
+

@@ -1,0 +1,43 @@
+ToT OF LONG RANGE OPTICAL TARGET LOCATER 1500 (OTL1500)
+
+LASTEC has developed Optical Target Locater for detection and location of commonly used
+active   and   passive   surveillance   devices.   It  provides   an  important  tool   for   detection   of
+camouflaged passive or active surveillance device like optical day sight or sniper telescope,
+Night   Vision   Device,   CCD   cameras,   reticle   binoculars   or   electronic   sensors   as   in   Laser
+Range Finder, during day and night operations in urban scenarios. 
+The   developed   device,   ‘Long   Range  Optical   Target   Locater   1500   (OTL1500)  has   an
+operational range of the order of 1500m in day/ night operations.
+OTL1500   comprises   of   a   SWIR   laser   source   with   appropriate   divergence   control   and   a
+customized optical assembly with a SWIR sensor having high sensitivity at the wavelength
+of operation. It operates on Li ion rechargeable batteries and is ergonomically designed as a
+tripod mounted equipment. The optics and the system electronics are highly customized for
+contrast limited imaging so that the detected target appears as a bright pulsating spot on the
+background scene that can be viewed through the biocular and simultaneously on an external
+display. In addition, OTL1500 has the capability to compute and display the own coordinates
+as well as coordinates of the detected optical threat.
+
+ OTL 1500 finds application with military and Para military forces. It can be used for active
+scanning  and  monitoring   of  specific   areas,   detection  of  pointed  optics   viz.,   snipers,   area
+sanitization as well as border security.
+The   equipment   has   been   extensively   demonstrated   to   several   potential   users.   Security
+agencies responsible for homeland as well as border security have shown keen interest in this
+device.   OTL1500   has   undergone   extensive   user   evaluation   with   Indian   Army,   and   other
+security forces and it is short listed for procurement. 
+
+Although   a   few   commercial   systems   for   detection   of   optical   devices,   operating   in   NIR
+wavelength band are available internationally but following salient features of the developed
+device make it unique for the mentioned application: 
+
+a. Laser invisible to all prevalent surveillance devices
+b. Improved image quality
+c. Target locating module for providing target   
+     coordinates
+d. Laser ’On’ at user’s discretion for saving power 
+e. Audio buzzer on target confirmation.
+f. In built cartridge type field replaceable battery  
+g. Live video streaming at a remote location
+h. Video recording feature. 
+i. Remote operation capability 
+j. Mostly maintenance free operation
+
+

@@ -1,0 +1,161 @@
+FOG based Inertial Measurement Unit/ Inertial Navigation System (IMU/INS) 
+
+RCI has indigenously developed and qualified the technology of closed loop FOG based Inertial 
+Measurement  Units  (IMU)  and  Inertial  Navigation  Systems  (INS)  for  tactical  applications  in 
+various missile systems. It has been successfully flight tested in many missions and proven its 
+credibility through accurate performances. FOG based IMU/INS comprises of three closed loop 
+FOG  modules  to  sense  the  rotation  of  the  vehicle  (missile)  about  the  body  axes  and  measure 
+the linear acceleration along the body axes using quartz accelerometers. Along with gyros and 
+accelerometers, processing and driving electronics and power supply module will be packaged 
+in a mechanical housing with predefined electrical and mechanical interfaces as specified by the 
+respective  users.  Dedicated  clean  rooms  with  infrastructure  for  optical  integration  and  testing 
+along  with  electronic  assembly  lines  and  dynamic  calibration  facilities  are  required  for  the 
+fabrication of FOG based IMU/INS. IMU/INS shall be subjected to various climatic and dynamic 
+tests as specified by the users, for which elaborate Environmental test facilities will be required. 
+FOG  based  IMU/INS  technology  is  highly  process  oriented  and  requires  skilled  manpower 
+supported  by  a  strong  Quality  Management  System  to  ensure  the  quality  at  each  level. 
+Authenticated  QA  agencies  will  be  participating  in  different  stages  of  production  processes  as 
+defined in the QA matrix. FOG based IMU/INS is purely an indigenous technology developed by 
+RCI with an import content of 20%-28% of the overall cost.  
+
+Interested Industries are requested to forward their Expression of Interest (EoI) to Director RCI, 
+Hyderabad  (with  attachments  of  supporting  documents)  with  a  copy  of  Director  DIITM,  DRDO 
+HQ (without attachment) on following address:- 
+
+To, 
+
+Director  
+Research Centre Imarat 
+Vigyanakancha 
+Hyderabad-500069 
+Phone : 040-24306000 
+Fax : 040-24306002 
+
+E-mail ID : director[dot]rci[at]gov[dot]in 
+
+Copy to 
+
+Director 
+Directorate of Industry Interface & technology Management (DIITM) 
+Room No. 447, DRDO Bhawan, DRDO HQrs, Rajaji Marg, New Delhi-110011 
+Phone: 011-23013209/23015291 
+Fax: 011-23793008 
+
+Email: diitm[dot]hqr[at]gov]dot]in 
+
+Page 1 of 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+List of Support documents to be attached with EoI  
+
+a)  Memorandum  and  Articles  of  Association  (Should  be  incorporated  as  per  Indian 
+
+Companies Act, as amended time to time)  
+
+b)  Certificates of registration as a manufacturing unit, if any.  
+
+c)  Audited Balance Sheet for the preceding three years.  
+
+d)  Income Tax returns for the preceding three year period  
+
+e)  Details  of  shareholding/ownership  pattern  especially  foreign  partners/  shareholders, 
+foreign  employees,  directors,  etc.  The  company  must  adhere  to  the  prevailing  Govt  of 
+India  policies  and  regulations  on  Foreign  Direct  Investment  (FDI)/DIPP  norms  as 
+applicable.  
+
+f)  Annual budget for R&D during last three years.   
+
+g)  Numbers and details of IPR or patents, etc., held by the company.  
+
+h)  Number of technically or professionally qualified personnel.  
+
+i)  Record of past performance (e.g., Supply orders executed against of Ministry of Defence 
+
+orders, Public Sectors and Paramilitary Forces, if any).  
+
+j)  Availability  of  adequate  infrastructure  (List  of  machines  and  their  production  capacities) 
+
+and technical expertise. 
+
+k)  List of Testing and Support equipment’s  
+
+l) 
+
+ISO/ ISI certification or any other certification  
+
+m) Relevant clearances form the authorities/ ministries (if any)  
+
+n)  Capacity  and  capability  to  undertake  developmental  work  and  to  accept  attendant 
+
+financial and commercial risks.  
+
+o)  Capacity/capability  to  market  the  product  through  the  marketing  network,  sales  and 
+
+service network, reliability to maintain confidentiality.  
+
+p)  PESO  and  DPIIT  license  for  explosive  handling  if  ToT  is  for  high  energy  Material, 
+
+explosives, propellants, and component/ system dealing with it etc.  
+
+q)  Under  taking  form  company  seeking  ToT  that  none  of  its  Directors,  Independent 
+Directors,  non-executive  Directors,  Key  management  personnel  are  involved  in  any 
+corrupt practices, unfair means and illegal activities.  
+
+r)  Details  of  the  industrials  license  for  defence  manufacturing  be  provided  by  the  industry 
+
+seeking ToTs. 
+
+In  addition  to  above  following  Additional  Terms  &  Conditions  included  in  the  EOI  for 
+Identification  of  Industry  Partner  for  ToT  of  “FOG  based  Inertial  Measurement  Unit/ 
+Inertial Navigation System (IMU/INS)” 
+
+ (a)  Prior  experience  of  at  least  3  years  in  handling  production/development  of  fiber  optic 
+systems  for  Defence/Aerospace  applications.  Experience  in  handling,  assembly  and  testing  of 
+optical  fiber,  testing  and  characterization  of  passive  optical  components  and  opto-electronic 
+
+Page 2 of 3 
+
+ 
+ 
+devices  and  usage  of  various  optical  test  &  measurement  equipment  etc  will  be  required 
+(desirable) 
+
+(b) 
+Adequate  qualified  human  resources,  infrastructure  and  test  equipment  to  carry  out  the 
+integration  of  multi-layer  PCBs  and  Fiber  Optic  assemblies.  Trained  manpower  in  PCB 
+assembly, testing,  screening as per CEMILAC procedure and integration of complex electronic 
+modules  and  functional  testing  as  per  the  process  document  are  essential.  Relevant 
+infrastructure such as soldering work station, cleaning- coating  setups, anti-static work benches, 
+digital  multi  meters,  oscilloscopes,  function  generators,  regulated  power  supplies,  data 
+acquisition system etc are required (essential). Knowledge and experience in the integration of 
+optical fiber assemblies with electronic modules is desirable. 
+
+Clean  room  of  classes  10000-100000  for  optical  and  electrical  integration.  Class  10000 
+(c) 
+clean room of min area 120 m2 for optics (desirable) and class 100000 clean room of min area 
+200 m2 (essential) will be required for electrical integration and testing. Metric optic tables and 
+vibration isolated test benches will be required for optical integration (desirable). 
+
+(d) 
+Requisite  infrastructure  for  production  of  avionics  systems  and  the  system  delivered 
+should  have  been  flight  tested  in  Defence/Aerospace  applications.  Any  of  the  system 
+developed/produced  by  the  firm  shall  be  inspected  and  cleared  by  an  Authorized  QA  agency 
+(following all QA procedure specified) before integrated/tested with a main system (essential). 
+
+Dynamic  test  &  calibration  set  ups  for  inertial  Sensors  and  Systems  along  with  facilities 
+(e) 
+for Environmental testing. Dynamic test calibration equipment includes single axis and two axis 
+rate  tables  with/without  thermal  chambers,  thermal  chambers,  data  acquisition  system,  test 
+fixtures, centrifuge etc (desirable). 
+
+Page 3 of 3 
+
+ 
+ 
+ 
+

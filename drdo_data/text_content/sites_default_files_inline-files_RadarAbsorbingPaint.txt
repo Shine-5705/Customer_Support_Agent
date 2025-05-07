@@ -1,0 +1,542 @@
+Radar absorbing Paint
+
+The Radar Cross Section (RCS) of an object is dominated by the radar energy returned
+
+from various scattering  centers of  complex shaped targets. The application of Radar
+
+Absorbing Paint on these scattering centers attenuates the back reflected radar energy
+
+is an effective way of reducing the RCS significantly. These Paints not only have the
+
+required functional properties of radar absorption at the desired frequency bands, but
+
+are also constrained to be thin and to carry minimum weight penalty. Further, they need
+
+to be designed and developed as per the nature of the substrate, and must satisfy the
+
+mechanical and environmental stability. In addition, Paint should be such that it can be
+
+readily applied in a simple and expeditious manner to achieve the functional thickness
+
+on any surface. The proper selection of filler materials and resin matrix is essential to
+
+develop such Paint for realization in practical use. 
+
+Defence   Laboratory,   Jodhpur   has   developed   Polyurethane   based   Radar   absorbing
+
+Paint using magnetic functional filler material for application on strategic targets for RCS
+
+reduction. The polyurethane resin system used in Radar Absorbing Paint has excellent
+
+weathering resistance, and capable of withstand very low and high temperature. The
+
+magnetic   functional   filler   material   with   specific   size   and   shape   has   been   used   in
+
+appropriate ratio in  resin  matrix  to obtain  maximum radar  absorption  properties.  The
+
+developed   paint   has  capability  for   its  application   on  airborne   as  well  as  land   based
+
+strategic targets.
+
+Advantages   of   Technology:  The   developed   Radar   absorbing   Paint   has   following
+advantages:
+
+    • Exhibit more than 90% microwave absorption
+
+    • Room temperature drying and curing for application in field conditions
+
+    • Low and high temperature thermal stability
+
+    • Resistance to Hydraulic Oil, Water, Air Turbine Fuel
+
+    • Capable to withstand thermal shock cycling
+
+    • Sustained aerodynamic Vibration
+
+    • Can be applied on Al/Al alloy and CFRP composite surface without affecting the 
+
+structural properties
+
+    • Easy application using spray gun on complex objects
+
+Page 1 of 8
+
+Interested  companies/ industries are  requested  to apply  against  this  EoI to  following
+
+address:-
+
+Director
+Defence Laboratory
+Ratanada Palace, Jodhpur, Rajasthan-342011 
+Phone : 0291-2510275
+Fax : 0291-2511191, 0291-2510260
+Email : director[dot]dl[at]gov[dot]in
+
+A copy of interest may be sent to the following address (without any attachment):-
+
+Director 
+Directorate Industry Interface and Technology Management (DIITM) 
+Room No 447, DRDO Bhawan, DRDO HQrs, Rajaji Marg, New Delhi – 110011
+Phone No: 01123013209/23015291
+Fax No: 011-23793008
+Email ID: diitm[dot]hqr[at]gov[dot]in
+
+All industries interested in seeking ToT are requested to fill the information sought in
+Application cum Industry Assessment form given below and provide reference of page
+no. of supporting document (wherever applicable). The list of documents to be attached
+is provided in Annexure - I. 
+
+Application cum Industry Assessment Form
+
+General Information 
+
+PART-1
+
+a) Name of the Technology requested for Technology Transfer
+
+(Technology name and concerned Lab, Category)
+
+b) Name of the industry/ organization
+
+c) Complete Address and other details
+
+Registered Office
+
+State
+Phone No
+Fax
+Email
+Website
+
+Page 2 of 8
+
+Factory
+
+State
+Phone No
+Fax
+Email
+Website
+
+4. Point of Contact
+
+Name
+Designation
+Address
+Mobile No
+Ph No
+Email ID
+
+5. NAME OF CMD/ MD /PARTNERS/ PROPRIETOR/ etc
+
+Name
+Designation
+Address
+Mobile No
+Ph No
+Email ID
+
+d) Date of Incorporation of company
+
+e)
+
+Foreign Direct Investment in company (if any in %)
+
+f)
+
+Shareholding pattern
+
+g) Turn over as per Audited Balance Sheet for the preceding 
+
+three years.
+Year ____
+Year ____
+Year ____
+
+h) Annual budget for R&D during last three years
+
+(if any)
+Year ____
+Year ____
+Year ____
+
+i)
+
+Income Tax returns for the preceding three years period
+Year ____
+Year ____
+Year ____
+
+Page 3 of 8
+
+j)
+
+Nature of company
+
+DPSU, Private Limited, Public Limited, Partnership, Proprietary, 
+Ex- Serviceman Unit
+
+k) Category of industry
+
+Large Scale, Medium Scale, Small Scale, Micro, Startup
+
+l) MSME Registration No
+
+m) Certificates of registration as a manufacturing unit, if any.
+
+n)
+
+If Startup, DPIIT Registration No
+
+o) UDYOG AADHAR No
+
+p) PAN Number
+
+q) Details of Industrial license for defence manufacturing 
+
+issued by DPIIT (if any)
+
+r)
+
+Details of PESO license (if any)
+
+s) GST Number
+
+t)
+
+Nature of business
+
+Manufacturing/ Sole Selling or Authorized Agent/ Assembler/ 
+Traders/ Dealer/ Processor/ Repacker/ Others
+
+u) Details of current products and services
+
+Products and services Supplied (please specify Govt/ Domestic 
+market/ Export)
+
+v)
+
+Record of past performance (e.g., Supply orders executed 
+against of Ministry of Defence orders, Public Sectors and 
+Paramilitary Forces, if any).
+
+w) Details of registration with
+
+NSIC / SSI, DGS&D, other Defence Department, other Govt. 
+Dept, membership of FICCI/ASSOCHAM/CII or other Industrial 
+Association
+
+(Attach relevant copies of registration letters)
+
+x) Have you already taken any technology from DRDO (If yes, 
+
+give details attaching separate sheet)
+
+Name of the Technology, Lab, Year, License number & Status
+
+y)
+
+ISO/ ISI certification or any other certification (If yes, give 
+details)
+
+z) Relevant clearances form the authorities/ ministries (if any)
+aa) Capacity and capability to undertake developmental work 
+and to accept attendant financial and commercial risks.
+
+bb) Capacity/capability to market the product through the 
+
+Page 4 of 8
+
+marketing network, sales and service network, reliability to 
+maintain confidentiality.
+
+Infrastructure and other Information
+
+PART-2
+
+a.
+
+b.
+
+c.
+
+d.
+
+e.
+
+Total area of factory
+Covered (m2),
+Uncovered (m2),
+Bonded space available (m2)
+Ownership of factory
+Self-owned, partnership, rental
+Electric power
+Sanctioned
+Installed
+Standby (if any)
+Availability of adequate infrastructure (List of 
+machines and their production capacities) and technical 
+expertise
+Name of bank & A/c No
+Name of bank
+A/c type
+A/c no
+Address of the bank
+Phone: Email:
+
+(a) Details of current products:
+
+Sl.no.
+
+Type
+
+Description
+
+Licensed/installed 
+capacity
+
+Annual production 
+for preceding 3 years
+
+(b) Details of foreign collaboration, if any
+
+Sl.no. Product
+
+Name & address of collaborator
+
+Year
+
+Remarks
+
+(c) Details of products developed for services
+
+Sl.no.
+
+Nomenclature of stores Order no and date
+
+Remarks
+
+(d) Please give details of important facilities & infrastructure as per following 
+
+format for:
+
+Page 5 of 8
+
+Production
+
+a.
+b. Unconventional, special m/c
+c.
+
+Testing & quality control facilities
+
+Sl.no. Description of 
+
+m/c
+
+Make & 
+model
+
+Qty
+
+date of    
+purchase
+
+Remarks
+
+(e) Furnish the following details with relevant certificates and documents
+
+a. R&D facilities available
+b.
+c.
+d.
+
+Inspection quality control of raw material components
+Assistance from central agency for testing / calibration etc. :
+:
+laboratory and drawing office facility
+
+:
+:    
+
+(f) Principal customers:
+
+Sl.no. Name & address
+
+S.O No. & 
+date
+
+Date of last 
+supply
+
+Products 
+supplied
+
+Value
+
+(g) Future plan (if any) in respect of expansion programme installation of 
+
+additional machines/ test facilities etc.
+
+(h) Name of the technology requested for transfer (give self-assessment of your 
+
+capability to absorb the technology)   
+
+(i) Details of employee as on date on firm’s pay roll 
+
+Number Qualification
+
+Total 
+Service
+
+PERMANENT
+Category
+
+Post Held
+
+Technical
+
+Prod. Manager
+Q.C. Manager Supervisor
+Testing Staff (Qc) Skilled 
+workers
+Unskilled workers, etc.
+
+Administrative Purchase Manager 
+
+Accounts Officer Office 
+Superintendent Clerical 
+Others etc
+
+TEMPORARY
+Category
+
+Post Held
+
+Number Qualification Total 
+
+Service
+
+Page 6 of 8
+
+Technical
+
+Prod. Manager
+Q.C. Manager Supervisor
+Testing Staff (Qc) Skilled 
+workers
+Unskilled workers, etc
+
+Administrative Purchase Manager Accounts
+Officer Office Superintendent
+Clerical Others, etc
+
+DECLARATION :
+
+I / we confirm that the information furnished in Part 1 & 2 above is correct. In the 
+
+event of any information given by me / us is found incorrect / false at any time, I / we 
+understand our EoI for ToT will be cancelled/ rejected without notice, beside any other 
+appropriate action against me / us.
+
+Industry seal
+
+Authorized signatory
+
+Name(s) in capital
+designation and seal of authorized 
+signatory
+
+dated:
+Place:
+
+List of Supporting documents to be attached with EoI
+
+(a)  Memorandum and Articles of Association (Should be incorporated as per Indian
+
+Companies Act, as amended time to time)
+
+Annexure - I
+
+(b) 
+
+Certificates of registration as a manufacturing unit, if any.
+
+(c) 
+
+Audited Balance Sheet for the preceding three years. 
+
+(d) 
+
+Income Tax returns for the preceding three year period 
+
+(e) 
+
+Details   of   shareholding/ownership   pattern   especially   foreign   partners/
+shareholders,  foreign employees,  directors, etc.  The  company  must  adhere to
+the prevailing Govt of India policies and regulations on Foreign Direct Investment
+(FDI)/DIPP norms as applicable. 
+
+(f) 
+
+Annual budget for R&D during last three years. 
+
+Page 7 of 8
+
+(g) 
+
+Numbers and details of IPR or patents, etc., held by the company.
+
+(h) 
+
+Number of technically or professionally qualified personnel.
+
+(i) 
+
+(j) 
+
+Record of past performance (e.g., Supply orders executed against of Ministry of
+Defence orders, Public Sectors and Paramilitary Forces, if any). 
+
+Availability   of   adequate   infrastructure   (List   of   machines   and   their   production
+capacities) and technical expertise. 
+
+(k) 
+
+List of Testing and Support equipment’s
+
+(l) 
+
+ISO/ ISI certification or any other certification 
+
+(m)  Relevant clearances form the authorities/ ministries (if any)
+
+(n) 
+
+(o) 
+
+(p) 
+
+(q) 
+
+Capacity   and   capability   to   undertake   developmental   work   and   to   accept
+attendant financial and commercial risks. 
+
+Capacity/capability to market the product through the marketing network, sales
+and service network, reliability to maintain confidentiality.
+
+PESO and DPIIT license for explosive handling if ToT is for high energy Material,
+explosives, propellants, and component/ system dealing with it etc. 
+
+Under taking form company seeking ToT that none of its Directors, Independent
+Directors, non-executive Directors, Key management personnel are involved in
+any corrupt practices, unfair means and illegal activities.
+
+(r)
+
+Details of the industrials license for defence manufacturing be provided by the
+industry seeking ToTs.
+
+Page 8 of 8
+
+

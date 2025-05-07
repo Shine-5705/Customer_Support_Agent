@@ -1,0 +1,166 @@
+Propellant processing of HTM & LTM  
+
+Objective  : Propellant processing of High Thrust Motor (HTM) of 760 Kg  and Low 
+
+Thrust Motor (LTM ) of 60 Kg 
+
+Introduction:  The  PJ-10  project  has  a  solid  rocket  booster to boost  the missile  to 
+
+the  required  Mach  no  for  the  ramjet  engine  to  take  over.  The  solid  rocket  booster 
+
+comprises of high thrust motor and low thrust motor. High Thrust Motor (HTM) and 
+
+Low  Thrust  Motor  (LTM  )  is    having  the  solid  propellant  system  based  on  HTPB 
+
+/AP/Al.  The  booster  case  is  made  out  of  high  strength  steel.  It  encases  a  8-petal 
+
+finocyl case bonded composite propellant. The case is lined with EPDM insulator.   
+
+2.0   Technical specification of High thrust motor:  
+
+Dimensions : 
+
+a.  Length (mm)  
+
+b.   Dia (mm) 
+
+c.  Weight (Kg)    
+
+~ 5000  
+
+~500  
+
+~760  
+
+         Technical specification of Low Thrust Motor: 
+
+Dimensions : 
+
+a.  Length (mm)  
+
+~ 400  
+
+b.  Dia (mm)                                                  ~ 600 
+
+c.  Weight (Kg)    
+
+Physical / Mechanical Properties : 
+
+a.  Density (g / cc) 
+b.  Tensile strength (Kg / cm2) 
+
+~ 60 
+
+~ 1.75  
+
+:   More than  5.0 
+
+c.  Elongation (%)                                        :   More than  30  
+d.  Tensile modulus  (Kg/cm2) 
+
+:     30 - 50 
+
+e.  Peel strength (Kg/cm) 
+f.  Tensile Bond Strength(Kg / cm2)  
+
+:   More than  0.8 
+
+:  More than  5.0 
+
+Ballistic properties:  
+
+Burn rate (mm/s @ 70kg/cm2 ) 
+
+    :  20 ( 40 Kg BEM motor) 
+
+Pressure Index (n)   
+
+    :   0.40  
+
+NDT acceptance as per the acceptance criteria will be provided 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Propellant processing  : 
+
+The  lined  motor  case  on  receipt  from  Project  ‘PJ-10’  is  inspected 
+
+before  casting  of  the  propellant.  Raw  materials  are  processed  in  advance. 
+
+Mixing of propellant formulation is carried out in vertical mixer. Motor case is 
+
+assembled with mandrel and base plate. The insulator is abraded and liner is 
+
+subsequently  applied  over  the  insulation  before  propellant  casting  for  better 
+
+bonding. Casting of the motor is carried out under vacuum and then cured in 
+
+an  electrically  heated  hot  air  oven.  After  decoring,  the  excess  propellant  at 
+
+the  nozzle  end  is  removed  by  end  trimming  operation.  Cast  motor  is  finally 
+
+radiographed, inspected and certified 'fit' for delivery to Project ‘PJ-10’.  
+
+Acceptance Criteria: 
+
+The  finished  Booster  propellant  is  checked  for  its  dimensions  and 
+
+subjected  for  nondestructive  testing  (Radiography).  Excess  propellants 
+
+obtained during end trimming operation are used for preparing test pieces for 
+
+mechanical  properties  and  density.  Mechanical,  physical  and  ballistic 
+
+properties  are  also  determined  from  the  propellant  grain  obtained  from 
+
+casting  40  Kg  and  115  mm  dia  mould  using  propellant  slurry  from  bowl  of 
+
+final  mix.  Peel  strength  is  also  determined  from  propellant  processed  from 
+
+final  propellant  mix.  Booster  propellant  should  be  inspected  for  various 
+
+dimensions after all operations. The measured dimension should conform to 
+
+drawing. 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+

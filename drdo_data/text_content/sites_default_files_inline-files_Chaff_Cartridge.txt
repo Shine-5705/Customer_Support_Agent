@@ -1,0 +1,66 @@
+RESTRICTED 
+
+IMPULSE CARTRIDGE FOR CHAFF 118 
+
+Chaff Cartridge 118 forms  part  of  a Counter  Measure  Deployment    System(CMDS)  
+
+to protect the host air craft from Radar guided missile threats by providing a decoy (as chaff 
+
+cloud). Chaff 118 consists of chaff payload to be ejected for , top cover, piston and impulse 
+
+cartridge(IC).  The  impulse  Cartridge  contains  a  pyrotechnic  squib  charge  and  propellant, 
+
+which when fired generates gas pressure to eject the chaff payload with ejection velocity 25-
+
+50  m/s.  All  specified  parameters  like  No  Fire  Current  (NFC),  All  Fire  Current  (AFC), 
+
+Ignition Delay and Pressures in a specified volume have been achieved. Chaff 118 is ready 
+
+for the induction into services. In order to meet the large requirement of ICs,  TOT of these 
+
+ICs  needs to be transferred to OFB/private industries.  
+
+Salient Features: 
+
+- 
+
+- 
+
+‘No Fire’ current    
+
+: 1 Amp / 1 Watt for 5min 
+
+‘All Fire’ Current    
+
+: > 4.25 Amps  
+
+-  Resistance  
+
+-  Peak Pressure 
+
+: 1.00   ±  0.15 Ohms 
+
+: 3.1 to 5.2 MPa in a 45 cc closed bomb 
+
+-  Exposure Temperature 
+
+: -65°C to +85°C 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                 
+ 
+ 
+                  
+ 
+ 
+ 
+ 
+

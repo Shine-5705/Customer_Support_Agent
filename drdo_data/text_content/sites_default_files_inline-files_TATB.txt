@@ -1,0 +1,60 @@
+1,3,5-Triamino-2,4,6-Trinitrobenzene (TATB) 
+
+1,3,5-triamino-2,4,6-trinitrobenzene  (TATB)  is  a  thermally  stable  high  explosive 
+
+material  with  reasonable  shock  insensitivity  and  is  a  potential  candidate  for  active  armour 
+
+and  advanced  warheads.  The 
+
+technology 
+
+for  production  of  1,3,5-triamino-2,4,6-
+
+trinitrobenzene  (TATB)  in  pilot  plant  scale  has  been  developed  at  HEMRL  following 
+
+persistent R&D efforts.  
+
+The  process  for  preparing  TATB  consists  of  two  steps.  The  first  step  involves  a 
+
+consecutive nitration reaction of trichlorobenzene (TCB) to trichlorotrinitrobenzene (TCTNB) 
+
+under strong nitrating condition using mixed acid at elevated temperature. This reaction step 
+
+is  highly  hazardous  and  highly  prone  for  transition  to  runway  condition  hence  requires 
+
+precise  control  over  reaction  parameters.  The  intermediate  compound,  TCTNB  is  then 
+
+aminated to TATB in the second step using ammonia gas (NH3) under pressurized condition. 
+
+The  crude  product  is  digested  under  hot  water  to  remove  soluble  impurities.  The  process 
+
+developed  includes  other  unit  operations  like  filtration,  washing  and  drying  of  the 
+
+intermediate  and  finished  products.  The  product  characteristics  are  highly  dependent  on 
+
+reaction parameters such as temperature, agitation, ammonia feeding rate, drying condition 
+
+etc. The yield of TATB is realized to be ~85%. The effluent generated during production of 
+
+the intermediate compound is strongly acidic and requires prior treatment before discharging 
+
+to the ground. Further, the effluent generated from amination reaction is rich in solvent which 
+
+is recovered through distillation and can be re-used, if purity is maintained. 
+
+The pilot plant scale process for TATB has been developed ab-initio and no process 
+
+details are available in the literature. The properties of TATB developed in this process are 
+
+at par with the reported values in the literature. 
+
+Figure: TATB Reaction Scheme 
+
+ClClClClNO2ClNO2ClO2NO2NNH2NO2NH2NO2H2NNitrationAminationMixed AcidAmmoniaTCBTCTNBTATB 
+ 
+ 
+ 
+ 
+ 
+ 
+

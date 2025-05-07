@@ -1,0 +1,51 @@
+Electronic Fuze for 81 mm Mortar Bomb 
+
+A  mortar  is  a  weapon  that  fires  explosive  projectiles  i.e.  mortar  bombs  at  low 
+velocities,  short  ranges,  and  high-arcing  ballistic  trajectories.  The  existing  bomb 
+81mm  Mortar  HE  uses  point  detonating  (PD)  fuze  which  are  mechanical  of  nature 
+and are of second generation. These fuzes uses primary explosive based detonator 
+which  are  sensitive  to  heat,  friction,  shock  and  EMI/EMC.  Moreover  they  uses 
+complex safety and aligning mechanism.  
+
+ESAD  technology  is  being  incorporated  in  fuzing  systems  for  conventional 
+weapons  to  enhance  the  safety  during  storage,  transportation  and  usage.  Initiators 
+used  are  intrinsically  safe  as  they  use  only  comparatively  insensitive  secondary 
+explosives i.e. PETN, RDX etc. No use of primary explosives in the fuze avoids the 
+need  of  many  complex  moving/rotating  devices  in  Safety  &  Arming  mechanisms. 
+Hence  TBRL  had  developed  4th  generation  Fuze  for  81  mm  mortar  ammunition 
+based on the ESAD technology. The silent feature of the developed fuze are: 
+
+1.   Electronic time (ET) and Point detonating (PD) Fuze. 
+
+2.  Compatible with standard fuze well of 81mm Mortar. 
+
+3.  Passive power source in the form of turbogenerator 
+
+4.  Contactless inductive programmability of time 
+
+5.  Barrel and post launch safety   
+
+6.  Fail safe design 
+
+In  the  designed  and  developed  fuze,  Air  driven  turbo  generator  is  used  as 
+power  source  to  initiate  explosive  train  which  also  acts  as  safety  device.  Turbo 
+generator has to operate continuously for  certain time period for functioning of fuze 
+thus  ensuring  barrel  and  launch  platform  safety.  On  receiving  power,  the  control 
+electronics  identifies  the  mode  of  operations  (i.e.  PD  or  ET)  and  functioning  time 
+which  was  given  to  the  fuze  through  contactless  inductive  fuze  setter  before  the 
+launch of the bomb. A hardware delay is also provided to ensure safe separation of 
+ammunition for the launch point.  This ensures safety of the firing crew. Commands 
+are issued by control electronics at the pre-set time and given to the firing unit. If the 
+mode  of  operation  selected  is  PD,  the  control  section  senses  the  impact  using 
+accelerometer  and  initiates  the  explosive  train.  Robust  and  reliable  software  is 
+developed to carry out the predefined functionality. 
+
+ EBW detonator will be provided by TBRL at the prevailing cost at that time as 
+
+the same is not part of development and is a restricted technology.  
+
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,43 @@
+FOOD RADIOACTIVITY CONTAMINATION MONITORING SYSTEM (FRCMS) 
+
+Radioactivity  in  excess  from  its  natural  level  in  the  environment  can  have  harmful  effects  on 
+living  being.  Food  chain  is  the  most  important  route  through  which  a  person  gets  contaminated 
+internally form radioactivity and exposed from harmful radiations. International Atomic Energy Agency 
+(IAEA) has stipulated isotope  specific  radioactivity limit for general consumption of various food items 
+for  controlling  the  internal  exposure  during  nuclear  /  radiological  emergencies.  Quick  radioactivity 
+assessment  in  food  stuffs and  drinks  is  thus  the  utmost  requirement  for managing  personnel  /  public 
+radiation exposure.  
+
+Defence  Laboratory,  Jodhpur  has  developed  a  “Food  Radioactivity  Contamination  Monitoring 
+System (FRCMS)” as shown in Fig.1, for measuring the radioactivity concentration in edible items. It is an 
+indigenous development “First of its kind” in India, which accommodates raw food samples and drinks 
+for radioactivity measurement. It generates visual warning (Green, Yellow & Red) based on radioactivity 
+level.  It  indentifies  the  radioisotope/s  and  computes  gross  as  well  as  isotope/s  activity  and  generates 
+sample contamination analysis report. The system is primarily developed for armed forces, however will 
+be  equally  useful  to  NDRF,  VIP  security  forces  and  custom  departments.  FRCMS  can  also  be  used  for 
+civilian  /  research  applications  during  peace  time  natural  radioactivity  measurement  in  variety  of 
+samples.  
+
+Fig 1: Food Radioactivity Contamination Monitoring System (FRCMS) 
+
+Salient Features / Specifications 
+  Portable & Dismountable 
+  Gross Weight: ~125 kg 
+  Power: AC mains (220 V, 50 Hz) or 12V battery 
+  1 hour battery backup 
+  Detector: NaI(Tl) Scintillator (3” x 3”) 
+  MCA: 1k channel USB based 
+ 
+Integrated Control Unit 
+  Sample Containers (100, 500 & 1000 ml) 
+  Activity Measurement Range:  50 – 106 Bq/kg 
+  Energy Detection Range:  50 keV – 1.5 MeV  
+  Operating temperature: 0 - 50 0C  
+
+Current Status: Finished Product (01 no) is available at DL Jodhpur. The system is being demonstrated to 
+the services and currently deployed at SSS Navy for radioactivity measurement.  
+
+ 
+ 
+ 
+

@@ -1,0 +1,70 @@
+ESAD based Fuze for Mini Depth Charge (MDC) 
+
+DRDO lab TBRL, Chandigarh developed Mini depth charge is a hand emplaced weapon used against 
+enemy troops entering coastal areas. The charge needs to be detonated at a pre-programmed depth and 
+generate a destructive hydraulic shock. The existing MDC uses a pyro delay-based fuze uses primary 
+explosive  based  detonator  which  are  sensitive  to  heat,  friction,  shock  and  EMI.  To  overcome  these 
+limitations TBRL has designed and developed a fourth generation electronic safe and arm fuze. In this 
+design  an  intrinsically  safe  secondary  explosive  based  inline  explosive  train  is  used  which  enhances 
+the safety of the weapon during transportation, storage and operational scenario. The developed fuze 
+has following features:- 
+
+1.  Fourth generation ESAD based fuzing technology. 
+2.  Compatible with existing fuze interface of MDC. 
+3.  Accurate electronic time-delay-based depth mapping. 
+4.  Fuze arming through hydrostatic pressure switch. 
+5.  Manual knob for depth setting. 
+6.  Inline explosive train. 
+7.  MIL-STD 1316F Compliance. 
+
+The design is the combination of rugged and reliable mechanical safeties and accurate electronic delay. 
+A COTS primary battery having long shelf life is used as power source. An indigenously developed 
+hydrostatic  pressure  switch  is  used  for  arming  the  fuze  after  reaching  the  required  depth.  The 
+developed fuze has been qualified as per user specifications and successfully cleared under water trials 
+in the laboratory. The ToT partner is expected to produce required number of fuzes and get involved 
+with the design team during final qualification tests followed by user trials. Detonator will be provided 
+by TBRL at the prevailing cost at the time as the same is not part of ToT.   
+
+Interested  Industries  are  requested  to  forward  their  Expression  of  Interest  (EoI)  to  Director  TBRL, 
+Chandigarh with a copy of Director DIITM, DRDO HQ on following address:- 
+
+To, 
+
+Director 
+Terminal Ballistic Research Laboratory (TBRL) 
+Sector-30, Chandigarh-160030 
+Phone: 0172-2307100, 2657674 
+Fax: 0172-2657506 
+
+Email ID: director[dot]tbrl[at]gov[dot]in 
+
+Copy to 
+
+Director 
+Directorate of Industry Interface & technology Management (DIITM) 
+Room No. 447, DRDO Bhawan, DRDO HQrs, Rajaji Marg, New Delhi-110011 
+Phone: 011-23013209/23015291 
+Fax: 011-23793008 
+
+Email: diitm[dot]hqr[at]gov]dot]in 
+
+Industries are requested to enclose supporting document in EoI as per Appendix ‘D’ of DRDO Policy 
+and  Procedure 
+at  https://www.drdo.gov.in/sites/default/files/inline-
+available 
+files/drdo%20Policy%20%26%20Procedure%20%20for%20ToT.pdf 
+
+for  ToT 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

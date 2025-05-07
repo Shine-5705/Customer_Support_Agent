@@ -1,0 +1,60 @@
+An effective vaccine against typhoid and Salmonellosis in animals and humans using 
+Dnak protein (member of Hsp 70 of family) of S Typhi 
+
+Salmonellosis  is  a  hyper-endemic  disease  in  India  affecting  both  man  and  animals  alike. 
+Typhoid,  caused  by  Salmonella  Typhi  is  still  an  unsolved  problem  in  the  majority  of  the 
+world.  Rapid  emergence  of  MDR  strains  and  limited  usefulness  of  presently  available 
+vaccines  has  made  the  control  of  Salmonellosis  very  difficult  proposition.Furthermore,  in 
+recent  years,  the  realized  threat  from  biological  attack  has  necessitated  the  development  of 
+medical  countermeasures  to  protect  against  virulent  pathogens  and  Salmonella  could  be  a 
+potential bio-threat agent which may lead to high morbidity and even mortality. The currently 
+available vaccines (Vi) are only 55–70% protective, have side effects, thus, licensed for use 
+from age two years and older. Vivotif,a live vaccine, is in the form of capsules,therefore, not 
+suitable for children andis contraindicated in immune compromised host. 
+
+As  a  novel  vaccination  approach,  DIPAS,  DRDO  has  developed  Heat  shock  protein  (Hsp) 
+based candidate vaccine molecules rHsp60 (GroEL) and rHsp70 (DnaK) against Salmonella 
+and reported these molecules to be highly effective in mouse model. 
+
+Highlights of these vaccine candidate molecules: 
+
+•  Stimulate  both  humoral  and  cell  mediated  immune  responses  unlike  Vi  vaccine 
+
+which stimulates predominantly humoral responses. 
+
+•  Higher Protection (80-90%) than Vi (60-70%) in mouse model. 
+Publications: Clinical Immunology (2008), 126: 89-96. IF 4.0; 
+Vaccine (2011), 29: 6532-6539. IF 3.6 
+
+•  Effective even in the absence of adjuvants which is an absolute requirement for the 
+
+• 
+
+traditional vaccines with side effects. 
+Publication: Mol CellBiochem (2010), 337:213-221. IF 2.6 
+Immense  potential  to  be  developed  as  single  vaccine  candidate  molecule  against 
+multiple pathogens.  
+Publication: Vaccine (2013), 31: 2035– 2041. IF 3.6. 
+
+•  Promising  carrier  molecules  for  enhancing  antigenicity  of  poor  antigensas  we 
+
+reported against Shigella.  
+Publications:  Cellular  and  Molecular  Immunology  (2015),  12(6):  757-67.    IF  5.2.  
+(Nature publication group);Vaccine (2016), 34: 5376-5383. IF 3.6 
+
+•  Great potential to be used as animal vaccines for preventing Salmonellosis in poultry 
+
+and cattle as there is > 99.5 % homology with its closely related serovars. 
+
+Patents granted:  
+i) Indian patent : A vaccine effective against typhoid’, Patent no. 259393,  March 11, 2014 
+ii) US patent no. US 8241645 B2, granted on August 14, 2012 
+iii) European patent EP 1931389 B1, granted on July 14, 2010.  
+
+In addition to its utmost usefulness to our armed forces, who often have to face vagaries of 
+nature  and  exposure  to  unhygienic  conditions  in  the  line  of  their  duty,  this  innovation  has 
+great potential to be developed as vaccine for general population, as well as animals, against 
+Salmonella and multiple pathogens. 
+
+ 
+

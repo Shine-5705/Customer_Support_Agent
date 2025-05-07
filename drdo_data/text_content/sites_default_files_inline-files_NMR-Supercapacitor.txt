@@ -1,0 +1,67 @@
+Supercapacitor 
+
+Supercapacitor  of  ultracapacitor
+is  a  charge  storage  device  similar  to  conventional 
+ultracapacitor  is  a  charge  storage  device  similar  to  conventional 
+electrolytic  capacitors.  It  has  higher  energy  density  in  comparison  conventional  capacitors 
+electrolytic  capacitors.  It  has  higher  energy  density  in  comparison  conventional  capacitors 
+electrolytic  capacitors.  It  has  higher  energy  density  in  comparison  conventional  capacitors 
+and higher power density in comparison with batteries. It is used as source pulse powers in 
+and higher power density in comparison with batteries. It is used as source pulse powers in 
+and higher power density in comparison with batteries. It is used as source pulse powers in 
+standalone  mode  or  along  with  other  sources  like  batteries,  fuel  cell  etc.    Important 
+long  with  other  sources  like  batteries,  fuel  cell  etc.    Important 
+long  with  other  sources  like  batteries,  fuel  cell  etc.    Important 
+components  of  supercapacitor  are  electrode,  electrolyte,  porous  separator  and  casing. 
+components  of  supercapacitor  are  electrode,  electrolyte,  porous  separator  and  casing. 
+components  of  supercapacitor  are  electrode,  electrolyte,  porous  separator  and  casing. 
+to  prepare  the 
+Fabrication  of  it  involves  coating  of  active  material  over  thin  metal  foil  to  prepare  the 
+Fabrication  of  it  involves  coating  of  active  material  over  thin  metal  foil 
+electrode and winding two such 
+with a separator in 
+winding  two such electrode foils in the form of jelly  toll with a separator in 
+between the electrodes and sealing inside metal casing after impregnating with electrolyte.  
+between the electrodes and sealing inside metal casing after impregnating with electrolyte. 
+between the electrodes and sealing inside metal casing after impregnating with electrolyte. 
+
+Salient Features: 
+
+  Pulse power source 
+  Cycle life: > 100000 cycles
+Cycle life: > 100000 cycles 
+  High power density (vs battery)
+(vs battery) 
+  Operating voltage: up to 2.7 V 
+  Wide operating temperature
+  Low self discharge 
+  Maintenance free 
+
+Operating voltage: up to 2.7 V ( Vmax) 
+
+perating temperature: -40 to 55 °C 
+
+Area of application:  
+
+  Output load compensation for batteries and fuel cells
+Output load compensation for batteries and fuel cells 
+  Reliable power for military and aerospace
+military and aerospace 
+  Electric  vehicles,  communication  devices,  cranking  engines,  portable  power  packs 
+lectric  vehicles,  communication  devices,  cranking  engines,  portable  power  packs 
+lectric  vehicles,  communication  devices,  cranking  engines,  portable  power  packs 
+etc.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

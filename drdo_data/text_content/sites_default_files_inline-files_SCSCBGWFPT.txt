@@ -1,0 +1,39 @@
+Silicon Carbide Single Crystal Bulk Growth and Wafer Fabrication 
+Process Technology for 4” Diameter Substrates 
+
+RF  technology  is  the  backbone  of  telecommunications  and  radar  for  navigation  and 
+
+safety  system  across  commercial  and  military  aviation,  air  traffic  control,  aircraft  to 
+
+satellite  communications,  space  exploration  and  more. Wide  bandgap  semiconductors 
+
+such as SiC, GaN and AlN show superior material properties which allow operation at 
+
+high switching speed, high voltage, high current density and high temperature. Among 
+
+these,  SiC  present  the  better  trade-off  between  characteristics  and  commercial 
+
+availability  of  the  wafers  and  maturity  of  their  technological  processes.  SiC  substrate 
+
+possesses higher thermal conductivity, better lattice match between SiC and GaN. 
+
+These  wafers  can  be  produced  with  n-type  and  semi-insulating  characteristics  as  per 
+
+the  requirements.  N-type  SiC  wafer  is  an  ideal  substrate  material  for  making  high 
+
+power,  high 
+
+temperature  and  anti-radiation  devices  which  has  got  significant 
+
+applications in electric vehicles, photovoltaic power generation, power transmission etc. 
+
+Solid State Physics Laboratory (SSPL), Delhi has developed single crystal bulk growth 
+
+and  wafer  fabrication  process  technology  to  produce  4”  diameter  silicon  carbide 
+
+substrates.  The  proposed  technology  includes  semi-insulating  as  well  as  N-type  SiC 
+
+substrates. 
+
+ 
+

@@ -1,0 +1,196 @@
+Complete Title of the Project 
+
+DIA COE Institute Name 
+
+Research Vertical 
+
+PI – Prof Principal Investigator Name 
+
+Institute Name 
+
+12-07-2024 
+
+Form 2: Technical Brief 
+Please do not change the numbering below 
+
+1.  Aim of Research Proposal 
+
+Write in brief the aim of proposal. Please make it short with on paragraph only. 
+
+2.  Objectives 
+
+(Add more rows at the end for more objectives) 
+
+2.1. Objective 1 
+
+2.2. Objective 2 
+
+3.  Deliverables 
+
+(Add more rows at the end for more deliverables) 
+
+3.1.  
+
+3.2.  
+
+4.  Milestones (Give milestones with timelines) 
+
+(Add more rows at the end for more milestones) 
+
+4.1.  
+
+4.2.  
+
+4.3.  
+
+4.4.  
+
+Final milestone should be Completion of Project, submission of final project report in Word and PDF 
+format along with closure presentation 
+
+5.  Global Reference papers in the area (State of Art) (Top 2 nos) 
+
+5.1.  
+
+5.2.  
+
+6.  Global Reference patents in the area (Top 2 nos) 
+
+6.1.  
+
+6.2.  
+
+7.  Ongoing projects/consultancy work with DRDO Labs/ other organisations in the given 
+
+technical area 
+(Funding Agency, Title, Cost, Duration, Year of sanction, Status – Completed/ongoing, if completed provide 
+year of completion) 
+(Add more rows at the end) 
+7.1. Project 1  
+
+7.2. Project 2 
+
+Signature:Director – DIA COE Institute 
+Name 
+
+Signature: Prof Principal Investigator Name 
+
+Page 7 of 33 
+
+Note: Proposal to be revised based on recommendation of TEC/ RAB/ GC 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Complete Title of the Project 
+
+DIA COE Institute Name 
+
+Research Vertical 
+
+PI – Prof Principal Investigator Name 
+
+Institute Name 
+
+12-07-2024 
+
+8.  Novelty/ Innovation of Research 
+
+8.1. Innovation 1 
+
+8.2. Innovation 2 
+
+9.  Technical Challenges 
+
+Write here. 
+10. Relevance to DRDO 
+
+Write here. 
+11. Risk Analysis & Mitigation Pathways 
+(Add more rows at the end for more risks) 
+Risks 
+
+Mitigation Pathways 
+
+Risk 1 
+
+Risk 2 
+
+12. Work Share / WBS of PI, Lab,Industry and Foreign Co-PI 
+Define macro details of the workshare. Full details to be given in a separate research proposal document 
+at the end of this form. 
+(Add more Columns for more partners/ Add more rows for more tasks)) 
+Co-PI 1 
+Task 
+
+Co-PI 2 
+
+Lab 
+
+PI 
+
+Task 1 
+
+Task 2 
+
+13. Data/Input Requirements from DRDO 
+(Define macro details of the inputs. Add more rows at the end if required) 
+
+13.1.  Input data like CAD 
+
+13.2.  Input data like testing results 
+
+13.3.  Material properties 
+
+13.4.  Equipment functioning 
+
+14. Brief  of  Equipment/  Facility  Requirement  (from  DRDO,  existing  infrastructure, 
+
+Industries/ other facilities in country/ international) 
+(Define macro details of the facilities) 
+14.1.  Equipment for testing  
+
+14.2.  High performance computing 
+
+14.3.  Flight test facility 
+
+15. Initial Thoughts on Project Outcomes Utilization Pathway 
+
+Choose an item. 
+Enter 
+
+comments.
+
+Signature:Director – DIA COE Institute 
+Name 
+
+Signature: Prof Principal Investigator Name 
+
+Page 8 of 33 
+
+Note: Proposal to be revised based on recommendation of TEC/ RAB/ GC 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

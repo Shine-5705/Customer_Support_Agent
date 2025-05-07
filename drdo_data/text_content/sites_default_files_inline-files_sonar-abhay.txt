@@ -1,0 +1,312 @@
+Expression of Interest 
+
+TOT of Compact Hull Mounted Sonar – ABHAY 
+
+1.Introduction 
+
+(NPOL),  Kochi,  a  Research  and 
+Naval  Physical  and  Oceanographic  Laboratory 
+DevelopmentLaboratory  under  DRDO,  MoD,  invites  Expression  of  Interest  (EOI)  fromIndian 
+manufacturers  having  sufficient  experience,  expertise  and  willingness  to  undertake  the 
+production, certification and installationofa compact Hull-Mounted Sonar (ABHAY) designed for 
+smaller  warships  of  the  Indian  Navy,  as  Lead  System  Integrator.Thesonar  systemis  to  be 
+developed, 
+life  cycle 
+maintenance support is to be provided.  
+
+installed  onboardNaval  platforms.  Further, 
+
+integrated, 
+
+testedand 
+
+In  this  connection,  EOI  is  invited  from  reputedIndianfirms  having  infrastructure,  trained 
+manpower,  adequate  resources  and  sufficient  experience  in  the  area  ofDefence  System 
+integration,  Data  acquisition  systems,  Electro-Acoustic  Transducer  Arrays,  Power 
+Amplifiers,Embedded Systems etc., with projectmanagement competencyand experience. Firms 
+fulfilling the essential requirements, as outlined in Section 2below may submit theEOI. 
+
+2.Essential Requirements for participating in EOI 
+
+The firm submitting their EOI must fulfil the following requirements:- 
+
+(a)  The  firm  should  have  adequate  technical  competence,  infrastructural  requirements, 
+qualified  and  experienced  manpower  for  assembly,  integration,  cabling  and  testing  of 
+Electro-Acoustic  Transducer  arrays,PCBs  and  cabinets  for  ship  borne  applicationsalong 
+with expertise for installation, degutting/regutting of Ship’s hull.  
+
+(b)  The firm should have prior experience and proven track record in specific areas such as 
+development, supply, integration and installationof underwater sensor based systems for 
+ship  borneapplications.They  also  should  have  expertise  and  experience  in  fabrication  of 
+consoles, racks, development of interconnect cable looms for ship bornesystems.  
+
+(c)  The  firm  should  have  adequate  product  development  support  capability  in  terms  of 
+qualified human resources, infrastructure, test equipment and test and evaluation tools to 
+carry out the integration task. 
+
+(d)  The firm shall have internationally recognized quality management systems and practices, 
+such  as  ISO  9001:2008,  AS  9100  or  equivalent.  Necessary  documents  supporting  the 
+same shall be attached during submission of EOI. 
+
+(e)  The  firm  shall  have  an  established  state-of-the-art,  in-house  accredited  test  facility  for 
+system  integration,  qualification  testing,  and  quality  assurance,  environment  testing, 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vibration tests, calibration and EMI/EMC etc. In case the firm, itself is not having proven 
+record  in  a particular  technology/  test  facility,  it will  be  the  firm’s  responsibility  to  identify 
+approved vendors / test centres in the country and carry out fabrication and tests as per 
+the  procedures/standards  and  as  per  the  requirements  of  NPOL.  Necessary  documents 
+indicating the above shall be attached during submission of EOI.  
+
+Note:  Compliance  to  each  of  the  above  said  requirements  shall  be  substantiated  with 
+documentary  proofs.In  spite  of  the  documentary  evidences,  if  found  necessary,  a  Committee 
+constituted by Director, NPOL, may visit the firm and ascertain their competence. 
+
+3.System Description.  
+
+ABHAY is an advanced Active cum Passive integrated sonar system designed and developed 
+for  the  smaller  platforms  such  as  costal  surveillance/  patrol  vessels.  It  is  primarily  a  compact 
+active  sonar  system  with  enhanced  passive  capabilities.  It  employs  advanced  adaptive  signal 
+and  information  processing  techniques  for  detection,  tracking  &  classification  of  targets.  The 
+hardware architecture is based on the latest technology that enables smooth up-gradation of the 
+system capabilities. The system architecture is designed to have feature like scalability, ease-of- 
+maintenance & high reliability. 
+
+The  Abhay  sonar  system  consists  of  a  transducer  array,  data  acquisition  system,  power 
+amplifier and the dual multi-function console. The brief details of each of the sub systems are 
+given below. The configuration of the sonar system is given below. 
+
+(a)  Transducer  Array.  Electro-acoustic  transducers  are  used  to  generate  and  receive 
+acoustic  signals.  Transducers  are  arranged  in  vertical  staves  and  32  such  staves  are 
+arranged in a cylindrical form. Acoustic height and diameter of array is approximately 800 
+mm.  The  PA  needs  to  procure  the  transducer  and  associated  structuresas  per  above 
+mentioned specifications from a NPOL nominated OEM/Agency. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)Front  End  subsystem.  The  Front-end  Subsystem  acquires  the  analogdata  from  the 
+transducer  array  which  is  further  amplified  to  the  required  voltage  level  post  conditioning. 
+The  amplified  signals  are  thereafterdigitized  and  sent  out  over  Ethernet.  The  Frontend 
+system  is  housed  in  a single cabinet  which is internally  partitioned into  three  levels  which 
+consists of TX/Rx switch PCBs and DAC hardware.The PAneeds to procure the Front end 
+subsystem  as  per  above  mentioned  specifications  and  the  required  PCBs  and  modules 
+from NPOL nominated OEMs/Agencies. 
+
+(c)Transmitter Subsystem. The ABHAY transmitter sub system consists of one stand-alone 
+cabinet  for  housing  Power  Amplifier  (PA)  modules,  Transmit  Signal  Generator  (TSG),  HT 
+Power  supply  units  (HTPSU),  LT  Power  Supply  units  (LTPSU).  The  cabinet  should  be 
+EMI/EMC compliant and should support all interconnect wiring and should have necessary 
+cooling  arrangements  as  per  specification.  A  resistive  load  box  consisting  of  32  sets  of 
+resistive elements, enclosed in a suitable enclosure, with appropriate cooling arrangements 
+is  used  to  test  the  Power  Amplifier  cabinet.The  PA  has  to  procure  the  transmitter 
+subsystemas  per  above  specification  and  required  boards  from  NPOL  nominated 
+OEMs/Agencies. 
+
+(d)Dual  Multi-Function  Console  (DMFC).  DMFC  houses  mainly  signal  processing  and 
+display processing subsystem along with provision for data recording. The operator detects 
+the target on the display aided by the audio. The data, after post processing, is sent to the 
+Display  and  Information  processing  subsystem  for  further  processing  and  presentation  on 
+the display.The PA has to procure this DMFC and required boards from NPOL nominated 
+OEMs. 
+
+(e)Ring Laser Gyro (RLG). 
+The RLG developed by RCI, Hyderabad and manufactured 
+by  BEL,  Chennai  is  an  integral  part  of  ABHAY  and  is  utilised  for  obtaining  the  beam 
+stabilisation data for the Sonar. The installation of ABHAY also includes procurement of the 
+gyro (i.e. RLG) from BEL, Chennai, installation and subsequently, integration with the sonar 
+system. 
+
+4.  Responsibilities of System Developer 
+
+(a)  Procurement,  testingand  supplyof  allconsoles  including  PCBs/modulesand  wired  back 
+planes,  with  front  panel  connectors  and  their  respective  connectors  and  sonar 
+transducers  from  NPOL  nominated  OEM/Agency.(Type,  Quantity  and  part  number  and 
+Test  Procedure  will  be  provided  by  NPOL).  All  subsystems  shall  meet  EMI/EMC 
+specifications applicable as per JSS standards for ship borne systems. 
+
+(b)  Fabrication of all necessary jigs and fixtures necessary for manufacture, assembly and 
+
+testing of all consoles. 
+
+(c)  Thermal/structural  simulation  of  cabinets 
+
+to  ascertain 
+
+the  cooling/ruggedisation 
+
+requirements of the system 
+
+ 
+ 
+ 
+ 
+ 
+ 
+(d)  Testing and clearing of cabinets in standalone mode and simulation mode both at factory 
+premises and onboard with the backplane ensuring the power supply and the individual 
+connectivity  between  PCBs  and  the  front  panel  connectors  and  cables  as  per  Test 
+Procedure and wire list in presence of NPOL and Naval Reps. 
+
+(e)  Installation, Interconnection and Integration including laying of power cables and system 
+interconnecting  cables  between  the  consoles,  junction  box  and  transducer  array  and 
+Installation  of  Application  software  and  firmware  (as  provided  by  NPOL)  in  respective 
+boards  as  per    procedure  provided  by  NPOL  onboard  Naval  platforms.The  installation 
+may also include fitment of a Ring Laser Gyro (RLG) and transducer fixture which will be 
+carried  out  while  the  ships  are  in  Dry  Dock.  Installation  of  transducer  array  and 
+subsystems may necessitate hotwork and degutting of Shipside. 
+
+(f)  Preparation  of  all  Documents 
+
+Instructions, 
+Interconnection  diagrams,  User  manuals,  Installation  and  maintenance    manuals) 
+required by NPOL/ Qualification Test / Functional Tests for the Cabinets. 
+
+(Technical  Documents,  Operating 
+
+(g)  Testing,  trouble  shooting  and  replacement  of  respective  boards  during  warranty  and 
+beyond  warranty  period  on  mutually  agreed  terms.  The  lead  system  integrator  has  to 
+enter into back to back AMCs with respective OEMs accordingly. 
+
+(h)  Each cabinetto be subjected to the Qualification & Certification Procedures as per Navy 
+approved  Qualification  Test  Schedule  (QTS).Overall  responsibility  of  total  system 
+qualification will be the responsibility of the lead system integrator. 
+
+(j)  Technical Support during STW, HATs and SATsonboard all platforms. 
+
+5. TOT TERMS 
+
+(a)  TOT will be given on non-exclusive basis only. The number of licenses on non-exclusive 
+basis will be restricted. However, additional licence if required will be given by DRDO on 
+need basis. The intellectual property rights shall always remain with DRDO.   
+
+(b)  The amount and payment stages of TOT fee will be as prescribed by DRDO.  
+
+(c)  Royalty fee @ 2% of the annual sales to Indian Govt. Estt, Armed Forces and @ 6% of 
+the  annual  salesto  Export  Market  (based  on  invoice  value  declared  toCustoms 
+authorities). 
+
+(d)  Technical assessment of the industries submitting EOI will be carried out by a Technical 
+financial 
+
+for  verification  of 
+
+technical  and 
+
+the 
+
+(TAC) 
+Assessment  Committee 
+capability/capacity of the industry. 
+
+(e)  Eligible  parties  will  have  to  sign  Confidentiality  &  Non-Disclosure  Agreement  (CNDA) 
+with DRDO for technical discussion including specifications, following which they shall be 
+considered for giving Transfer of Technology (TOT) on non-exclusive basis. 
+
+ 
+ 
+ 
+(f)  TOT  to  industry  will  be  given  based  on  their  manufacturing  capability,  assurance  on 
+
+quality and capacity of production apart from other terms and conditions.  
+
+(g)  The licencing agreement for transfer of technology (LATOT) which is to be signed will be 
+as  per  the  template  approved  by  Department  of  Legal  affairs.  Ministry  of  Law  and 
+Justice. 
+
+(h)  DRDO shall have the march-in rights to use the IP for its own use in the interest of the 
+
+Govt. of India without any restrictions, irrespective of the nature of licence granted. 
+
+(i)  The  firm  expressing  interest  should  be  technically  sound  to  Procure/manufacture, 
+supply,  install,  Integrate  and  maintain  the  system  with  requisite  quality  standards. 
+Domain  knowledge  in  installation,  integration  and  maintenance  of  sensor  systems 
+onboard naval ships is considered to be essential for satisfactory completion of system 
+commissioning and sea trials. 
+
+6.  Submission of EOI 
+
+Interested industries may write along with their company profile, financial & technical capabilities 
+etc.  as  per  the  following  format    to  Director,  NPOL,  Kochi  and  copy  to  Director  DIITM  on  the 
+following addresses within 45 days of this advertisement. 
+
+Director, NPOL 
+DRDO, Min. of Defence,  
+Thrikkakara P.O. 
+Kochi-682021 
+Contact No - 0484 2424878 
+FAX : 0484-2424858 
+Email: director@npol.drdo.in 
+
+Director, DIITM  
+Room No 446 DRDO Bhawan 
+DRDO HQrs Ministry of Defence 
+RajajiMarg New Delhi – 110011  
+Contact No - (011) 23016216 / 23007446 
+FAX No. 011-23793008 
+
+The following documents are to be submitted along with EOI: 
+
+a)  Memorandum  and  Articles  of  Association  (Should  be  incorporated  as  per  Indian 
+
+Companies Act, 1956)  
+
+b)  Certificates of registration as a manufacturing unit, if any.  
+
+c)  Balance Sheet for the preceding three years.  
+
+d)  Income Tax returns for the preceding three year period  
+
+e)  Details  of  shareholding/ownership  pattern  especially  foreign  partners/  shareholders, 
+foreign  employees,  directors,  etc.  The  company  must  adhere  to  the  prevailing  Govt.  of 
+India  policies  and  regulations  on  Foreign  Direct  Investment  (FDI)/DIPP  norms  as 
+applicable.  
+
+ 
+ 
+ 
+ 
+ 
+f)  Annual budget for R&D during last three years.  
+
+g)  Numbers and details of IPR or patents etc. held by the company.  
+
+h)  Number of technically / professionally qualified personnel. 
+
+i)  Record  of  past  performance  (e.g.  Supply  orders  executed  against  Ministry  of  Defence 
+
+orders, public sectors and paramilitary forces, if any).  
+
+j)  Availability of adequate infrastructure (List of machines and their production capacities) 
+
+and technical expertise.  
+
+k)  List of Testing and Support equipment. 
+
+l) 
+
+ISO/ ISI certification or any other certification  
+
+m)  Relevant clearances from the authorities/ ministries (if any) 
+
+n)  Capacity and capability to undertake large scale integration work of similar nature and to 
+
+accept attendant financial and commercial risks. 
+
+o)  Capacity/capability to market the product through marketing network, sales and service 
+
+network, reliability to maintain confidentiality. 
+
+ 
+

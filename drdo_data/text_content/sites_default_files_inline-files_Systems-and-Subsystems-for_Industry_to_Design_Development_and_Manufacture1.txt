@@ -1,0 +1,282 @@
+Systems and Subsystems for Industry to Design, Develop and Manufacture 
+
+Indigenous  design,  development  and  manufacturing  of  advanced  defence  systems  require  building  of  able 
+defence  ecosystem  with  industry.  In  line  with  the  aim  of  ‘Atmanirbhar  Bharat’,  it  is  appropriate  that  the 
+industry takes over development of technologies and systems where it has developed the capabilities. To this 
+effect, DRDO has identified following 108 systems and subsystems which will be designed, developed and 
+manufactured  by  industry  only  and  will  not  be  taken  up  by  DRDO  itself  for  development.  DRDO  may 
+testing  support 
+provide  scientific/ 
+(https://drdo.gov.in/test-facilities)  wherever  required  for  the  development  of  these  systems  and  subsystems 
+on case to case basis.  
+
+technological  support  (https://drdo.gov.in/industry-support)  and 
+
+S. No. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+21. 
+22. 
+23. 
+24. 
+25. 
+26. 
+27. 
+28. 
+29. 
+30. 
+31. 
+
+System/ Subsystem 
+
+  Mini & Micro UAVs 
+  Mini & Micro RoVs 
+  Un-cooled NV-IR Sights for Weapons (short range) 
+  Mountain Foot Bridge (Metallic) 
+  Multi Span Bridge (Metallic) 
+  Modular Bridge (Metallic) 
+  Floating Bridge (Metallic) 
+  Mines Laying and Marking Equipment 
+  NBC Shelters 
+  Armoured Engineering Reconnaissance Vehicle (AERV) 
+  Multipurpose Decontamination Systems (MPDS) 
+  Mobile Decontamination System (MDS) 
+  Solo Vehicle Based Transporter cum Tilter System 
+  Special Purpose Transporters up to 80 T Payload 
+  Loader cum Replenishment (LCR) Vehicles 
+  Anti-Terrorist Vehicle (ATV) 
+  Heavy Recovery Vehicle 
+
+IR Flare  
+
+  Tank Transporter 
+  Multi Spectral Camouflage Net (MSCN) 
+  Unit Maintenance Vehicle  
+  Unit Repair Vehicle 
+  Bullet Proof Vehicle 
+  Missile Canisters 
+  Missile Assembly Jigs 
+  Missile Storage Containers 
+  Marine Rocket Launcher   
+
+Image Intensified (II) Based Weapon Sights 
+
+  Single Mode LASER Source (up to 2 kW) 
+  Blast Doors 
+  Fire Detection Systems 
+
+Page 1 of 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+S. No. 
+32. 
+33. 
+34. 
+35. 
+36. 
+37. 
+38. 
+39. 
+40. 
+41. 
+42. 
+43. 
+44. 
+45. 
+46. 
+47. 
+48. 
+49. 
+50. 
+51. 
+52. 
+53. 
+54. 
+55. 
+56. 
+57. 
+58. 
+59. 
+60. 
+61. 
+62. 
+63. 
+64. 
+65. 
+66. 
+67. 
+68. 
+69. 
+70. 
+71. 
+72. 
+73. 
+74. 
+75. 
+76. 
+
+System/ Subsystem 
+
+  Telemedicine System 
+  Satellite Navigation Receivers 
+  Fabric for Parachutes 
+  TR Modules 
+
+ Batteries (Ag-Zn, Li Ion, Thermal) 
+
+  Microwave Receivers 
+  Single Board Computer 
+  Hardware for Onboard Computers 
+  Pneumatic Actuator System (up to 450 kgf) 
+  Stabilization Systems for Ground Based Applications 
+  Display Systems 
+  Hydraulic Actuation Systems (up to 16 T) 
+  Electro Mechanical Actuators (up to 2T) 
+  Cable Looms 
+  Relay Units 
+  Hardware for Fire Control Systems 
+  Video Converters 
+  Display Processors 
+  Navigation Radars 
+  Blast Sensors 
+  Routers 
+  Electric Power Conditioners 
+  Germanium Blanks 
+  Optical Blanks (BK 7, Fused Silica)  
+  Solenoid Valve (> 10 ms)  
+  EMP Protected Racks 
+  Shelters for Radar & Communication 
+  Antennas for Satellite Communication Receivers 
+  Airborne Displays  
+  PCM Decommutation System 
+  Tele Command System 
+  Transponder System 
+  Onboard SCP for Telemetry 
+  Onboard PCM for Telemetry 
+  Onboard Antennae for Telemetry 
+  High Nitrogen Steel 
+  2xxx, 5xxx,6xxx and 7xxx series Aluminum  
+  Rotary Joints 
+  Slip Rings 
+  Bearings High speed (Miniature)  
+  Torpedo Tubes 
+  Pressure Transducers  
+  Bus Controllers for 1553, CAN, 1773  
+  Power PC Back Planes 
+  Umbilical Connectors 
+
+Page 2 of 3 
+
+ 
+ 
+S. No. 
+77. 
+78. 
+79. 
+80. 
+81. 
+82. 
+83. 
+84. 
+85. 
+86. 
+87. 
+88. 
+89. 
+90. 
+91. 
+92. 
+93. 
+94. 
+95. 
+96. 
+97. 
+98. 
+99. 
+100. 
+101. 
+102. 
+103. 
+104. 
+105. 
+106. 
+107. 
+108. 
+
+System/ Subsystem 
+
+  RF Cables 
+  RF Connectors 
+  Miniature Bearings 
+  Slewing Rings 
+  MIL – Connectors 
+  MIL – Relays (Electro Mechanical) 
+  MIL – Relays (Solid state) 
+  Pressure Tight and Non Pressure Tight Cable  
+  Pressure Tight and Non Pressure Tight Connectors 
+  RF Power Amplifier 
+  Bulk Up Converters 
+  EMP Power Line Filters 
+  EMP Data Filters 
+  EMI/EMC Filters 
+  EMI/EMC Gaskets  
+  Composite Materials Sea Water Pumps 40TPH & 125 TPH 
+  Miniature Self-regulating Dual Flow JT Cooler 
+  Solid State TTR, CTS, TAR Magnetron for OSA-AK-M 
+  Amplidyne 
+  Secure Customized 3G/LTE end –Points (Handsets/Dongles) for Mobile Network 
+  Pressure Measuring Instrument for Aircraft Application 
+  Air Data Probe for Aircraft Application 
+  Pumps for Aircraft Application-Hydraulic 
+  Nose Wheel Steering Manifold 
+  Angle of Attack & Angle of Side Slip Sensors 
+  Rotary Actuation Aggregators for Fighter Aircraft Application 
+  Total Air Temperature Probe 
+  Potentiometer for Aircraft Application 
+  Fuel System Components for Aircraft Application 
+  Marine Desalinations for Life Rafts 
+  Absorption Type Air Conditioning System Based on Waste Heat Recovery 
+  24 Gigabit Ethernet Switch 
+
+Contact Us  
+
+Director, 
+Directorate of Industry Interface & Technology Management (DIITM), 
+ R No 447, DRDO HQrs,  
+DRDO Bhawan, Rajaji Marg,  
+New Delhi – 110011.  
+
+Phone: 011-23013209/ 23015291  
+Fax: 011-23793008  
+Email: diitm[at]hqr[dot]drdo[dot]in 
+
+Page 3 of 3 
+
+ 
+ 
+ 
+ 
+

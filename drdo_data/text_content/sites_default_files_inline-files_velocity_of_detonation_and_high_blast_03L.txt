@@ -1,0 +1,89 @@
+Write-up on 
+“Development of High Explosive Formulation having high shock insensitivity, high velocity 
+of detonation and high blast effects for filling PCB warhead of PJ-10 (BrahMos) missile” 
+
+Description of Technology: 
+
+The  developed  technology  comprises  of  a  high  explosive  formulation  HEMEX  having 
+unique  characteristics  pertinent  for  filling  Penetration  cum  Blast  (PCB)  warhead  for  PJ-10 
+(Brahmos) missile.HEMEX is a HMX basedmelt cast aluminizedcomposition tailored to realize 
+contrary  property  requirements  of  high  shock  insensitivity  with  high  velocity  of  detonation 
+(VOD) and high blast performance. The design parameters manipulated to realize these unique 
+characteristics are selection of explosive and non-explosive ingredients, their proportion, particle 
+size  of  ingredients,  processing  temperature  and  duration,  viscosity,  evacuation  pressure  and 
+duration,  casting  method  etc.  HEMEX  composition  has  a  relatively  high  density  of  about  1.84 
+g/cm3, high VOD of about 7600m/s, and high shock insensitivity of 3.5 x 103MPa compared to 
+existing formulations for warhead application.  
+
+Vacuum casting methodhas been developed for HEMEX filling in the PCB warhead for 
+PJ-10 (Brahmos) missile. The filling parameters like vacuum pressure and duration, temperature 
+of melt, increment size etc. have been established to minimize defectsin the filling. Casting under 
+vacuum  alsohelps  uniform  and  homogenous  flow  of  HEMEX  melt  in  all  the  regions  of  the 
+warhead. 
+
+Application Areas: 
+
+India & Russia have developed the Brahmos missile, a state-of-the-art weapon system,in 
+joint collaboration. The PCB warhead of the missile is mainly designed for use against surface 
+ships and may also be used to destroyother targets like air-force buildings and installations, naval 
+bases, POL depots, factories, power engineering centers etc. 
+
+Its USP – such as Certifications and test results etc.: 
+
+The  indigenously  developedHEMEX  filled  PJ-10  (Brahmos)  warhead  has  been 
+exhaustively  evaluated  for  blast  and  fragmentation  parameters,  environmental  tests  and 
+mechanical  qualification  tests,fragment  impact  test,  drop  test  and  explosive  train  test.  The 
+warhead has passed all the tests. The HEMEX based indigenously developed warhead has been 
+accepted for integration in the Brahmos missile.  
+
+The existing standard melt facilities available at ordnance production centers are suitable 
+for  preparation  of  HEMEX  composition.  The  formulation  may  also  find  similar  application  in 
+future military applications. The machinery and equipment required for filling of the warhead is 
+indigenously available in India. 
+
+CQA(ME)  has  issued  safety  certificate  forproduction  of  HEMEX  composition  and  its 
+
+filling of warheads. 
+
+-------------------- 
+
+ 
+ 
+ 
+ 
+Photo
+
+ograph of PJ
+
+J-10 (BrahM
+
+Mos) Filled W
+
+Warhead 
+
+ Filled 
+Warhead 
+
+  W
+
+Cut view 
+C
+Filled 
+Warhead 
+W
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

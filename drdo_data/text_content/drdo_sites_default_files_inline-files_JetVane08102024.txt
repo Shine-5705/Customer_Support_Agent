@@ -1,0 +1,462 @@
+Manufacturing of Carbon-Silicon Carbide composite (C-SiC) Jet Vanes through
+Liquid Silicon Infiltration Method
+
+Introduction
+Jet vane are used in Thrust Vector Control (TVC) system. At initial stage of launch,
+when the velocity is very less, jet vanes are used to control yaw, pitch and roll by
+using   high   speed   motor   exhaust.   Exhaust   is   having   very   high   temperature,   high
+heating rate, high mass flow rate with solid particle impingement where high mass
+flux of the exhaust gases exert very high shear stresses in addition to the chemical/
+oxidative  attack which  results into  a severe  thermo-oxidative  recession  of  the Jet
+vane.  This   innovation   was   created   to   indigenize   this   critical   system   for   typical
+applications.   C-SiC   (Carbon   Fiber   Reinforced   Silicon   Carbide)   Composite   is   a
+thermo-structural   material   which   has   high   thermal   shock   resistance,   oxidation
+resistance   and   melting   point.   It   can   retain   its   mechanical   strength   at   high
+temperature and can be used up to 25000C for short duration.
+
+Essential infrastructure required for ToT
+Those who are willing to take up the ToT should have a plant having pitch infiltrator,
+Carbonization   furnace,   Graphitization   furnace,   Hot   Iso   static  Pressurization   (HIP)
+System, Heat Treatment/ Siliconisation furnace. Approximately 20Cr investment is
+required (except HIP).
+
+Areas of application: C-SiC jet vanes are used in thrust vector control system.
+
+Interested companies/ industries are requested to apply against this EoI to following
+
+address:-
+
+Director, 
+Advanced Systems Laboratory (ASL)
+Kanchanbagh P O,
+Hyderabad - 500058
+Ph.No: 040- 24188400
+Fax: 040-24343779
+Email: director[dot]asl[at]gov[dot]in
+
+A copy of interest may be sent to the following address (without any attachment):-
+
+Director 
+Directorate Industry Interface and Technology Management (DIITM) 
+Room No 447, DRDO Bhawan, DRDO HQrs, Rajaji Marg, New Delhi – 110011
+Phone No: 01123013209/23015291
+Fax No: 011-23793008
+Email ID: diitm[dot]hqr[at]gov[dot]in
+
+           
+All industries interested in seeking ToT are requested to fill in the form given below
+and provide reference of page no. of supporting document (wherever applicable) in
+the relevant field. The list of documents to be attached is provided in Annexure - I. 
+
+General Information 
+
+PART-1
+
+1.
+
+Name of the Technology requested for Technology Transfer
+(Technology name and concerned Lab, Category)
+
+2. Name of the industry/ organization
+
+3. Complete Address and other details
+
+Registered Office
+
+State
+Phone No
+Fax
+Email
+Website
+
+Factory
+
+State
+Phone No
+Fax
+Email
+Website
+
+4.
+
+Point of Contact
+Name
+Designation
+Address
+Mobile No
+Ph No
+Email ID
+
+5. NAME OF CMD/ MD /PARTNERS/ PROPRIETOR/ etc
+
+Name
+Designation
+Address
+Mobile No
+
+Ph No
+Email ID
+
+6. Date of Incorporation of company
+
+7.
+
+8.
+
+9.
+
+Foreign Direct Investment in company (if any in %)
+
+Shareholding pattern
+
+Turn over as per Audited Balance Sheet for the preceding 
+three years.
+Year ____
+Year ____
+Year ____
+
+10. Annual budget for R&D during last three years
+
+(if any)
+Year ____
+Year ____
+Year ____
+
+11.
+
+Income Tax returns for the preceding three years period
+Year ____
+Year ____
+Year ____
+
+12. Nature of company
+
+DPSU, Private Limited, Public Limited, Partnership, Proprietary, 
+Ex- Serviceman Unit
+
+13. Category of industry
+
+Large Scale, Medium Scale, Small Scale, Micro, Startup
+
+14. MSME Registration No
+
+15. Certificates of registration as a manufacturing unit, if any.
+
+16.
+
+If Startup, DPIIT Registration No
+
+17. UDYOG AADHAR No
+
+18. PAN Number
+
+19. Details of Industrial license for defence manufacturing 
+
+issued by DPIIT (if any)
+
+20. Details of PESO license (if any)
+
+21. GST Number
+
+22. Nature of business
+
+Manufacturing/ Sole Selling or Authorized Agent/ Assembler/ 
+Traders/ Dealer/ Processor/ Repacker/ Others
+
+23. Details of current products and services
+
+Products and services Supplied (please specify Govt/ Domestic 
+market/ Export)
+
+24. Record of past performance (e.g., Supply orders executed 
+against of Ministry of Defence orders, Public Sectors and 
+Paramilitary Forces, if any).
+
+25. Details of registration with
+
+NSIC / SSI, DGS&D, other Defence Department, other Govt. 
+Dept, membership of FICCI/ASSOCHAM/CII or other Industrial 
+Association
+
+(Attach relevant copies of registration letters)
+
+26. Have you already taken any technology from DRDO (If yes, 
+
+give details attaching separate sheet)
+
+Name of the Technology, Lab, Year, License number & Status
+
+27.
+
+ISO/ ISI certification or any other certification (If yes, give 
+details)
+
+28. Relevant clearances form the authorities/ ministries (if any)
+
+29. Capacity and capability to undertake developmental work 
+and to accept attendant financial and commercial risks.
+
+30. Capacity/capability to market the product through the 
+
+marketing network, sales and service network, reliability to 
+maintain confidentiality.
+
+Infrastructure and other Information
+
+PART-2
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+Total area of factory
+Covered (m2),
+Uncovered (m2),
+Bonded space available (m2)
+Ownership of factory
+Self-owned, partnership, rental
+Electric power
+Sanctioned
+Installed
+Standby (if any)
+Availability of adequate infrastructure (List of 
+machines and their production capacities) and technical 
+expertise
+Name of bank & A/c No
+Name of bank
+A/c type
+A/c no
+
+Address of the bank
+Phone: Email:
+
+(a) Details of current products:
+
+Sl.no.
+
+Type
+
+Description
+
+Licensed/installed 
+capacity
+
+Annual production 
+for preceding 3 years
+
+(b) Details of foreign collaboration, if any
+
+Sl.no. Product
+
+Name & address of collaborator
+
+Year
+
+Remarks
+
+(c) Details of products developed for services
+
+Sl.no.
+
+Nomenclature of stores Order no and date
+
+Remarks
+
+(d) Please give details of important facilities & infrastructure as per following 
+
+format for:
+
+a.
+b.
+c.
+
+Production
+Unconventional, special m/c
+Testing & quality control facilities
+
+Sl.no. Description of 
+
+m/c
+
+Make & 
+model
+
+Qty
+
+date of    
+purchase
+
+Remarks
+
+(e) Furnish the following details with relevant certificates and documents
+
+a.
+b.
+c.
+d.
+
+R&D facilities available
+Inspection quality control of raw material components
+Assistance from central agency for testing / calibration etc. :
+:
+laboratory and drawing office facility
+
+:
+:    
+
+(f) Principal customers:
+
+Sl.no. Name & address
+
+S.O No. & 
+date
+
+Date of last 
+supply
+
+Products 
+supplied
+
+Value
+
+(g) Future plan (if any) in respect of expansion programme installation of 
+
+additional machines/ test facilities etc.
+
+(h) Name of the technology requested for transfer (give self-assessment of your 
+
+capability to absorb the technology)   
+
+(i) Details of employee as on date on firm’s pay roll 
+
+Number Qualification
+
+Total 
+Service
+
+PERMANENT
+Category
+
+Post Held
+
+Technical
+
+Prod. Manager
+Q.C. Manager Supervisor
+Testing Staff (Qc) Skilled 
+workers
+Unskilled workers, etc.
+
+Administrative Purchase Manager 
+
+Accounts Officer Office 
+Superintendent Clerical 
+Others etc
+
+Number Qualification Total 
+
+Service
+
+TEMPORARY
+Category
+
+Post Held
+
+Technical
+
+Prod. Manager
+Q.C. Manager Supervisor
+Testing Staff (Qc) Skilled 
+workers
+Unskilled workers, etc
+
+Administrative Purchase Manager Accounts
+Officer Office Superintendent
+Clerical Others, etc
+
+DECLARATION :
+
+I / we confirm that the information furnished in Part 1 & 2 above is correct. In 
+the event of any information given by me / us is found incorrect / false at any time, I /
+we understand our EoI for ToT will be cancelled/ rejected without notice, beside any 
+other appropriate action against me / us.
+
+Industry seal
+
+Authorized signatory
+
+Name(s) in capital
+designation and seal of authorized 
+signatory
+
+dated:
+Place:
+
+List of Support documents to be attached with EoI
+
+(a)  Memorandum   and   Articles   of   Association   (Should   be   incorporated   as   per
+
+Annexure - I
+
+(b) 
+(c) 
+(d) 
+(e) 
+
+(f) 
+(g) 
+(h) 
+(i) 
+
+(j) 
+
+(o) 
+
+(p) 
+
+(q) 
+
+(r)
+
+Indian Companies Act, as amended time to time)
+Certificates of registration as a manufacturing unit, if any.
+Audited Balance Sheet for the preceding three years. 
+Income Tax returns for the preceding three year period 
+Details   of   shareholding/ownership   pattern   especially   foreign   partners/
+shareholders, foreign employees, directors, etc. The company must adhere to
+the   prevailing   Govt   of   India   policies   and   regulations   on   Foreign   Direct
+Investment (FDI)/DIPP norms as applicable. 
+Annual budget for R&D during last three years. 
+Numbers and details of IPR or patents, etc., held by the company.
+Number of technically or professionally qualified personnel.
+Record of past performance (e.g., Supply orders executed against of Ministry
+of Defence orders, Public Sectors and Paramilitary Forces, if any). 
+Availability of adequate infrastructure (List of machines and their production
+capacities) and technical expertise. 
+List of Testing and Support equipment’s
+ISO/ ISI certification or any other certification 
+
+(k) 
+(l) 
+(m)  Relevant clearances form the authorities/ ministries (if any)
+(n) 
+
+Capacity   and   capability   to   undertake   developmental   work   and   to   accept
+attendant financial and commercial risks. 
+Capacity/capability   to   market   the   product   through   the   marketing   network,
+sales and service network, reliability to maintain confidentiality.
+PESO   and   DPIIT   license   for   explosive   handling   if   ToT   is   for   high   energy
+Material, explosives, propellants, and component/ system dealing with it etc. 
+Under   taking   form   company   seeking   ToT   that   none   of   its   Directors,
+Independent Directors, non-executive Directors, Key management personnel
+are involved in any corrupt practices, unfair means and illegal activities.
+Details of the industrials license for defence manufacturing be provided by the
+industry seeking ToTs.
+
+

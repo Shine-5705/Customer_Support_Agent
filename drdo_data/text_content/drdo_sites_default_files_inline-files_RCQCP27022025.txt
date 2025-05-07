@@ -1,0 +1,257 @@
+RFSoC based Controller of Quantum Computer Processor (RCQCP)
+
+Background
+
+RFSoC based Controller of Quantum Computer Processor (RCQCP) allows control and
+measurement of quantum states of upto 8 qubits. It is based on the Xilinx (AMD) ZCU
+216   RFSoC   development   board.   Control   waveforms   for   characterisation   and
+subsequent quantum programs may be written using Qiskit toolboxes. The results of
+measurement   are   available   as   raw   In-Phase   and   Quadrature-Phase   (IQ)   data   i.e.
+processed ADC samples, as ensemble average data and as logical data as per user
+requirement. All channels are subject to simultaneous measurement.
+
+The   system   is   specially   targeted   for   qubits   based   on   super-conducting   circuits   with
+control frequencies in the range of 4-5 GHz and readout frequencies in the range of 7-8
+GHz. The signal generation relies on both first and second Nyquist zone and readout is
+performed using aliased signals with proper frequency planning.
+
+Cavity   spectroscopy,   qubit   spectroscopy   and   subsequent   characterisation   like   Rabi,
+Ramsey, T1 decoherence and T2 decoherence, etc. can be performed using this single
+board solution.  
+
+Features
+
+ 8 Qubit control and measurement considering each qubit requires:
+
+o Control channel to qubit, 
+o Read-out pulse channel to cavity, 
+o Read-out pulse channel from cavity.
+
+ Qubit Control frequency range: 4-5 GHz
+ Qubit Read-out frequency range: 7-8 GHz
+ Max Instantaneous BW at Intermediate Frequency (IF): 307.2 MSPS per channel
+ Sequence Size / No. of Circuits: 600 @ 200 usec circuit window (user 
+
+configurable)
+
+ Shots: User configurable
+ Streaming mode data acquisition for RF channel characterisation
+ Custom Baseband Filter Update
+ Qiskit based API
+
+Scope of Usage
+
+RCQCP will enable a cost-effective solution to control and measure qubits in a quantum
+processor while allowing for easy scale-up of such systems at moderate increment of
+power budget. Therefore, it is expected to make quantum computing accessible to a
+wider audience in academia, industry and the scientific community.
+
+Page 1 of 4
+
+Interested industries are requested to submit their financial bid in  sealed envelope
+mentioning name of technology on top of the envelope, along with relevant
+documents as per the list in appendix-A, through one of the following agencies only, to
+DRDO before the bid ending date:-
+
+S.
+No
+
+1
+
+2
+
+Name of the Agency
+
+Point of Contact
+
+The Associated Chambers of 
+Commerce and Industry of India 
+(ASSOCHAM)
+4th Floor, YMCA Cultural Centre and
+Library Building,
+01, Jai Singh Road, New Delhi - 
+110001
+
+Phone: 46550555 (Hunting Line)
+Fax: 01123347008/9
+Website :www[dot]assocham[dot]org
+
+National Research Development 
+Corporation
+Address :20-22, Zamroodhpur 
+Community Centre,
+Kailash Colony Extn. New Delhi - 
+110048
+
+Tel : +91-11-29240401 to 29240407
+Fax: +91-11-29240409 / 29240410
+General E-mail : write2[at]nrdc[dot]in
+
+Ms Kavita Sharma
+Addl Director and Head - Energy and Infra
+Mobile : 09871801002
+Tele: 0091-11-23347040
+Email: 
+kavita[dot]sharma[at]assocham[dot]com
+Website : www.assocham.org 
+
+Sh. Rajendra Gondane
+Sr. Manager (Business Development)
+National Research Development 
+Corporation
+20-22, Zamroodhpur Community Centre,
+Kailash Colony Extn. New Delhi - 110048
+INDIA
+Mobile : +91-9910496554
+EPABX : +91-11-29240401-07 (Extn. 444)
+Fax : +91-11-29240409 -10
+Email : rgondane[at]nrdc[dot]in
+Website : www[dot]nrdcindia[dot]com
+
+Page 2 of 4
+
+3
+
+4
+
+PHD Chamber of Commerce and 
+Industry
+Address: PHD House, 4/2 Siri 
+Institutional Area,
+August Kranti Marg, New Delhi 
+110016
+
+Tel : 91-11-26863801-04, 49545454
+Fax : 91-11-26855450, 49545451
+Website : www.phdcci.in 
+E-mail : phdcci[at]phdcci[dot]in
+
+Confederation of Indian Industry 
+(CII)
+Address: The Mantosh Sondhi 
+Centre 23, Institutional Area,
+Lodi Road, New Delhi - 110 003 
+(India)
+
+Tel : 91 11 45771000 / 24629994-7
+Fax : 91 11 24626149
+E-Mail : info[at]cii[dot]in
+Website : www.cii.in 
+
+Nasir Jamal
+Joint Secretary
+PHD Chamber of Commerce & Industry
+Address: PHD House, 4/2 Siri Institutional 
+Area, August Kranti Marg, New Delhi 
+110016
+INDIA
+
+Mobile : +91-9810185714, 8210343267
+Phone : +91-11-49545454, 49545400 
+Extn : 279
+Fax : +91-11-26855450
+
+Amit Kumar
+Deputy Director – Defence & Aerospace
+Society of Indian Defence Manufacturers 
+(SIDM)
+C/o Confederation of Indian Industry (CII)
+Address: 3rd Floor, IGSSS, 28 Institutional 
+Area, Lodhi Road, New Delhi – 110003
+INDIA
+Mobile : +91-9990059163
+Phone : +91-11-45772062
+Fax : +91-11-45772022
+Email : amit[dot]kumar[at]cii[dot]in
+Website : www.sidm.in
+
+Appendix-A
+
+List of Support documents to be attached 
+
+(a)  Memorandum and Articles of Association (Should be incorporated as per Indian
+
+Companies Act, as amended time to time)
+
+Certificates of registration as a manufacturing unit, if any.
+
+Audited Balance Sheet for the preceding three years. 
+
+Income Tax returns for the preceding three year period 
+
+Details   of   shareholding/ownership   pattern   especially   foreign   partners/
+shareholders,  foreign employees,  directors,  etc.  The  company  must  adhere to
+the prevailing Govt of India policies and regulations on Foreign Direct Investment
+(FDI)/DIPP norms as applicable. 
+
+Annual budget for R&D during last three years. 
+
+Numbers and details of IPR or patents, etc., held by the company.
+
+Number of technically or professionally qualified personnel.
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+(f) 
+
+(g) 
+
+(h) 
+
+Page 3 of 4
+
+(i) 
+
+(j) 
+
+(k) 
+
+(l) 
+
+Record of past performance (e.g., Supply orders executed against of Ministry of
+Defence orders, Public Sectors and Paramilitary Forces, if any). 
+
+Availability   of   adequate   infrastructure   (List   of   machines   and   their   production
+capacities) and technical expertise. 
+
+List of Testing and Support equipment’s
+
+ISO/ ISI certification or any other certification 
+
+(m)  Relevant clearances form the authorities/ ministries (if any)
+
+(n) 
+
+(o) 
+
+(p) 
+
+(q) 
+
+(r) 
+
+Capacity   and   capability   to   undertake   developmental   work   and   to   accept
+attendant financial and commercial risks. 
+
+Capacity/capability to market the product through the marketing network, sales
+and service network, reliability to maintain confidentiality.
+
+PESO and DPIIT license for explosive handling if ToT is for high energy Material,
+explosives, propellants, and component/ system dealing with it etc. 
+
+Under taking form company seeking ToT that none of its Directors, Independent
+Directors, non-executive Directors, Key management personnel are involved in
+any corrupt practices, unfair means and illegal activities.
+
+Details of the industrials license for defence manufacturing be provided by the industry
+seeking ToTs.
+
+Page 4 of 4
+
+

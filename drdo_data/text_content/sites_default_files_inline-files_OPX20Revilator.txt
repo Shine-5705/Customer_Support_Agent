@@ -1,0 +1,180 @@
+OPX Revilator – Handheld Device for Explosive Detection and Identification  
+
+Objective:  
+
+To absorb technology and production of OPX-Revilator- an Optronics Explosive Detector 
+
+Introduction: 
+
+Detection  and  identification  of  explosives  for  security  has  been  an  area  of  global  concern 
+since decades. Concerted efforts have been focused on the detection of explosives which is a vitally 
+challenging task, as the criminal use of explosives and improvised explosive devices (IEDs) by anti-
+social elements for the destruction of public life and property is increasing day by day. The threat of 
+IEDs  has  proliferated  to  civilian  areas  in  addition  to  military  installations.  IEDs  are  used  for  large 
+scale destruction causing tragic casualties.   
+
+High  Energy  Materials  Research  Laboratory  (HEMRL)  Pune,  a  premier  laboratory  of  the 
+Defence  Research  and  Development  Organisation  (DRDO),  Ministry  of  Defence,  has  designed  and 
+developed  OPX  Revilator  -  an  Optronic  trace  Explosives  Detector  for  detection  and  identification 
+explosives.  This  device  has  the  capability  to  identify  more  than  22  types  of  pure  explosives  and 
+explosive  mixtures  even  in  presence  of  contaminants  like  mud,  sand,  sugar, salt,  diesel  oil  etc. The 
+OPX Revilator is capable of identifying a wide range of explosives in solid and liquid phase reliably. 
+It can be operated in laboratory and field conditions. The OPX Revilator is a portable, miniaturized, 
+electronic detector capable of identifying explosives mostly used by antisocial elements and used in 
+Improvised  Explosive  Devices  (IEDs).  The  explosives  important  explosives  identified  are  CL-20, 
+FOX-7, NTO, RDX, HMX, CE, PETN, TNT; inorganic compounds of class nitrates like ammonium 
+nitrate  (AN)  and  combinations  thereof  ANFO,  Composition  A,  Composition  B,  Composition  C-4, 
+Octol, Cyclotol, PEK-I, LTPE, Amatol, Ammonal, Pentolite, Dentex, Torpex and Tritonal. It is vitally 
+useful  after  a  bomb  blast  for  identification  of  trace  explosives  from  debris.  It  is  also  useful  for 
+identification of suspect, unknown samples as explosives. 
+
+The  OPX  Revilator is  highly  useful for  Homeland  Security  and  Civil  security  operations  at 
+
+Airports,  Railway  Stations,  Shopping  malls,  Multiplexes,  Schools,  Colleges,  Universities  and  all 
+
+strategic locations. Agencies like Paramilitary Forces (BSF), Army, Navy, Air Force, Bomb Detection 
+
+and Disposal Squad (BDDS), CISF and CRPF can use Revilator for trace level detection during Pre 
+
+and Post blast analysis.  
+
+Technical Specification of OPX-Revilator:   
+
+Parameter 
+Dimensions 
+Weight 
+Power Requirement 
+
+  Values / Description 
+:  185 mm (L) x 126 mm (W) x 75 mm (H) 
+:  480 g (including battery) 
+:  Mains Adaptor 
+
+Rechargeable Battery 
+
+Display 
+Battery Backup 
+Display of results 
+Form  of  explosive  sample  for 
+identification 
+
+:  LCD screen (60 mm x 30 mm) 
+:  6-8 hours 
+:  Name(s) of explosive(s) displayed on LCD screen 
+:  Pure or with Contaminants 
+
+ 
+ 
+ 
+ 
+Parameter 
+Classes of explosive identified 
+
+Minimum  quantity  of  explosives 
+required for identification 
+
+State of explosive for 
+identification 
+Time taken for identification 
+Suitability 
+Adaptability 
+
+Usefulness 
+
+Trace Collection 
+Packing List 
+
+  Values / Description 
+o  Nitramines 
+: 
+o  Nitro-aromatics 
+o  Nitrate Esters 
+o  Inorganic Nitrates 
+types 
+
+type  of  
+
+and 
+
+explosives 
+
+:  Depends  on 
+contaminants 
+Pure Explosives : ~ 5 mg 
+Explosive with mud : ~ 10 mg 
+Explosive with Diesel : ~ 20 mg  
+Explosives with Sand/Sugar/Wheat/Maida : ~ 10 mg 
+Explosive compositions : 10 mg – 40 mg 
+
+:  Explosive in solid and liquid state  
+
+:   3 minutes 
+:  Laboratory & Field  
+:  Extendable 
+explosives 
+Identification  of  explosives  for  Pre  or  Post  blast 
+scenario 
+
+identification  of  more 
+
+library 
+
+for 
+
+: 
+
+:  Direct Collection / Swab 
+: 
+
+o  Reagents 
+o  Trays 
+o  Charger / Power cord 
+o  Instruction manual 
+o  Carry case 
+
+List of explosives identifiable 
+
+: 
+
+o  RDX  
+o  HMX- seen as RDX/HMX 
+o  FOX-7 
+o  CL-20 
+o  ANFO (AMMONIUM NITRATE/FUEL OIL) 
+o  NTO 
+o  PETN 
+o  TETRYL (CE) 
+o  TNT 
+o  AMATOL 
+o  AMMONAL 
+
+Further Detail of System: 
+
+o  COMPOSITION A  
+o  COMPOSITION B  
+o  COMPOSITION C-4 
+o  CYCLOTOL 
+o  DENTEX  
+o  LTPE (LOW TEMP PLASTIC EXPLOSIVE) 
+o  OCTOL  
+o  PENTOLITE 
+o  PEK- I (PLASTIC EXPLOSIVE KIRKEE – I)  
+o  TORPEX 
+o  TRITONAL 
+
+OPX-Revilator  is  a  micro-controller  based  embedded  system  housed  in  a  designer 
+plastic cover. The essential sensors are mounted on the single motherboard. There is a LCD 
+screen of required size and resolution for display of results and necessary instructions. A Li-
+Ion battery is also placed inside for battery backup and charging port is provided for charging 
+the battery. A USB 2.0 port is provided for external communication. The necessary codes are 
+written on to the controller memory for execution of the algorithm for operation of the system 
+along  with  the  data  processing.  The  trays  provided  with  the  system  are  used  to  place  the 
+specimens for testing and the same are inserted in the system for obtaining the test result. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

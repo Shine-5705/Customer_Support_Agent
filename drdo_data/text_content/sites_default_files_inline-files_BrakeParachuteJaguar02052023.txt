@@ -1,0 +1,65 @@
+Brake Parachute  System for 
+
+ Jaguar 
+
+ Aircraft
+
+Brake parachute is used to assist normal wheel braking and to reduce the landing run of the
+
+aircraft. The parachute produces its maximum decelerating force immediately after opening
+
+following aircraft touchdown, or at a time when wheel brakes are not very effective, especially
+
+when the runway is wet or icy. 
+
+When aircraft lands on runway in normal/emergency condition or during an aborted takeoff
+
+situation, pilot of the aircraft initiate stream button in aircraft cockpit. The door of parachute
+
+container gets opened and the spring loaded auxiliary parachute comes out of container. With
+
+the help of drag of auxiliary parachute, pack cover along with main parachute extracted from
+
+container   and   main   parachute   comes   out   from   pack   cover.   The   inflated   main   parachute
+
+produces the drag to reduce the speed of aircraft in turn reducing the landing run.  The inflated
+
+parachute is shown in figure.
+
+The Brake parachute system is fabricated using various textile materials and metal parts. It
+
+consists of following major components/subsystems-
+
+S. No.
+
+Description
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+Assembly Main Parachute
+
+Assembly Auxiliary Parachute
+
+Assembly Deployment Bag
+
+Rigging line and Central Cord Stowage flap
+
+Cone attachment strap
+
+Assembly Carrying Bag
+
+ 
+ 
+ 
+ 
+

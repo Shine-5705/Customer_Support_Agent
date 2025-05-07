@@ -1,0 +1,510 @@
+Expression of Interest 
+
+TOT OF AN ADVANCED LIGHT TOWED ARRAY SONAR (ALTAS) 
+
+1.  INTRODUCTION 
+
+NPOL,  Kochi,  a  premier  laboratory  under  Defence  R&D  Organisation  invites 
+
+Expression  of  Interest  (EOI)  from  Indian  manufacturers  having  sufficient  experience, 
+
+expertise  and  willingness  to  undertake  System  Integration  of  an  Advanced  Light 
+
+Towed  Array  Sonar  (ALTAS)  on  Naval  Platforms.  ALTAS  system  consists  of  mainly 
+
+four  subsystems  i.e.  Wet  end  system,  Launch/Recovery  unit  (LRU),  On-board 
+
+Electronics and System Software.  
+
+Launch/Recovery Unit 
+
+On-board Electronics 
+
+Tow Cable Assy 
+
+Transmitter Array 
+
+Receiver Array 
+
+Schematic of  ALTAS System 
+
+1. The  Wet  End  System  consists  of  Transmitter  and  Receiver  Arrays  and  Tow  Cable 
+
+assembly.  The  Transmitter  Array  is  housed  in  a  Vertically  stabilised  body  and  is 
+
+hooked  on 
+
+to 
+
+the  seamless  Tow  Cable  with 
+
+linear 
+
+receiver  Array.  The 
+
+Launch/Recovery unit consists of  a Heavy Duty Winch for Deployment, Retrieval and 
+
+Stowage  of  tow  cable  assembly  and  Receiver  Array  and  a  hydraulically  operated 
+
+robotic  handling  gears  for  the  launch/recovery  of  the  Vertically  stabilised  body.  The 
+
+receiver  array  is  linked  to  the on-board  electronics  through fibre  optic  telemetry.  The 
+
+ 
+ 
+on-board  electronics  consists  of  transmit  waveform  generators  including  power 
+
+amplifiers for generating the acoustic pulse and specific hardware modules for signal 
+
+processing and display. The system software which resides on the on-board hardware 
+
+modules  implements  advanced  signal  processing  algorithms  for  target  detection  and 
+
+localisation and presents the results in innovative display formats. 
+
+Technical Specifications are enclosed at Annexure ‘A’ 
+
+2.  RESPONSIBILITIES OF SYSTEM INTEGRATOR 
+
+ALTAS  is  a multidisciplinary  sonar  system  consisting  of  technologies  of  transducers, 
+
+mechanical  engineering,  ocean  engineering,  electrical  and  electronics  engineering, 
+
+power electronics and software. Realisation of the entire sonar system under one roof 
+
+may not be practical because of the diversity of technologies, know-how and skill set 
+
+required.  And  hence  the  hardware  content  of  the  sonar  has  been  realised  as 
+
+subsystems  through  specialised  Indian  industries  and  integrated  as  ALTAS  sonar 
+
+system by incorporating dedicated software developed by NPOL. The responsibility of 
+
+its  installation  onboard  a  naval  ship  and  the  role  of  lead  system  integrator  was 
+
+undertaken by NPOL. The performance validation of the system was done under the 
+
+leadership  of    NPOL  and  with  the  association  of  Indian  Navy  through  a  series  of 
+
+structured  sea  trials  with  real  targets  deployed  at  strategic  locations.  Performance 
+
+validation has since been completed, the Indian Navy will shortly evaluate the system 
+
+as  per  mutually  agreed  trial  plan  and  procedure.    Indian  Navy  has  plans  to  induct  a 
+
+few ALTAS sonar systems for its front line war ships soon after evaluation trials. The 
+
+purpose of this EOI is to identify one / two potential Lead System Integrators (LSI) for 
+
+ALTAS system.    And the scope  of  TOT , after completing all official formalities, will 
+
+be  restricted  to  system  level    configuration  and  specifications,  interface  controls, 
+
+supply  chain  and  Bill  of  Materials,  Acceptance  Test  procedure  for  subsystems  and 
+
+components, software integration procedure, binding data for installation, performance 
+
+validation  criteria  and  system  maintenance  tips.    Responsibilities  of  Lead  System 
+
+Integrator are further elaborated in the succeeding sections. 
+
+2.1  Act as a single point contact between the Indian Navy/NPOL 
+
+a.  The  sub-systems  of  ALTAS  system  has  been  developed  through  specialised 
+
+Industries.  
+
+b.  Detailed Specifications, Quality policy / program for component level to system level, 
+
+ATP,  FAT’s,  HAT’s  and  SAT’s  documents  and    BOM  will  be  provided  in  the  TOT 
+
+documents. 
+
+c.  The  LSI  will  field  ALTAS  system  against  RFP  from  Indian  Navy/other  sources  by 
+
+submitting Technical, commercial and price bids appropriately. 
+
+d.  Once  a  Supply  order  is  placed  on  the  Lead  System  Integrator  (LSI)  ,  the  LSI  will 
+
+execute  the  order  within  the  stipulated  time  frame  and  budget  by  liaising  with  the 
+
+sub-system manufacturers for realising the hardware, strictly adhering to the supply 
+
+chain given in the TOT documents,  and by integrating software as per procedure. 
+
+2.2  Organising QT/ET/ATP at the premises of sub-system manufacturer. 
+
+a.  System  Integrator  has  to  organise  QT/ET  at  the  manufacturers  end  as  per  sub-
+
+system acceptance document provided in the TOT document.  
+
+b.  System Integrator has to conduct FAT’s at the manufacturers end as per sub-system 
+
+Factory  acceptance  document  provided  in  the  TOT  document  before  despatch  of 
+
+sub-system for system Integration 
+
+c.  System  integrator  will  ensure  the  presence  of  competent  authority  responsible  for 
+
+Quality assurance during all inspection stages. 
+
+2.3  System Integration at own factory before despatch to the destination 
+
+a.  Before  despatch  to  destination  Onboard  electronics  and  wet  end  subsystems  of 
+
+ALTAS  have  to  be  Integrated  and  evaluated  as  per  FAT’s  document  issued  along 
+
+with TOT Document at the own factory premises of System Integrator.  
+
+b.  All    facilities  essential    for  conduct  of  System  Integration  will  be  organised  by  the 
+
+system Integrator.  
+
+c.  System  integrator  will  ensure  the  presence  of  competent  authority  responsible  for 
+
+Quality assurance and inspection. 
+
+2.4 
+
+Installation On-board designated Platforms 
+
+a.  System  integrator  will  carry  out  the  installation  of  ALTAS  system  on-board  Naval 
+
+Ship identified by Navy/NPOL. System integrator will be responsible for survey of the 
+
+Ship  and  association  with  board  of  officers  nominated  for  the  Siting  board  for 
+
+installation of ALTAS System. 
+
+b.  System  integrator  will  prepare  all  necessary  installation  drawing  specific  to  the 
+
+designated Naval Ship.  
+
+c.  System  integrator  will  transport  all  the  sub-system  to  the  harbour  identified  for  the 
+
+installation of ALTAS System. 
+
+d.  System  integrator  will  ship-in  all  the  necessary  sub-systems  and  carry  out  the 
+
+installation and Integration on-board the designated Naval Ship.  
+
+e.  System  integrator  is  responsible  for  Laying  of  power  cables,  junction  boxes  and 
+control  panels  required  for  system  integration.  System  integrator  has  to  procure  all 
+the necessary accessories for the same. 
+
+f.  System  integrator  is  responsible  for  Air-conditioning,  lighting  and  ventilation  at  the 
+area  where  ALTAS  systems  are  installed.    Air  conditioning  includes  cooling  of 
+cabinets for On-board electronics.  
+
+g.  System integrator is responsible for Providing False roof, Wall panelling and flooring 
+
+at the area of installation as per Ship standard. 
+
+h.  System  integrator  is  responsible  for  Plumbing  works  to  make  available  fresh  water 
+
+and sea water necessary for system operation 
+
+i.  System  integrator  will  carry  out  the  installation  as  per  procedure,  safety  norms  and 
+
+security norms of ship. 
+
+j.  System  integrator  will  ensure  the  presence  of  competent  authority  responsible  for 
+Quality  assurance  throughout  the  installation  procedure  and  will  be  responsible  for 
+completing installation inspection by the competent authority. 
+
+2.5  Conduct HAT’s and SAT’s. 
+
+a.  System integrator will  organise the conduct of HAT’s and SAT’s post-installation  as 
+
+per Documents provided during TOT.  
+
+b.  System  integrator  will  ensure  the  presence  of  competent  authority  responsible  for 
+
+HAT’s and SAT’s. 
+
+2.6  Post Installation support like routine and preventive maintenance, AMC etc. 
+
+a.  System integrator will  carry out Post Installation support like routine and preventive 
+
+maintenance,  AMC  etc.  of  the  ALTAS  system  on  the  platform  in  which  the  ALTAS 
+
+system is installed.  
+
+b.  The  responsibility  of  the  entire  “Product  Life  Cycle  Support”  lies  with  the  Lead 
+
+System Integrator. 
+
+3.  TOT TERMS 
+
+3.1  As per DRDO Guidelines for Transfer of Technology (TOT), the first TOT will normally 
+
+be given to the industry associated during development on priority so as to ensure high 
+
+quality of manufacture within the limitations in hand-holding support of DRDO. 
+
+3.2  As  more  than  one  industry  was  involved  in  the  realisation  of  the  various  sub-systems 
+
+during  the  development  of  ALTAS  System,  the  supply  chain  established  by  NPOL 
+
+should not be disturbed by the industry that is nominated as the lead system Integrator.  
+
+ 
+ 
+ 
+3.3  TOT will be given on non-exclusive basis only. The number of license on non-exclusive 
+
+basis  will  be  restricted.  However,  additional  licence  if required  will  be  given  by  DRDO 
+
+on need basis. The intellectual property rights shall always remain with DRDO.   
+
+3.4  The  amount  and  payment  stages  of  TOT  fee  will  be  as  prescribed  by  DRDO.  As  per 
+
+current guidelines it is upto 20% of its developmental cost. 
+
+3.5  Royalty fee @ 2% of the annual sales will be applicable uniformly for all industries. 
+
+3.6   Technical  assessment  of  the  industries  submitting  EOI’s  will  be  carried  out  by  a 
+
+Technical  assessment  committee  for  verification  of  the  technical  and  financial 
+
+capability/capacity of the industry. 
+
+3.7  Eligible  parties  will  have  to  sign  Confidentiality  &  Non-Disclosure  Agreement  (CNDA) 
+
+with DRDO for technical  discussion including specifications, following  which they shall 
+
+be considered for giving Transfer of Technology (TOT) on non-exclusive basis. 
+
+3.8  TOT  to  industry  will  be  given  based  on  their  manufacturing  capability,  assurance  on 
+
+quality and capacity of production apart from other terms and conditions.  
+
+3.9  The licencing agreement for transfer of technology (LATOT)  which is to be signed  will 
+
+be  as  per  the  template  approved  by  Department  of  Legal  affairs.  Ministry  of  Law  and 
+
+Justice. 
+
+3.10 
+
+ DRDO shall have the march-in rights to use the IP for its own use in the interest of 
+
+the Govt. of India without any restrictions, irrespective of the nature of licence granted. 
+
+3.11  The  firm  expressing  interest  should  be  technically  sound  to  Procure/manufacture, 
+
+supply,  install,  Integrate  and  maintain  the  system  with  requisite  quality  standards. 
+
+Domain  knowledge 
+
+in 
+
+installation, 
+
+integration  and  maintenance  of  deployable 
+
+underwater systems onboard  naval ships is  considered to  be  essential for satisfactory 
+
+completion of system commissioning and sea trials.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.  EOI TERMS 
+
+Interested  Industries  may    write  along  with  their  company  profile,  financial  &  technical 
+
+capabilities etc. as per the following format  to Director, NPOL, Kochi and copy to Director 
+
+DIITM on the following addresses  within 45 days of this advertisement. 
+
+Director, NPOL 
+DRDO, Min. of Defence,  
+Thrikkakara P.O. 
+Kochi-682021 
+Contact No - 0484 2424878 
+FAX : 0484-2424858 
+Email: director@npol.drdo.in 
+
+Director, DIITM  
+Room No 446 DRDO Bhawan 
+DRDO HQrs Ministry of Defence  
+Rajaji Marg New Delhi – 110011  
+Contact No - (011) 23016216 / 23007446 
+FAX No. 011-23793008 
+
+a)  Memorandum  and  Articles  of  Association  (Should  be  incorporated  as  per  Indian 
+
+Companies Act, 1956)  
+
+b)  Certificates of registration as a manufacturing unit, if any.  
+
+c)  Balance Sheet for the preceding three years.  
+
+d)  Income Tax returns for the preceding three year period  
+
+e)  Details of shareholding/ownership  pattern especially foreign  partners/ shareholders, 
+
+foreign employees, directors, etc. The company must adhere to the prevailing Govt. 
+
+of India policies and regulations on Foreign Direct Investment (FDI).  
+
+f)  Annual budget for R&D during last three years.  
+
+g)  Numbers and details of IPR or patents etc. held by the company.  
+
+h)  Number of technically or professionally qualified personnel.  
+
+i)  Record  of  past  performance  (e.g.  Supply  orders  executed  against  Ministry  of 
+
+Defence orders, public sectors and paramilitary forces, if any.  
+
+j)  Availability  of  adequate  infrastructure  (List  of  machines  and  their  production 
+
+capacities) and technical expertise.  
+
+k)  List of Testing and Support equipment. 
+
+l) 
+
+ISO/ ISI certification or any other certification  
+
+m) Relevant clearances from the authorities/ ministries (if any) 
+
+n)  Capacity  and  capability  to  undertake  developmental  work  and  to  accept  attendant 
+
+financial and commercial risks.  
+
+o)  Capacity/Capability to market the product through the marketing network, sales and 
+
+service network, reliability to maintain confidentiality. 
+
+ 
+TECHNICAL SPECIFICATION 
+
+Annexure ‘A’ 
+
+ADVANCED LIGHT TOWED ARRAY SONAR (ALTAS) 
+
+System Configuration 
+
+The ALTAS system will consist of a linear towed receiver array of 78 mm diameter with appropriate 
+length for the detection of signals in active and passive modes, a vertical towed projector Unit for active 
+transmissions, a hydraulically operated winch,   handling systems for towed receiver array and towed 
+projector Unit, tow cable assembly, on-board electronics and system Software for signal  processing, 
+display & recording of sonar information. Brief of each of these subsystems is given in the following 
+section. 
+
+Winch & Handling System 
+
+Tow Cable assembly 
+
+Towed Projector Unit 
+
+Towed Receiver Array 
+
+Schematics of ALTAS 
+
+Towed Receiver Array (TRA) : This is a linear array of hydrophones, typically 200 m long, housed in 
+polyurethane hose of outer diameter 78 mm, along with signal conditioning electronics. 
+
+Towed Projector Unit (TPU): This consists of a Vertical Projector Array (VPA) and a hydro dynamically 
+streamlined Vertical towed body (VTB). VPA is an array of projector elements for active sonar operation  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tow Cable Assembly (TCA):  Tow Cable assembly act as the life line of Towed Array Sonar, transferring the 
+drag force to the winch, acting as the medium for transferring power supply to the arrays and providing a 
+data telemetry link. Tow cable assembly is also used for depth keeping and level keeping of the arrays during 
+sonar operations. Tow Cables are electro-optic-mechanical cables having electrical lines, Fiber optic lines and 
+strength member. Tow cable assembly consists of a heavy tow cable, light tow cable and an interface unit. 
+
+Winch & Handling System (WHS): Sonar winch is used for winding, unwinding and stowage of the array and 
+cables. A hydraulically operated winch is used for ALTAS.  The   Handling System is the mechanism through 
+which towed transmitter body is deployed and retrieved. A hydraulically operated robotic handling system is 
+used for the deployment / retrieval of a vertical Towed Transmitter Body. An overhead sheave positioning 
+mechanism helps smooth deployment and retrieval. 
+
+Cable and Array Wound on Winch 
+
+ 
+ 
+ 
+ 
+ 
+Launching/Retrieval Mechanism for Towed Projector Unit 
+
+Onboard Electronics (OBE): This subsystem receives the data through a fibre optic data link from the array. 
+It further does various signal processing techniques and displays the relevant parameters of the target in 
+both active and passive modes of operation of the sonar.  
+
+ALTAS Subsystems 
+
+On-Board Electronics 
+
+ 
+ 
+ 
+ 
+ 
+ 
+The ALTAS sonar is divided into four subsystems as detailed below. 
+
+1.  Wet end subsystem  
+
+This consists of : 
+
+a)  Towed Receiver Array consisting of acoustic and non acoustic modules and tail drogue. 
+
+b)  Tow  Cable  Assembly  consisting  of  Heavy  Tow  Cable,  Light  Tow  Cable,  Electro  -  Opto  - 
+
+Mechanical interface connector and cable interface module. 
+
+c)  Towed Projector Unit consisting of vertical projector Array, Tuning Coil Box, Vertical Towed 
+
+Body, Bridle Assembly and Cable Harness assembly. 
+
+d)  Array Data interface Box.  
+
+2. 
+
+ Winch  and  Handling  System:  This  consists  of  a  heavy  duty  winch  with  primary  operation  by 
+
+hydraulic drives and auxiliary electrical drives, hydraulically operated robotic handling system, VTB 
+
+trolley, fairlead assembly and an overhead sheave positioning mechanism. 
+
+3.  Onboard Electronics system: This consists of two in number display cum processor cabinets, one in 
+
+number  power  supply  cabinet,  two  in  number  power  amplifier  cabinets  and  one  in  number  data 
+
+recorder cabinet. 
+
+4.  Software:  The  System  software  which  resides  on  the  on-board  hardware  modules  implements 
+
+advanced signal processing algorithms for target detection and localisation and presents the results 
+
+in innovative display formats. Exclusive rights for software will remain with NPOL. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

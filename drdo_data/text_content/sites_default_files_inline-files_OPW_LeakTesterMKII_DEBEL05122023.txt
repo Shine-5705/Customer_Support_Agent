@@ -1,0 +1,143 @@
+NBC LEAK TESTER Mk II 
+
+NBC  Leak Tester Mk II/Fitment tester is an automated field  usage  electronic tester which 
+evaluates  the  fitment  (leak  tightness)  of  NBC  respiratory  full-face  mask.  This  is  a  Controlled 
+Negative Pressure (CNP) based quantitative fitment type instrument. 
+
+Salient features: 
+
+•  Micro-controller based system with data storage facility 
+
+•  Consists  of  leak  tester  Mk  II  unit,  adapter  assembly,  three  sizes  dummy  heads  (small, 
+
+medium, large), and Pelican stormcase iM2620. 
+
+•  Can be used on both the Human subject and Dummy heads. 
+
+•  Capable  of  evaluating  the  functional  integrity  of  the  NBC  respiratory  mask  (Large,  Medium, 
+
+and Small size) on dummy heads. 
+
+•  Determines the result in the form of fitment factor and also indicate the acceptance/rejection of 
+
+mask through green and red LED respectively. 
+
+•  Operates from 220VAC ± 10%, 50/60 Hz AC (Primary), 12V DC rechargeable internal battery 
+Lithium  ion  or  equivalent  (Secondary)  and  External  12V  DC  Lithium  ion  battery.  Internal 
+battery works for minimum 8 hours in absence of AC power. 
+
+•  Equipped with facility to interface to external PC/Laptop/Workstation with RS232/USB for data 
+
+download. 
+
+•  High  precision  Pressure  Sensor which  reads  pressure  in mm  of WC and  Flow  sensor which 
+
+reads flow in cc/min. 
+
+•  Admissible values are engraved at front panel for Fitment limit reference.  
+
+•  Modular concept for easy replacement of faulty modules at unit levels. 
+
+•  Robust and capable of operating in our climatic conditions and meets relevant specification as 
+
+per JSS 55555. 
+
+•  Portable,  Light  weight  (4  kg  approx.),  Simple  to  operate  and  Easy  to  handle  with  minimum 
+
+training. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact Details 
+
+Interested companies/industries are requested to apply against this EoI through email or by DAK 
+to following address:- 
+
+To(with attachement) 
+
+The Director 
+
+Defence Bioengineering & Electromedical Laboratory 
+
+Defence Research & Development Organisation 
+
+Govt. of India, Ministry of Defence 
+
+Cv Raman, Bangalore-560 093 
+
+Email-director.debel@gov.in 
+
+Copy to(without attachement) 
+
+The Director 
+
+Directorate of Industry Interface & Technology Management (DIITM) 
+
+Room No. 447, DRDO Bhawan, Rajaji Marg, New Delhi-110 011 
+
+Email-diitm.hqr@gov.in 
+
+List of Support documents to be attached with EoI 
+
+(a)  Memorandum  and  Articles  of  Association  (Should  be  incorporated  as  per  Indian  Companies 
+Act, as amended time to time) 
+
+ (b) Certificates of registration as a manufacturing unit, if any. 
+
+ (c) Audited Balance Sheet for the preceding three years.  
+
+(d) Income Tax returns for the preceding three year period  
+
+(e)  Details  of  shareholding/ownership  pattern  especially  foreign  partners/  shareholders,  foreign 
+employees, directors, etc. The company must adhere to the prevailing Govt of India policies and 
+regulations on Foreign Direct Investment (FDI)/DIPP norms as applicable.  
+
+(f) Annual budget for R&D during last three years.  
+
+(g) Numbers and details of IPR or patents, etc., held by the company. 
+
+ (h) Number of technically or professionally qualified personnel. 
+
+ (i)  Record  of  past  performance  (e.g.,  Supply  orders  executed  against  of  Ministry  of  Defence 
+orders, Public Sectors and Paramilitary Forces, if any).  
+
+(j)  Availability  of  adequate  infrastructure  (List  of  machines  and  their  production  capacities)  and 
+technical expertise.  
+
+ 
+ 
+ 
+(k) List of Testing and Support equipment’s 
+
+ (l) ISO/ ISI certification or any other certification  
+
+(m) Relevant clearances form the authorities/ ministries (if any) 
+
+ (n)  Capacity  and  capability  to  undertake  developmental  work  and  to  accept  attendant  financial 
+and commercial risks.  
+
+(o)  Capacity/capability  to  market  the  product  through  the  marketing  network,  sales  and  service 
+network, reliability to maintain confidentiality. 
+
+(p) PESO and DPIIT license for explosive handling if ToT is for high energy Material, explosives, 
+propellants, and component/ system dealing with it etc.  
+
+(q)  Under  taking  form  company  seeking  ToT  that  none  of  its  Directors,  Independent  Directors, 
+non-executive Directors, Key management personnel are involved in any corrupt practices, unfair 
+means and illegal activities. 
+
+(r) Details of the industrials license for defence manufacturing be provided by the industry seeking 
+ToTs. 
+
+ 
+ 
+  
+ 
+

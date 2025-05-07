@@ -1,0 +1,106 @@
+Coastal Surveillance Radar 
+
+1.0 Description of Technology 
+
+The Costal Surveillance Radar is the primary sensor for Integrated Costal Surveillance System 
+
+(ICSS).  It is capable of detecting sub 20 meter boats such as county boats, dinghies and fishing 
+
+vessels  in  heavy  sea  clutter  environment  in  all  weather  conditions.  The  radar  is  capable  of 
+
+operating  24x7.  It  has  networking  facility  to  operate  either  remotely  or  locally.  Primarily,  radar 
+
+operates  in  X  band  and  resorted  to  S  band  during  inclement  weather.  The  radar  is  designed 
+
+according to IALA specifications with instrumented range of 50 Km. The radar detection range 
+
+for small county boats (RCS 1sqm) are up to 20 km.  Radar has been successfully evaluated as 
+
+a part of “Proof-of-Concept” trials of ICSS and recommended for transfer-of-technology (ToT).   
+
+It is a modern generation of coastal surveillance radar with high duty 
+
+solid state power amplifier (SSPA), sophisticated signal processing and 
+
+sea  clutter mitigation techniques.  High resolution,  both  in  azimuth  and 
+
+range, enables the radar to track dense fishing vessels in the vicinity of 
+
+coastal  area.  Further,  the  radar  has  advanced  tracking  algorithms  to 
+
+track  up  to  1500  sea  surface  targets.  The  track  information  can  be 
+
+transmitted over IP network to control stations.  
+
+The  radar  is  configured  as  a  modular  design;  so  that  it  can  put  on 
+
+tower,  existing  light  house  or  any  suitable  structure.  The  major  sub-
+
+systems  of  the  radar  are  Dual  band  antenna,  Pedestal,  Transceiver 
+
+CSR during PoC Trails 
+
+rack 
+
+(SSPA,  Exciter,  Receiver,  and  Signal  Processor),  Radar 
+
+Controller, Data Processor, and Display server. 
+
+2.0 Current Status  
+
+Four  CSRs  have  been  developed  as  a  part  of  ICSS  program.  The 
+
+indigenous  CSR  met 
+
+the  operational  requirement  as  per 
+
+IALA 
+
+recommendations. Currently, three radars are in operation at Balasore 
+
+area  which  will  be  integrated  with  Coastal  Surveillance  Network  of 
+
+Indian Coast Guard (ICG). Towards the production of indigenous CSR, 
+
+the  Cost  Estimation  Committee  (CEC)  has  recommended  for  two 
+
+licenses (non-exclusive) for ToT as per DRDO guidelines. 
+
+CSR installed in 
+East Coast 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.0 Potential users 
+
+(a)The Indian Coast Guard (ICG) for coastal security 
+
+(b) Indian Navy for surface target surveillance   
+
+(c) Director General of Light Houses and Light Ships (DGLL) 
+
+(d) Ministry of Shipping for National Coastal Vessel Traffic Services (NCVTS)  
+
+(e) Vessel Traffic Services (VTS) of public/private ports/facilities 
+
+4.0 Application Areas 
+
+The  primary  aim  of  CSR  design  is  to  detect  and  track  small  fishing  vessels  for  Coastal 
+
+surveillance  application.  However,  the  radar  can  also  be  directly  used  for  VTS  (Vessel  Traffic 
+
+management Services) application, harbor surveillance and navigational purposes. By mounting 
+
+on ship, it can also be tuned to the role of Sea  Surface  Target  Surveillance  Radar. It can be 
+
+used for  Airport  Surface  Target  Surveillance  as it is solid state coherent radar with Doppler 
+
+processing. 
+
+ 
+

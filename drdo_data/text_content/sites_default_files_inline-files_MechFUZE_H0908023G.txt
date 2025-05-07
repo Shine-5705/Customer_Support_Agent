@@ -1,0 +1,79 @@
+MECHATRONIC FUZE FOR (HAND) GRENADE 
+
+DRDO lab TBRL, Chandigarh has developed Mechatronic Fuze which is an  electrochemical fuze 
+that  combines  the  benefits  of  rugged  and  more  reliable  mechanical  safeties  and  functional 
+operations  and  timing  accuracy  of  the  electronics.  The  fuze  is  designed  for  hand  grenade 
+applications  and  operates  in  three  modes  Viz.  Time  delay,  Impact  and  Dual.  Pre-launch  safeties 
+have been provided through mechanical components whereas post launch safeties and intelligence 
+have incorporated using embedded system based electronic hardware and software. The detonator is 
+misaligned  with  the  rest  of  the  explosive  train  during  storage  and  transportation.  The  Fuze  is 
+powered by COTS primary lithium battery. 
+
+When the grenade is thrown safety lever flies off and the battery is activated providing power to the 
+electronic  circuitry.  Simultaneously  the  detonator  gets  aligned  with  the  explosive  train.  If  the 
+grenade  touches  the  ground  before  specified  time  or  accidental  drop  safety  is  activated  and  the 
+grenade is neutralized otherwise the grenade operates as per the selected mode. The time delay of 
+the fuze is factory programmable. If because of any reason the grenade did not function the batter is 
+discharged  to  neutralize  the  grenade  did  not  function  the  battery  is  discharged  to  neutralize  the 
+grenade permanently.     
+
+Salient Features:- 
+
+1. 
+2. 
+3. 
+4. 
+
+5. 
+
+Selectable mode of operation. 
+Detonator placed out of line with explosive train. 
+Arming delay is incorporated for thrower’s Safety. 
+features 
+Enhanced  safety 
+neutralization provided. 
+Verification of delay time and functionalities before assembly. 
+
+like  accidental  drop  safety  and  self-
+
+Interested  Industries  are  requested  to  forward  their  Expression  of  Interest  (EoI)  to  Director  TBRL, 
+Chandigarh with a copy of Director DIITM, DRDO HQ on following address:- 
+
+To, 
+
+Director 
+Terminal Ballistic Research Laboratory (TBRL) 
+Sector-30, Chandigarh-160030 
+Phone: 0172-2307100, 2657674 
+Fax: 0172-2657506 
+
+Email ID: director[dot]tbrl[at]gov[dot]in 
+
+Copy to 
+
+Director 
+Directorate of Industry Interface & technology Management (DIITM) 
+Room No. 447, DRDO Bhawan, DRDO HQrs, Rajaji Marg, New Delhi-110011 
+Phone: 011-23013209/23015291 
+Fax: 011-23793008 
+
+Email: diitm[dot]hqr[at]gov]dot]in 
+
+Industries are requested to enclose supporting document in EoI as per Appendix ‘D’ of DRDO Policy 
+and  Procedure 
+at  https://www.drdo.gov.in/sites/default/files/inline-
+available 
+files/drdo%20Policy%20%26%20Procedure%20%20for%20ToT.pdf 
+
+for  ToT 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

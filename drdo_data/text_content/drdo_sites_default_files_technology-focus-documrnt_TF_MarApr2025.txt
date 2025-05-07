@@ -1,0 +1,1812 @@
+TECHNOLOGY 
+VSDuksykWth Qksdl FOCUS
+
+An In-house  S&T 
+Bulletin of  DRDO
+
+https://www.drdo.gov.in/technology-focus
+
+Vol 33 | Issue 2 | March-April 2025 | ISSN No. 0971 - 4413
+
+PIONEERING MILITARY PSYCHOLOGY 
+RESEARCH FOR INDIA’S ARMED FORCES
+
+"Empowering the Human behind the Machine"
+
+Technology Focus highlights on the technological achievements in the organization 
+covering the products, processes and technologies. 
+
+March-April 2025 
+Vol. 33 | Issue 2 | ISSN No. 0971-4413 
+
+Laboratory Correspondents
+
+Agra 
+
+:  Shri SM Jain, ADRDE
+
+Ahmednagar 
+
+:  Col Atul Apte, Shri RA Shaikh, VRDE
+
+Ambernath 
+
+:  Dr Ganesh S Dhole, NMRL 
+
+Bengaluru 
+
+:  Shri Satpal Singh Tomar, ADE
+
+Editor-in-Chief: Kiran Chauhan 
+
+Assoc. Editor-in-Chief: Sudhanshu Bhushan
+
+Editor: Dipti Arora 
+
+Design & Prepress: Raj Kumar
+
+Printing: Rajesh Kr Singh
+
+Distribution: Pratyaksh Sharma
+
+:  Smt MR Bhuvaneswari, CABS
+
+:  Smt Faheema AGJ, CAIR
+
+:  Shri R Kamalakannan, CEMILAC
+
+:  Dr Sanchita Sil & Dr Sudhir S Kamble, DEBEL
+
+:  Dr V Senthil, GTRE
+
+:  Smt Saima Bashir, LRDE
+
+:  Dr Sushant Chhatre, MTRDC
+
+Defence Institute of Psychological Research
+
+Chandigarh 
+
+:   Dr Pal Dinesh Kumar, TBRL
+
+:  Dr Anuja Kumari, DGRE
+
+Chennai 
+
+:   Shri K Anbazhagan, CVRDE
+
+Dehradun 
+
+:   Shri DP Tripathi, DEAL
+
+:  Dr SK Mishra, IRDE
+
+Delhi 
+
+:   Shri Hemant Kumar, CFEES
+
+:  Shri Santosh Kumar Choudhury, DIPR
+
+:  Shri Navin Soni, INMAS
+
+:  Dr Rupesh Kumar Chaubey, SSPL
+
+Gwalior 
+
+:  Dr AK Goel, DRDE
+
+Haldwani 
+
+:  Dr Atul Grover & Dr Ranjit Singh, DIBER
+
+Hyderabad 
+
+:  Shri Ch Narasimhachari, DLRL
+
+:  Shri S Shashi Nath, DMRL
+
+:  Shri Srinivas Juluru, DRDL
+
+Jodhpur 
+
+:  Shri DK Tripathi & Dr Yojana Janu, DL
+
+Kanpur 
+
+:  Dr Mohit Katiyar, DMSRDE
+
+Kochi 
+
+Leh 
+
+:  Smt Letha MM, NPOL
+
+:   Dr Tsering Stobden, DIHAR
+
+Mysuru  
+
+:  Dr M Palmurugan, DIBT 
+
+Pune 
+
+:  Dr Ganesh Shankar Dombe, HEMRL 
+:  Shri AK Pandey, ARDE 
+:  Dr Anoop Anand, R&DE(E)
+
+Tezpur 
+
+:   Dr Sibnarayan Datta, DRL
+
+Charting New Horizons. . .
+
+Readers may send their suggestions to
+
+The Editor, Technology Focus  
+DESIDOC, Metcalfe House 
+Delhi-110 054
+Telephone: 011-23902403, 23902472
+Fax: 011-23819151; 011-23813465
+E-mail: director.desidoc@gov.in;  
+techfocus.desidoc@gov.in
+https://www.drdo.gov.in/technology-focus
+
+2
+
+MARCH-APRIL 2025
+
+MARCH-APRIL 2025
+
+3
+
+Technology FocusVSDu¨ykWth Q¨dl 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From the Desk of Special Editor
+
+I  take  pride  to  highlight  the  significant  achievements  of  Defence  Institute  of 
+Psychological Research (DIPR), a premier laboratory under Soldier Support System 
+cluster  of  DRDO  spearheading  research  in  the  specialised  domain  of  Military 
+Psychology.  DIPR  has  made  significant  contributions  in  the  areas  of  selection, 
+training, and has also rendered support to Indian Armed Forces through conducting 
+seminars and training for psychological well-being of the soldiers.
+
+The  teams  at  the  DIPR  have  made  sustained  R&D  contributions  in  developing 
+indigenous psychological tools and solutions for the last seven and half decades. The Laboratory has been 
+at the forefront of developing and continuously refining the Officer Selection System, playing a crucial 
+role  in  shaping  the  future  leadership  of  the  Armed  Forces.  Through  rigorous  research  and  innovation,  
+DIPR played a vital role in optimising human capital of our armed forces.
+
+Since its inception as Psychological Research Wing (PRW) in 29 Aug 1949, the mandate of the Laboratory 
+kept continuously evolving by adding many new dimensions and grew in strength and scope. A wide range 
+of psychological products, research outcomes and interventions developed by DIPR find proud place in the 
+inventories of the Armed Forces.
+
+I  am  glad  that  there  is  a  considerable  spin-off  utility  of  DIPR's  expertise.  The  institute  has  rendered 
+expertise  and  technical  help  to  many  national  institutes  of  repute  including  that  of  Central  Armed  
+Police Forces, National Security Guard, Indian Coast Guard, Ministry of Home Affairs, Cabinet Secretariat, 
+UPSC etc.
+
+DIPR  conducts  Interviewing  Officers  (IO),  Group  Testing  Officers  (GTO)  and  Technical  Officers/
+Psychologists courses for selection of Assessors responsible for evaluating and selecting the military leaders 
+of our country. Through its expertise in military psychology, DIPR ensures that the selection process remains 
+scientific, objective and aligned with the evolving demands of defence landscape. 
+
+As  we  continue  advancing  technologically,  the  solutions  which  DIPR  is  providing  to  the  Services  are 
+inherently state-of-the-art. I have no doubts that the Lab will thrive, flourish and sustain as a global leader 
+driving cutting edge R&D in Military Psychology. 
+
+I  commend  the  DIPR  team  and  urge  them  to  keep  pushing  the  boundaries  to  set  new  benchmarks  in  
+their field. 
+
+Dr UK Singh
+Distinguished Scientist and 
+Director General, Soldier Support System
+
+2
+
+MARCH-APRIL 2025
+
+MARCH-APRIL 2025
+
+3
+
+VSDu¨ykWth Q¨dlTechnology FocusFrom the Desk of Guest Editor
+It is well known that Indian Armed Forces function in world’s coldest Himalayan 
+regions, long lasting sea and underwater missions, marshy areas, jungles, deserts and 
+other  inhospitable  terrains.  The  contours  of  responsibilities  of  our  Armed  Forces, 
+associated  external  and  internal  security  challenges  in  guarding  nation’s  vital 
+interests are numerous & varied. 
+
+In  the  ever-evolving  field  of  defence  and  security,  cutting-edge  technology  and 
+advanced  weaponry  play  a  crucial  role.  However,  at  the  heart  of  every  successful 
+military operation lies the most vital asset - “the human element”. No matter how sophisticated machines 
+become, their effectiveness is ultimately determined by the cognitive, emotional and psychological readiness 
+of the personnel operating them. Ensuring that soldiers, officers and defence personnel are psychologically 
+prepared,  resilient,  and  well  equipped  to  handle  high  pressure  situations  is  as  important  as  providing 
+them with the best technology. This is where the psychological principles and applied aspects of military 
+psychology comes into play - shaping the selection, placement, training and overall psychological well-being 
+of armed forces personnel. 
+
+The DIPR has been at the forefront of R&D in military psychology, and with over 75 years of sustained 
+research contributions, DIPR has evolved into a leader in this critical field. DIPR's core mandate revolves 
+around the selection of commissioned officers and the screening of personnel for specialised roles, ensuring 
+that individuals best suited for the demands of military services are chosen. However, its contributions 
+go far beyond selection. The institute plays a pivotal role in enhancing training methodologies, providing 
+psychological  support  and  conducting  research  on  leadership,  civil-military  interoperability  and  
+perception management. 
+
+Additionally, DIPR leads research studies for promoting psychological wellness among troops and their 
+families  for  extending  the  required  psychological  support  necessary  for  a  balanced  and  resilient  force.          
+The institute also delves into culturally sensitive and inter-cultural adaptation strategies, which are crucial 
+in today’s globalised military operations. 
+
+Furthermore, gender integration in military settings, aviation psychology and human factors research are key 
+focus areas that contribute to optimizing performance and efficiency within the forces. The Computerised 
+Pilot Selection System (CPSS) remains the backbone for the selection of candidates for the flying branch of 
+the Armed Forces. DIPR's leadership in continuous training of asssessors and standardisation of selection 
+system has been instrumental for evolving ingenious solutions & strengthening psychological support to the 
+Indian Armed Forces. The spin-offs of DIPR's research work has benefitted Central Armed Police Forces, 
+security agencies and other civilian organisations of national repute.
+
+In this remarkable journey of excellence, DIPR has been pioneering advancements in military psychology, 
+fortifying the strength and strategic capability of India’s Armed Forces. 
+
+Dr Arunima Gupta 
+Director, DIPR
+
+4
+
+MARCH-APRIL 2025
+
+MARCH-APRIL 2025
+
+5
+
+Technology FocusVSDu¨ykWth Q¨dlPIONEERING MILITARY PSYCHOLOGY 
+RESEARCH FOR INDIA’S ARMED FORCES
+
+History  has  amply  demonstrated  that  military 
+engagements  worldwide  have  consistently  been  a 
+transformative phenomenon, whether for defence or 
+dominance.  At  the  heart  of  every  operation,  conflict 
+or  war  stands  the  soldier  -  ‘the  human  element’ 
+whether on the frontlines or shaping outcomes from 
+a  distance.  This  enduring  presence  underscores  the 
+critical  importance  of  military  psychology  as  a  vital 
+field for R&D for safeguarding a nation’s sovereignty. 
+The vast and complex spectrum of human capabilities 
+differs  greatly  from  person  to  person,  making  it 
+essential to apply psychological principles extensively 
+in the selection of armed forces personnel to ensure 
+the right fit for the demands of military service.  
+
+The  nascent  steps  and  seeds  of  psychological 
+research  for  armed  forces  was  sown  well  before 
+independence  with  establishment  of  Experimental 
+Board  at  Dehradun  way  back 
+in  1943.  After 
+independence,  the  lab  became  part  of  Defence 
+Science Organisation and was known as Psychological 
+Research Wing (PRW), founded in 29 Aug 1949 under 
+the Ministry of Defence. Dr Sohan Lall, appointed as 
+the  Chief  Psychologist  in  the  Ministry  of  Defence,  
+architected the R&D in military psychology in India.
+
+The main role envisaged for PRW was to conduct 
+research in Personnel Selection Methods, to develop 
+and  standardise  tools  for  selection  of  personnel  at 
+Service  Selection  Boards  (SSBs),  maintain  selection 
+data and relevant statistics and to train the assessors 
+for  effective  functioning  at  SSBs.  The  PRW  made  a 
+significant  contribution  in  various  areas  related  to 
+armed forces and since its inception, the mandate of 
+the  institute  kept  continuously  evolving  by  adding 
+many  new  dimensions  and  grew  in  strength  and 
+scope.
+
+The  PRW  was  designated  as  Directorate  of 
+Psychological  Research  (DPR)  on  28th  June  1962. 
+During 
+the  same  year,  Applied  Psychological 
+Laboratory  (APL)  was  established  as  its  lower 
+formation.  Naval  Psychological  Research  Unit 
+
+(NPRU)  at  Kochi  which  had  been  established  in 
+December  1956  under  Defence  Science  Laboratory 
+(DSL)  was  made  a  part  of  APL  in  1962.  Later  in 
+1963,  an  Ideology  Group  was  constituted  in  DPR  to 
+study  problems  related  to  Morale,  Motivation  and 
+Operational  efficiency  of  the  Armed  Forces.  APL 
+and  NPRU  were  merged  into  DPR  on  26th  August 
+1967.  DPR  took  on  new  areas  of  research  related  to 
+morale,  ideological  convictions,  group  effectiveness, 
+leadership behaviour, job satisfaction, high altitude, 
+motivation,  attitude,  anthropometrics,  civil  military 
+relations and other problems related to Armed Forces. 
+Meeting these challenges successfully, Directorate of 
+Psychological Research (DPR) grew into a full-fledged 
+independent  Laboratory  and  was  designated  as 
+Defence  Institute  of  Psychological  Research  (DIPR) 
+in October 1982. 
+
+The  core  mandate  of  DIPR  is  the  selection  of 
+commissioned officers and screening of personnel for 
+specialised roles and it further fortifies Indian Armed 
+Forces  by  pioneering  research  in  multiple  domains 
+and  research  verticals  including  Leadership,  civil-
+military  interoperability,  perception  management, 
+preventive  and  promotive  psychological  wellness 
+of  troops  and  families,  cultural  sensitive  and  inter-
+cultural  adaptation,  gender  integration  in  military 
+settings, aviation psychology and human factors. 
+
+the  armed 
+
+DIPR  plays  a  pivotal  role  in  optimising  human 
+capital  within 
+forces  by  applying 
+psychological expertise and has also extended its reach 
+to  Central  Armed  Police  Forces  (CAPFs)  and  other 
+key national institutions. DIPR has collaborated with 
+many  academia  and  research  institutes  of  national 
+and  international  repute.  The  advanced  research 
+and tailored interventions ensures identification and 
+selection of Right Fit for high-stakes environments. 
+
+With  75  years  of  sustained  R&D  excellence, 
+DIPR  has  established  itself  as  a  leader  in  military 
+psychology  and  is  now  pioneering  new  frontiers  by 
+driving  psychologically  driven  -  technology  enabled 
+solutions  to  empower  the  Man  behind  the  Machine 
+and further strengthen the Armed Forces of India. 
+
+4
+
+MARCH-APRIL 2025
+
+MARCH-APRIL 2025
+
+5
+
+VSDu¨ykWth Q¨dlTechnology FocusCOMPUTERISED PILOT SELECTION 
+SYSTEM (CPSS) 
+
+Military  aircrafts  are  complex,  integrated  with 
+an  array  of  advanced  onboard  avionics,  stealth 
+technologies,  flight  controls,  secure  data-links, 
+payloads  and  precision  strike  weapons.  In  modern 
+fighter  aircraft,  the  pilot  functions  as  a  systems 
+manager  controlling  aircraft  systems  and  with 
+significant  technological  advancements,  individuals 
+are  required  to  correctly  perceive  the  information 
+presented  to  them  through  various  displays  and 
+instruments  from  several  onboard  sensors  and 
+combine  the  same  with  flight  data  precisely  in  real 
+time during training, operations and while handling 
+emergencies  which  places  significant  cognitive 
+demands on the pilots. 
+
+A  state-of-the-art  Computerised  Pilot  Selection 
+System (CPSS) has been jointly developed by Defence 
+Institute  of  Psychological  Research  (DIPR)  and 
+Aeronautical  Development  Establishment  (ADE) 
+with support from IAF for selection of military pilots 
+for flying branch of Indian Armed Forces. 
+
+The  embedded  microcontroller-based  CPSS  with 
+built-in security features is used to comprehensively 
+evaluate  the  candidates’  cognitive  and  psychomotor 
+skills  by  subjecting  them  to  perform  concurrent 
+multiple  tasks  and  ensures  objectivity  in  results  
+and uniformity in the degree of difficulty faced by the 
+candidates.
+
+Psychomotor Testing Hall
+
+3D view of CPSS Prototype
+
+Features
+
+Cognitive Testing System
+
+•  Assesses the pilot-specific cognitive abilities
+
+•  Customised membrane keyboard
+
+Psychomotor Testing System
+
+•  Assesses  the  psychomotor  coordination  (multi-
+
+limb and eye-hand coordination)
+
+•  Ergonomically  designed  cockpit  with  control 
+
+joystick, rudder and throttle for operation
+
+•  Audio-visual warning display for multi-tasking
+
+Instructor Station
+
+•  Initiation of the tests and seamless operations 
+
+•  Real-time monitoring of the system functionality 
+
+Cognitive Testing Hall
+
+•  Multimedia-based centralised projection system
+
+6
+
+MARCH-APRIL 2025
+
+MARCH-APRIL 2025
+
+7
+
+Technology FocusVSDu¨ykWth Q¨dlCentralised Server System
+
+•  Central  server  for  data  storage  with  real-time 
+
+backup
+
+•  Dual redundancy for networking
+
+Major Achievements
+
+•  Inducted in Air Force Selection Boards (AFSB) on  
+
+28 Nov 2014.
+
+•  300  Cognitive  and  60  Psychomotor  systems 
+installed and commissioned at Air Force Selection 
+Board (AFSB) at Mysore, Dehradun and Varanasi.
+
+•  500  Cognitive  and  100  Psychomotor  systems 
+equipped with upgraded hardware and software is 
+currently being installed in all five AFSBs.
+
+•  LAToT  of  CPSS  hardware 
+
+to  M/s.Bharat 
+
+Electronics Limited.
+
+•  Appreciation  certificate  from  Hon'ble  Raksha 
+Mantri during SAMARTHYA indigenisation event 
+at Aero India 2025.
+
+The test ensures that individuals with the required 
+psychological attributes are selected as military pilots 
+which  helps  to  maintain  the  operational  readiness 
+and aviation safety, essential for protecting national 
+interest. 
+
+DIPR  has  decades  of  in-house  expertise  and  has 
+carried out extensive R&D in pilot selection systems, 
+a  domain  which  has  immense  export  potential.  
+For  meeting  the  demands  of  pilot  selection  systems 
+globally,  DIPR  has  designed  and  developed  a  new 
+Exportable  Pilot  Aptitude  Test  System  (ePAT)  for 
+export. The key aspects of the System include:
+
+•  Evaluates  relevant  cognitive  and  psychomotor 
+
+abilities required by the military pilots. 
+
+•  Assesses 
+
+the 
+
+information  processing  speed, 
+selective  attention,  vigilance,  working  memory, 
+and eye-hand & multi-limb coordination.  
+
+•  Portable test set-up with ease of maintenance and 
+
+equipped with centralised monitoring.
+
+EXPORTABLE PILOT APTITUDE 
+TEST SYSTEM (EPAT)
+
+Features
+
+The demanding nature of defence aviation requires 
+individuals with exceptional skills, focus and mental 
+fortitude. The Pilot Aptitude Test (PAT) is of critical 
+importance  as  it  assesses  the  fundamental  abilities 
+required for military pilots.  
+
+6
+
+MARCH-APRIL 2025
+
+ePAT System
+
+•  USB-based  membrane  keyboard  with  built-in 
+
+security features.
+
+•  Integrated  portable  ergonomically  designed  test 
+set-up with COTS joystick and pedal for seamless 
+testing.
+
+•  Psychometrically validated assessment software.
+
+•  Provision  to  test  large  number  of  candidates 
+simultaneously with automated generation of test 
+scores and candidate's profile.
+
+•  Health  monitoring  system  as  part  of  instructor 
+station  with  centralised  database  for  monitoring 
+and conducting tests efficiently.
+
+Major Achievements
+
+•  Prototype of ePAT system has been developed. 
+
+•  Demonstrated during AERO INDIA 2025.
+
+MARCH-APRIL 2025
+
+7
+
+VSDu¨ykWth Q¨dlTechnology FocusCOGNITIVE BATTERY FOR OFFICER 
+SELECTION (CBOS)
+
+Comprehensive cognitive assessment is crucial in 
+the selection process, as cognitive ability is a reliable 
+predictor of job performance across all roles. It helps 
+identify  candidates  with  critical  thinking,  problem-
+solving  and  learning  abilities  essential  for  success 
+in  a  dynamic  work  environment.  This  is  especially 
+important for the Indian Armed Forces, where quick 
+decision-making, adaptability, and strategic thinking 
+are vital for operational effectiveness. 
+
+Cognitive Abilities
+
+ Major Achievements
+
+•  Handed 
+
+over 
+
+to 
+
+Director 
+
+Recruiting 
+21 March 2023.
+
+and 
+
+ACOP 
+
+General 
+on  
+
+(HRD) 
+
+•  A  hyper  converged  IT  test  bed  for  field  trials  of 
+tests  and  systems  developed  by  DIPR  has  been 
+set-up at Selection Centre South (SCS), Bengaluru.
+
+AIR TRAFFIC CONTROLLER 
+SELECTION SYSTEM (ATC-SS)
+
+Air Traffic Control (ATC) is the fulcrum of aviation, 
+ensuring  the  safety  and  efficiency  of  every  flight,  by 
+directing  aircraft  movements  and  providing  crucial 
+information  to  pilots.  ATC  plays  an  indispensable 
+
+Computer Testing Hall at SCS, Bengaluru
+
+Features
+
+•  Paradigm  shift 
+
+intelligence 
+comprehensive cognitive assessment
+
+from 
+
+testing 
+
+to 
+
+•  Multi-modal  assessment  (visual  as  well  as 
+
+auditory)
+
+•  Item bank has been developed and standardised. 
+
+•  Computerised testing system
+
+•  Objective assessment
+
+•  Bilingual instructions
+
+•  Trials and examples for each test
+
+•  Automatic scoring and report generation
+
+ATC Selection System
+
+8
+
+MARCH-APRIL 2025
+
+MARCH-APRIL 2025
+
+9
+
+Technology FocusVSDu¨ykWth Q¨dlrole  in  maintaining  smooth  and  secure  aviation 
+operations.  The  selection  system  evaluates  the 
+skills  and  abilities  of  individuals  to  determine  their 
+suitability as ATC.
+
+Modern Day Challenges for ATC
+
+The  ATC  is  a  specialised  role  which  demands 
+high  cognitive  skills.  A  computerised  test  software 
+has  been  designed  and  developed  to  assess  varied  
+psychological abilities/attributes.
+
+Cognitive Profile 
+
+Major Achievements
+
+Numerical 
+Proficiency
+
+Mental 
+Rotation
+
+Spatial 
+Orientation
+
+Angle 
+Detection
+
+Cognitive 
+Style
+
+Spatial 
+Working 
+Memory
+
+Visual 
+Scanning
+
+Personality 
+Test
+
+Multi- 
+tasking
+
+Vigilance
+
+Features
+
+•  User friendly interface
+
+•  Separate User and Admin applications
+
+•  Automated scoring
+
+•  Provides individual profile separately for cognitive 
+
+and personality tests.
+
+•  Generates detailed reports with statistical insights
+
+•  The computerised test has been developed. 
+
+•  Spin-off for civilian applications and identified as 
+
+a product with export potential.
+
+COMPUTERISED PSYCHOLOGICAL 
+SCREENING SYSTEM (COPSYSS)
+
+The Computerised Psychological Screening System 
+(COPSYSS) was specifically developed to address the 
+unique requirements of pre-deployment screening of 
+the Central Reserve Police Force (CRPF) personnel to 
+the security sensitive job(s). 
+
+COPSYSS was designed and executed with the goal 
+of providing a streamlined, effective and scientifically 
+valid  method 
+the  psychological 
+suitability of CRPF personnel. 
+
+for  assessing 
+
+The development of COPSYSS involved a detailed 
+and  thorough  design  process,  incorporating  inputs 
+from psychological experts as well as from the CRPF 
+regarding the specific needs of their personnel. This 
+ensured  that  the  system  was  tailored  to  suit  the 
+distinct nature of the job requirements. 
+
+MARCH-APRIL 2025
+
+9
+
+8
+
+MARCH-APRIL 2025
+
+VSDu¨ykWth Q¨dlTechnology FocusThe system was developed with efficiency in mind, 
+optimising both the administration and the delivery 
+of  the  psychological  tests,  while  also  ensuring  that 
+collected  data  could  be  processed  and  analysed 
+quickly and accurately. 
+
+•  Web-browser based system which runs on client-
+
+server architecture. 
+
+•  Ensures  conducting 
+
+thorough,  reliable  and 
+
+efficient psychological evaluation. 
+
+Features
+
+The Main Modules
+
+Major Achievements
+
+Handed over to the DG, CRPF on 08 Aug 2023 and 
+
+inducted. 
+
+COPSYSS  comprises  of  two  main  modules  -  the 
+test  administration  system  and  automated  test 
+delivery  system.  Both  modules  are  crucial  for  the  
+successful  implementation  and  operation  of  the 
+screening process. 
+
+CROWD BEHAVIOUR ANALYSIS-
+DECISION SUPPORT SYSTEM 
+(CBA-DSS)
+
+Module I - Test Administration System
+
+•  The 
+
+test 
+
+administration 
+
+system  provides 
+foundational  infrastructure  for  managing  the 
+entire screening process. 
+
+•  One  of  its  key  features  is  the  management  of 
+testing candidate's batches which allows  smooth 
+organization and tracking of test takers. 
+
+•  Additionally,  the  system  is  capable  of  generating 
+automated  test  reports,  which  can  be  used  by 
+psychological  experts  and  CRPF  personnel  to 
+evaluate  the  results  of  the  tests  quickly  and 
+comprehensively. 
+
+Module II - Automated Test Delivery System
+
+•  Focused on actual delivery and administration of 
+
+the test. 
+
+•  Designed to include the features of computerized 
+test  delivery,  suitable  for  individual  as  well  as 
+group administration. 
+
+•  User-friendly, ensuring that participants can easily 
+
+navigate through the process. 
+
+•  Each test begins with displaying clear instructions, 
+providing  the  participants  with  a  comprehensive 
+understanding of the testing procedure. 
+
+•  The inclusion of a practice set, with a feedback on 
+performance ensures that the participants are well 
+prepared before undertaking the actual test.  
+
+10
+
+MARCH-APRIL 2025
+
+DIPR identified 122 psychological markers of crowd 
+behaviour.  These  markers  in  combination  suggest 
+the probability of violent behaviour in a crowd. With 
+the technological advancements, a Crowd Behaviour 
+Analysis-Decision  Support  System  (CBA-DSS)  was 
+developed on a set of crowd behavioural markers by 
+using Artificial Intelligence based Visual Surveillance 
+Tool,  which  may  help  security  forces  in  decision-
+making  process  to  manage  and  control  the  violent/
+disruptive behaviour of crowd. 
+
+Detection of Crowd Behaviour
+
+MARCH-APRIL 2025
+
+11
+
+Technology FocusVSDu¨ykWth Q¨dlLeveraging  deep 
+
+learning  algorithms,  data 
+integration  and  real  time  monitoring,  CBA-DSS 
+combines  multiple  trained  AI  models  with  a  non-
+invasive  approach  to  detect  predefined  crowd 
+behaviour markers in live or stored video feeds. These 
+algorithms extract features from pre-processed video 
+frames and analyse them using predefined parameters 
+and  thresholds  to  identify  potential  triggers  for 
+violent/disruptive behaviour within a crowd. 
+
+Features
+
+•  The system can predict the probability of violence 
+in  a  given  crowd  video  on  10  crowd  behaviour 
+intervention  and 
+timely 
+markers  allowing 
+management.
+
+•  Provides  a  non-invasive  monitoring  process, 
+promoting  better  acceptance  and  compliance 
+during the screening process.
+
+•  Offers  a  cost-effective  solution  for  detecting 
+various  markers  that  indicate  the  presence  of 
+critical visual cues in a given crowd feed. 
+
+•  It can be deployed in restricted or sensitive areas.
+
+•  User-friendly  interface  allows  crowd  screenings 
+to be conducted across different settings, enabling 
+manual configuration of video feed mode, relevant 
+markers, threat weightage and more. 
+
+Major Achievements
+
+•  System has been developed and validated
+
+•  Demonstrated to the Users
+
+•  Field  Manual  on  Detection,  Analysis  and 
+
+Management of violent Crowd Behaviour
+
+•  Copyright granted in 2024
+
+•  Patent filed jointly with DIAT, Pune
+
+•  ToT has been initiated
+
+COMPUTERISED ADAPTIVE TEST 
+FOR EMOTIONAL STABILITY  
+(ES-CAT)
+
+DIPR  has  developed  a  Computerised  Adaptive 
+Test (CAT) for the assessment of emotional stability 
+for in-house competency building. In comparison to 
+the conventional testing procedure, where candidates 
+must  answer  every  question  regardless  of  relevance 
+to their ability level, CAT offers a personalised testing 
+experience. 
+
+CBA-DSS GUI
+
+that 
+
+This  adaptive  mechanism  ensures 
+
+the 
+question  being  administered  is  neither  too  easy 
+nor  too  difficult,  providing  a  more  accurate  tailored 
+assessment  of  the  examinee’s  true  theta  level.  CAT 
+algorithm makes use of Item Response Theory (IRT) 
+and  continuously  assesses  the  theta  based  on  each 
+successive  item  administration  and  selects  the  next 
+question accordingly from the item bank.
+
+10
+
+MARCH-APRIL 2025
+
+Marker Weightage Setting Module
+
+Field Manual
+
+Features
+
+•  Tailored assessment approach.
+
+•  Better precision in the psychometric assessment.
+
+•  Time and cost effective.
+
+•  Better  engagement  of  the  examinee  in  terms  of 
+maintaining  higher  motivation  and  interest  and 
+
+MARCH-APRIL 2025
+
+11
+
+VSDu¨ykWth Q¨dlTechnology Focusthereby reducing the assessment anxiety.
+
+•  Better  control  of  item  exposure  and  test  content 
+
+balancing.
+
+APTITUDE CENTRIC TRADE 
+ALLOCATION SYSTEM
+
+Development of the prototype was carried out in-
+house at DIPR. Item bank was developed by utilizing 
+the data primarily from student sample. Performance 
+of  the  CAT  for  emotional  stability  was  assessed 
+through post-hoc simulation by using the true theta 
+under  different  threshold  (standard  error)  of  theta 
+estimation.  The  findings  indicate  that  the  ES-CAT 
+provides valid assessment of the construct.
+
+Men are the frontline guardians of Indian Armed 
+Forces  and  are  required  to  be  fit,  both  physically 
+and  psychologically.  To  test  their  suitability  as  per 
+their  job,  Aptitude  Centric  Trade  Allocation  System 
+is  developed  by  DIPR.  This  system  facilitates  in 
+determining  the  most  suitable  candidate  for  a 
+particular  trade  by  assessing  the  aptitude  of  the 
+candidate.
+
+Features
+
+•  Assesses cognitive and psychomotor skills
+
+•  Reduction of wastage and cuts out long periods of 
+
+training
+
+•  Computerised and user-friendly system
+
+•  Reliable, valid and objective 
+
+•  Effective predictor of future achievements
+
+Computerised Adaptive Test for Emotional Stability
+
+Aptitude components
+
+ORTAS and BAS
+
+Test Demo of Computerised Adaptive Test
+
+Major Achievements
+
+The R&D would pave the way for development of 
+advanced psychometric tests based on CAT and IRT.
+
+12
+
+MARCH-APRIL 2025
+
+MARCH-APRIL 2025
+
+13
+
+Technology FocusVSDu¨ykWth Q¨dlMajor Achievements
+
+Features
+
+•  Other  Rank  Trade  Allocation  System  (ORTAS) 
+Version  1.0:  Implemented  in  the  eight  Arms  and 
+Services in 2010. 
+
+•  ORTAS  Version  2.0:  Customized  based  on  the 
+specific  requirements  of  the  Arms  and  Services 
+and implemented in 2015. 
+
+•  ORTAS Version 3.0: Implemented in 2017.
+
+•  Branch  Allocation  System  was  handed  over  to 
+Principal INA on 05 August 2021 at INA, Ezhimala
+
+PSYCHOLOGICAL SCREENING 
+TOOL (PSYSHOT) FOR SPECIALISED 
+ROLES IN THE INFANTRY, INDIAN 
+ARMY
+
+Specialised  roles  within  the  Infantry  are  critical 
+to the modern Army’s ability to operate effectively in 
+diverse combat environments. These roles ensure that 
+infantry units are not only versatile but also capable 
+of  addressing  complex  challenges,  executing  precise 
+missions, and adapting to evolving warfare dynamics. 
+
+Psychological  Screening 
+
+'PsySHOT'  has 
+been  conceptualised  by  DIPR  in  collaboration  with 
+Infantry School, Mhow. 
+
+tool 
+
+The tool has been scientifically validated through 
+a  collaborative  process  involving  subject  matter 
+experts,  field  trials  and  on-site  evaluations  with 
+support  from  Army  Training  Command  (ARTRAC). 
+It aids in identifying right fit for specialised roles in 
+Infantry in the Indian Army.
+
+12
+
+MARCH-APRIL 2025
+
+Interaction and Data Collection
+
+•  Assesses  the  cognitive  abilities  and  personality 
+
+attributes for the specialised roles
+
+•  Test  developed  and  standardised  using  scientific 
+
+methods
+
+•  Ease in Administration
+
+•  Provides overall grade for each candidate
+
+•  Automated  scoring 
+
+tool 
+
+for 
+
+instant  result 
+
+generation 
+
+Major Achievements
+
+•  Handed over to the Commandant, Infantry School, 
+
+Mhow on 03 Oct 2024 and inducted.
+
+•  A  new  computerised  version  (C-PsySHOT)  with 
+additional psychological tests is in advanced stages 
+of development.
+
+COMPUTERISED LANGUAGE 
+APTITUDE TEST (CLAT)
+
+The  process  of  learning  a  new  language  involves 
+some  rules  such  as  getting  familiarized  with  words, 
+scripts  and  understanding  the  grammatical  rules 
+to  form  a  meaningful  statement.  The  aptitude  tests 
+are  developed  to  measure  these  abilities  which  are 
+required to learn new language and one’s potential to 
+learn a new language is assessed.
+
+Language Aptitude Test (LAT) has been developed 
+by the DIPR for the Indian Armed Forces. This test is  
+computerised. 
+
+Features
+
+Language Aptitude Test has two parts: 
+
+Part-I
+
+•  Immediate recall 
+
+•  Spelling clues test 
+
+•  Translation from English to new language 
+
+•  New language to English 
+
+•  Delayed recall
+
+MARCH-APRIL 2025
+
+13
+
+VSDu¨ykWth Q¨dlTechnology FocusAdministrator Module
+
+evolving. They themselves have to become a system 
+which is compatible with the range of technologies in 
+their hand. 
+
+In  case  of  Indian  Coast  Guard  (ICG),  the 
+complexity  increases  manifolds,  as  it  is  not  just  the 
+technology but also the challenging ship environment 
+where the personnel have to spend days or sometimes 
+even  month.  Due  to  this,  it  becomes  imperative  for 
+choosing  the  right  man  for  the  right  job  who  is  not 
+just able to adapt in the milieu but also can function 
+efficiently and effectively to full potential. 
+
+A  requirement  was  projected  by  ICG  to  develop 
+a  psychological  screening  test  to  assess  adaptability 
+and suitability of Enrolled Personnel (EP) in the ICG.    
+
+Features
+
+•  A  situational  judgement  test  and  situations  close 
+to real life experiences were developed so that they 
+can be related easily by the candidates.
+
+•  Standardised  by  using  well  established  statistical 
+
+methods.
+
+•  Gives a single overall score for each candidate.
+
+•  Objective scoring and assessment. 
+
+Part-II
+
+Test demo of CLAT at Panchmarhi
+
+Major Achievements
+
+•  Symbol recognition 
+
+•  Script learning and writing 
+
+•  Decoding script
+
+Major Achievements
+
+•  Test has been standardised
+
+•  Every year, Language Aptitude Test is conducted 
+
+for Armed Forces pesonnel
+
+COAST GUARD ADAPTABILITY 
+TEST (COGAT)
+
+In  a  world  where  the  war  fields  are  heavily 
+dominated  by  technology  intensive  systems,  the 
+man  behind  the  machine  has  to  continuously  keep 
+
+14
+
+MARCH-APRIL 2025
+
+The test was handed over to Indian Coast Guard in 
+
+April 2024.
+
+PSYCHO-EDUCATIONAL AID 
+FOR COMBATING STRESS                   
+(COMBAT-APP)
+
+The operational stress is imminent to the life of a 
+soldier and maintaining the operational efficiency is 
+crucial to his/her combat role. 
+
+To  sustain  the  optimal  efficiency  in  soldiers,  two 
+offline  psycho-educational  applications  have  been 
+developed which are secure, personal and self-paced, 
+thus,  providing  an  optimal  psychological  support  to 
+the soldier with minimal human interface. 
+
+MARCH-APRIL 2025
+
+15
+
+Technology FocusVSDu¨ykWth Q¨dl•  Automated  assessment 
+
+tool 
+management plan: Stressometer
+
+integrated  with 
+
+•  Unit-based  games 
+
+for 
+
+team  building, 
+
+trust 
+
+propagation and motivation
+
+•  Guided imagery-based audio sessions for positivity 
+
+and relaxation  
+
+ComBAT Active App
+
+This app is developed for all ranks of Indian Armed 
+Forces  keeping  in  mind  the  operational  stressors 
+being  faced  by  them  and  training  them  upon  the 
+strategies to counter the same. 
+
+It  is  quite  engaging  with  nearly  two  hundred 
+interactive  psychological  activities  and  offers  a 
+wide  range  of  options  to  the  soldiers  to  pick  from 
+reading  something  meaningful  to  doing  something 
+worthwhile  or  listen  something  engaging  based  on 
+their choice and convenience. 
+
+Features
+
+•  In-situ  psycho-eduactional  aid  for  combating 
+
+Assessment and Management of Combat Stress Behaviours (CSBs)
+
+Positive Psychology-based ComBAT App
+
+stress
+
+ComBAT App
+
+This  app  has  been  developed  for  officers  of 
+Indian  Armed  Forces.  Military  Leaders  have  a  dual 
+responsibility  of  managing  self  as  well  as  their  Unit 
+to the best.  
+
+Facing  the  odds,  the  leaders  have  to  upkeep  the 
+morale of the unit and give them a sense of security, 
+trust, control and dependability for each other. 
+
+Features 
+
+The application is based on an indigenous model 
+of  psycho-bio-social  markers  of  combat  stress  in 
+Indian soldiers.   
+
+•  Offline application for Android and Windows 
+
+•  Network independent application
+
+•  Five distinct sections to assess and manage combat 
+
+stress 
+
+•  Offline application that runs without network 
+
+•  Self-paced, engaging, personal and highly secure 
+
+•  Text-to-speech  facility  for  optimal  usage  and 
+
+multi-tasking
+
+•  Two  distinct  sections  for  educating  upon  combat 
+stress:  (a)  Sainya  tanav  (Combat  Stress),  and  (b) 
+Prabandhan (Management)
+
+•  High sense of user control with (a) Read, (b) Listen 
+
+and (c) Do options 
+
+•  Gamified psychological activities in the 'Do', flash 
+cards in 'Read' and guided audios in 'Listen' section 
+
+•  Temporary memory and storage with no media or 
+contact access and Android & Windows compatible
+
+Major Achievements
+
+•  Both  these  apps  are  being  widely  used  by  the 
+
+Services. 
+
+•  Copyright granted in 2018.
+
+14
+
+MARCH-APRIL 2025
+
+MARCH-APRIL 2025
+
+15
+
+VSDu¨ykWth Q¨dlTechnology FocusGENDER AND MILITARY IN PEACE, 
+CONFLICT AND SECURITY
+
+DIPR  research  in  area  of  gender  and  military 
+began  with  an  international  collaborative  project 
+on  ‘Integration  of  women  and  gender  issues  in 
+extraterritorial  military  operations’,  with  DSTL,  UK 
+from 2017 to 2020. 
+
+The research aimed to study women peacekeeper’s 
+role  in  UN  missions  and  enhance  their  functional 
+efficiency  by  providing  framework  of  evidence-
+based  recommendations  and  strategies  for  greater 
+integration.
+
+Features
+
+•  Effectiveness  of  integration  of  women  in  mission 
+roles towards gender responsiveness and reducing 
+gender based violence.
+
+•  Identification  of  key  issues  to  achieve  gender 
+
+balance in UN peacekeeping.
+
+•  Framework  of  strategies  to  services  for  greater 
+gender  integration  on  UN  missions  and  their 
+effective engagement.
+
+Major Achievements 
+
+•  Gender  sensitisation  training  Module,  Manual 
+on 'Women as leaders’. A collaborative work with 
+UN  agencies,  WISCOMP,  DSTL,  and  academic 
+institutions.
+
+•  The  findings  and  key  learnings  derived  from  the 
+research  are  inducted  as  lectures  on  ‘Gender, 
+Women, Peace and Security’ and ‘Challenges faced 
+by  women  on  missions’  in  UN,  pre-deployment 
+national  and  International  courses  conducted  by 
+Centre for United Nations Peacekeeping (CUNPK), 
+Indian Army by IHQ (Army), Delhi.
+
+Manuals Inducted in Indian Armed Forces
+
+The  laboratory  has  developed  training  manuals 
+on gender sensitisation and women as leaders for the 
+integration  of  women  in  Armed  Forces  which  have 
+
+16
+
+MARCH-APRIL 2025
+
+been inducted by the Indian Armed Forces and as a 
+spin-off also handed over to the Paramilitary Forces.
+
+Gender Sensitisation Workshops in various 
+DRDO Labs
+
+As part of DRDO campaign for conducting gender 
+sensitisation  of  its  personnel  with  the  mandate  of 
+having  a  Diversity,  Equality  and  Inclusivity  (DEI) 
+at  workplace,  conducted  workshops  in  different 
+laboratories of DRDO. Around 1000 personnel from 
+all cadres attended these workshops.
+
+SHORT FILM ‘CHUNAUTI - LIFE OF 
+A SOLDIER’
+
+Social,  familial,  occupational  challenges  faced  by 
+soldiers of Indian Armed Forces are unique in nature 
+and  therefore  there  is  a  requirement  to  develop  a 
+psycho-education tool for educating soldiers at mass 
+level. 
+
+Awareness  about  scientific  ways  and  means  to 
+manage  the  inevitable  routine  military  challenges  is 
+required.  To address this the laboratory has developed 
+a 35 minutes short film ‘Chunauti - Life of a Soldier’ 
+for  enabling  soldier  in  appraising  routine  military 
+challenges  in  positive  way,  it  also  helps  soldiers  in 
+positive appraisal of their routine inevitable military 
+challenges. 
+
+MARCH-APRIL 2025
+
+17
+
+Technology FocusVSDu¨ykWth Q¨dl•  The  movie  was  screened  to  DGAFMS,  DGLS, 
+
+DGMS (Army, Air Force and Navy) 
+
+•  4500  copies  of  Chunauti  has  been  handed 
+over  to  O/o  DGAFMS  for  dissemination  to  the  
+Tri-services.
+
+•  Copyright granted in 2018.
+
+COMPUTERISED PSYCHOLOGICAL 
+SCREENING TEST FOR INDUCTION 
+OF NSG COMMANDOS
+
+the 
+
+important 
+
+National  Security  Guard  (NSG) 
+
+is  the  elite 
+commando  force  of  the  country  which  is  entrusted 
+with 
+responsibilities. 
+Considering  the  specialised  roles  of  NSG,  it  was  of 
+paramount  importance  that  the  personnel  inducted 
+as  commandos  must  be  assessed  for  requisite  
+job-specific psychological attributes. 
+
+security 
+
+Based  on  the  requirements  projected  by  NSG, 
+DIPR  carried  out  job  analysis,  identified  eleven  
+job-specific requisite personality qualities, developed 
+psychological  screening  test  and  alternate  sets  for 
+their assessment and handed over to the User.
+
+As  per  the  requirement  of  NSG 
+
+in  2021,  
+a  computerised  version  was  developed  and  handed 
+over to the User. 
+
+Features
+
+•  A computerised test based on situation judgement 
+based  test  items  for  tapping  personality  qualities 
+requisite for NSG specific job. 
+
+•  Auto-generates multiple test sets. Each set of test 
+contains 70 situation judgement-based items. 
+
+•  The  test  provides  a  composite  score  and  detailed 
+profile  of  every  candidate  on  the  personality 
+qualities.
+
+Unified Model for Management of Stress
+
+Features
+
+•  The  story  of  the  film  is  based  on  data  and  case 
+studies taken from all commands of Tri-services.
+
+•  The basic framework of the short movie is to create 
+a  psychological  environment  within  the  soldier 
+and  enable  them  to  perceive  routine  stresses  as 
+eustress and reconstruct cognition so as to develop 
+healthy coping mechanism within  the ‘Self’ of each 
+soldier.
+
+•  The film depicts unhealthy thinking styles (named 
+as  deemag  kee  deemak)  and  scientific  ways  to 
+overcome negative thought patterns.
+
+•  The  film  progresses  with  a  thematic  song 
+summarising  the  coping  strategies  portrayed  in 
+the film. 
+
+Short Film CHUNAUTI 
+
+Major Achievements
+
+16
+
+MARCH-APRIL 2025
+
+MARCH-APRIL 2025
+
+17
+
+•  The  film  was  reviewed  and  validated  by 
+Psychiatrists,  O/o  DGAFMS,  DGMS  (Army) 
+DGMS (Air) and DGMS (Navy), Academia, Media, 
+and Scientists. 
+
+Major Achievements
+
+The computerised test system was handed over to 
+
+NSG in 2022 and inducted in  2023. 
+
+VSDu¨ykWth Q¨dlTechnology FocusPROBLEM-SOLVING APPROACH 
+BASED PSYCHOLOGICAL 
+ASSESSMENT TOOL FOR 
+SCIENTISTS’ SELECTION (PSYAT)
+scientist  has  multitude  of 
+
+roles  and 
+responsibilities  which  are  of  scientific  as  well  as 
+techno-managerial nature. The job requires to work 
+in teams, interact and communicate with the Users, 
+Academia,  Industry  partners  and  Start-ups  among 
+many others. 
+
+A 
+
+In  view  of  the  varied  nature  of  job  of  a  scientist, 
+it is essential to evaluate a candidate not only on the 
+research aptitude and technical knowledge, but also 
+on certain psychological attributes which can provide 
+inputs about his/her individual and team functioning. 
+
+Therefore,  an  innovative  methodology  that  is, 
+scientific  theme-based  problem-solving  approach  
+has  been  designed  and  developed.  This  approach 
+is  likely  to  augment  the  research  aptitude  and 
+technical  knowledge  based  approach  in  Selection.                                           
+It is conducted two rounds:
+
+Stage I- Individual Round 
+
+•  Problem Solving Session
+
+Time  duration  of  problem  solving  session  is  
+10 mins and narration session is 18 mins approximately 
+for a group of 8-9 candidates.
+
+•  Narration Session
+
+Panel  of  5-7  experts  observe  the  candidates  and 
+assess them on psychological attributes, viz. practical 
+knowledge  about  the  subject,  grasp,  convergent 
+thinking and creativity.
+
+Stage II- Group Discussion Round
+
+•  Time  duration  of  group  discussion  round  is  20 
+mins approximately for a group of 8-9 candidates.
+
+•  During  the  group  discussion  round,  the  panel  of 
+experts  observe  the  candidates  and  assess  them 
+on  psychological  attributes  viz.  team  orientation, 
+initiative, confidence and communication skills. 
+
+18
+
+MARCH-APRIL 2025
+
+Features
+
+•  The  tool  comprises  of  audio-visual  animated 
+clips    related  to  subject  specific  case  studies 
+describing  a  problem  statement  in  the  field  of 
+Computer Science Engineering (CSE), Electronics 
+and  Communication  Engineering  (ECE)  and 
+Mechanical Engineering.
+
+•  The high resolution animated clips with voice over 
+are between 60-120 seconds in length and Indian 
+accent has been used for background narration.
+
+•  Instructions in audio-visual form for each round.
+
+•  The tool can be used for assessment and selection 
+
+of scientists in any R&D organization.
+
+Screenshot of the Animated Audio-visual Clip
+
+Major Achievements 
+
+•  Three sets of PsyAT has been developed.
+
+•  Manual for administration and guidelines for the 
+Panel  of  Experts  to  assess  the  candidates  have 
+been prepared.
+
+•  Two Copyrights granted in 2024.
+
+PSYCHOLOGICAL SCREENING 
+TEST FOR SUBMARINERS
+
+The  challenges  for  Submariners  are  numerous, 
+including  extended  periods  of  isolation,  technical 
+complexity  of  operating  under  extreme  conditions 
+and  maintaining  mental  and  physical  resilience  in 
+confined spaces. 
+
+MARCH-APRIL 2025
+
+19
+
+Technology FocusVSDu¨ykWth Q¨dlBased  on  the  requirement  projected  by  the  
+Indian  Navy,  DIPR  has  developed  Psychological 
+Screening  Test  for  the  induction  of  submariners  in 
+the submarine arm. 
+
+After  preliminary  research  and  interactions  with 
+subject  matter  experts,  Instructors  and  Sailors, 
+specific  personality  attributes  required  by  the 
+submariners were identified.
+
+An  attempt  was  made  to  assess  affect  through 
+Word Association Test (WAT) with objective scoring. 
+It  was  based  on  the  findings  of  recent  researches 
+which  highlight  that  both  positive  and  negative 
+emotional  words  enhance  cognitive  processing. 
+While negative stimuli may capture attention longer, 
+both  emotional  types  facilitate  cognitive  processing 
+in different contexts.
+
+Features
+
+•  A  bilingual  test  tapping  key  attributes  has  been 
+
+developed.
+
+•  Psychometric  properties  of  the  test  has  been 
+
+established. 
+
+•  User manual has been developed.
+
+Major Achievements 
+
+The psychological screening test was handed over 
+to Directorate of Submarine Operations, Indian Navy 
+in May 2022.
+
+WORD ASSOCIATION TEST 
+WITH OBJECTIVE SCORING FOR 
+ASSESSMENT OF AFFECT 
+
+Affect  is  a  broad  term  encompassing  emotions, 
+moods,  preferences,  and  affective  dispositions. 
+Positive  affective  traits  like  confidence,  optimism, 
+and  negative  affective  traits  like  anger,  depression, 
+and  anxiety  significantly  influence  an  individual's 
+response to life events. 
+
+Researches  are  being  carried  out  to  assess  the 
+emotional  and  psychological  traits  necessary  for 
+officers  in  dynamic  and  challenging  environments. 
+The  Indian  Armed  Forces'  Officer  Selection  System 
+is  in  place  for  over  seven  decades,  is  scientifically 
+credible  and  regularly  reviewed  for  relevance  and 
+effectiveness. 
+
+In the recent past, research studies are being carried 
+out  to  enhance  personality  testing  by  incorporating 
+modern psychological tests across cognitive, affective 
+and behavioural domains.
+
+Features
+
+•  The test provides insight about the predominance 
+of  positive  or  negative  affective  dimension  of  an 
+individual’s personality. 
+
+•  Eight  lists  comprising  positive,  negative  and 
+
+neutral words.
+
+•  Words are matched on arousal, valence, familiarity, 
+
+frequency and word structure.
+
+•  Scoring  involves  assigning  weightage  to  first, 
+second and third response to positive, negative and 
+neutral  words.  Higher  the  overall  score  indicates 
+higher positive affect.
+
+•  Reliability and Validity is established. 
+
+Major Achievements
+
+•  WAT for assessment of affect with objective scoring 
+
+has been developed.
+
+•  The test is likely to aid in the selection process for 
+
+defense services and general population.
+
+DEVELOPMENT OF GENDER FAIR 
+THEMATIC APPERCEPTION TEST 
+FOR ARMED FORCES OFFICERS 
+SELECTION SYSTEM
+
+In the recent years, the Indian Armed Forces have 
+laid  greater  emphasis  on  induction  of  women  at  all 
+levels  and  fields  within  the  Forces.  In  this  regard, 
+induction of women at NDA and training of male and 
+female cadets being held together at Pre-Commission 
+Training Academies across the three Services, a need 
+was felt by the Users to hold mixed batch testing to 
+test male and female candidates at Services Selection 
+
+MARCH-APRIL 2025
+
+19
+
+18
+
+MARCH-APRIL 2025
+
+VSDu¨ykWth Q¨dlTechnology FocusBoards (SSB) together to bring in parity even at the 
+selection  stage.  The  research  was  initiated  by  DIPR 
+to  explore  the  feasibility  of  Gender  Fair  Test  for 
+conducting mixed batch testing. 
+
+complex  issues.  The  training  module  developed  by 
+DIPR  facilitates  in  optimally  utilising  higher-order 
+thinking  skills  like  critical  thinking  for  operational 
+effectiveness in the military environment. 
+
+Features
+
+Features
+
+•  A  projective  test  designed  for  17  to  25  years  old 
+
+Training  module  consists  of  evidence-based 
+
+males and females. 
+
+•  Psychometric properties have been established for 
+
+the test.
+
+•  The  methodology  developed  also  contributes 
+to  the  scientific  literature  on  psychometric  test 
+development. 
+
+activities related to 
+
+•  Attention
+
+•  Working memory
+
+•  Critical thinking 
+
+•  Mindfulness
+
+Sample Stimulus
+
+Major Achievements
+
+First Gender Fair TAT has been developed in the 
+
+Indian context.
+
+TRAINING MODULE FOR 
+COGNITIVE ENHANCEMENT: 
+CRITICAL THINKING
+
+Technical Workbooks
+
+Critical thinking empowers individuals to analyse, 
+evaluate  and  synthesize  information  in  a  thoughtful 
+and  systematic  way.  It  enables  people  to  approach 
+problems  with  a  clear,  logical  mindset,  making 
+it  easier  to  make  informed  decisions  and  solve 
+
+Major Achievements
+
+•  Handed over to Brig Military Training in 2019.
+
+•  Inclusion  of  Critical  thinking  training  in  the 
+
+curriculum of NCO Academy.
+
+Editors are thankful to Dr Arunima Gupta, Sc 'G' & Director, DIPR; Dr Nishi Misra, Sc 'G',  
+Additional Director; All Group Heads and other team members of DIPR for facilitating  
+the write-up for this issue of Technology Focus. 
+
+MslhMkWd }kjk izdkf'kr
+
+Published by DESIDOC
+
+RNI No. 55787/93
+
+Technology FocusVSDu¨ykWth Q¨dl

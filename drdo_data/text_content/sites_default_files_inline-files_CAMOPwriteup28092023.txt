@@ -1,0 +1,64 @@
+Compact Airborne Multi sensors optronic Payload (CAMOP) 
+
+Compact Airborne  Multi-sensors Optronic Payload has been  developed for day and night 
+surveillance,  reconnaissance, target  detection  and  target  tracking  from  airborne  platform. 
+The  CAMOP  comprises  of  Payload  assembly,  Gimbal  assembly,  System  electronic  unit 
+and Man Machine Interface (MMI). The payload assembly consists of HD Thermal imager 
+and  HD  Color  Day  TV  for  better  imaging  at  longer  ranges.  The  HD  SWIR  camera  will 
+extend  the  range  performance  in  degraded  visual  conditions  of  light  fog  and  smoke,  in 
+addition  to  providing  imaging  at  dusk  and  dawn  conditions.  The  Low  Light  Level  TV  will 
+provide  images  under  extreme  low  light  conditions  and  also  the  images  of  targets 
+illuminated by the laser illuminator. The multiple Lase payloads will provide target ranges, 
+CAMOP  has  also  Geo-pointing  and  Geo-  location  (GPLM)  capability  on  moving  map 
+enabling  the  system  to  calculate  the  target  co-ordinates  (in  the  centre  of  the  image) 
+according  to  the  navigation  data,  sensor’s  LOS  angles  and  range  from  the  Laser  Range 
+Finder and display it in the centre of the image. 
+
+Standard- MIL-STD 810-F/RTCA DO 160, EMI/EMC-MIL STD 461-E 
+
+Interested  Industries  are  requested  to  forward  their  Expression  of  Interest  (EOI)  to 
+Director, Instruments Research and Development Establishment (IRDE), Dehradun with a 
+copy  to  Director,  Directorate  Industry  Interface  and  Technology  Management  (DIITM), 
+DRDO HQ on following addresses:- 
+
+To, 
+Director 
+Instruments Research and Development Establishment (IRDE) 
+DRDO, Ministry of Defence 
+Raipur PO, Dehradun-248008 
+Phone No:- 0135-2787169 
+Fax: 0135-2787161/2787128 
+Email ID: director[dot]irde[at]gov[dot]in 
+
+Copy to 
+
+Director 
+Directorate Industry Interface and Technology Management (DIITM) 
+Room No 447, DRDO Bhawan DRDO HQrs, Rajaji Marg, New Delhi-110011 
+Phone No. 011-23013209/23015291 
+Fax No. 011-23793008 
+Email ID:- diitm[dot]hqr[at]gov[dot]in 
+
+Interested  Industries  are  requested  to  enclose  supporting  documents  with  EoI  as  per 
+Appendix 
+https://www.drdo.gov.in/sites/default/files/inline-
+files/DRDO%20Policy%20%26%20Procedure%20%20for%20ToT.pdf 
+
+of  DRDO  Policy 
+
+and  Procedure 
+
+for  ToT 
+
+available 
+
+‘D’ 
+
+at    
+
+ 
+ 
+ 
+ 
+ 
+

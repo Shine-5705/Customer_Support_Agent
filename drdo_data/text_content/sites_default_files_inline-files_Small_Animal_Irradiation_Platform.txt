@@ -1,0 +1,33 @@
+Small Animal Irradiation Platform
+
+Development of radiation countermeasure agent requires screening of several molecules on
+small animals. The irradiation geometry and ability to handle multiple animals is important
+and   no   ready-made   solutions   are   available.   In   most   of   the   laboratories,   makeshift
+arrangements without much description are published as research papers. Such geometry and
+irradiated dose cannot be replicated in other laboratories and therefore true comparison of
+lead findings is difficult. Further, irradiation of multiple animals is necessary to reduce time
+and variability during experimentation. Development of laboratory animal models mimicking
+the actual field conditions is a challenge. Delivering radiation to specific region or organs
+that can benefit the understanding of radio-biological effects in human is extremely difficult
+and   a   major   challenge   in   countermeasure   development.   Though,   high   precision   targeted
+irradiation platforms for single animal are available, they may not be sufficient for screening
+of potential countermeasures on large group of small animals in reproducible manner among
+multiple facilities or institutions. 
+
+      About the technology
+
+Small   Animal   Irradiation   Platform   has   been   designed   and   developed   by   INMAS   for
+performing   localized,   partial   body,   multi-organ   (head,   thoracic,   hind   limbs   and   whole
+abdomen),   and   whole   body  irradiations  to   small   animals   (mice,   rats   and   rabbit)   against
+gamma radiation (Co60  Tele radiotherapy). This can also be used for other gamma energy
+source such as  137Cs and  X-ray irradiators. The shielding designs are optimized to provide
+proper protection to organs at risk (95% shielding) from high energy gamma radiation. The
+platform   is   provided   with   manual   vertical   movement   for   easy   setups.   A   dosimeter   for
+radiation dose estimation is also provided. The animal irradiation using this platform can be
+continuously monitored using CCTV device. 
+
+This platform will therefore allow simultaneous localized irradiation of mice or rats or
+
+rabbit and efficacy assessment of therapeutic radiation countermeasures agents.
+
+
