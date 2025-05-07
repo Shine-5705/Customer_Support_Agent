@@ -1,0 +1,46 @@
+PRACHAND Munition Hardware (Empty) 
+
+PRACHAND  is  an  Anti-Tank  Munition  with  full  width  attack  capability.  PRACHAND  as  a 
+
+System consists of PRACHAND Munition, Transmitter and ID Code Setter.  
+
+Fig 1 PRACHAND system 
+
+Prachand Device:   
+
+•  Light weight Plastic housing with Electronic Sensor Module (ESM), Ejection Housing, 
+
+Copper Cone, Mechanical Timer, Visual Indicator and battery packs.  
+
+• 
+
+Influence fuze with magnetic and seismic sensor. 
+
+•  Micro-controller based Smart Algorithm 
+
+•  Remote Deactivation and Selectable SN period.  
+
+•  Anti-Disturbance Device or Tilt Sensor with auto-referencing feature.  
+
+Transmitter:  
+
+•  Light weight Plastic housing with patch antenna 
+
+•  Consist of a RF IC along with Power Amplifier 
+
+•  Used for wireless deactivation of the munition from a distance  
+
+ID Code Setter: 
+
+•  Light weight Plastic housing with GPS  
+
+•  Used to set IDs in to the munition as well as in the transmitter.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

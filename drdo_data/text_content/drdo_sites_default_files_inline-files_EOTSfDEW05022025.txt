@@ -1,0 +1,542 @@
+Electro Optical Tracking System (EOTS)  for Directed Energy Weapon 
+
+Electro Optical Tracking System for Directed Energy Weapons is a high performance electro 
+
+optical  stabilized  gimbal  system  integrated  with  video  tracker  which  facilitates  battlefield 
+
+surveillance,  target  acquisition  and  auto  tracking  during  day  as  well  as  night  on  a  static  and 
+
+dynamic platform.  It consists of EO sensors viz. Thermal Imager, Day TV and Eye Safe Laser 
+
+range  finder  and  beam  directing  optical  channels  as  payloads.  Continuous  target  tracking 
+
+capability  facilitates  high  precision  beam  pointing  on  the  target.    The  system  is  capable  of 
+
+tracking the targets like UAVs and Drones at a range of 5 Kms.  This Electro Optical Tracking 
+
+Systems  has  a  unique  feature  of  autonomous  tracking  of  the  target  after  receiving  a  cue 
+
+command from external source like RADAR. 
+
+Interested  industries  are  requested  to  forward  their  Expression  of  Interest  (EoI)  (with 
+attachments of supporting documents) to  Director,  Instruments  Research  &  Development 
+Establishment (IRDE) with a copy to Director DIITM, DRDO HQ (no attachments are required 
+to be forwarded to DIITM) on following address:- 
+
+Director  
+Instruments Research & Development Establishment (IRDE) 
+Raipur Road, Dehradun – 248008 
+
+Phone : 0135 – 2787004 to 2787007 
+Fax   :  0135- 2787161 & 2787128 
+E-mail : director.irde@gov.in 
+
+Copy to  
+
+Director 
+Directorate of Industry Interface & Technology Management (DIITM) 
+Room No 447, DRDO Bhawan, DRDO HQrs, Rajaji Marg, New Delhi – 110011 
+Phone: 011-23013209/ 23015291 
+Fax: 011-23793008 
+Email: diitm.hqr@gov.in 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All  industries  interested  in  seeking  ToT  are  requested  to  apply  in  the  format  given  below. 
+Kindly fill in the fields. The list of documents to be attached is provided in Annexure – I. Kindly 
+provide the reference of page no. of supporting document in the relevant field of form. 
+
+PART-1  
+
+General Information 
+(Please enclose documents in support of information provided) 
+
+1.    Name of the Technology requested for 
+
+Technology Transfer (Technology name and 
+concerned Lab, Category) 
+
+2.    Name of the industry/ organization 
+3.    Complete Address and other details 
+
+Registered Office 
+
+State 
+Phone No 
+Fax 
+Email 
+Website 
+Factory 
+
+State 
+Phone No 
+Fax 
+Email 
+Website 
+
+4.    Point of Contact  
+
+Name 
+Designation 
+Address 
+Mobile No 
+Ph No 
+Email ID 
+
+5.    NAME OF CMD/ MD /PARTNERS/ PROPRIETOR/ 
+
+etc  
+Name 
+Designation 
+Address 
+Mobile No 
+Ph No 
+Email ID 
+
+6.    Date of Incorporation of company 
+7.    Foreign Direct Investment in company (if any in 
+
+%) 
+
+8.    Shareholding pattern 
+9.    Turn over as per Audited Balance Sheet for the 
+
+preceding three years. 
+Year ____ 
+Year ____ 
+Year ____ 
+ Annual budget for R&D during last three years (if 
+any) 
+Year ____  
+Year ____  
+Year ____ 
+Income Tax returns for the preceding three years 
+period  
+Year ____ 
+
+10. 
+
+11. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12. 
+
+13. 
+
+14. 
+15. 
+
+16. 
+17. 
+18. 
+19. 
+
+20. 
+21. 
+22. 
+
+23. 
+
+24. 
+
+25. 
+
+26. 
+
+27. 
+
+28. 
+
+29. 
+
+30. 
+
+Year ____  
+Year ____ 
+ Nature of company 
+DPSU, Private Limited, Public Limited, Partnership, 
+Proprietary, Ex- Serviceman Unit 
+ Category of industry 
+Large Scale, Medium Scale, Small Scale, Micro, 
+Startup 
+ MSME Registration No 
+ Certificates of registration as a manufacturing 
+unit, if any. 
+If Startup, DPIIT Registration No 
+ UDYOG AADHAR No 
+ PAN Number 
+ Details of Industrial license for defence 
+manufacturing issued by DPIIT (if any) 
+ Details of PESO license (if any) 
+ GST Number 
+ Nature of business 
+Manufacturing/ Sole Selling or Authorized Agent/ 
+Assembler/ Traders/ Dealer/ Processor/ Repacker/ 
+Others 
+ Details of current products and services 
+Products and services Supplied (please specify Govt/ 
+Domestic market/ Export) 
+ Record of past performance 
+(e.g., Supply orders executed against of Ministry of 
+Defence orders, Public Sectors and Paramilitary 
+Forces, if any). 
+ Details of registration with 
+NSIC / SSI, DGS&D, other Defence Department, 
+other Govt. Dept, membership of 
+FICCI/ASSOCHAM/CII or other Industrial Association 
+(Attach relevant copies of registration letters) 
+ Have you already taken any technology from 
+DRDO (If yes, give details attaching separate sheet) 
+
+Name of the Technology, Lab, Year, License number 
+& Status 
+ISO/ ISI certification or any other certification (If 
+yes, give details) 
+ Relevant clearances form the authorities/ 
+ministries (if any) 
+ Capacity and capability to undertake 
+developmental work and to accept attendant 
+financial and commercial risks. 
+ Capacity/capability to market the product through 
+the marketing network, sales and service network, 
+reliability to maintain confidentiality. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Infrastructure and other Information 
+
+PART-2 
+
+1.    Total area of factory  
+Covered (m2),  
+Uncovered (m2), 
+Bonded space available (m2) 
+
+2.    Ownership of factory 
+
+Self-owned, partnership, rental 
+
+3.    Electric power 
+Sanctioned 
+Installed 
+Standby (if any) 
+
+4.    Availability of adequate infrastructure  
+
+(List of machines and their production capacities) and 
+technical expertise 
+
+5.    Name of bank & A/c No Name of bank 
+
+A/c type 
+A/c no 
+Address of the bank  
+Phone:  
+Email: 
+
+6.  Details of current products: 
+
+S.No 
+
+Type  Description 
+
+Licensed/installed capacity  Annual production for 
+
+preceding 3 years 
+
+7.  Details of foreign collaboration, if any 
+
+S.No 
+
+Product 
+
+Name and address of collaborator 
+
+Year 
+
+Remarks 
+
+8.  Details of products developed for services 
+
+S.No 
+
+Nomenclature of stores 
+
+Order No. and date 
+
+Remarks 
+
+9.  Please give details of important facilities & infrastructure as per 
+
+following format for: 
+
+(a)  Production 
+(b)  Unconventional, special m/c 
+(c)  Testing & quality control facilities  
+
+S.No  Description of m/c  Make & model 
+
+Qty 
+
+Date of 
+purchase 
+
+Remarks 
+
+10. Furnish the following details with relevant certificates and documents 
+
+(a)  R&D facilities available 
+: 
+Inspection quality control of raw material components  
+(b) 
+(c)  Assistance from central agency  for testing / calibration etc. : 
+(d) 
+
+laboratory  and  drawing  office  facility 
+
+: 
+
+: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11.  Principal customers: 
+
+S. No 
+
+Name & address 
+
+S.O No and 
+date 
+
+Date of last 
+supply 
+
+Products 
+supplied 
+
+Value 
+
+12.  Future plans (if any) in respect of expansion programme/ installation 
+
+of additional machines/ test facilities etc. 
+
+13.  Name of the technology requested for transfer 
+
+(give self-assessment of your capability to absorb the technology) 
+
+14.  Details of employee as on date on firm’s pay roll 
+
+PERMANENT 
+Category 
+Technical 
+
+Post Held 
+Prod. Manager 
+Q.C. Manager 
+Supervisor 
+Testing Staff (QC) 
+Skilled workers 
+Unskilled workers, etc 
+
+Administrative  Purchase Manager 
+
+TEMPORARY 
+Category 
+Technical 
+
+Accounts Officer  
+Office Superintendent 
+Clerical 
+Others, etc 
+
+Post Held 
+Prod. Manager 
+Q.C. Manager 
+Supervisor 
+Testing Staff (QC) 
+Skilled workers 
+Unskilled workers, etc 
+
+Number  Qualification  Total Service 
+
+Number  Qualification  Total Service 
+
+Administrative  Purchase Manager 
+
+Accounts Officer  
+Office Superintendent 
+Clerical 
+Others, etc 
+
+DECLA R A TIO N : 
+
+I / we confirm that the information furnished in Part 1 & 2 above is correct. In the 
+event of  any  information  given  by  me  /  us  is  found  incorrect  /  false  at  any  time,  I  /  we 
+understand our EoI for ToT will be cancelled/ rejected without notice, beside any other 
+appropriate action against me / us. 
+
+Industry seal 
+
+Authorized signatory 
+
+Name(s) in capital 
+Designation and seal of authorized signatory 
+
+date:  
+Place: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

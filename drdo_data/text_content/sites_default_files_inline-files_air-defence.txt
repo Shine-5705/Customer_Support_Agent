@@ -1,0 +1,328 @@
+One Pa
+
+age Write U
+
+p 
+
+Air Defe
+
+nce Tactica
+
+al Control R
+
+Radar (ADTC
+
+CR) 
+
+1.  De
+
+scription of
+
+f Technolog
+
+gy 
+
+Air 
+sur
+tran
+The
+Bea
+Ve
+
+Defence 
+rveillance  de
+nsmission o
+e  system  is
+am Forming
+hicles and is
+
+Tactical  Co
+etection,  tra
+of target data
+s  based  on 
+g (DBF) tech
+s transportab
+
+ontrol  Rada
+acking  and 
+a to multiple
+State-of-the
+hnology. The
+ble by Rail, R
+
+ar  (ADTCR
+friend/  foe 
+e Air Defence
+e-Art  Rotatin
+e radar syste
+Road and A
+
+)  is  develo
+identificatio
+e command
+ng  Active  P
+em is configu
+ir.  
+
+oped  for  A
+on  of  aerial
+ posts/ wea
+Phased  Array
+ured on two 
+
+Army  AD  fo
+l  targets  an
+pon system
+y  with  Digit
+High Mobili
+
+or 
+nd 
+s. 
+tal 
+ty 
+
+The
+ma
+
+e  system 
+aintenance a
+
+r 
+in  constr
+is  modular
+rate in plains
+and can oper
+
+ruction 
+for 
+s, deserts, a
+
+easier 
+
+inst
+and mountain
+
+tallation,  op
+nous terrains
+
+peration  an
+s.  
+
+nd 
+
+Wit
+bea
+wa
+trac
+par
+rad
+ope
+tran
+thro
+env
+Nu
+
+th advance s
+am  process
+veforms  inc
+cking  and  t
+rameters  inc
+dar  is  fully  p
+erator  work
+nsmitted  to 
+ough  line  a
+vironmental 
+clear, Biolog
+
+signal proce
+ing,  the  rad
+cluding  sea
+arget  acquis
+cluding  the 
+programmab
+kstation  and
+multiple  w
+and  radio  li
+and  EW  c
+gical and Ch
+
+essor and da
+dar  can  per
+arch,  Track 
+sition.  ADTC
+target  rang
+ble  through 
+  also  from 
+eapon  syste
+nks.  The  s
+conditions,  a
+hemical weap
+
+ata processo
+rform  multip
+while  scan
+CR  gives  a 
+e,  azimuth, 
+and  efficie
+the  remot
+ems  and  co
+system  is  d
+and  the  op
+pons. 
+
+or systems c
+le  functions
+n  (TWS),  d
+true  air  pic
+height,  spe
+nt  Man  ma
+te  display. 
+ommand  po
+designed  for
+erations  ca
+
+ombined wit
+s,  through  p
+edicated  m
+cture  with  p
+eed  and  IFF
+chine  interfa
+The  track 
+osts  up  to 
+r  survivabili
+bin  is  prote
+
+th digital mu
+programmab
+multiple  targe
+precise  targe
+F  status.  Th
+ace  from  th
+data  can  b
+20  km  awa
+ty  in  intens
+ected  again
+
+lti 
+le 
+et 
+et 
+he 
+he 
+be 
+ay 
+se 
+st 
+
+Tec
+
+chnologies 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Rotating Ac
+
+tive Phased
+
+ Array with D
+
+Digital Beam
+
+m Forming 
+
+Electronic s
+
+canning in A
+
+Azimuth and 
+
+elevation 
+
+Distributed m
+
+multiple Tran
+
+nsmit/ Rece
+
+ive modules
+
+s based arch
+
+hitecture 
+
+Multifunction
+
+n capability w
+
+with advanc
+
+ced signal an
+
+nd data proc
+
+cessor 
+
+2.  Ap
+
+pplication A
+
+reas 
+
+Up
+
+gradation as
+
+s a sensor fo
+
+or Fire Contr
+
+rol Applicatio
+
+ons.  
+
+3.  Fie
+
+eld Trials  
+
+AA
+tes
+eva
+
+AAU calibrati
+sting  is  in  p
+aluation trial
+
+on is compl
+progress.  T
+s by end Se
+
+leted at NFT
+The  system 
+ep 2017.  
+
+TR facilities 
+is  expecte
+
+of K1 site. T
+ed  to  be  re
+
+The system 
+eady  for  DR
+
+integration 
+RDO  intern
+
+& 
+al 
+
+ 
+ 
+ 
+

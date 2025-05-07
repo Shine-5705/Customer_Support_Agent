@@ -1,0 +1,634 @@
+TOT OF WET END SUB-SYSTEM FOR ADVANCED LIGHT TOWED ARRAY SONAR (ALTAS) 
+
+Expression of Interest 
+
+1.  Introduction 
+
+NPOL,  Kochi,  a  premier  laboratory  under  Defence  R&D  Organisation  invites 
+
+Expression of Interest (EOI) from Indian manufacturer(s) having sufficient experience, 
+
+expertise and willingness to undertake Production of WET END SUB-SYSTEM for an 
+
+Advanced Light Towed Array Sonar (ALTAS) 
+
+Launch/Recovery Unit 
+
+On-board Electronics 
+
+Tow Cable Assy 
+
+Transmitter Array 
+
+Receiver Array 
+
+Schematic of ALTAS System 
+
+The Wet End Sub-System consists of Transmitter and Receiver Arrays and Tow Cable 
+
+assembly.  The  Transmitter  Array  is  housed  in  a  Vertically  stabilised  body  and  is 
+
+hooked  on  to  the  seamless  Tow  Cable  with  linear  receiver  Array.  Technical 
+
+specifications are enclosed at annexure 1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  RESPONSIBILITIES OF MANUFACTURER OF WET END SUB-SYSTEM   
+
+ALTAS  is a  multidisciplinary  sonar  system  consisting  of  technologies  of  transducers, 
+
+mechanical  engineering,  ocean  engineering,  electrical  and  electronics  engineering, 
+
+power electronics and software. Realisation of the entire sonar system under one roof 
+
+may not be practical because of the diversity of technologies, know-how and skill set 
+
+required.  And  hence  the  hardware  content  of  the  sonar  has  been  realised  as 
+
+subsystems  through  specialised  Indian  industries  and  integrated  as  ALTAS  sonar 
+
+system by incorporating dedicated software developed by NPOL. The responsibility of 
+
+its  installation  onboard  a  naval  ship  and  the  role  of  lead  system  integrator  was 
+
+undertaken by NPOL. The performance validation of the system was done under the 
+
+leadership  of    NPOL  and  with  the  association  of  Indian  Navy  through  a  series  of 
+
+structured  sea  trials  with  real  targets  deployed  at  strategic  locations.  Performance 
+
+validation has since been completed, the Indian Navy will shortly evaluate the system 
+
+as  per  mutually  agreed  trial  plan  and  procedure.    Indian  Navy  has  plans  to  induct  a 
+
+few ALTAS sonar systems for its front line war ships soon after evaluation trials. The 
+
+purpose  of  this  EOI  is  to  identify  one  /  two  potential  Manufacturer  for  ALTAS  WET 
+
+END  SUB-SYSTEM.        Responsibilities  of  Sub-system  manufacturer  of  ‘WET  END 
+
+SUB-SYSTEM’ is further elaborated in the succeeding sections. 
+
+2.1  Supply    of  Sub-system  to  Lead  System  Integrator  (LSI)  nominated  by  Indian 
+
+Navy/NPOL 
+
+a.  Supply  order  will  be  placed  on  the  manufacturer  by  a  LSI  nominated  by  Indian 
+
+Navy/NPOL. 
+
+b.  Manufacturer  will  supply  the  WET  END  SUB-SYSTEM’  as  per  TOT  Documents. 
+
+Detailed Specifications, Quality policy / program for component level to  sub-system 
+
+level,  ATP,  FAT’s,  HAT’s  and  SAT’s  documents  and    BOM  will  be  provided  in  the 
+
+TOT documents. 
+
+c.  The  manufacturer  will  field  sub-  system  against  RFP  from  LSI  by  submitting 
+
+Technical, commercial and price bids appropriately. 
+
+2.2  Organising QT/ET/ATP at the premises of sub-system manufacturer. 
+
+a.  Manufacturer  has  to  organise  QT/ET  at  the  manufacturers  end  as  per  sub-system 
+
+acceptance document provided in the TOT document.  
+
+ 
+ 
+ 
+b.  Manufacturer  has  to  conduct  FAT’s  at  the  manufacturers  end  as  per  sub-system 
+
+Factory  acceptance  document  provided  in  the  TOT  document  before  despatch  of 
+
+sub-system for system Integration. 
+
+2.3  Auditing of Quality Process 
+
+a.  Manufacturer  will  ensure  auditing  of  quality  process  by  competent  authority 
+
+responsible for quality assurance as spelt out by LSI. 
+
+b.  LSI  will  have  the  right  to  nominate  Competent  authority  responsible  for  quality 
+
+assurance and inspection at the manufacturers premises. 
+
+3.  TOT TERMS 
+
+3.1  As per DRDO Guidelines for Transfer of Technology (TOT), the first TOT will normally 
+
+be given to the industry associated during development on priority so as to ensure high 
+
+quality of manufacture within the limitations in hand-holding support of DRDO. 
+
+3.2  TOT will be given on non-exclusive basis only. The number of license on non-exclusive 
+
+basis will be  restricted.  However,  additional licence  if  required  will  be  given  by  DRDO 
+
+on need basis. The intellectual property rights shall always remain with DRDO.   
+
+3.3  The  amount  and  payment  stages  of  TOT  fee  will  be  as  prescribed  by  DRDO.  As  per 
+
+current guidelines it is upto 20% of its developmental cost. 
+
+3.4  Royalty fee @ 2% of the annual sales will be applicable uniformly for all industries. 
+
+3.5   Technical  assessment  of  the  industries  submitting  EOI’s  will  be  carried  out  by  a 
+
+Technical  assessment  committee  for  verification  of  the  technical  and  financial 
+
+capability/capacity of the industry. 
+
+3.6  Eligible  parties  will  have  to  sign  Confidentiality  &  Non-Disclosure  Agreement  (CNDA) 
+
+with DRDO for technical discussion including specifications, following  which they shall 
+
+be considered for giving Transfer of Technology (TOT) on non-exclusive basis. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.7  TOT  to  industry  will  be  given  based  on  their  manufacturing  capability,  assurance  on 
+
+quality and capacity of production apart from other terms and conditions.  
+
+3.8  The licencing agreement for transfer of technology (LATOT) which is to be signed will 
+
+be  as  per  the  template  approved  by  Department  of  Legal  affairs.  Ministry  of  Law  and 
+
+Justice. 
+
+3.9   DRDO shall have the march-in rights to use the IP for its own use in the interest of the 
+
+Govt. of India without any restrictions, irrespective of the nature of licence granted. 
+
+3.10  DRDO shall have the right to Revoke the Licence if the company fails to adhere to the 
+
+terms and conditions especially with respect to adherence of Quality. 
+
+3.11  The  firm  expressing  interest  should  be  technically  sound  to  Procure/manufacture, 
+
+supply and maintain the system with requisite quality standards.  
+
+4.  EOI TERMS 
+
+Interested  Industries  may    write  along  with  their  company  profile,  financial  &  technical 
+
+capabilities etc. as per the following format  to Director, NPOL, Kochi and copy to Director 
+
+DIITM on the following addresses  within 45 days of this advertisement. 
+
+Director, NPOL 
+DRDO, Min. of Defence,  
+Thrikkakara P.O. 
+Kochi-682021 
+Contact No - 0484 2424878 
+FAX : 0484-2424858 
+Email: director@npol.drdo.in 
+
+Director, DIITM  
+Room No 446 DRDO Bhawan 
+DRDO HQrs Ministry of Defence  
+Rajaji Marg New Delhi – 110011  
+Contact No - (011) 23016216 / 23007446 
+FAX No. 011-23793008 
+
+a)  Memorandum  and  Articles  of  Association  (Should  be  incorporated  as  per  Indian 
+
+Companies Act, 1956)  
+
+b)  Certificates of registration as a manufacturing unit, if any.  
+
+c)  Balance Sheet for the preceding three years.  
+
+d)  Income Tax returns for the preceding three year period  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e)  Details of shareholding/ownership pattern especially foreign partners/ shareholders, 
+
+foreign employees, directors, etc. The company must adhere to the prevailing Govt. 
+
+of India policies and regulations on Foreign Direct Investment (FDI).  
+
+f)  Annual budget for R&D during last three years.  
+
+g)  Numbers and details of IPR or patents etc. held by the company.  
+
+h)  Number of technically or professionally qualified personnel.  
+
+i)  Record  of  past  performance  (e.g.  Supply  orders  executed  against  Ministry  of 
+
+Defence orders, public sectors and paramilitary forces, if any.  
+
+j)  Availability  of  adequate  infrastructure  (List  of  machines  and  their  production 
+
+capacities) and technical expertise.  
+
+k)  List of Testing and Support equipment. 
+
+l) 
+
+ISO/ ISI certification or any other certification  
+
+m) Relevant clearances from the authorities/ ministries (if any) 
+
+n)  Capacity  and  capability  to  undertake  developmental  work  and  to  accept  attendant 
+
+financial and commercial risks.  
+
+o)  Capacity/Capability to market the product through the marketing network, sales and 
+
+service network, reliability to maintain confidentiality. 
+
+ 
+ 
+                                                         Annexure 1 
+
+WET END SUB-SYSTEM OF SONAR ALTAS 
+
+1.  The Wet End System consists of: 
+
+1.1 Towed Projector Unit (TPU) 
+
+1.2 Towed Receiver Array (TRA) 
+
+1.3 Tow Cable Assembly (TCA) 
+
+1.4 Array Data Interface Box 
+
+2.  Towed Projector Unit. (TPU) 
+
+The Towed Projector Unit consists of: 
+
+2.1 Vertical Projector Array. (VPA) 
+
+2.2 Vertically Towed Body. (VTB) 
+
+2.3 Tuning Coil Box  
+
+2.4 Cable Harness Assembly. 
+
+The  Towed  Projector  Unit  is  a  vertical    array  of  underwater  sound  projectors(VPA) 
+
+housed in  a free flooded hydro dynamically stabilised Vertically Towed Body (VTB).  
+
+The  Electronics  are  housed  in  a  pressure  tight    Tuning  Coil  Box  at  the  base  of  the 
+
+Vertical Projector Array to operate at an ocean depth of 300 meters 
+
+3.  Towed Receiver Array   
+
+The Towed receiver array is an assembly of different modules consisting of acoustic 
+
+sensor modules and isolation modules.  The acoustic sensor module is a linear array 
+
+of acoustic sensors,  along with signal conditioning electronics. The acoustic sensors 
+
+and electronics are housed in a flexible tube filled with oil or jelly . The sub-systems 
+
+of Receiver array consists of : 
+
+3.1 Isolation Module Level-1 
+
+3.2 Acoustic Sensor Module Level-1 
+
+3.3 Acoustic Sensor Module Level-2 
+
+3.4 Acoustic Sensor Module Level-3 
+
+3.5 Acoustic Sensor Module Level-4 
+
+3.6 Isolation Module Level-2 
+
+Each module has  an average length of 30 meters and diameter of 80 mm. The modules  are 
+
+interconnected  using  pressure  balanced  multi-pin  under  water  marine  grade  connectors  to 
+
+Page 1 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                         Annexure 1 
+
+form and operate as a single receiver array. The receiver array is designed to operate at depths 
+
+of 200 meters and has a breaking strength of 2 tons. 
+
+4. 
+
+Tow Cable assembly  
+
+Tow Cable assembly act as the life line of Towed Array Sonar, transferring the drag force to 
+
+the winch, acting as the medium for transferring power supply to the arrays and providing a 
+
+data  telemetry  link.  Tow  cable  assembly  consists  of  a  light  tow  cable,  heavy  tow  cable, 
+
+Electro-opto-Mechanical-Interface Connector and a Cable Interface Module. 
+
+Both the Light Tow cable and Heavy tow cable have signal lines, power lines and FO lines. 
+
+The  light  tow  cable  is  designed  to  be  neutrally  buoyant  in  water  and  can  operate  at  water 
+
+depths  off  200  meter  and  has  a  breaking  strength  of  15  tons.  The  heavy  tow  cable  is 
+
+positively buoyant and can operate at water depths of 200 meters with a breaking strength of 
+
+20 tons. Both Heavy tow cable and Light tow cable are torque balanced. 
+
+Electro-opto-Mechanical-Interface Connector is a sealed unit designed to operate under 200 
+
+meters of water and  couples the light tow cable and heavy tow cable electrically, optically 
+
+and mechanically for a breaking strength of 15 tons. The Electro-opto-Mechanical-Interface 
+
+Connector  is  also  designed  to  couple  the  Towed  Projector  Array  electrically  and 
+
+mechanically  on the tow cable assembly. 
+
+The  free  end  of  the  HTC  is  provided  with  a  winch  end  mechanical  termination  and  optical 
+
+conectorisation.  The  free  end  of  the  LTC  is  to  be  assembled  with  Cable  Interface  Module 
+
+(CIM)  which  converts  the  electrical  signal  from  Receiver  Array  into  optical  signal.  A 
+
+schematic block diagram of Tow Cable assembly is shown below. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+4 
+
+5 
+
+ Schematic block diagram of Tow Cable Assembly 
+
+Heavy Tow Cable (HTC)  
+
+Electro-opto-Mechanical-Interface Connector (EOMIC) 
+
+Intermediate anchoring 
+
+Light Tow Cable (LTC) 
+
+Cable Interface Module 
+
+1. 
+
+2.  
+
+3. 
+
+4. 
+
+5. 
+
+Page 2 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                         Annexure 1 
+
+5. 
+
+ Array Data Interface Box 
+
+The data from the towed array is available over optical link in the tow cable. The optical data 
+
+from the array is received by converted to electrical format before taking the data through the 
+
+winch slip ring.  The data is again converted to optical before sending it to the Sonar control 
+
+room. The former conversion happens in the rotor box while the latter happens in the stator 
+
+box.  Both  these  units  use  Ethernet  Fiber  Media  converters  for  the  conversions.  Along  with 
+
+these converters, the units also house the required power supplies and Ethernet switches. The 
+
+Array  interface  unit  (AIU)  houses  the  electronics  required  for  converting  the  optical  data 
+
+coming  to  the  Sonar  Control  Room  back  to  Ethernet  form.  It  also  houses  the  electronics 
+
+required  for  the  built  in  test  Insonifier    for  the  towed  array.  The  AIU  forms  the  interface 
+
+between  Towed  Array  data  and  signal  processing    electronics  at  SCR.  AIU  accommodates 
+
+Ethernet  Fiber  media  converters,  Ethernet  switches,  DC-DC  converters  and  Built  in  test  
+
+insonifier  electronics. 
+
+6. 
+
+Skill Set requirement 
+
+     6.1     Assembly, integration & Testing of Towed Projector Unit (TPU) 
+
+ 6.1.1   Competence to identify Transducer shell resonance and assembly of respective   
+PZT stack to obtain required  “Transmitting Voltage Response (TVR)” 
+
+6.1.2   Competence for Impedance matching of transducer with Tuning  Coils for  
+
+specified Delivery of power. 
+
+          6.1.3  Competence for Assembly  of TPU without affecting overall set TVR and  
+
+Source Level 
+
+         6.1.4    Expertise in Underwater testing of Transducers with Standard Hydrophones  
+
+6.1.5    Expertise in acoustic measurements with matching system power amplifier  
+
+and  Transducer array fine tuning till final proving of SL 
+
+6.1.6   Experience in handling PV/Epoxy resins for potting underwater connectors  
+
+and  Axially water-blocked multicore cables.  
+
+    6.2      Assembly, Integration & Testing of Electro-opto-Mechanical-Interface  
+
+   Connector 
+
+           6.2.1  Competence in splicing of fibre optic cables of Multimode Fibre  optic lines. 
+
+           6.2.2   Competence in safe securing of spliced fibre optic joints. 
+
+           6.2.3   Competence  in steel  armoured cable termination.   
+
+           6.2.4   Competence in  aramid fiber strength member cable termination. 
+
+6.2.5    Competence in polyurethane potting of cable termination to achieve high  
+
+pressure sealing  of cable termination. 
+
+Page 3 of 5 
+
+ 
+ 
+ 
+ 
+  
+  
+ 
+    
+  
+ 
+   
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+                                                         Annexure 1 
+
+           6.2.6    Competence in epoxy potting of aramid strength member. 
+
+           6.2.7     Competence in swage button termination of Steel wire ropes. 
+
+           6.2.8      Competence in handling and pressure filling of Silicon  gel. 
+
+           6.2.9      Competence in crimping of Stainless steel rings on flexible tubes. 
+
+7.  General  
+
+The  manufacturer 
+
+  shall  carry  out  Qualifications  tests  as  per  DQAN  guidelines. 
+
+Environmental Stress Screening (ESS) Tests include Thermal cycling. Random vibration and 
+
+Endurance/burn-in for 100% Electronic Components. The Environmental Tests (ET) includes 
+
+High temperature storage test and Vibration test as per MIL-STD-167-I(Ships). 
+
+8. 
+
+Facility Requirement  
+
+The manufacturer should have their own facility for manufacturing, assembly, and testing of 
+
+receiver arrays. The following facilities are required for carrying out the production work.  
+
+a)  An air-conditioned hall  with dimensions not less than 40 m long x 8 m wide x 6 m 
+
+high. 
+
+b)  Environmental  stress  screening  facility  with  not  less  than  150  liter  capacity  for 
+
+carrying out screening of electronic components. 
+
+c)  Vibration facility to carry out random vibration and variable frequency test. 
+
+d)  Sophisticated Electronics Laboratory with facilities for precision electronics works 
+
+such as wiring, soldering and testing. 
+
+e)  Load testing facility for tensile testing of the modules of Towed Receiver Array. 
+
+f)  Tube insertion facility with a provision of inserting 35 m long modules with high 
+
+capacity vacuum pumps. 
+
+g)  Oil filling facility with a height of 12 m. 
+
+h)  Dehumidified air-conditioned room for assembly of Sound Projectors. 
+
+i)  Pressure Test facility for 30 bar. 
+
+j)  Underwater measurement facility for deep water (40 meters)acoustic measurements  
+
+k)  Hydraulic press  
+
+l)  Rubber Molding  facility  
+
+m)  Deployment/Retrieval simulations test setup 
+
+Page 4 of 5 
+
+ 
+ 
+ 
+ 
+                                                         Annexure 1 
+
+9. 
+
+Equipment Requirement             
+
+      The  following testing equipment are necessary 
+
+a)   100 MHz Digital storage oscilloscope 
+
+b)  Computer/ Laptop with 100 Mbps Ethernet port loaded with Lab view software 
+
+c)  Stellar is Evaluation Kit (EKK – L M 3S 9 B 92) 
+
+d)  PL-USB Blaster (RCN, Make : Altera) 
+
+e)  Function (Arbitrary Waveform)  generator  (10 MHz ) 
+
+f)  Impedance analyzer 
+
+g)  High Voltage ( 300V/2 k W) DC power supply, with UPS back up  
+
+h)  Regulated DC power supply  0-30V, 5 A 
+
+i)  1000 V  Megger 
+
+j)  RMS  Multimeter 
+
+k)  Insonification  Unit – for generating acoustic noise of required frequency  
+
+Page 5 of 5 
+
+ 
+ 
+ 
+

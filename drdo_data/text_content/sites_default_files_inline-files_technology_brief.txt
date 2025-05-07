@@ -1,0 +1,61 @@
+High Power and High Energy Li-ion Battery Technology (HPHELBT) 
+
+1. Introduction: 
+
+Naval  Science  and  Technological  Laboratory  (NSTL),  Visakhapatnam,  a  Research  & 
+Development Laboratory under DRDO, MoD has developed High Power and High Energy Li-ion 
+Battery Technology and holds the know-how of various technologies related to the development. 
+NSTL,  Visakhapatnam 
+Indian 
+manufacturers  who  have  willingness  to  absorb  the  technology  and  undertake  production  of 
+Lithium  ion  (Li-ion)  battery  systems  based  on  High  Power  and  High  Energy  Li-ion  Battery 
+Technology (HPHELBT)  for Civilian Applications developed at NSTL, Visakhapatnam. 
+
+Interest  (EOI)  from  enthusiastic 
+
+invites  Expression  of 
+
+2. System Description: 
+
+While  the  term  ‘‘Li-ion  battery’’  is  often  used,  it  consists  of  Li-ion  cells  and  Battery 
+Managements System (BMS). The ‘‘cell’’ is the basic electrochemical unit providing a source of 
+electrical  energy  by  direct  conversion  of  chemical  energy  and  consists  of  an  assembly  of 
+cathodes,  anodes,    separators,  electrolyte,  container  and  terminals.      BMS  is  the  electronic 
+monitoring and controlling system to maintain the performance of the Li-ion cells.   
+
+Know-how of the high power and high energy Li-ion battery technology is established by 
+NSTL indigenously. The high power and high energy Li-ion cells in prismatic configuration are 
+not  readily  available  commercially.  Synthesis  procedures  for  high  power  and  high  energy 
+cathode materials are established in-house. All processes are optimized for high power and high 
+energy Li-ion cell fabrication in both pouch and prismatic configurations. Li-ion cells of 60 Ah 
+capacity  are  fabricated,  tested  and  evaluated.  To  confirm  their  safe  operation  in  civilian 
+applications, environmental and abuse tests are carried out.  
+
+3. Salient features of the HPHELBT are as follows: 
+
+a.  Design of compositions and Liquid to Solid ratios for fabrication of Li-ion cells 
+
+b.  Optimized procedures for fabrication of Li-ion pouch and prismatic cells 
+
+c.  Optimized procedures for electrochemical characterization of the fabricated cells. 
+
+d.  Synthesis of carbon coated LFP cathode material & variants for flat operating voltage. 
+
+e.  Synthesis of LMO cathode material & variants (LNMO) for high voltage operation.  
+
+f.  Fabrication of Li-ion cells in pouch and prismatic configuration based upon the above 
+
+cathodes and MCMB anode. 
+
+g.  Drawings of components of cells  
+
+h.  Design documents and ATPs 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

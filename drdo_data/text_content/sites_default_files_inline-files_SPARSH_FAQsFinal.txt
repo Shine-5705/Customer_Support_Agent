@@ -1,0 +1,529 @@
+SPARSH: FAQs 
+
+1. What should I do if I am facing trouble while availing services on 
+
+SPARSH Portal? 
+
+1.  Check your internet connection. 
+
+2.  Check your browser compatibility. 
+
+3.  You can alternatively reach out to SPARSH Helpline or visit the nearest 
+
+Service Center to avail services. 
+
+2. How to locateService Centers in my area? 
+
+1.  Go to https://sparsh.defencepension.gov.in 
+
+2.  Go To: Contact & Support > SPARSH Near You > Service Center Locator 
+
+3.  You are required to carry your mobile phone to avail services at a Service 
+
+Center, verify yourself using OTP sent to your Registered Mobile Number 
+
+(RMN), or answer a set of Security Questions. 
+
+4.  Service Centers Working Hours: 9:30 AM - 6:00 PM (Monday to Friday). 
+
+5.  All services available on SPARSH can be availed via Pensioner Portal as well 
+
+as Service Centers without any charges. 
+
+3. If I have not received any SMS/ email regarding my user ID and 
+
+Password? 
+
+1. Go to url https://sparsh.defencepension.gov.in 
+
+2. Login by entering your PPO No. and suffix 01 to it (self pensioner) otherwise 
+
+suffix 02 or 03 or 04 and so on (in case of family pensioner suffix no. is as per 
+
+serial no. of family member mentioned in PPO). For example, if PPO No. is 
+
+111111111 then user ID will be 11111111101 (for self pensioner) and 
+
+11111111102 or 11111111103 or 11111111104 and so on (in case of family 
+
+pensioner, depends on serial no. of family member mentioned in PPO) 
+
+3. Click on Forgot Password at the bottom of the window. You will receive a 
+
+1 
+
+password. Enter the password to login and change password. 
+
+4. How can I view/ download my pension details? (Basic Pension, Disability 
+
+Element, Gratuity, Other Entitlements, PPO, Pension slip etc.) 
+
+1. Log in to your SPARSH account. 
+
+2. Thereafter, you can view details via My Documents > Entitlements  
+
+3. You can access your PPO via My Documents > PPO 
+
+4. You can access your Pension Slip via My Documents > Pension Slip 
+
+5. Where can I find the current & previous rates of DR applicable? 
+
+The table of Dearness Relief (DR) rates applicable till date is available on 
+
+SPARSH. 
+
+Go To: Pension Orders & Information > Common Problems > Dearness Relief 
+
+6. What to do if I am not getting correct rate of disability element? 
+
+You can raise a payment related grievance for the same by logging into your 
+
+SPARSH account. 
+
+Log in to your SPARSH account, and go to: Grievances > Payment Related > 
+
+Elements of Pension 
+
+7. How can I view my projected tax details of the financial year? 
+
+Log in to your SPARSH account, and go to: Services > Projected Tax Summary 
+
+8. Where can I find the current & previous rates of Fixed Medical Allowance 
+
+applicable? 
+
+The details for Fixed Medical Allowance (FMA) along with the applicable rates till 
+
+date is available on SPARSH. 
+
+Go To: Pension Orders & Information > Common Problems > Fixed Medical 
+
+Allowance 
+
+2 
+
+ 
+ 
+ 
+9. My annual identification is due. How can I identify myself in SPARSH? 
+
+1.  You can identify yourself using Aadhar, or provide life certificates issued by 
+
+designated authorities to have the entitled pension credited to your bank 
+
+account. 
+
+For identification using Aadhar (Digital Life Certificate): Go To: Services > 
+
+Identification > Digital Life Certificate 
+
+For identification using Manual Life Certificate: Go To: Services > Identification 
+
+> Manual Life Certificate 
+
+2.  The videos on the process of identification are as follows: 
+
+1. Different modes of identification--https://youtu.be/llZJH11mGSs 
+
+2. How to perform identification through MLC--https://youtu.be/FWsqaaxLwBI 
+
+3. How to perform identification through Jeevan Pramaan-- 
+
+https://youtu.be/ILKxSPFD_LQ 
+
+10. How can I view my next identification due date? 
+
+Go To: Services > Identification, and view details of your identification completed, 
+
+including last identification date & next identification due date 
+
+11. How can I obtain a blank form of Manual Life Certificate? 
+
+You can identify yourself using Aadhar, or provide life certificates issued by 
+
+designated authorities to have the entitled pension credited to your bank account. 
+
+For identification using Manual Life Certificate: 
+
+1. Go To: Services > Identification > Perform Identification 
+
+2. Generate your MLC Number & download the blank form for Manual Life 
+
+Certificate 
+
+Note:  There  is  no  time  limit  for  uploading  of  Manual  Life  Certificate  after 
+
+download  on  Portal.  It  can  be  uploaded  anytime  on  SPARSH.  Manual  Life 
+
+Certificate once submitted for identification for a certain period cannot be reused. 
+
+3 
+
+12. Whether I would be able to receive all my pensionary arrears on delayed 
+
+identification? 
+
+Yes. Upon delayed identification, all applicable pensionary arrears shall be paid. 
+
+13. Who can issue/ sign Life Certificates? 
+
+Life Certificates can be issued/signed by one or other of the following authorities. 
+
+(i) Any person exercising the power of a Magistrate under the Criminal Procedure 
+
+Code, 1898 (5 of 1898). 
+
+(ii) A Registrar or Sub-Registrar under the Registration Act, 1908 (16 of 1908). 
+
+(iii) Any pensioned Officer who before retirement exercised the powers of a 
+
+Magistrate. 
+
+(iv) Any Gazetted Officer of Government. 
+
+(v) A Munsif. 
+
+(vi) A Post Master. 
+
+(vii) A Departmental Sub Post Master. 
+
+(viii) An Inspector of Post Offices. 
+
+(ix) A Class I Officer of the Reserve Bank of India. 
+
+(x) An Officer of the State Bank of India. 
+
+(xi) An Officer of a subsidiary Bank of the State Bank of India. 
+
+(xii) Head of a Village Panchayat, Gram Panchayat or Gaon Panchayat. 
+
+(xiii) Head of an Executive Committee of a village. 
+
+(xiv) An officer of a bank included in the second Schedule to the Reserve Bank of 
+
+India Act, 1934 (2 of 1934) in respect of pensioner drawing his/her pension 
+
+through that Bank. 
+
+(xv) A Police Officer not below the rank of Sub-Inspector-in-Charge of a Police 
+
+Station. 
+
+(xvi) A member of Lok Sabha/Rajya Sabha/Vidhan Sabha/Vidhan Parishad or a 
+
+Corporator of Municipal Corporation or a Councilor of a Municipality. 
+
+(xvii) In the case of pensioners reemployed a life certificate furnished by the 
+
+4 
+
+pensioner signed by the Head of the office, where he is re-employed. 
+
+(xviii) A District Sainik Welfare officer- (DSWO). 
+
+14. What all biometric devices are compatible with SPARSH? 
+
+For recommended list of biometric devices : Click Here 
+
+SPARSH- Life Certificate through different modes Click Here 
+
+15. How do I report death of a family member in SPARSH? 
+
+Go To: Services > Report Event > Death, and provide required details along with 
+
+copy of Death Certificate 
+
+16. How do I report about a missing family member in SPARSH? 
+
+Go To: Services > Report Event > Missing, and provide required details along 
+
+with copy of FIR 
+
+17. How do I report about a convicted family member in SPARSH? 
+
+Go To: Services > Report Event > Conviction, and provide required details along 
+
+with copy of Judgement 
+
+18. How to Initiate Family Pension? 
+
+You can request for your share of pension via Initiate Family Pension 
+
+Go To: Services > Report Event > Initiate Family Pension, and provide required 
+
+details alongwith necessary documents as applicable 
+
+19. How do I update my basic details (Mobile Number, Bank Account 
+
+Number, PAN etc.) in SPARSH? 
+
+After the identification process is complete and approved, you can manage & 
+
+update your profile details like personal details, service details, family details etc. 
+
+by logging in to your SPARSH account. 
+
+Log in to your SPARSH account, and go to: My Profile > Manage Profile 
+
+5 
+
+20. How do I add/remove family details (Spouse/Dependents) in SPARSH? 
+
+After the identification process is complete and approved, you can manage & 
+
+update your profile details like personal details, service details, family details etc. 
+
+by logging in to your SPARSH account. 
+
+Log in to your SPARSH account, and go to: My Profile > Manage Profile 
+
+21. How can I declare my investments or proof of savings for tax purposes 
+
+in SPARSH? 
+
+You can declare & manage your investments in SPARSH by logging into your 
+
+SPARSH account. 
+
+Log in to your SPARSH account, and go to: Service Requests > Investment 
+
+Declarations 
+
+22. How can I apply for commutation in SPARSH? 
+
+You can apply for commutation by logging into your SPARSH account. 
+
+Log in to your SPARSH account, and go to: Service Requests > Commutation 
+
+Requests 
+
+23. I have registered a Service Request in SPARSH. How can I track it? 
+
+You can raise a payment related grievance for the same by logging into your 
+
+SPARSH account. 
+
+Log in to your SPARSH account, and go to: Grievances > Payment Related > 
+
+Deduction 
+
+24. How can I report or update re-employment details including discharge 
+
+from re-employment? 
+
+After the identification process is complete and approved, you can report your 
+
+employment/re-employment details by logging in to your SPARSH account. 
+
+Log in to your SPARSH account, and go to: My Profile > Employment/Re-
+
+Employment 
+
+6 
+
+25. How can I report my marriage/re-marriage? 
+
+After the identification process is complete and approved, you can report your 
+
+marriage/remarriage details by logging in to your SPARSH account. 
+
+Log in to your SPARSH account, and go to: My Profile > Report Remarriage 
+
+26. How can I request to stop my Fixed Medical Allowance for availing 
+
+CGHS facility? 
+
+For Indian resident pensioners: If you don't wish to continue availing Fixed 
+
+Medical Allowance (FMA), you need to update the FMA option in your personal 
+
+profile by logging in to your SPARSH account. 
+
+Go to: My Profile > Manage Profile > Personal Details > Fixed Medical Allowance 
+
+27. How to draw Fixed Medical Allowance if I am not availing any CGHS 
+
+facility? 
+
+For Indian resident pensioners: If you wish to opt for Fixed Medical Allowance 
+
+(FMA), you need to update the FMA option in your personal profile by logging in 
+
+to your SPARSH account. 
+
+Note: Your address should be part of the districts eligible for FMA. Please verify 
+
+your address before applying for FMA. 
+
+Go to: My Profile > Manage Profile > Personal Details > Fixed Medical Allowance 
+
+28. How can I claim death gratuity of my late husband? 
+
+The demise of the deceased member needs to be reported first 
+
+Go To: Services > Report Event > Death, and provide required details along with 
+
+copy of Death Certificate 
+
+Once approved by the competent authority, apply claim for Family Pension & 
+
+Death Gratuity. 
+
+Go To: Services > Report Event > Initiate Family Pension, and provide required 
+
+details along with necessary documents as applicable 
+
+7 
+
+29. What are straight through profile requests? How can I identify them? 
+
+Available to registered users on SPARSH, Straight Through Profile Requests 
+
+don't need authorization from the competent concerned authorities. 
+
+You can refer the legends displayed on your profile page to identify such 
+
+requests (My Profile > Manage Profile) 
+
+Example: 
+
+1. Change in personal details like Residential Address, Mobile Number, Email ID, 
+
+Aadhaar Number, PAN etc. 
+
+2. Change in Bank Details (For Indian Nationals) 
+
+30. What are approval based profile requests? How can I identify them? 
+
+Available to registered users on SPARSH, Straight Through Profile Requests 
+
+don't need authorization from the competent concerned authorities. 
+
+You can refer the legends displayed on your profile page to identify such 
+
+requests (My Profile > Manage Profile) 
+
+Example: 
+
+1. Change in personal details like Name, Date of Birth etc. 
+
+2. Change in Service Details like Non Qualifying Service, Gallantry Awards etc. 
+
+3. Addition/Removal of Spouse/Dependent Details 
+
+Grievance related Questions 
+
+31. I am receiving lesser payment than the sanctioned amounts in my PPO. 
+
+How do I report such incorrect payments in SPARSH? 
+
+You can raise a payment related grievance for the same by logging into your 
+
+SPARSH account. 
+
+Log in to your SPARSH account, and go to: Grievances > Payment Related > 
+
+Elements of Pension 
+
+8 
+
+32. My PPO doesn't have some elements I'm entitled for, and I am not being 
+
+paid the same. How do I report such incorrect payments in SPARSH? 
+
+You can raise a payment related grievance for the same by logging into your 
+
+SPARSH account. 
+
+Log in to your SPARSH account, and go to: Grievances > Payment Related > 
+
+Elements Not Sanctioned in Pension 
+
+33. My tax has been deducted wrongly. How do I report such incorrect 
+
+deductions in SPARSH? 
+
+You can raise a payment related grievance for the same by logging into your 
+
+SPARSH account. 
+
+Log in to your SPARSH account, and go to: Grievances > Payment Related > 
+
+Deduction 
+
+34. My amount for recovery is being displayed incorrectly in my PPO. How 
+
+do I report such incorrect deductions in SPARSH? 
+
+You can raise a payment related grievance for the same by logging into your 
+
+SPARSH account. 
+
+Log in to your SPARSH account, and go to: Grievances > Payment Related > 
+
+Deduction 
+
+35. I have registered a Grievance in SPARSH. How can I track it? 
+
+You can raise & track grievances in SPARSH. 
+
+For unregistered users (without login credentials), For registered users (with valid 
+
+login credentials) 
+
+36. How can I claim Constant Attendant Allowance? 
+
+You can raise a payment related grievance for the same by logging into your 
+
+SPARSH account. 
+
+9 
+
+Log in to your SPARSH account, and go to: Grievances > Payment Related > 
+
+Elements Not Sanctioned in Pension 
+
+37. How to intimate about overpayments to the disbursing agency? 
+
+You can raise a payment related grievance for the same by logging into your 
+
+SPARSH account. 
+
+Log in to your SPARSH account, and go to: Grievances > Payment Related > 
+
+Elements of Pension 
+
+38. What should I do if I am not getting dearness relief? 
+
+You can raise a payment related grievance for the same by logging into your 
+
+SPARSH account. 
+
+Log in to your SPARSH account, and go to: Grievances > Payment Related > 
+
+Elements of Pension 
+
+39. Can I raise a grievance against a service request? 
+
+Yes. You can raise a grievance against a completed Service Request by 
+
+providing details of the service request for reference (Request ID, Request Date 
+
+etc.) 
+
+40. Whom and how to approach if I am not getting correct pension? 
+
+You can raise a payment related grievance for the same using any of the 
+
+following modes: 
+
+1. Log into your SPARSH account 
+
+2. Call the SPARSH Helpline 
+
+3. Visit the nearest Service Center 
+
+10 
+
+ 
+

@@ -1,0 +1,414 @@
+Expression of Interest  
+
+TOT of Portable Diver Detection Sonar (PDDS) system 
+
+NPOL,  Kochi,  a  premier  laboratory  under  Defence  R&D  Organisation  invites 
+
+Expressions  of  Interest  (EOI)  from  original  manufacturer(s)  having  sufficient 
+
+experience, expertise and willing to undertake production of state-of-the-art portable 
+
+diver detection system. The firm should be technologically sound to manufacture and 
+
+supply the system with requisite quality standards. 
+
+PDDS is a portable sonar system capable of detecting potential underwater threats 
+
+like,  divers  and  diver  delivery  vehicles  in  shallow  waters.  The  system  alerts  the 
+
+operator  to  confirm  the  type  of  threat  so  that  effective  countermeasures  can  be 
+
+initiated  in  time.  The  system  can  be  deployed  either  outboard  a  ship  or  at  any 
+
+location  in  a  harbor,  typically  beside  a  wall,  pier  or  at  the  sea  bottom.  As  an  auto-
+
+alert system, PDDS performs detection, tracking and classification of divers or diver-
+
+like targets automatically and alerts the operator accordingly. The target information 
+
+provided by the system includes (i) target position (range and bearing) and (ii) target 
+
+dynamics (speed  and course). Technical  Specifications  of  the  system are enclosed 
+
+at Annexure ‘A’ 
+
+Interested parties may respond along with their company profile, financial & technical 
+
+capabilities etc. as per the following format –  
+
+a)  Memorandum  and  Articles  of  Association  (Should  be  incorporated  as  per 
+
+Indian Companies Act, 1956)  
+
+b)  Certificates of registration as a manufacturing unit, if any.  
+
+c)  Balance Sheet for the preceding three years.  
+
+d)  Income Tax returns for the preceding three year period  
+
+e)  Details  of  shareholding/ownership  pattern  especially 
+
+foreign  partners/ 
+
+shareholders, foreign employees, directors, etc. The company must adhere to 
+
+the  prevailing  Govt.  of  India  policies  and  regulations  on  Foreign  Direct 
+
+Investment (FDI).  
+
+f)  Annual budget for R&D during last three years.  
+
+g)  Numbers and details of IPR or patents etc. held by the company.  
+
+ 
+ 
+ 
+h)  Number of technically or professionally qualified personnel.  
+
+i)  Record of past performance (e.g. Supply orders executed against of Ministry 
+
+of Defence orders, public sectors and paramilitary forces, if any.  
+
+j)  Availability  of  adequate  infrastructure  (List  of  machines  and  their  production 
+
+capacities) and technical expertise.  
+
+k)  List of Testing and Support equipment. 
+
+l) 
+
+ISO/ ISI certification or any other certification  
+
+m) Relevant clearances form the authorities/ ministries (if any) 
+
+n)  Capacity  and  capability  to  undertake  developmental  work  and  to  accept 
+
+attendant financial and commercial risks.  
+
+o)  Capacity/Capability  to  market  the  product  through  the  marketing  network, 
+
+sales and service network, reliability to maintain confidentiality. 
+
+Eligible parties will have to sign Confidentiality & Non-Disclosure Agreement (CNDA) 
+
+with  DRDO  for  technical  discussion  including  specifications,  following  which  they 
+
+shall be considered for giving Transfer of Technology (TOT) on non-exclusive basis. 
+
+TOT to industry will be given based on their manufacturing capability, assurance on 
+
+quality and capacity of production apart from other terms and conditions.  
+
+Interested Industries may contact/ write to Director,  NPOL, Kochi or Director DI2TM 
+
+on the following addresses – 
+
+Director, NPOL 
+DRDO, Min. of Defence,  
+Thrikkakara P.O. 
+Kochi-682021 
+Contact No - 0484 2424878 
+Email: director@npol.drdo.in 
+
+Director, DI2TM  
+Room No 446 DRDO Bhawan  
+DRDO HQrs Ministry of Defence  
+Rajaji Marg New Delhi – 110011  
+Contact No - (011) 23016216 / 23007446 
+
+ 
+ 
+ 
+Annexure ‘A’ 
+
+Portable Diver Detection Sonar system (PDDS) 
+
+1.  Product overview 
+
+PDDS is a portable sonar system capable of detecting potential underwater threats like divers 
+
+and diver delivery vehicles in shallow waters. The system alerts the operator to confirm the 
+
+type of threat so that effective countermeasures can be initiated in time. The system  can be 
+
+deployed either outboard a ship or at any location in a harbour, typically beside a wall, pier or 
+
+at the sea bottom.  
+
+The system consists of units under water and on shore, interconnected by water blocked cable 
+
+carrying  data  and  power  supply  lines.  The  wet-end  unit  is  a  sonar  head  consisting  of 
+
+transducer  arrays,  transmitter  and  front-end  receiver  electronics  hardware.  The  shore  units 
+
+consist of an interface unit, a processing and display units and power supply. As an auto-alert 
+
+system,  PDDS performs  detection, tracking and  classification of divers  or diver-like targets 
+
+automatically  and  alerts  the  operator  accordingly.  The  target  information  provided  by  the 
+
+system  includes  (i)  target  position  (range  and  bearing)  and  (ii)  target  dynamics  (speed  and 
+
+course). 
+
+Fig. 1. Wet-end Unit of Portable Diver Detection Sonar 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+2.  Technical Specifications 
+
+General 
+Features 
+
+Sl. 
+No. 
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Features 
+
+Specification 
+
+Targets 
+
+Divers, Diver Delivery Vehicles, Midgets 
+
+Target strength 
+
+> -20 dB 
+
+Detection range 
+
+Up to 300m 
+
+Coverage sector 
+
+360° Azimuth, 16° Elevation 
+
+Deployment Scheme  Out-board ship /pier / harbour / seabed 
+
+Dimensions 
+
+Diameter: ~500 mm, Height: ~700 mm 
+
+7  Weight in air 
+
+8  Weight in water 
+
+~50 kg 
+
+~5 kg 
+
+9 
+
+Operating depth 
+
+Up to 50 m 
+
+Operation 
+
+10  Operating frequency  75 kHz 
+
+11  Band width 
+
+±5kHz 
+
+12  Tx Beam width 
+
+360° Azimuth 6°,12°,24° Elevation(Selectable) 
+
+13  Rx Beam width 
+
+3° Azimuth, 16° Elevation 
+
+14 
+
+15 
+
+Pulse type 
+
+Pulse width 
+
+CW,FM 
+
+1-40 ms 
+
+16  Range resolution 
+
+17  Bearing resolution 
+
+1m 
+
+1° 
+
+Configuration 
+
+System components 
+
+(a) Wet-end Unit: Sonar Head 
+
+(b) Processor & Display Unit 
+
+(c) Interface Unit 
+
+18 
+
+19 
+
+Sonar head 
+
+20  Transducer arrays 
+
+(d) Deployment structure 
+Projector and hydrophone arrays integrated with 
+power amplifiers and receiver electronics for 
+transmission and reception, respectively. 
+Independent transmitter & receiver arrays 
+
+21  Array geometry 
+
+Cylindrical 
+
+22  Built-in sensors 
+
+Temperature, humidity, heading, tilt & depth  
+
+3.  System Configuration 
+
+As  shown  in  Fig.  2,  the  total  system  consists  of  a  wet-end  unit  (sonar  head)  connected 
+
+through a water-blocked cable to an interface unit, form where further data is transmitted to a 
+
+2 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+processing and display unit. A deployment structure is also provided, depending on the type 
+
+of installation. 
+
+.  
+
+Fig. 2. PDDS - System Configuration 
+
+3.1. Wet-end Unit 
+
+The wet-end unit of PDDS consists of the transducer arrays and the associated electronics for 
+
+transmitter and receiver, all housed inside a watertight enclosure. The transmitter consists of 
+
+a projector array and power amplifiers. The input signal to the power amplifier is generated 
+
+by  the  processor  and  fed  through  a  transmitting  controller.  The  transmitter  is  designed  to 
+
+generate  acoustic  signals  of  specific  strength,  pulse  shape  and  pulse  width  that  can  be 
+
+controlled  according  to  the  water  conditions  prevailing  at  the  location  of  operation.  The 
+
+receiver  consists  of  a  hydrophone  array  and  front-end  electronics.  The  hydrophone  array 
+
+picks  up  the  incoming  acoustic  signals  and  transforms  into  electrical  signals.  The  signal 
+
+strength  is  very  low  of  the  order  of  a  few  microvolts.  Therefore,  the  hydrophone  output  is 
+
+amplified  using  preamplifiers,  and  then  filtered,  digitized  and  passed  on  to  the  signal 
+
+processor.  
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+3.2. Interface Unit 
+
+The data from the wet-end unit is transmitted through a watertight cable to an interface unit, 
+
+which  is  installed  on  shore  or  on-board  ship  close  to  the  point  where  the  watertight  cable 
+
+comes  out  of  the  water.  The  data  is  received  in  the  interface  unit  and  further  transmitted 
+
+across  to  the  processor  and  display  unit.  The  power  supply  of  220V  is  fed  to  the  interface 
+
+unit, from where it is supplied to the wet-end unit. 
+
+3.3. Processor & Display Unit 
+
+The Processor  & Display  Unit is  a high performance  ruggedized  computer  (with  integrated 
+
+WLAN).  It  performs  advanced  acoustic  signal  processing  algorithms,  including,  Beam 
+
+former,  Automatic  Detection,  Automatic  Track  and  Automatic  classification.  The  detector 
+
+and track output are displayed in the display with map overlay. 
+
+4.  System Features 
+
+  High frequency sonar with extended detection range 
+
+  Fully automated solution for underwater security 
+
+  Detects and classifies underwater intruders with very low target strength 
+
+  Automatic  alarm on detection of threat 
+
+  Capable of detecting multiple targets around 360° in the azimuthal plane 
+
+  Useful for protection of waterside assets & installations with 24x7 surveillance 
+
+  Very narrow beams for fine resolution in bearing of small targets 
+
+  High probability of detection  
+
+  Low probability false alarm 
+
+  Very low maintenance requirements 
+
+  Enables rapid deployment and movement between sites 
+
+  Portable system with compact packaging 
+
+  Flexible deployment schemes for fixed-site applications / on board vessels 
+
+  Ruggedized system for operation in all-weather and water conditions 
+
+  Modular design enables customization for site-specific geography 
+
+  User friendly GUI scheme for quick and efficient operation 
+
+  Provides sonar picture in desired formats 
+
+  Provides tactical GUI with map overlay 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

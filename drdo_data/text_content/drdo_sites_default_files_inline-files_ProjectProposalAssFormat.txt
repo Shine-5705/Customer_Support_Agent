@@ -1,0 +1,231 @@
+Project Proposal Assessment by DRDO Domain Lab/Technical Expert/RB Panel 
+DRDO Grant-in-Aid Projects 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+6. 
+
+8. 
+
+Project Title 
+
+Principal Investigator  
+
+Grantee Institute 
+
+Proposal Cost 
+
+DRDO Domain Lab 
+
+: 
+
+: 
+
+: 
+
+: 
+
+: 
+
+Proposal Assessment:- 
+
+To be filled by Dte/RB 
+
+5. 
+
+7. 
+
+PDC (Months) 
+
+: 
+
+Funded through: 
+
+S/No  Description 
+a) 
+
+Objectives & Scopes 
+
+Select all options that apply 
+      Quantified               Qualitative           Ambiguous  
+
+      Relevant                   Futuristic             Dated 
+
+      Not in my area                    
+
+b) 
+
+Proposed  Deliverables 
+by P.I. 
+
+      Technical Report                         Recommendations by P.I                
+
+      Designs/Formulae/                     Data (Collected or Generated) 
+      Process Definition 
+
+      Source Code and                         Application/Test Suite 
+      Build/Install 
+
+      Prototypes                                    Test & Measurement Rig. or other                                            
+
+infrastructure  
+
+c) 
+
+Recommended 
+Deliverables 
+Reviewer 
+project 
+
+for 
+
+by 
+this 
+
+      Technical Report                         Recommendations by P.I                
+
+      Designs/Formulae/                     Data (Collected or Generated) 
+      Process Definition 
+
+      Source Code and                         Application/Test Suite 
+      Build/Install 
+
+      Prototypes                                    Test & Measurement Rig. or other                                            
+
+infrastructure  
+
+d) 
+
+Technical Approach 
+
+      Constructive & Convincing                 Based on Original Idea        
+
+      Based on exploiting recent breakthrough           Feasible 
+
+      Based on Prior Work of PI                   Not Feasible 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e) 
+
+Relevance  and  utility  to 
+DRDO/Defence 
+
+      Essential for futuristic systems in DRDO Roadmap                   
+
+      Essential for ongoing system development by DRDO         
+
+      Relevant for Eco-system gap filling 
+
+      Relevant for Eco-system capacity enhancement 
+
+      Relevant for Indigenization of in-service equipment  
+
+f) 
+
+Reviewer’s Confidence 
+
+      High                          Medium               Low 
+
+      Not in my area at all 
+
+g) 
+
+Capacity to Engage 
+
+      Initial reviews for sanction only                   
+
+      Reviews during execution         
+
+      Mentoring of PI/DA at design 
+
+      Mentoring of PI/DA for development 
+
+      Accepting of output and ToT on successful closure.  
+
+h) 
+
+Recommendation 
+
+      Accept             Accept with changes                
+
+      Change & Resubmit                    Reject      
+
+Note :  (i) 
+(ii) 
+
+Additional comments may be annexed as desired. 
+Assessment form to be understood in context of Project Feedback and Project Closure norms 
+issued separately. 
+
+Feedback : 
+
+a) 
+
+b) 
+
+Time taken to read proposal _____________ 
+
+Time taken to fill Assessment _______________ 
+
+Date : 
+
+(Name & Signature of Domain Expert/Reviewer) 
+
+COUNTERSIGNED 
+
+(Project Director/Group Head/Lab Director) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

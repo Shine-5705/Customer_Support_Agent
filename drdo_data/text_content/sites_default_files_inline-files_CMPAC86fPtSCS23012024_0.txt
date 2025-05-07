@@ -1,0 +1,54 @@
+CHEMICAL MECHANICAL POLISHING AGENT CEPSEL-86 FOR PLANARIZING 
+THE SILICON CARBIDE SURFACE 
+
+Silicon  carbide  possesses  unique  electrical  and  physical  properties  that 
+
+make  it  suitable  for  high  power,  high  frequency  and  high  temperature  electronic 
+
+devices including ICs. Such properties have fueled an intense research effort in the 
+
+recent decades that has prompted the need to develop larger area defect/damage-
+
+free  silicon  carbide  wafers.  The  preparation  of  silicon  carbide  wafers  is  require 
+
+multiple  polishing  steps  including  a  mechanical  polishing  step  in  which  particles 
+
+which  are  typically  harder  than  silicon  carbide  are  used  to  achieve  reasonable 
+
+silicon  carbide  polishing  rates.  The  very  hard  particles  used  for    the  mechanical 
+
+polishing  usually    results    high  degree  of  damage  by  generating  scratches  and 
+
+dislocations on  surface and sub-surface of the silicon carbide wafer.  
+
+Typically 
+
+the abrasives that are harder than silicon carbide provide reasonably high polishing 
+
+rates,  but  cause  significant  Surface  and  Sub-Surface  damage.  However,  the 
+
+abrasive  particles  which  are  softer  than  silicon  carbide  typically  provide  low 
+
+polishing  rates,  and  significantly  less  damage.  Since  the  CMP  particles  used  are 
+
+still  significantly  abrasive,  new  damage  is  generated  during  the  CMP  process. 
+
+Therefore,  there  is  a  need  to  develop  new  CMP  slurries  and/or  methods  for 
+
+polishing  silicon  carbide  comprising  materials  which  minimize  the  degree  of 
+
+damage and increase the polishing rate. 
+
+DMSRDE,  Kanpur  has  developed  a  chemical  mechanical  polishing  agent 
+
+CEPSEL-86  for  planerizing  Silicon  Carbide  wafer  usinga  non-hazardous  and  non-
+
+corrosive slurry for removal of SiC layer from silicon carbide substrates to planerize 
+
+surface in large area for electronic applications.  
+
+Page 1 of 1 
+
+ 
+ 
+

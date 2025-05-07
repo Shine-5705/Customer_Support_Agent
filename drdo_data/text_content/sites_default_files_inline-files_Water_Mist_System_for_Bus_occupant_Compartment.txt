@@ -1,0 +1,32 @@
+Water Mist System for Bus occupant Compartment 
+Fire Protection System
+
+A Fire Protection and Alarm System (FP&AS) for standard bus passenger (or,
+occupant) compartment has been designed and developed by Centre for Fire
+Explosive and Environment Safety (CFEES), as a spin-off technology. 
+
+Based on fire risk assessment of the standard bus the heat and smoke in the
+passenger   compartment   is   controlled,   thus   providing   additional   evacuation
+time through effective thermal management during fire incidents, by providing
+FP&AS.  
+
+A water-mist based fire protection and fire alarm system for buses has been
+designed   to   manage   the   temperature   in   the   passenger   compartment   upto
+50oC.  The   developed   system   in   the   passenger   (occupant)   compartment
+includes   a   network   of   tubing   with   suitable   number   of   atomizers   linked   to   a
+water tank of appropriate capacity, along with a pressurized nitrogen cylinder.
+The fire alarm system comprises of smoke detectors wired to a control panel
+which is to be installed near the  driver seat with the  provision of an audio-
+visual alarm in case of fire.
+
+The system developed by CFEES for occupant compartment reduces the risk to
+life and property and give active protection measure on its implementation and
+complies   with   AIS-135   for   occupant   compartment.   The   same   is   being
+implemented   in   the   Occupant   Compartment   in   ‘Type   III’   Vehicles   (those   are
+designed   and   constructed   for   long   distance   passenger   transport,   for   seated
+passengers) and School Buses.
+
+This   technology   is   available   for   transfer   to   the   interested   industry   for
+commercialization. 
+
+

@@ -1,0 +1,73 @@
+TOT of “Microwave absorbing Spinel Ferrite powder (MWA-NSF)”
+
+Ferrites constitute an important group of magnetic materials with a wide
+
+range of applications due to their tuneable magnetic and dielectric properties
+
+based on their composition and structures. The different classes of ferrites show
+
+different   types   of   magnetic   properties   and   as   a   consequence   they   interact
+
+differently with different frequencies of EM spectrum. The properties of ferrites
+
+can   be   tailored   to   show   very   low   to   very   high   absorption   of   high   frequency
+
+electromagnetic   radiations.   The   ferrites   which   absorb   energy   from
+
+electromagnetic waves are widely used in reduction of Radar Cross Section of
+
+any target.  
+
+In   general,   ferrites   show   resonance   over   a   very   narrow   band   of
+
+frequencies. Thus in order to achieve high values of MW absorption over broad
+
+frequency range, there is a need to develop a range of ferrites covering broad
+
+range   of   MW   frequencies.   Spinel   ferrite   shows   high   magnetic   losses   at   low
+
+microwave   frequencies.   The   resonance   absorption   frequencies   of   the   ferrites
+
+can be tailored by variation of composition of ferrites as well as by varying the
+
+size and shape of particles.
+
+Defence Laboratory, Jodhpur has developed microwave absorbing spinel
+
+ferrite powder for the development of various stealth products in the form of
+
+elastomeric   sheets,   structures   and   coatings   for   low   frequency   absorption   1-
+
+8GHz. Technology for bulk production of the ferrite powder established through
+
+wet chemical process in 10kg batch scale.  The ferrite powder is currently being
+
+used   for   the   fabrication   of   Microwave   Absorbing   rubber   gasket   (MWAR)   of
+
+special shape and size for airborne application.   The developed MWAR gasket
+
+has been qualified for its production for land and air version of military target.
+
+The requirement projected for 500 missiles in next three years. 
+
+Keeping   in   view   of   above   requirements,   it   is   proposed   to   explore   the
+
+possibilities   of   transfer   of   ferrite   powder   technology   to   Indian   industries   for
+
+bulk production.
+
+Preparation:
+
+DLJ developed spinel ferrite can be prepared by following process: 
+
+1. Chemical reaction for gel to carbonate precipitation in water medium
+
+2. Separation of precipitate & washing of chloride ions
+
+3. Drying and crushing of powder
+
+4. Crushing and sieving of powder
+
+5. Three stage heat treatment processes at high temperature in furnace
+
+

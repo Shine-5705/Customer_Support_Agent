@@ -1,0 +1,460 @@
+Expression of Interest 
+Transfer of Technology (ToT) of  
+MAAREECH - ADVANCED TORPEDO DEFENCE SYSTEM  
+(Maareech-ATDS) 
+
+1.  Introduction 
+
+NPOL,  Kochi,  a  premier  laboratory  under  Defence  R&D  Organisation  invites  Expression  of 
+Interest  (EOI)  from  Indian  manufacturers  having  sufficient  experience,  expertise  and 
+willingness  to  undertake  the  role  of  Lead  System  Integrator  (LSI)  of  Maareech  Advanced 
+Torpedo  Defence  System  (Maareech-ATDS)  for  Naval  Platforms.  The  MAAREECH  system  is 
+used to detect, classify and offer countermeasures against an impending torpedo attack on 
+the ship equipped with Maareech.  Maareech system consists of mainly four subsystems i.e. 
+Wet end system, Winch System, On-board Electronics and System Software.  
+
+Winch System 
+
+On-board Electronics 
+
+Tow Cable 
+
+Towed Array with 
+integrated Towed Decoy 
+
+Fig.1. Scheme of MAAREECH Advanced Torpedo Defence System 
+
+The Wet End System consists of different modules of sonar arrays such as the main array for 
+detection,  L/R  ambiguity  resolution  array,  Towed  decoy  module,  fiber  optic  conversion 
+module, tow cable and tail rope for inducing drag. The tow cable gets attached to the Winch 
+system which is used for Deployment, Retrieval and Stowage of the wet end. It has multiple 
+modes  of  operation,  various  safety  interlocks  and  remote  operation  capability.  Data  is 
+received  at  Onboard  electronics  by  fibre  optic  telemetry  from  Array  to  winch,  and  by 
+electrical  telemetry  from  winch  onwards.  The  on-board  electronics  comprise  of  specific 
+hardware  modules  for  signal  processing  and  display,  data  recording  and  data  sharing  with 
+
+ 
+ 
+ 
+ 
+fire  control  system.  The  system  uses  Hull  Mounted  Sonar  sensor  data  also  for  torpedo 
+detection.  The  system  software  which  resides  on  the  on-board  hardware  modules 
+implements advanced signal processing algorithms for torpedo detection, classification and 
+decoying of torpedoes.  Technical Specifications are enclosed at Annexure ‘A’ 
+
+2. Responsibilities of System Integrator 
+
+MAAREECH  ATDS  is  a  multidisciplinary  sonar  system  which  demands  implementation  of 
+technologies  in  various  domains  such  as  transducers,  mechanical  engineering,  ocean 
+engineering,  electrical  and  electronics  engineering,  power  electronics  and  software.  The 
+purpose  of  this  EOI  is  to  identify  potential  Lead  System  Integrators  (LSI)  for  MAAREECH 
+ATDS. The scope of TOT, after completing all official formalities, will be restricted to system 
+level configuration, integration and specifications, interface controls, supply chain and Bill of 
+Materials,  Acceptance  Test  procedure  for  subsystems  and  components,  software  and 
+hardware  integration  procedures,  binding  data  for  installation,  performance  validation 
+criteria and system maintenance tips.  Responsibilities of Lead System Integrator are further 
+elaborated in the succeeding sections. 
+
+2.1  Act as a single point contact between the Indian Navy/NPOL 
+
+a.  The  sub-systems  of  MAAREECH  ATDS  has  been  developed  through  specialised 
+Industries through a consortium mode of development approach. The selected LSI 
+should maintain the existing supply chain for all major subsystems as per NPOL’s 
+recommendations. 
+
+b.  Detailed  Specifications,  Quality  policy  /  program  for  component  level  to  system 
+level, ATP, FAT’s, HAT’s and SAT’s documents and BOM will be provided in the TOT 
+documents. 
+
+c.  The LSI will field MAAREECH ATDS against RFP from Indian Navy/other sources by 
+
+submitting Technical, commercial and price bids appropriately. 
+
+d.  Once  a  Supply  order  is  placed  on  the  Lead  System  Integrator  (LSI),  the  LSI  will 
+execute the order within the stipulated time frame and budget by liaising with the 
+sub-system  manufacturers  for  realising  the  hardware,  strictly  adhering  to  the 
+supply  chain  given  in  the  TOT  documents,  and  by  integrating  software  as  per 
+procedure. 
+
+2.2  Organising QT/ET/ATP at the premises of sub-system manufacturer 
+
+a.  System  Integrator  has  to  organise  QT/ET  at  the  manufacturers  end  as  per  sub-
+
+system acceptance document provided in the TOT document.  
+
+ 
+ 
+b.  System  Integrator  has  to  conduct  FAT’s  at  the  manufacturers  end  as  per  sub-
+system  Factory  acceptance  document  provided  in  the  TOT  document  before 
+despatch of sub-system for system Integration 
+
+c.  System integrator will ensure the presence of competent authority responsible for 
+
+Quality assurance during all inspection stages. 
+
+2.3  System Integration at own factory before despatch to the destination 
+
+a.  Before  despatch  to  destination  Onboard  electronics  and  wet  end  subsystems  of 
+MAAREECH  ATDS  have  to  be  Integrated  and  evaluated  as  per  FAT’s  document 
+issued  along  with  TOT  Document  at  the  own  factory  premises  of  System 
+Integrator.  
+
+b.  All  facilities  essential  for  conduct  of  System  Integration  will  be  organised  by  the 
+
+system Integrator.  
+
+c.  System integrator will ensure the presence of competent authority responsible for 
+
+Quality assurance and inspection. 
+
+2.4 
+
+Installation On-board designated Platforms 
+
+a.  System  integrator  will  carry  out  the  installation  of  MAAREECH  ATDS  on-board 
+Naval  Ship  identified  by  Navy/NPOL.  System  integrator  will  be  responsible  for 
+survey of the Ship and association with board of officers nominated for the Siting 
+board for installation of MAAREECH ATDS 
+
+b.  System  integrator  will  prepare  all  necessary  installation  drawing  specific  to  the 
+
+designated Naval Ship.  
+
+c.  System  integrator  will  transport  all  the  sub-system  to  the  harbour  identified  for 
+
+the installation of MAAREECH ATDS. 
+
+d.  System  integrator  will  ship-in  all  the  necessary  sub-systems  and  carry  out  the 
+
+installation and Integration on-board the designated Naval Ship.  
+
+e.  System  integrator  is  responsible  for  Laying  of  power  cables,  junction  boxes  and 
+control panels  required  for  system  integration.  System  integrator  has  to  procure 
+all the necessary accessories for the same. 
+
+f.  System integrator is responsible for Air-conditioning, lighting and ventilation at the 
+area  where  subsystems  of  MAAREECH  ATDS  are  installed.    Air  conditioning 
+includes cooling of cabinets for On-board electronics.  
+
+g.  System  integrator  is  responsible  for  Providing  False  roof,  Wall  panelling  and 
+
+flooring at the area of installation as per Ship standard. 
+
+h.  System integrator is responsible for Plumbing works to make available fresh water 
+
+and sea water necessary for system operation 
+
+ 
+ 
+i.  System  integrator  will  carry  out  the  installation  as  per  procedure,  safety  norms 
+
+and security norms of ship. 
+
+j.  System integrator will ensure the presence of competent authority responsible for 
+Quality  assurance  throughout  the  installation  procedure  and  will  be  responsible 
+for completing installation inspection by the competent authority. 
+
+2.5  Conduct HATs and SATs 
+
+a.  System integrator will organise the conduct of HATs and SATs post-installation as 
+
+per Documents provided during TOT.  
+
+b.  System integrator will ensure the presence of competent authority responsible for 
+
+HATs and SATs. 
+
+2.6  Post Installation support like routine and preventive maintenance, AMC etc. 
+
+a.  System  integrator  will  carry  out  Post  Installation  support  like  routine  and 
+preventive  maintenance,  AMC  etc.  of  the  MAAREECH  ATDS  on  the  platform  in 
+which the MAAREECH ATDS is installed.  
+
+b.  The  responsibility  of  the  entire  “Product  Life  Cycle  Support”  lies  with  the  Lead 
+
+System Integrator. 
+
+3.  TOT TERMS 
+
+1.  As per DRDO Guidelines for Transfer of Technology (TOT), the first TOT will normally 
+be  given to the  industry  associated during  development  on  priority  so  as  to  ensure 
+high quality of manufacture within the limitations in hand-holding support of DRDO. 
+
+2.  As more than one industry was involved in the realisation of the various sub-systems 
+during the development of MAAREECH ATDS, the supply chain established by NPOL 
+should  not  be  disturbed  by  the  industry  that  is  nominated  as  the  lead  system 
+Integrator.  
+
+3.  TOT will be given on non-exclusive basis only. The number of license on non-exclusive 
+basis will be restricted. However, additional licence if required will be given by DRDO 
+on need basis. The intellectual property rights shall always remain with DRDO.   
+
+4.  The amount and payment stages of TOT fee will be as prescribed by DRDO.  
+
+5.  Royalty fee @ 2% of the annual sales to Indian Govt. Estt, Armed Forces and @ 6% of 
+
+the annual sales to Export Market. 
+
+ 
+ 
+ 
+ 
+ 
+6.  Technical  assessment  of  the  industries  submitting  EOI’s  will  be  carried  out  by  a 
+Technical  assessment  committee  for  verification  of  the  technical  and  financial 
+capability/capacity of the industry. 
+
+7.  Eligible parties will have to sign Confidentiality & Non-Disclosure Agreement (CNDA) 
+with DRDO for technical discussion including specifications, following which they shall 
+be considered for giving Transfer of Technology (TOT) on non-exclusive basis. 
+
+8.  TOT to industry will be given based on their manufacturing capability, assurance on 
+
+quality and capacity of production apart from other terms and conditions.  
+
+9.  The licencing agreement for transfer of technology (LATOT) which is to be signed will 
+be as per the template approved by Department of Legal affairs. Ministry of Law and 
+Justice. 
+
+10. DRDO shall have the march-in rights to use the IP for its own use in the interest of the 
+Govt. of India without any restrictions, irrespective of the nature of licence granted. 
+
+11. The  firm  expressing  interest  should  be  technically  sound  to  Procure/manufacture, 
+supply,  install,  Integrate  and  maintain  the  system  with  requisite  quality  standards. 
+Domain  knowledge  in  installation,  integration  and  maintenance  of  deployable 
+underwater systems onboard naval ships is considered to be essential for satisfactory 
+completion of system commissioning and sea trials.  
+
+4.  EOI TERMS 
+
+Interested  Industries  may    write  along  with  their  company  profile,  financial  &  technical 
+capabilities etc. as per the following format   to Director, NPOL, Kochi and copy to Director 
+DIITM on the following addresses  within 45 days of this advertisement. 
+
+Director, NPOL 
+DRDO, Min. of Defence,  
+Thrikkakara P.O. 
+Kochi-682021 
+Contact No - 0484 2424878 
+FAX : 0484-2424858 
+Email: director@npol.drdo.in 
+
+Director, DIITM  
+Room No 446 DRDO Bhawan 
+DRDO HQrs Ministry of Defence  
+Rajaji Marg New Delhi – 110011  
+Contact No - (011) 23016216 / 23007446 
+
+FAX No. 011-23793008 
+
+a)  Memorandum  and  Articles  of  Association  (Should  be  incorporated  as  per  Indian 
+
+Companies Act, 1956)  
+
+b)  Certificates of registration as a manufacturing unit, if any.  
+
+c)  Balance Sheet for the preceding three years.  
+
+d)  Income Tax returns for the preceding three year period  
+
+ 
+ 
+e)  Details of shareholding/ownership pattern especially foreign partners/ shareholders, 
+foreign employees, directors, etc. The company must adhere to the prevailing Govt. 
+of India policies and regulations on Foreign Direct Investment (FDI).  
+
+f)  Annual budget for R&D during last three years.  
+
+g)  Numbers and details of IPR or patents etc. held by the company.  
+
+h)  Number of technically or professionally qualified personnel.  
+
+i)  Record of past performance (e.g. Supply orders executed against Ministry of Defence 
+
+orders, public sectors and paramilitary forces, if any.  
+
+j)  Availability  of  adequate  infrastructure  (List  of  machines  and  their  production 
+
+capacities) and technical expertise.  
+
+k)  List of Testing and Support equipment. 
+
+l) 
+
+ISO/ ISI certification or any other certification  
+
+m)  Relevant clearances from the authorities/ ministries (if any) 
+
+n)  Capacity  and  capability  to  undertake  developmental  work  and  to  accept  attendant 
+
+financial and commercial risks.  
+
+o)  Capacity/Capability to market the product through the marketing network, sales and 
+
+service network, reliability to maintain confidentiality. 
+
+ 
+ 
+ 
+TECHNICAL SPECIFICATION 
+
+Annexure ‘A’ 
+
+MAAREECH - ADVANCED TORPEDO DEFENSE SYSTEM (Maareech-ATDS) 
+
+1. 
+
+Introduction 
+
+“Maareech” is an Advanced Torpedo Defence System (ATDS) for surface ships. Maareech ATDS is 
+capable of providing reliable defence mechanism against a possible torpedo attack by vintage as well 
+as modern torpedoes. Maareech system has both torpedo detection and countermeasure capability. 
+Core functions include automatic detection, tracking and alert of incoming torpedoes and decoying 
+of acoustic homing torpedoes.  
+
+2.  System Configuration 
+
+The MAAREECH system is used to detect, classify and offer countermeasures against an impending 
+torpedo attack on the ship equipped with Maareech. The system consists of a linear towed receiver 
+array with appropriate length for the detection of torpedo signatures, towed decoy module for 
+decoying of torpedoes, tow cable, a hydraulically operated winch system for handling the array and 
+tow cable, Hull mounted Array sensor data interface and on-board electronics and system Software 
+for signal processing, display & recording of sonar information (Fig. 1). Brief of each of these 
+subsystems is given in the following sections. 
+
+Fig. 1. Schematic  diagram of MAAREECH Advanced Torpedo Defence System 
+
+2.1  Towed Array 
+This is a system which comprise of various modules arranged in a linear manner interconnected by 
+underwater connectors. Each module has components housed inside a polyurethane hose. Typically 
+a module has an array of hydrophones spaced as per frequency range, capable of detection, L/R 
+ambiguity resolution, decoying by Towed Decoy and Fibre Optic conversion module for telemetry.  
+
+2.2 Tow Cable  
+Tow Cables are electro-optic-mechanical cables having electrical lines, Fiber optic lines, strength 
+members and steel armour. Tow Cable is the life line of Towed Array Sonar, which connects the 
+linear array which is towed behind the ship with the onboard electronics, through the winch system 
+interfaces The tow cable execute the roles of transferring the operational tow load (drag force) to 
+the winch, transferring power supply to the arrays and providing a data telemetry link and control 
+the depth of operation of the array. Typical length of tow cable is 500m 
+
+2.3 Winch System 
+The sonar winch is used for winding, unwinding and stowage of the array and cables. The winch is 
+primarily hydraulically operated, and can be operated in electric mode in emergency (Fig. 2). A winch 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+control console located adjacent is used to control and monitor the operations of the winch. The 
+system is embedded with various interlocks and safety features which facilitates even remote 
+operation from sonar room. 
+
+Fig.2. Cable and Array wound on Winch 
+
+Fig. 3. Display Cum Processor Cabinet 
+
+2.4  Onboard Electronics (OBE) 
+This subsystem receives the data through a fibre optic data link from the array. The OBE executes all 
+the processing on the data received and presents the sonar information in twin displays using state 
+of art HMI schemes. Display cum processor cabinet houses processing electronics and displays. (Fig. 
+3). The displays have multiple pages that can be changed by the operator as required. The OBE also 
+provides interfaces with existing Hull Mounted Array. The Digital Data Recorders (DDR) can be used 
+to record sonar data, replay pre-recorded data and even plug in test data to the OBE for evaluation 
+and training. 
+The data from the OBE is interfaced with Fire Control System to facilitate seamless triggering of 
+expendable Counter measures. The Contact Motion Algorithm is used to predict the motion of 
+incoming Torpedo.    
+
+3. MAAREECH ATDS Subsystem Parameters 
+Details of major subsystems of Maareech are given below 
+
+3.1   Wet-end subsystem  
+Maareech wet end subsystem comprise of the following  
+
+a)  Towed Receiver Array  
+b)  Towed Left Right Ambiguity Array 
+c)  Towed Decoy Module 
+d)  Fibre Optic (Conversion) Module (FOM) 
+e)  Tail Rope  
+f)  Electro - mechanical Connectors 
+g)  Tow Cable integrated with FOM. 
+
+The Towed Array modules have typical diameter of 78mm and cumulative length of approximately 
+40m. The various elements are housed inside a flexible PU hose and is filled with a fluid. The modules 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+are interconnected using electro mechanical connectors. The Tow cable is terminated to FOM at the 
+towed array end and Winch Rotor box at the winch end. 
+
+3.2   Winch subsystem  
+Maareech winch subsystem comprise of the following 
+
+a)  Hydraulic Winch with secondary Electric drive 
+b)  Hydraulic Power Pack 
+c)  Control Valve Desk 
+d)  Winch Master Control 
+e)  Opto-Electrical Conversion Module 
+f)  Electrical Slip ring 
+g)  Load Sensing Unit 
+h)  Fair Lead Assembly 
+i)  Winch Remote Control 
+
+The system is designed for stowage of 500m tow cable and Towed Array. The Winch system can 
+withstand up to 8000 kgf line pull. Maximum speed is 18 rpm. The system has various safety 
+interlocks for preventing unintended operations. The Spooler system has auto and manual modes, 
+has adjustable arrangements for passage of tow cable and towed array, and can be engaged/ 
+disengaged easily. The system supports remote operation from Sonar Room. 
+
+3.3    Onboard Electronics sub system  
+Maareech Onboard electronics subsystem consists of the following 
+a)  Display cum Processor cabinet (DcP) 
+b)  Power Supply Cabinet 
+c)  Hull Mounted Array (HMA) Interface Cabinet 
+d)  Digital Data Recorder (DDR) 
+e) 
+Isolation Transformer (IT) 
+f)  Automatic Change Over Switch (ACOS) 
+g)  Various Junction Boxes 
+
+The Display cum processor cabinet houses complete processing electronics of Maareech. Data is 
+presented onto twin displays. Keyboard and Trackball interfaces are provided. Power supply is 
+adapted for ship supply through Automatic Change over Switch and Isolation Transformer. The 
+power supply and signals are distributed through various junction boxes fitted at different locations 
+of the platform. HMA interface cabinet extracts pre amplified sensor data and converts it into 
+Ethernet format for further processing at DcP. Ethernet links are used for Data and Control 
+telemetry. 
+
+3.4  Software 
+The System software which resides on the on-board hardware modules implements advanced signal 
+processing algorithms for torpedo detection classification and counter measures in active and 
+passive mode.  Exclusive rights for software will remain with NPOL. 
+
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,153 @@
+Compact Transhorizon Communication System (CTCS)
+
+The   Compact   Transhorizon   Communication   System
+
+(CTCS)  
+
+is   a   large   hop   terrestrial   backhaul
+
+communication   system   developed   by
+
+ Defence
+
+Electronics   Applications  Laboratory   (DEAL),   Dehradun
+
+for ensuring high data rate connectivity to user station
+
+and remote locations. This system can be used in the
+
+remote locations where civil communication grid is not
+
+present. It is very useful for rapid establishment of low
+
+latency   high   data   rate   wireless   communication
+
+backbone in beyond line of control. CTCS is useful for
+
+establishing   transhorizon   connectivity   between   tactical
+
+locations.   CTCS   system   consists   of   3   major
+
+subsystems,   i.e.     CTCS   Radio   Unit,   CTCS   Antenna
+
+assembly and alignment & pointing mechanism with light weight tripod. It can support
+
+ranges up to 60 kms path lengths in Troposcatter mode and 100 km path length in Line
+
+of sight (LoS) mode. CTCS link prediction software with integrated GIS data is included
+
+in the system for link planning and link feasibility in offline mode.
+
+1. 
+
+Interested   companies/industries   are   requested   to   apply   against   this   EoI   to
+
+following address:-
+
+To,
+The Director
+Defence Electronics Applications Laboratory (DEAL)
+Raipur Road, Dehradun – 248001
+Phone No: 01352787224
+Fax: 01352787265
+Email ID: director.deal@gov.in
+
+2.
+
+ A copy of interest may be sent to the following address without any attachment:-
+
+Copy to:- 
+
+The Director 
+Directorate Industry Interface and Technology Management (DIITM) 
+Room No 447, DRDO Bhawan, DRDO HQrs, Rajaji Marg, New Delhi – 110011
+Phone No: 01123013209/23015291
+Fax No: 011-23793008
+Email ID: diitm.hqr@gov.in
+
+List of Support documents to be attached with EoI
+
+(a)  Memorandum and Articles of Association (Should be incorporated as per Indian
+
+Companies Act, as amended time to time)
+
+ (b)  Certificates of registration as a manufacturing unit, if any.
+
+ (c)  Audited Balance Sheet for the preceding three years. 
+
+(d) 
+
+(e) 
+
+(f) 
+
+(g) 
+
+Income Tax returns for the preceding three year period 
+
+Details   of   shareholding/ownership   pattern   especially   foreign   partners/
+
+shareholders,  foreign employees,  directors,  etc.  The  company  must  adhere to
+
+the prevailing Govt of India policies and regulations on Foreign Direct Investment
+
+(FDI)/DIPP norms as applicable. 
+
+Annual budget for R&D during last three years. 
+
+Numbers and details of IPR or patents, etc., held by the company.
+
+ (h)  Number of technically or professionally qualified personnel.
+
+ (i) 
+
+Record of past performance (e.g., Supply orders executed against of Ministry of
+
+Defence orders, Public Sectors and Paramilitary Forces, if any). 
+
+(j) 
+
+Availability   of   adequate   infrastructure   (List   of   machines   and   their   production
+
+capacities) and technical expertise. 
+
+List of Testing and Support equipment’s
+
+ISO/ ISI certification or any other certification 
+
+(k) 
+
+ (l) 
+
+(m)  Relevant clearances form the authorities/ ministries (if any)
+
+(n)  Capacity   and   capability   to   undertake   developmental   work   and   to   accept
+
+attendant financial and commercial risks. 
+
+(o) 
+
+Capacity/capability to market the product through the marketing network, sales
+
+and service network, reliability to maintain confidentiality.
+
+(p) 
+
+PESO and DPIIT license for explosive handling if ToT is for high energy Material,
+
+explosives, propellants, and component/ system dealing with it etc. 
+
+(q) 
+
+Under taking form company seeking ToT that none of its Directors, Independent
+
+Directors, non-executive Directors, Key management personnel are involved in
+
+any corrupt practices, unfair means and illegal activities.
+
+(r) 
+
+Details of the industrials license for defence manufacturing be provided by the industry
+seeking ToTs.
+
+

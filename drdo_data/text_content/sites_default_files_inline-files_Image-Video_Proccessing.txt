@@ -1,0 +1,45 @@
+Image & Video Processing for Net Centric Operations (IVP_NCO) 
+
+CAIR  has  developed  an  application  framework  for  the  Net  Centric  Operations  (NCO).  In  the 
+NCO scenario, the sensors, shooters and commanders are  spatially separated, requiring sharing 
+of  imagery  across  tactical  networks  for  their  processing,  archival,  retrieval  and  exploitation. 
+Various technologies are integrated in the developed application, Image & Video Processing for 
+Net Centric Operations (IVP_NCO), and these are being offered as a “capital good” to be used 
+by  a  production  agency  in  designing  adaptations  or  new  products.  The  integrated  technologies 
+consist of efficient and robust implementation of a wide variety of image and video processing 
+algorithms. The key features of the offering are listed as follows: 
+
+1.  Implementations  of  algorithms  in  C/C++,  compatible  with  JAVA  through  stable  JNI 
+wrappers.  The  implementations  are  efficient  in  terms  of  memory  and  computations, 
+modular for easy portability and adaptability, and have a uniform interface design. 
+
+2.  Comprehensive  set  of  algorithms,  including  geo-registration,  segmentation,  codecs  for 
+progressive  image/video  transmission,  tracking,  fusion,  mosaicking,  super-resolution, 
+video  stabilization  and  content  based  image  and  video  retrieval  etc.  These  also 
+incorporate Machine Learning methods applicable to image and video processing. Some 
+of the key features also include: 
+
+a.  Meta-data binding and metadata based annotation and search 
+b.  Example based query-retrieval for images and videos 
+c.  Selective remote archiving as well as selective remote access of the imagery 
+d.  Optimized for bandwidth challenged and fault-prone networks. 
+e.  Support for range of standard image and video digital formats. 
+
+3.  Optimizations aware of the NCO context, namely bandwidth, connectivity,  and storage, 
+
+through schemes other than data compression. 
+
+4.  Incorporation  in  a  JAVA  based  enterprise  class  application  framework  with  3-Tier 
+architecture,  supporting  login  based  user  management,  remote  retrieval  from  database, 
+backend data processing, high availability and easy maintenance. 
+
+IVP_NCO is in a fully implemented state. The software has undergone Independent Verification 
+and Validation (IV&V) by a CMMi5 qualified external agency. It can potentially be deployed for 
+military use or can be adapted to a large scale image and video data management system. Many 
+of  the  technologies  developed  therein  have  also  been  exploited  in  surveillance  and  robotics 
+applications under development at CAIR. 
+
+  
+ 
+ 
+

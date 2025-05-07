@@ -1,0 +1,86 @@
+Water Radioactivity Contamination Monitoring System (Beta, Gamma) 
+
+Water  Radioactivity  Contamination  Monitoring  System  (Beta,  Gamma)  [WRCMS  (β,  γ)] 
+technology  has  been  developed  by  Defence  Laboratory,  Jodhpur  for  measurements  of 
+radioactivity (due to beta & gamma radioisotopes) present in water and to be used with  CBRN 
+Water  Purifications  System  Mk-II.  The  system  has  been  designed  &  developed  to  measure 
+contamination levels in feed & purified water during Nuclear & Radiological Emergency scenerio. 
+It  is  a  rugged  portable  system  developed  through  rigorous  design,  fabrication  &  validation 
+process.  It  is  operable  in  Desert,  Plains  and  High  Altitude  area  with  sub-zero  temperature 
+storage capability. 
+
+Salient Features are as follows: 
+
+  Portable & Dismountable, User Friendly, Suitable for vehicle also. 
+
+  Weight:65 kg (with packaging), 35 kg (without packaging) 
+
+  Detector: β- Plastic Scintillator, γ- Nal(TI) Scintillator 
+
+ 
+
+Identification of Gamma Radiosotopes  
+
+  Minimum Detectable Activity: Less than 100 Bq/L 
+
+  Audio & Video warning adjustment alarms 
+
+  Gross Activity Computation &  Contamination Report Generation 
+
+  Ruggedized Control & Display Unit 
+  Operatiing Temperature:50C to 550C ± 30C 
+  EMI/EMC compatible as per MIL STD 461 E  
+
+  Environmentally rugged as per JSS 55555 
+
+Application: 
+
+  Nuclear Disaster Management  
+
+  Radiological Emergency Management 
+
+  Nuclear Reactor Off-site Management 
+
+  Peace time baseline radioactivity measurement 
+
+                                                 [WRCMS (β,γ)]  
+
+Interested Industries are requested to forward their Expression of Interest (EoI) to Director DL, 
+Jodhpur with a copy of Director DIITM, DRDO HQ on following address:- 
+
+ 
+To, 
+Director 
+Defence Laboratory  
+Ratanada Palace 
+Jodhpur 
+Rajasthan-342011 
+Phone : 0291-2510275 
+Fax : 0291-2511191, 0291-2510260 
+
+Email : director[dot]dl[at]gov[dot]in 
+
+Copy to 
+
+Director 
+Directorate of Industry Interface & technology Management (DIITM) 
+Room No. 447, DRDO Bhawan, DRDO HQrs, Rajaji Marg, New Delhi-110011 
+Phone: 011-23013209/23015291 
+Fax: 011-23793008 
+
+Email: diitm[dot]hqr[at]gov]dot]in 
+
+Industries are requested to enclose supporting document in EoI as per Appendix ‘D’ of DRDO 
+Policy  and  Procedure  for  ToT  available  at  https://www.drdo.gov.in/sites/default/files/inline-
+files/drdo%20Policy%20%26%20Procedure%20%20for%20ToT.pdf    to Defence Laboratory, 
+Jodhpur. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

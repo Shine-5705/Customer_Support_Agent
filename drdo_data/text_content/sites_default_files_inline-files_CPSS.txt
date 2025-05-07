@@ -1,0 +1,77 @@
+BRIEF DETAILS OF COMPUTERISED PILOT SELECTION SYSTEM
+
+  A   new   Computerised   Pilot   Selection   System   (CPSS)   was   been   developed   by
+Aeronautical   Development   Establishment   (ADE),   Bangalore   and   Defence   Institute   of
+Psychological   Research   (DIPR),   Delhi   with   a   definite   work   share   of   development   of   entire
+hardware development and implementation for Psychomotor and Cognitive Systems by ADE
+and development  of Psychomotor  and Cognitive tests  software by  DIPR.  CPSS  access  the
+flying aptitude in terms of cognitive and psychomotor skills of the candidates appearing for Pilot
+Selection in Indian Armed Forces by subjecting the candidates to perform concurrent multiple
+tasks.   CPSS has  replaced the earlier existing selection Pilot  Aptitude Battery  Test (PABT)
+which consists of Instrument Comprehension tests (INSB) in the form of manual objective type
+exams and an elementary PC based Machine Tests. The limited series production developed
+was evaluated by IAF and agreement was signed between IAF and DRDO (DIPR) in Aug 2010
+to undertake commissioning of 20 psychomotor cockpit systems and 100 cognitive systems
+each along with complete associated infrastructure at Mysore, Dehradun and Varanasi. 
+
+SALIENT FEATURES:
+
+I.
+
+II.
+
+III.
+
+IV.
+
+V.
+
+VI.
+
+The complete hardware comprising of state of art embedded systems, fibre glass based
+cockpit,   sensors,   controls   were   developed   indigenously   using   Commercially   Off   the
+Shelf   components,   which   makes   the   entire   system   completely   self-reliant   for   longer
+product support.
+ADE has developed state of art USB based membrane keyboard, microcontroller based
+main controller unit with dedicated device driver software. The security features have
+been built to prohibit unauthorized access of the system.
+Comprehensive   diagnostic   software   for   easy   fault   finding   and   calibration   has   been
+provided.
+Designed   modular   system   with   plug   in   units   at   sub-assembly   level   for   easy
+maintenance.
+High reliability redundancies have been provided in servers, networking infrastructure,
+power supply.
+The systems have been developed with long term operational support required so that
+technology obsolescence is avoided.
+
+SYSTEM DETAILS: 
+
+The system has been divided into two major sub-systems-
+
+(a) Cognitive Testing sub-system - consists of 100 Nos of PC based cognitive terminals are
+arranged in a hall with full networking connected to the server. Each cognitive terminal
+has been provided with a customized membrane keyboard with OLED display.
+
+(b) Psychomotor testing sub-system - The candidates are subjected to various tests in an
+aircraft simulator cockpit. In this candidates are required to operate the aircraft controls
+like control stick, rudder, throttle and various aural and visual warning systems. 
+
+(c) Instructor   Station   with   projection   system   controls   the   entire   operation   of   the   tests,
+monitor the status of all the cognitive terminals and display the instructional videos. The
+projection system projects the instructions to the candidates. 
+
+(d)   Cognitive   and   Psychomotor   systems   are   connected   to   Database   servers   and
+
+networking infrastructure. 
+
+(e) Multimedia projection systems and DSP based audio solutions are provided for carrying
+
+out the briefing for the candidates appearing for the tests.    
+
+The system was successfully installed and commissioned which was inaugurated by the
+Chief   of   Air   Staff   on   28   Nov   2014   at   2AFSB   Mysore.   CPSS   was   under   warranty
+maintenance support by ADE for 2 years till 04 Feb 2017.
+
+CPSS PHOTOGRAPHS:
+
+

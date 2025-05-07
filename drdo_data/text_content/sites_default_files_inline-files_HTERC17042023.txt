@@ -1,0 +1,80 @@
+High Temperature Erosion Resistant Composites 
+
+Powder  Metallurgy  Group  of  DMRL  is  working  on  copper  infiltrated  tungsten 
+
+composites  for  different  missile  components  such  as  jet  vanes,  throat  nozzles  and  throat 
+
+inserts  that  are  used  as  altitude  controls  in  thrusters.  The  composites  are  prepared  by 
+
+sintering  of  pure  tungsten  powders  in  order  to  obtain  a  controlled  level  of  interconnected 
+
+porosity  followed  by  infiltration  of  molten  copper  into  the  porous  mass.  The  above  process 
+
+requires  optimisation  of  numerous  parameters  such  as  initial  tungsten  purity/particle  size, 
+
+green  density  of  tungsten  compact,  sintering  temperature,  sintering  time  and  sintered 
+
+density, purity of copper, infiltration temperature, infiltration time and machining parameters 
+
+etc. So, R&D efforts were directed to arrive at the optimised parameters to get defect free W-
+
+Cu  composite.  The  manufacture  process  involves  using  graphite  dies  for  infiltration  and 
+
+refractory  metal  powder  for  packing.  All  other  parameters  were  standardised.  The  process 
+
+achieved pore free composite with good machinability and significantly improved yield. 
+
+The  W-Cu  composite  has  shown  excellent  erosion  resistance  and  has  helped  in 
+
+achieving  consistent  chamber  pressure  for  50  sec  of  firing  duration.  The  typical  room 
+
+temperature mechanical properties of the W-Cu composite are as follows:- 
+
+S No.   Properties 
+
+1 
+
+2 
+
+3 
+
+4 
+
+Density 
+
+Hardness 
+
+Compressive Strength 
+
+Tensile Strength 
+
+Specification 
+
+16.0 ± 1 g/cc 
+
+170 ± 30 VHN 
+
+1000 ± 200 MPa 
+
+600 ± 100 MPa 
+
+Application areas 
+
+The  new  process  is useful in  defence  applications  such  as  jet  vanes,  throat  nozzles 
+
+and throat inserts, which are used as altitude controls in thrusters of various missiles as well 
+
+as the process could be used for civilian applications such as electrical contacts, resistance 
+
+welding contacts, Electricals discharge machining (EDM) electrodes and porous emitters. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+

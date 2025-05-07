@@ -1,0 +1,115 @@
+Hand Held Ground Penetrating Radar (HH-GPR) 
+
+Electronics and Radar Development Establishment (LRDE), a premier lab under DRDO has 
+
+developed  state-of-art  Radar  systems  and  associated  Technologies.  LRDE  is  seeking 
+
+Expression of Interest (EoI) from prospective bidders/recipient for Transfer of Technology in 
+
+the area of Radars.  
+
+Presently,  LRDE  is  ready  for  ToT  for  the  “Hand  Held  Ground  Penetrating  Radar 
+
+(HH-GPR)”. Prospective bidders for EoI are advised to refer the Transfer of Technology link 
+
+on the DRDO website, www.drdo.gov.in for further details/description of the system. 
+
+The terms and conditions to be complied by the bidders for receipt of technology are 
+
+available in the document, “Guidelines for Transfer of Technology” published in the Transfer 
+
+of Technology link on the website, www.drdo.gov.in.  
+
+1.  Description of Technology: 
+
+Handheld  Ground  Penetrating  Radar  (HH-GPR)  System  is  used  in  detection  of  Anti-Tank 
+
+Mines,  Anti-Personnel  Landmines  (metallic  and  non-metallic)  and  Improvised  Explosive 
+
+Devices  (IED)  in  a  variety  of  Indian  soils  such  as  Sand,  Red,  Laterite,  and  Black  Cotton. 
+
+Ground  Estimation,  Clutter  Suppression,  Detection  of  buried  objects  and  Classification, 
+
+Presentation  by  audio  alarm  and/or  visual  display  are  the  key  features  of  the  system. 
+
+Operational environment of GPR are in in-accessible areas such as, jungles and non-motorable 
+
+paths/roads.  Therefore  low  power  consumption  and  light  weight  are  key  parameters  of  the 
+
+system. Ease of operating the system, interpretation of the results in a manner that assists the 
+
+operator  for  evasive/corrective  action  are  the  important  features  of  the  system.  The  system 
+
+provides indication of target/anomaly below the soil by means of an audio signal presented on 
+
+headphone and/or a visual display in 2D.  
+
+ Hand held GPR is configured on a 1.6 meter collapsible wand. Wand 
+
+is adjustable for easy operation by the operator in kneeling and lying 
+
+on the ground positions. Antenna is at the end of the wand that is in 
+
+proximity  to  the  ground.  Electronics  comprising  of  RF  sub  system, 
+
+Signal  Data  and  Image  processing  card  is  housed  in  an  electronic 
+
+box and is fixed at the other end of wand. Human Machine Interface 
+
+and optional Display are mounted on the handle for 2D presentation 
+
+of the target details. This battery operated system is extremely useful 
+
+for quick detection and demining operation for Army and Para-military 
+
+forces respectively in jungle area where very narrow pathways exists. 
+
+Hand Held GPR 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  Application Areas: 
+
+The  Radar  has  applications  in  the  area  of  detection  of  buried  objects  such  as  mines, 
+
+explosives or concealed objects in the soil. 
+
+Industries  may  submit  their  company  profile,  financial  &technical              
+
+Interested 
+Capabilities  etc.  as  per  the  EOI  terms  (Refer  Appendix-G)  in  ‘Guidelines  for  ToT’ 
+document) to Director, LRDE, Bengaluru and copy to Director DI2TM on the following 
+addresses within 45 days of this advertisement. 
+
+Director, LRDE 
+DRDO, Min. of Defence, 
+C V Raman Nagar 
+Bengaluru-560093 
+Contact No : 080 - 25025415  
+                     080 - 25025518 (ToT cell) 
+Fax : 080 - 25242916 
+
+Director, DIITM 
+Room No 446 DRDO Bhawan 
+DRDO HQrs Ministry of Defence 
+Rajaji Marg New Delhi – 110011 
+Contact No : (011) 23016216 / 23007446 
+Fax : (011) 23793008 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

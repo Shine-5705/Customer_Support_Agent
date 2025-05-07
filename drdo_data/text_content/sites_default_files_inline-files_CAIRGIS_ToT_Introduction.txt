@@ -1,0 +1,25 @@
+CAIR GIS (Geographical Information System) Technology
+
+CAIRGIS is the indigenous GIS technology designed and developed by Centre for
+
+Artificial   Intelligence   and   Robotics   (CAIR)   Bangalore.     The   technology   has   been
+
+developed   with   the   objective   of   having   a   home   grown   GIS   solution   to   meet   the
+
+requirements   of   Indian   defence   forces.   CAIRGIS   technology   is   a   suite   of   GIS
+
+libraries   that   can   be   customised   to   meet   the   specific   GIS   requirements   of   a
+
+collaborative   defence   environment.   It   can   be   used   as   the   base   platform   to   build
+
+military GIS applications to facilitate joint planning, management and monitoring of
+
+military   operations.   It   is   capable   of   visualisation   and   analysis   of   wide   variety   of
+
+spatial data in general and military data in specific. The technology is currently being
+
+used   in   a   number   of   DRDO   projects   including   the   HMI   of   Missiles   and   SONAR
+
+Systems.
+
+

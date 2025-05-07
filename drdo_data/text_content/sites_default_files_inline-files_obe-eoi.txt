@@ -1,0 +1,508 @@
+Expression of Interest 
+
+TOT OF ON-BOARD ELECTRONICS SUB-SYSTEM  
+FOR ADVANCED LIGHT TOWED ARRAY SONAR (ALTAS) 
+
+1.  Introduction 
+
+NPOL,  Kochi,  a  premier  laboratory  under  Defence  R&D  Organisation  invites 
+
+Expression of Interest (EOI) from Indian manufacturer(s) having sufficient experience, 
+
+expertise  and  willingness  to  undertake  Production  of  ON-BOARD  ELECTRONICS 
+
+SUB-SYSTEM for an Advanced Light Towed Array Sonar (ALTAS).  
+
+Block Diagram of On-board Electronics Sub-System 
+
+The on-board electronics Sub-system processes the information received from the 
+
+Wet End Electronics and displays credentials of contact. The on-board electronics 
+
+sub-system is housed in 6 cabinets. There are two numbers of Display cum processor 
+
+cabinets, one power supply cabinet, two power amplifier cabinet and one data 
+
+recorder cabinet 
+
+Technical specifications are enclosed at annexure 1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  RESPONSIBILITIES OF MANUFACTURER OF ONBOARD ELECTRONICS  
+
+SUB-SYSTEM 
+
+ALTAS  is a  multidisciplinary  sonar  system  consisting  of  technologies  of  transducers, 
+
+mechanical  engineering,  ocean  engineering,  electrical  and  electronics  engineering, 
+
+power electronics and software. Realisation of the entire sonar system under one roof 
+
+may not be practical because of the diversity of technologies, know-how and skill set 
+
+required.  And  hence  the  hardware  content  of  the  sonar  has  been  realised  as 
+
+subsystems  through  specialised  Indian  industries  and  integrated  as  ALTAS  sonar 
+
+system by incorporating dedicated software developed by NPOL. The responsibility of 
+
+its  installation  onboard  a  naval  ship  and  the  role  of  lead  system  integrator  was 
+
+undertaken by NPOL. The performance validation of the system was done under the 
+
+leadership  of    NPOL  and  with  the  association  of  Indian  Navy  through  a  series  of 
+
+structured  sea  trials  with  real  targets  deployed  at  strategic  locations.  Performance 
+
+validation has since been completed, the Indian Navy will shortly evaluate the system 
+
+as  per  mutually  agreed  trial  plan  and  procedure.    Indian  Navy  has  plans  to  induct  a 
+
+few ALTAS sonar systems for its front line war ships soon after evaluation trials. The 
+
+purpose of this EOI is to identify one / two potential Manufacturer for ALTAS On-board 
+
+Electronic  System.        Responsibilities  of  Sub-system  manufacturer  of  ‘On-board 
+
+Electronic System’ is further elaborated in the succeeding sections. 
+
+2.1  Supply  of  Sub-system  to  Lead  System  Integrator  (LSI)  nominated  by  Indian 
+
+Navy/NPOL 
+
+a.  Supply  order  will  be  placed  on  the  manufacturer  by  a  LSI  nominated  by  Indian 
+
+Navy/NPOL. 
+
+b.  Manufacturer  will  supply  the  On-board  electronics  system  as  per  TOT  Documents. 
+
+Detailed Specifications, Quality policy / program for component level to  sub-system 
+
+level,  ATP,  FAT’s,  HAT’s  and  SAT’s  documents  and    BOM  will  be  provided  in  the 
+
+TOT documents. 
+
+c.  The  manufacturer  will  field  sub-system  against  RFP  from  LSI  by  submitting 
+
+Technical, commercial and price bids appropriately. 
+
+2.2  Organising QT/ET/ATP at the premises of sub-system manufacturer. 
+
+a.  Manufacturer  has  to  organise  QT/ET  at  the  manufacturers  end  as  per  sub-system 
+
+acceptance document provided in the TOT document.  
+
+ 
+ 
+b.  Manufacturer  has  to  conduct  FAT’s  at  the  manufacturers  end  as  per  sub-system 
+
+Factory  acceptance  document  provided  in  the  TOT  document  before  despatch  of 
+
+sub-system for system Integration. 
+
+2.3  Auditing of Quality Process 
+
+a.  Manufacturer  will  ensure  auditing  of  quality  process  by  competent  authority 
+
+responsible for quality assurance as spelt out by LSI. 
+
+b.  LSI  will  have  the  right  to  nominate  Competent  authority  responsible  for  quality 
+
+assurance and inspection at the manufacturers premises. 
+
+3.  TOT TERMS 
+
+3.1  As per DRDO Guidelines for Transfer of Technology (TOT), the first TOT will normally 
+
+be given to the industry associated during development on priority so as to ensure high 
+
+quality of manufacture within the limitations in hand-holding support of DRDO. 
+
+3.2  TOT will be given on non-exclusive basis only. The number of license on non-exclusive 
+
+basis will be  restricted.  However,  additional licence  if  required  will  be  given  by  DRDO 
+
+on need basis. The intellectual property rights shall always remain with DRDO.  
+
+3.3  The  amount  and  payment  stages  of  TOT  fee  will  be  as  prescribed  by  DRDO.  As  per 
+
+current guidelines it is upto 20% of its developmental cost. 
+
+3.4  Royalty fee @ 2% of the annual sales will be applicable uniformly for all industries. 
+
+3.5   Technical  assessment  of  the  industries  submitting  EOI’s  will  be  carried  out  by  a 
+
+Technical  assessment  committee  for  verification  of  the  technical  and  financial 
+
+capability/capacity of the industry. 
+
+3.6  Eligible  parties  will  have  to  sign  Confidentiality  &  Non-Disclosure  Agreement  (CNDA) 
+
+with DRDO for technical discussion including specifications, following  which they shall 
+
+be considered for giving Transfer of Technology (TOT) on non-exclusive basis. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.7  TOT  to  industry  will  be  given  based  on  their  manufacturing  capability,  assurance  on 
+
+quality and capacity of production apart from other terms and conditions.  
+
+3.8  The licencing agreement for transfer of technology (LATOT) which is to be signed will 
+
+be  as  per  the  template  approved  by  Department  of  Legal  affairs.  Ministry  of  Law  and 
+
+Justice. 
+
+3.9   DRDO shall have the march-in rights to use the IP for its own use in the interest of the 
+
+Govt. of India without any restrictions, irrespective of the nature of licence granted. 
+
+3.10  DRDO shall have the right to Revoke the Licence if the company fails to adhere to the 
+
+terms and conditions especially with respect to adherence of Quality. 
+
+3.11  The  firm  expressing  interest  should  be  technically  sound  to  Procure/manufacture, 
+
+supply and maintain the system with requisite quality standards. 
+
+4.  EOI TERMS 
+
+Interested  Industries  may  write  along  with  their  company  profile,  financial  &  technical 
+
+capabilities etc. as per the following format  to Director, NPOL, Kochi and copy to Director 
+
+DIITM on the following addresses  within 45 days of this advertisement. 
+
+Director, NPOL 
+DRDO, Min. of Defence,  
+Thrikkakara P.O. 
+Kochi-682021 
+Contact No - 0484 2424878 
+FAX : 0484-2424858 
+Email: director@npol.drdo.in 
+
+Director, DIITM  
+Room No 446 DRDO Bhawan 
+DRDO HQrs Ministry of Defence  
+RajajiMarg New Delhi – 110011  
+Contact No - (011) 23016216 / 23007446 
+FAX No. 011-23793008 
+
+a)  Memorandum  and  Articles  of  Association  (Should  be  incorporated  as  per  Indian 
+
+Companies Act, 1956)  
+
+b)  Certificates of registration as a manufacturing unit, if any.  
+
+c)  Balance Sheet for the preceding three years.  
+
+d)  Income Tax returns for the preceding three year period  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e)  Details of shareholding/ownership pattern especially foreign partners/ shareholders, 
+
+foreign employees, directors, etc. The company must adhere to the prevailing Govt. 
+
+of India policies and regulations on Foreign Direct Investment (FDI).  
+
+f)  Annual budget for R&D during last three years.  
+
+g)  Numbers and details of IPR or patents etc. held by the company.  
+
+h)  Number of technically or professionally qualified personnel.  
+
+i)  Record  of  past  performance  (e.g.  Supply  orders  executed  against  Ministry  of 
+
+Defence orders, public sectors and paramilitary forces, if any.  
+
+j)  Availability  of  adequate  infrastructure  (List  of  machines  and  their  production 
+
+capacities) and technical expertise.  
+
+k)  List of Testing and Support equipment. 
+
+l) 
+
+ISO/ ISI certification or any other certification  
+
+m) Relevant clearances from the authorities/ ministries (if any) 
+
+n)  Capacity  and  capability  to  undertake  developmental  work  and  to  accept  attendant 
+
+financial and commercial risks.  
+
+o)  Capacity/Capability to market the product through the marketing network, sales and 
+
+service network, reliability to maintain confidentiality. 
+
+ 
+Technical Specification of Display Cum Processing Cabinet 
+
+Annexure 1 
+
+Overall Dimension 
+Approx. weight (including 
+electronics) 
+Mounting 
+Connectivity 
+Power Input 
+Health monitoring system 
+
+: 
+: 
+
+600 mm(W)×480 mm(D)×1700mm(H) 
+200 Kg 
+
+Floor mounting 
+
+230 V 50Hz AC 
+
+: 
+:  MIL 38999 connectors for Ethernet, USB and Power 
+: 
+:  Health monitoring system to monitor the PS, fan 
+failures and temperature of air at different places 
+inside the rack, shall be available over RS232/422 & 
+Ethernet. 
+
+Off the shelf electronic components which are installed in the console: 
+Display Monitor 
+Touch input device 
+VPX Chassis 
+
+: 
+:  Minimum 10” TID  
+
+20.1 inch LCD Monitor- 2 Nos 
+
+TI DSP Boards 
+Power Pc boards 
+VGA Boards 
+KVM Switch 
+Keyboard, trackball 
+
+VPX chassis- 1 No. The VPX chassis has a custom 
+made VPX mother board, with provision to populate 8 
+TI DSP Boards, 4 Power PC Boards, 2 Gigabit 
+Ethernet boards, the required power supply, and 
+related cooling arrangements. 
+TMS boards-8 Nos. 
+Power PC boards-4 Nos. 
+VGA boards in XMC/PMC-2 Nos. 
+Two port KVM switch- 1 No. 
+101key keyboard, Backlight option and Integrated track 
+ball with three buttons 
+2 Nos. Managed level 3 compact Ethernet switch 
+
+Gigabit Ethernet boards 
+A V Recorder 
+Audio 
+Design of off the shelf electronic components not included in the TOT  
+
+: 
+:  Compact Audio Video Recorder 
+:  Compact dual speakers and head phone, Hooter 
+
+Technical Specification of Server Cabinet  
+
+Overall Dimension 
+Approx. weight (including 
+electronics) 
+Mounting 
+Connectivity 
+Power Input 
+Health monitoring system 
+
+: 
+: 
+
+600 mm(W)×480mm(D)×1700mm(H) 
+250 Kg 
+
+Floor mounting 
+
+230 V 50Hz AC 
+
+: 
+:  MIL 38999 connectors for Ethernet, USB and Power 
+: 
+:  Health monitoring system to monitor the PS, fan 
+failures and temperature of air at different places 
+inside the rack, shall be available over RS232/422 & 
+Ethernet. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Off the shelf electronic components which are installed in the console: 
+Rugged servers 
+
+:  Rugged Server – Type1 – 3 Nos 
+Rugged Server – Type2 – 1 No 
+
+Gigabit Ethernet boards 
+KVM Switch 
+
+Display Monitor 
+
+:  Managed level 3 compact Ethernet switch-1No. 
+Eight port KVM switch to provide support for all the  
+servers -1 No 
+20.1 inch LCD Monitor- 1 No. Monitor, keyboard, trackball 
+shall be mounted on a retractable tray of 1U size. 
+1 No. 
+1 No. 
+
+: 
+
+Keyboard 
+Trackball 
+Design of off the shelf electronic components not included in the TOT  
+
+Technical Specification of Power amplifier cabinet  
+
+Overall Dimension 
+Approx. weight (including 
+electronics) 
+Mounting 
+Connectivity 
+Power Input 
+Health monitoring system 
+
+: 
+: 
+
+500mm (W) X 540mm (D) X 1700 (H) 
+250 Kg 
+
+Floor mounting 
+
+: 
+:  MIL 38999 connectors for Ethernet and Power 
+: 
+380 V, 3, 50 Hz 3 wire and 230 V, 1, 50Hz  
+:  Health monitoring system to monitor the PS, fan 
+failures and temperature of air at different places 
+inside the rack 
+
+Off the shelf electronic components which are installed in the console: 
+Power amplifier 
+HTPSUs 
+LTPSU 
+VME/VPX Hybrid Chassis  
+
+: 
+:  HTPSUs – 2 Nos.  
+LTPSUs – 4 Nos. 
+6U backplane with 2 VME slots & 5 VPX slots with 
+appropriate power supply 
+
+Power Amplifier – 3 Nos 
+
+: 
+
+Single TMS Board 
+
+: 
+
+Single TMS board-1No 
+
+Design of off the shelf electronic components not included in the TOT  
+
+Technical Specification of Power Supply cabinet 
+
+Overall Dimension 
+Approx. weight (including 
+electronics) 
+Mounting 
+Connectivity 
+Power Input 
+Power output 
+
+: 
+: 
+
+500mm (W) X 540mm (D) X 1700 (H) 
+300 Kg 
+
+Floor mounting 
+
+: 
+:  MIL 38999 connectors for Power 
+: 
+
+380 V, 3, 50 Hz 3 wire 
+Output voltage of 3 phase 400V p-p and 230V p-n 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Health monitoring system 
+
+Delta to Star Transformer 
+with 20 KVA rating 
+
+Delta  to  Star  Transformer 
+with 2 KVA rating 
+
+: 
+
+:  Health monitoring system to monitor the PS, fan 
+failures and temperature of air at different places 
+inside the rack 
+
+:  Delta to Star Transformer with 20 KVA ratingwith:-  
+
+Provision for Input supply of 380/400/415/440V 50Hz 
+3 Phase .  Output voltage of 3 phase 400V p-p and 
+230V p-n  
+Provision for Input supply of 380/400/415/440V 50Hz 
+3 Phase. Output voltage of 3 phase 400V p-p and 
+230V p-n. 
+
+Off the shelf electronic components which are installed in the console: 
+DC Linear Power Supply 
+Design of off the shelf electronic components not included in the TOT  
+
+:  DC Linear Power Supply – 1 No. 
+
+ 
+

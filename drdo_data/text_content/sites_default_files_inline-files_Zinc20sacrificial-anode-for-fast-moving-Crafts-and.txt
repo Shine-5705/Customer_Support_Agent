@@ -1,0 +1,38 @@
+NMR - Zinc sacrificial anode for fast moving Crafts and
+Jet propulsion system (NMR - ZSA)
+The present invention relates to the development of zinc alloy based high negative potential
+sacrificial anode for cathodic protection of structural steel(low Alloy) and marine grade Al alloys
+in marine environment. More particularly the present invention relates to the cathodic protection
+of structural steels and marine grade Al alloys with seawater flow rate more than 10 m/s where
+conventional Al alloy based sacrificial anodes cannot be used. This alloy of invention can function as
+sacrificial anode in the temperature range 0-500 C and various seawater and saline water including
+seawater mud.
+
+SALIENT FEATURES
+
+The property of Zinc anode has the following features:
+
+ Open circuit potential : -1000 to -1050 mV vs SCE
+ Closed circuit potential : -950 to -1010 mV vs SCE
+ Current capacity : min 730 Ahr/Kg
+
+The anodes are available in different shape and size, so that anodes 
+can be selected as per requirement of the user. Also the anodes are 
+designed to give maximum current output.
+
+Zinc anode
+
+AREAS OF 
+APPLICATION
+
+ Cathodic protection with sacrificial
+anodes can be used for corrosion
+protection of ship's under water hull,
+floating metal objects and any other
+submerged structures in marine medium
+
+STATUS
+
+Technology available for transfer
+
+

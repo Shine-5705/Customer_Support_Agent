@@ -1,0 +1,47 @@
+Smart Helmet 
+
+The  urban  combat  scenario  is  always  challenging  given  the  constrained  space  of 
+operation  and  the  unknowns  of  the  area  of  operation.  Hence  any  form  of  real  time 
+situational awareness increases the chances of success. To address this need for  real 
+time  situational  awareness  especially  for  urban  low  intensity  operations  the  “Smart 
+Helmet” can  capture  the  3D information  of any  unknown  environment  in  real time  and 
+assist  in  tracking  combat  agents  in  No-GPS  scenarios  leading  to  better  planning  and 
+decision making. 
+
+The  “Smart  Helmet”  comprises  of  a  sensor  suite  mounted  on  the  helmet  of  an  active 
+combat  soldier  which  in  turn  are  connected  to  a  wearable  “waist  pack”  compute  to  be 
+worn around the waist. The sensor suite consists of a solid state LiDAR (Light Detection 
+and  Ranging)  with  an  optical  RGB  camera  and  a  IMU-enabled  (Inertial  Measurement 
+Unit) stereo camera.  
+
+The Smart Helmet works in two modes : 
+
+1.) The Mapping Mode : In this mode, the combination of sensors help to capture the 
+3D  information  of  any  environment  in  real  time  and  the  software  (running  on  the 
+compute) generates a 3D map of the same environment. Along with 3D map a database 
+of unique 2D RGB images is recorded and stored on the compute. Each 2D RGB image 
+is uniquely mapped to a particular 3D location in the 3D map.  
+
+2.) The Localization Mode : In this mode, any combat agent wearing the Smart Helmet 
+can  determine  its  3D  position  w.r.t  the  3D  map  in  real  time.  The  optical  sensor  in  the 
+sensor suite captures the images in real time and is matched with the unique 2D image 
+database using an AI algorithm. From this matching the 3D position of the combat agent 
+w.r.t. the 3D map is determined. Hence by just using optical sensor like a RGB camera 
+we are able to determine the 3D coordinates of a moving combat agent in real-time. 
+
+The 3D map can serve as a “Local Positioning System” for conflicted and remote areas 
+where  we  might  have  “No  GPS”  or  “Low  GPS”  scenario.  With  the  help  of  the  “Smart 
+Helmet” working in Localization mode, members of a combat team or search and rescue 
+team can precisely determine their own 3D positions in real time.  
+
+This  positioning  system  has  an  accuracy  of  up  to  50  cm  and  has  no  dependency  on 
+external positioning system or external RF source. Using a suitable wireless system the 
+positional  information  of  multiple  combat  agents  wearing  the  “Smart  Helmet”  can  be 
+transmitted  to  a  central  hub.  The  live  position  information  of  multiple  combat  agents 
+inside a hostile territory increases the situational awareness and will help a commander 
+in effective planning and decision making 
+
+ 
+ 
+ 
+

@@ -1,0 +1,55 @@
+Process for Preparation of DBX-1 
+
+Primary  explosives  are  sensitive  explosive  materials  that  are  used  as  initiators  (e.g.  in 
+detonators,  primers,  blasting  caps,  etc.)  in  relatively  small  quantities  to  initiate  a  secondary  or 
+main explosive charge. Many primary explosives in current use contain lead with the most well-
+known  example  being  lead  azide  &  lead  styphnate  (LA  &  LS).  LA/LS  contain  lead,  a  toxic 
+heavy metal that is released to the environment during production and use. Environmental health 
+and safety regulations on lead containing materials are quite extensive and are likely to increase 
+in severity in the future, along with compliance costs. Therefore, lead-free alternates to LA& LS 
+have been sought for many years. 
+
+In search of  eco-friendly, safe and storage-stable lead-free initiators, DBX-1 (Copper(I) 5-
+nitrotetrazoalte)  has  been  emerged  as  potential  replacement  to  bothLA/LS  for  initiators 
+applications.  DBX-1  is  an  environmentally  benign  copper-based  primary  explosive  which  has 
+initiation characteristic similar to LA and sensitivity equivalent to LS.  Unlike LA, DBX-1 does 
+not  decompose in  non-hermetic  systems  and  is  therefore  appropriate  in  the  presence  of  copper 
+components. DBX-1 has higher level of compatibility with a variety of secondary explosives and 
+other  potential  ordnance  materials  compared  to  LA.  DBX-1  is  being  studied  extensively  in 
+variety  of  ordnance  applications  in  world-wide  especially  US  Army  for  e.g.  detonators  like 
+M100 (electric), M55 (Stab) as well as in NOL-130 primer mixes are currently underway.  DBX-
+1 filled initiators such as 25mm Mk210, M792, PGU-25; 30mm Mk266 and 40mm M430, M433, 
+and M918 are under qualification trials by US Military. 
+
+Considering  the  potential  scope  of  DBX-1  in  replacing  existing  less  storage  stable,  toxic 
+lead-based  (LA  &  LS)  composition  towards  environmentally  benign  green  primary  explosive, 
+High  Energy  Materials  Research  Laboratory  (HEMRL)  has  established  a  cost  effective,  viable 
+synthetic  route  for  DBX-1  from  5-aminotetrazole  by  a  two-step  process.  DBX-1  is  fully 
+characterized and assessed its performance as initiator in variety of initiating devices in-place LA 
+& LS.  
+
+N
+
+N
+
+N
+
+N
+
+NO 2
+
+C u( I)
+
+Molecular structure of DBX-1 
+
+Microscopic image of DBX-1 crystals 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

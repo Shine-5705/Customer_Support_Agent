@@ -1,0 +1,24 @@
+Pyro Delay Reefing Cutter (1 sec) 
+
+1s Delay pyro reefing cutter is required in the parachute system for Sahayak MK I/NG for IL 
+
+38 aircraft with payload capacity 50 kg. A parachute system is used to decelerate the carrier 
+
+to the desired impact speed, so that impact load does not exceed designated limit. On release 
+
+from the aircraft, the cutter is required to cut the cord after completion of predefined delay to 
+
+initiate  the  parachute  inflation.  The  pyro  cutter  consists  of  a  pyro  delay  ignited  by  a 
+
+mechanically  actuated  percussion  cap  designed  for  deployment  of  parachute.  Burning 
+
+composition sets of a charge which drives the blade into the reefing line, severing it. The pyro 
+
+cutters are required to function with a high degree of accuracy and reliability. 
+
+ 
+ 
+ 
+ 
+ 
+

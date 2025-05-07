@@ -1,0 +1,80 @@
+PLASTIC SCINTILLATOR SENSORS (ROD and SHEET) 
+
+Introduction:  Plastic  scintillator  converts  the  energy  dissipated  by  ionizing  radiation  into 
+pulses  of  light.  It  consists  of  a  solid  solution  of  organic  scintillating  molecules  in  a 
+polymerized  solvent.  Plastic  scintillators  are  the  most  widely  used  organic  scintillators  for 
+nuclear  radiation  detection.  Polystyrene  based  plastic  scintillator  sensors  of  various 
+dimensions have been developed. Plastic scintillator rods (length of 500 mm and diameter of 
+50  mm)  and  sheets  (dimension  500  mm  x  500  mm  x  25  mm)  have  been  successfully 
+developed. Plastic scintillator sensors can be fabricated in large dimensions. They are more 
+sensitive & fast and provide better area coverage as compared to GM tubes. Contamination 
+monitoring  systems  based  on  plastic  scintillator  sensors  requires  very  less  sensors  as 
+compared to G.M. tube based systems e.g. a Laundry Monitor will require one or two large 
+plastic  scintillator  sensors.  Plastic  scintillator  based  systems  are  more  reliable  and  require 
+very less maintenance.  
+
+Salient  Features:    Important  features  and  parameters  of  the  Plastic  Scintillator  sensor  are  as 
+follows: 
+
+  Wide range of size flexibility based on applications (Disc, Rod, Sheet etc.) 
+ 
+ 
+ 
+
+ High sensitivity as compared to gas based sensors 
+ Fast response and better area coverage and  Sufficiently high light output  
+ Relatively low cost  
+
+Parameter  
+
+Dimensions:      Rod 
+                          Sheet 
+Base Material  
+
+Value/Range  
+
+Length 500 mm, diameter 50 mm 
+500 mm x 500 mm x 25 mm 
+Polystyrene  
+
+Wavelength of maximum emission  
+
+420-425 nm  
+
+Light Output  
+
+Density  
+
+Refractive index 
+
+Softening temperature  (Vicat A)  
+
+~ 60% of Anthracene  
+
+1.04 g/cc  
+
+1.58 ± 0.02  
+
+ 94-97 °C  
+
+Plastic Scintillator Disc, Rod and 
+
+Sheet 
+
+Application:  As a sensor in radiation contamination monitoring systems viz. Gamma Portal 
+
+Monitor,  Laundry  Monitor,  Hand  Foot  Contamination  Monitor,  Floor  Contamination 
+
+Monitor, Radiation Frisker etc. 
+
+Status: Tested and prototype systems for contamination monitoring based on the sensors are 
+
+developed.  
+
+ 
+  
+ 
+ 
+ 
+ 
+

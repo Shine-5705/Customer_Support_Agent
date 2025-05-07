@@ -1,0 +1,37 @@
+Propellant & Igniter for Booster and Sustainer Motors of  
+
+Short Range Anti Ship Missile 
+
+The  propulsion  system  of  Short  range  anti  ship  missile  consists  of  two  motors,  a 
+
+booster motor and a sustainer motor.  
+
+The  propellants  for  both  the  motors  are  solid  composite  propellants.  The  propellant 
+
+for  Sustainer  motor  is  a  case  bonded  reduced  smoke  composite  propellant  and  the 
+
+configuration is end burning mode. Whereas, for booster motor, the propellant is case bonded 
+
+high burn rate propellant in star configuration. 
+
+Torch shaped metallic canister  mounted on  the adapter  of  the  head end lid  has  been 
+
+designed and developed for booster Motor.The sustainer igniter is assembled in the rear end 
+
+of  the  motor.  The  igniter  composition  for  both  is  boron  based  pyrotechnic  composition  in 
+
+pellet form. Both the igniters have flash holes for communication of flame from igniter to the 
+
+propellant surface and are initiated by pyros. 
+
+The  technology  for  processingof  propellant  and  igniters  is  fully  established  by 
+
+HEMRL and the performance has been successfully demonstrated in various trials. 
+
+Now  this  technology  is  completely  matured  and  the  same  can  be  transferred  to 
+
+production agencies for further requirements.   
+
+ 
+ 
+

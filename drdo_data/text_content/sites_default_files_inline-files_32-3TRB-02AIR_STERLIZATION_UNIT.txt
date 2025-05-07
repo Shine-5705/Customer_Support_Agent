@@ -1,0 +1,51 @@
+Air Sterilization Unit (ASU) for ATVP 
+
+Accumulation of microorganisms in  a closed ecosystem leads to spread of infectious 
+
+diseases  and  allergies  among  crew  members  apart  from  production  of  toxic 
+
+metabolites, damage of materials and degradation of environmental hygiene. DEBEL 
+
+has successfully developed air sterilization unit (ASU) for submarine application. The 
+
+system works on the principle of UV irradiation and  can be continuously used for 8000 
+
+h. The Electronic Control Unit has been designed to display the working of UV bulbs. 
+
+The  system  achieved  99.999%  reduction  of bacteria  (endospores  of  Bacillus  subtilis) 
+
+and virus (T7 bacteriophage). The developed ASU is a promising system not only for 
+
+use in submarines but   spinoff of technology can be effectively used  in bio-defence 
+
+deployable  shelters,  CBRN  bunkers  and  mobile  laboratories.  Moreover,  civilian 
+
+applications  like  hospitals  and  amphi-theaters  can  also  benefit  from  the  developed 
+
+system.  
+
+Salient Features 
+
+•  Compatible to the already available ducting system. 
+•  Operational Conditions: 20 to 40 oC; RH 45 – 95 %. 
+•  Ensures Sterility Assurance Level (SAL):>4 log . 
+•  Outlet temperature: ~ +2 oC of inlet air temperature. 
+•  Storage condition: 25 oC and 60 % RH. 
+• 
+•  Shelf life 10 years 
+•  Power consumption: < 100 W. 
+
+In-duct with the airflow: 140 ± 10 m3 per hr. 
+
+Current Status: Under Environmental Qualification Testing. Accepted in principle for 
+
+introduction.   Witness trial was carried out at NABL accreditation lab. 
+
+Patents filed/ Granted: Filed-  2Nos.  
+
+ 
+ 
+ 
+ 
+ 
+

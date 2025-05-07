@@ -1,0 +1,142 @@
+A Brief Write-up with Photo on 
+Technology for Fused Silica Ceramic Cores Used for Making Hollow Nickel-Base Superalloy Cast 
+Parts of Aero Gas Turbine Engines 
+
+1. 
+
+Description of Technology 
+
+Nickel-base  superalloy  parts  such  as  blades,  vanes  and  rotors  are  used  in  hot  sections  of  aero  gas 
+turbine  engines.  These  parts  are  often  hollow  and  contain  serpentine  internal  cooling  channels  which  are 
+difficult to be generated through machining. These channels are typically formed by utilizing one or more 
+appropriate ceramic cores in the investment cast parts. The embedded ceramic cores are then removed by 
+mechanical  or  chemical  methods.  After  their  removal,  an  internal  cooling  channel  having  the  same 
+dimensions and shape of the ceramic core is left behind inside the component. For achieving the required 
+cooling  channel  configuration  in  the  cast  components,  the  ceramic  core  must  have  sufficient  strength  to 
+withstand wax injection pressure during pattern making as well as metallostatic pressure during casting. It 
+must be also be dimensionally and chemically stable up to casting temperature and impart suitable surface 
+finish to the channel walls after casting operation. In addition to these attributes, the core must also be easily 
+removable without affecting the cast metal part. The choice for material for core making is very limited due 
+to  the  above  requirements.  Fused  silica  based  ceramic  core  materials  have  been  found  suitable  for 
+investment cast superalloy parts.  
+
+DMRL  has  developed  the  technology  of  silica  core  making  through  ceramic  injection  moulding 
+(CIM) process. This process is suitable for production of complex ceramic cores in large numbers. In this 
+process, ceramic powder is mixed with polymeric binders, plastisizer and lubricants to get CIM feedstock. 
+Then feedstock is injected into die cavity at a high pressure using CIM machine to get green ceramic core. 
+The green cores are then debindered and sintered to get the desired properties. The dimensional compliance 
+of DMRL-developed cores is within ±0.3 mm.  
+
+DMRL has developed following capabilities as a part of ceramic core technology.  
+
+a)  Designing of ceramic core die suitable for CIM. DMRL can design die blocks, fixtures, setter 
+
+gauges etc from component drawing. 
+
+b)  DMRL  has  developed  indigenous  vendors  for  machinery and tools for production of ceramic 
+
+cores like sigma mixer, ceramic injection moulding machine and top hat furnace etc. 
+
+c)  CIM feedstock formulation and preparation methodologies  
+d)  CIM  and sintering techniques of green cores 
+e)  Quality control and inspection technique for ceramic feedstock and sintered ceramic cores 
+f)  Removals of ceramic cores from investment cast metal parts by caustic leaching process 
+
+2. 
+
+Application Areas 
+
+It can be used in aerospace, industrial, healthcare, sports and automotive sectors. 
+
+3. 
+
+USP of the Technology 
+
+DMRL technology can be used for producing high precision complex ceramic cores needed for aero 
+engine components such as blades and vanes. This technology is currently unavailable with any indigenous 
+source.  DMRL’s  technology  has  been  tested  for  its  reliability  and  consistency  in  producing  high  quality 
+ceramic cores. 
+
+Page 1 of 2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 1: High
+
+h pressure n
+
+nozzle guide
+
+e vane (HPN
+
+NGV) core. 
+
+Fig. 2: Low
+
+w pressure 
+
+ nozzle guid
+
+de vane (LPN
+
+NGV) core. 
+
+Length = 18
+L
+
+80mm 
+
+Fig. 3: Shro
+
+ouded low p
+
+pressure tur
+
+rbine blade (
+
+(LPTB) core.. 
+
+2 
+Page 2 of 2
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

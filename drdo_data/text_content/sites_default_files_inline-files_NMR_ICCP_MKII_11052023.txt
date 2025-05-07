@@ -1,0 +1,64 @@
+IMPRESSED CURRENT CATHODIC PROTECTION SYSTEMS (NMR-ICCP-MK-II) 
+
+FOR SHIPS 
+
+Apart from controlling current to mitigate corrosion, in this ACU, Static electric 
+(SE)  signatures  caused  by  corrosion  and  CP  currents  can  be  minimised  by 
+optimizing  the  location  of  the  anode and  REs  through  computer modeling.  The  CP 
+current  can  be  minimized  with  the  concept  of  modular  auto  control  unit  (ACU) 
+comprising of number of modules of auto control unit or power supplies in one unit. 
+In this concept, the current fed by each anode is controlled by an independent ACU 
+module  having  a  dedicated  RE  and  anode  providing  uniform  potential  of  the 
+protected  structure.  The  CRM  signatures  can  be  minimised  by  reducing  the  SE 
+signatures.  The  SE  signature  due  to  power  supply  ripple  can  be  minimised  by 
+specifying low ripple power supplies. The EM field associated with SE signature can 
+be  minimised  by  reducing  SE  signatures.  For  minimizing  above  signatures,  Naval 
+Materials Research Laboratory (NMRL), Ambernath has developed a microcontroller 
+based modular ACU having low ripple power supplies. 
+
+The  designed  Microcontroller  based  modular  ACU  feed  minimum  current  to 
+provide uniform hull potential which will result in reducing the underwater signature. 
+This  ACU  is  interactive  to  the  user  in  view  of  monitoring  and  fault  diagnosis, 
+minimizes  human  intervention  and  reduces  maintenance  requirements  during  its 
+operation. 
+
+Salient Features 
+
+ Microcontroller  based  modular  ACU 
+consists  of  eight  modules  interfaced 
+with  industrial  PC  inbuilt  touch  screen 
+panel. Each module comprises of a low 
+ripple  dc  power  supply,  a  control 
+module  with  dedicated  anode  and 
+reference electrode. 
+
+ Real time health monitoring of hull and 
+ICCP components using SCADA facility 
+and  storing  ACU  parameters  at 
+predetermined intervals. 
+ Alarms for generated faults. 
+ Fault 
+
+troubleshooting  and  remedial 
+
+measures as ready- reckoner. 
+
+ Data logging of ICCP readings in ship’s 
+
+monthly returns format. 
+
+Application 
+
+Cathodic  protection  with 
+
+ICCP 
+system  can  be  used 
+for  corrosion 
+protection  of  ship's  under  water  hull, 
+floating  metal  objects  and  any  other 
+submerged structures in marine medium. 
+
+ 
+ 
+ 
+

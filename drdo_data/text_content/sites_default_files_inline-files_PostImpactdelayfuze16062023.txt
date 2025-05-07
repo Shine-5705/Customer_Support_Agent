@@ -1,0 +1,64 @@
+Post Impact Delay Fuze for Air Delivered Bomb 
+
+TBRL  has  designed  and  developed  a  state  of  the  art  electronic  post  impact 
+delay  fuze  for  air  delivered  bomb.  This  fuze  can  find  applications  in  concrete 
+penetration  bombs  used  for  defeating  hard  and  buried  structures.  EBW  detonator 
+based inline explosive train is incorporated in the fuze to enhance the safety during 
+storage, transportation and usage. Use of no primary explosives in the fuze does not 
+require complex moving/rotating Safety & Arming mechanisms. The developed fuze 
+is compatible with the fuze well of existing bombs available with the Indian Air force. 
+The developed fuze has the following salient features; 
+
+1. Instantaneous functioning on impact 
+2. Short delay  
+Rear mountable fuze for 2” fuze well 
+
+1.  Operational 
+features 
+2.  Compatibility 
+3.  Programmability  Manual knobs and RS-422 interface  for setting mission 
+parameters such as arming delay and post impact delay 
+Lanyard switch and Turbo generator 
+Modular, fail safe design 
+
+4.  Safeties 
+5.  Other features 
+
+It 
+
+to 
+
+into 
+
+is  a  combination  of 
+mechanical  and  electrical  sub 
+systems 
+for  providing  adequate 
+the  bomb  during  all 
+safety 
+phases  of  its  life.  The  fuze  is 
+divided 
+subsystems 
+two 
+namely  Release  sensing  and 
+arming  system  (RSAS)  and  fuzing 
+system. RSAS is directly interfaced 
+with the aircraft and is designed to 
+provide  safety  to  the  fuze  during 
+handling  and  arm  the  fuze  after 
+verifying  the  release  parameters.  But  the  fuzing  system  is  responsible  for  initiating 
+the explosive train at a set delay after the impact/penetration. The fuzing section of 
+the fuze is hardened to withstand high 'g' loads during impact and penetration of the 
+target. The developed fuzing section has been subjected actual concrete penetration 
+trials and functioned successfully. The ToT partner is expected to produce required 
+number of fuzes and get involved with the design team during RCMA clearance and 
+flight trials/ user evaluation trials.  
+
+EBW detonator will be provided by TBRL at the prevailing cost at that time as 
+
+the same is not part of development and is a restricted technology.  
+
+ 
+ 
+ 
+

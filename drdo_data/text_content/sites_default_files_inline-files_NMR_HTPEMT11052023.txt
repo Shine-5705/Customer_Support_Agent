@@ -1,0 +1,45 @@
+High Temperature Polymer Electrolyte Nanocomposite Membrane Technology 
+(NMR-HTPEMT)  
+
+Polymer electrolyte membrane is the heart of a fuel cell which is an electrochemical 
+device  that  converts  chemical  energy  into  electrical  energy  from  the  reaction 
+between  Hydrogen  and  oxygen/air.  The  role  of  the  membrane  is  to  transport  the 
+protons  generated  at  the  anode  to  the  cathode  to  complete  the  electrochemical 
+reaction. It also performs the function of a separator between the two electrodes. To 
+fulfil  the  criteria  of  an  electrolyte  the  membrane  should  possess  excellent  thermo-
+mechanical properties coupled with high proton conductivity. 
+
+NMRL,  Ambernath  has  developed  a  nanocomposite  polybenzimidazole  based 
+membrane (Indian patent applied) for application in HTPEMFC and realized a 100W 
+stack  using  the  same.  The  membrane  is  made  from  indigenously  available 
+precursors.  The  membrane  possesses  high  thermo-mechanical  stability  and  has 
+excellent  chemical  resistance  coupled  with  high  proton  conductivity  on  doping  with 
+phosphoric acid. Since it does not require water for conduction, it is most suitable for 
+fuel  cell  operation  in  the  temperature  range  of  120-180°C.  In-house  studies  have 
+demonstrated a high endurance under accelerated fuel cell conditions. 
+
+It  is  also  useful  as  a  separator  for  battery  and  a  solid  polymer  electrolyte  for  high 
+temperature supercapacitors. 
+
+Salient features: 
+
+  Nanocomposite high temperature membrane 
+  Thermally stable upto 600°C 
+  Proton conductivity in the range of 35-50 
+
+mS/cm at 180°C 
+
+  High oxidative stability  
+  Stable fuel cell performance for more than 
+
+700 hours of operation 
+
+Application areas: 
+
+  High Temperature Fuel Cell 
+  Electrolyte in high temperature supercapacitor 
+  Separator in battery 
+
+ 
+ 
+

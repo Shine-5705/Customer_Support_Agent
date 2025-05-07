@@ -1,0 +1,40 @@
+A brief description of Electronic Power Conditioner (EPC) 
+
+A  MPM  comprises  a  solid-state  power  amplifier  (SSPA),  a  low-gain  short-length  travelling-wave  tube 
+(TWT)  and  a  high-efficiency  compact  electronic  power  conditioning  (EPC)  housed  in  a  single  unit.  A  block 
+schematic of a typical MPM is shown in Figure 1.  
+
+One of the important elements of the MPM is an Electronic Power Conditioner (EPC), a power supply for 
+vacuum electronic device (TWT) and a low voltage supply for the solid state power supply. The EPC is constituted 
+with  high  efficiency  HV  converter  unit,  a  focus  electrode  modulator  unit  and  the  house-keeping  power  unit  apart 
+from a microcontroller based MPM management unit. The HV converter delivers all the high voltage requirements 
+of the cathode and depressed collectors of the TWT. 
+
+Fig.1 MPM Block Schematic 
+
+The management unit coordinates the sequencing, fault monitoring and protection mechanisms and also handles the 
+command interface module. The HV converter has high density planar power transformer and high voltage ceramic 
+capacitors  with  low  ESR,  ultrafast  recovery  diodes  etc  packaged  in  limited  volume  for  achieving  high  power 
+conversion  density.  The  high  level  block  schematic  of  EPC  is  depicted  in  figure  2.  A  typical  EPC  assembled  in 
+aluminium chassis is shown in figure 3. 
+
+Fig.2 EPC Block Schematic 
+
+                                                     Fig 3 : EPC assembled in Aluminium Chassis 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                       
+ 
+ 
+ 
+ 
+ 
+                                                  
+ 
+

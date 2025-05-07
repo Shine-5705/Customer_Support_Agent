@@ -1,0 +1,159 @@
+Driver Night Sight 
+
+Introduction: Driver Night Sight (DNS) for T-90 tank has been developed to enable driving of tanks 
+
+in night without switching on headlights. It comprises of an advanced uncooled TI & a day camera  
+
+in  form-fit  configuration  without  armour  cutting.    The  electronic  image  fusion  provides  DNS  the 
+
+capability to see beacon lights and thermal image simultaneously during night.  
+
+Specifications 
+
+Features 
+
+•  Uncooled IR Detector : 640 x 480 format/17µm Pitch 
+•  Day Camera 
+•  FOV 
+•  Rec. Range 
+•  Display 
+•  Power 
+•  Environmental             :  JSS 5855 / JSS-55555 
+
+           : 1280 x 1024format/9.7µm pitch 
+           : 45° x 34° 
+           : 150m for tank size target 
+           : Binocular OLED & LCD 
+           : Tank power ( 24 VDC nominal) 
+
+•  Form-fit configuration for existing Driver Sight for T-90 tank 
+•  Selectable TI or Day or Fused( TI + Day) image  
+•  Wide FOV coverage 
+•  Ability to see beacon lights and thermal image simultaneously 
+• 
+•  Day light camera with low Light level imaging capability  
+•  Day and Night operation 
+
+Imaging in the presence of dust and smoke 
+
+Technology Involved:  Development of DNS involved development of following technologies 
+
+•  Development of  uncooled TI  and Day camera  in periscopic mode  
+•  Development of IR/Visible/Eyepiece Optics module 
+•  Development of a miniaturized fusion board for electronic image fusion of TI and Day camera images 
+•  Development of Interface board and power supply board catering for power of various modules, 
+
+BITE and serial link/USB interfaces with different modules 
+
+•  Development of Binocular OLED Eyepiece to provide unit magnification image 
+•  Development of form-fit mechanical casing of DNS for Defogging, sealing and EMI/EMC 
+
+All the above technologies were successfully developed at IRDE(DRDO), Dehradun.  
+
+Interested Industry may write to Director, IRDE, Dehradun at the following address: 
+
+1.  Director, IRDE  
+     DRDO, Min of Defence   
+     Raipur PO 
+     Dehradun-248008 
+     Fax: 0135-2787161/2787128 
+
+3. Mr Vipin Sharma, Joint Director (Technology) 
+     Phone: 0135-2782451 
+
+2. Director, DITM, DRDO HQ. 
+    Min of Defence, DRDO Bhawan, 
+    Room No. 447, B Block 
+    Rajaji Marg, New, Delhi-110011 
+    Fax: 011-23793008 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Format for Seeking Expression of Interest (EOI) 
+
+(a)  Memorandum  and  Articles  of  Association  (Should  be  incorporated  as  per 
+
+Indian Companies Act, 1956)  
+
+(b)  Certificates of registration as a manufacturing unit, if any.  
+
+(c)  Balance Sheet for the preceding three years.  
+
+(d)  Income Tax returns for the preceding three year period  
+
+(e)  Details  of  shareholding/ownership  pattern  especially 
+
+foreign  partners/ 
+
+shareholders, foreign employees, directors, etc. The company must adhere to 
+
+the  prevailing  Govt  of  India  policies  and  regulations  on  Foreign  Direct 
+
+Investment (FDI)/DIPP norms as applicable.  
+
+(f)   Annual budget for R&D during last three years.  
+
+(g)  Numbers and details of IPR or patents, etc., held by the company.  
+
+(h)  Number of technically or professionally qualified personnel.  
+
+(i)  Record of past performance (e.g., Supply orders executed against of Ministry 
+
+of Defence orders, Public Sectors and Paramilitary Forces, if any).  
+
+(j)  Availability  of  adequate  infrastructure  (List  of  machines  and  their  production 
+
+capacities) and technical expertise.  
+
+(k) List of Testing and Support equipments  
+
+(l)  ISO/ ISI certification or any other certification  
+
+(m) Relevant clearances form the authorities/ ministries (if any)  
+
+(n)Capacity  and  capability  to  undertake  developmental  work  and  to  accept 
+
+attendant financial and commercial risks.  
+
+(o) Capacity/capability to market the product through the marketing network, sales  
+
+and service network, reliability to maintain confidentiality.  
+
+ 
+ 
+

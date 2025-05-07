@@ -1,0 +1,215 @@
+Expression of Interest (EoI) for Assembly, Integration & 
+
+Checkout GNC Kit for Project 1404 
+
+Technology Overview 
+
+1. 
+
+ARDE  had  developed  Pinaka  rocket,  a  free  flight,  all-weather,  indirect  fire  artillery 
+
+rocket  system  with  lower  accuracy  over  extended  ranges.  This  delivery  error  over 
+
+extended  ranges  can  be  mitigated  by  using  an  on  board  inertial  guidance  system 
+
+aided by satellite navigation.  
+
+2. 
+
+The accuracy has been improved by integrating the guidance, navigation and control 
+
+(GNC) kit to the rocket system. Hence the GNC Kit was developed and integrated to 
+
+the unguided Pinaka rocket, converting it to a Guided weapon. 
+
+3. 
+
+GNC  Kit  consists  of  the  actuation  system,  the  On  board  Computer  systems,  power 
+
+supply and telemetry systems. 
+
+4. 
+
+The  Line  Replaceable  Unit  (LRU),  Launch  Computer  system  (LC),  power  supplies 
+
+and Ground telemetry station are required during the testing phase of the GNC Kit. 
+
+Terms and Conditions 
+
+1. 
+
+Processing of EOI applications shall start after 10 days from the date of publication 
+
+on DRDO website.  
+
+2. 
+
+Industries desirous of participating in EOI should be willing to integrate full systems 
+
+for qualification trials. 
+
+3. 
+
+4. 
+
+The company turnover should be greater than Rs.75 Cr per annum. 
+
+Documents  to  be  submitted  with  EoI.  The  company  must  provide  details  about 
+
+company and documents in support of their claim as per Appendix- A. Any additional 
+
+documents as required by DRDO shall be sought based on request received from the 
+
+interested industries.  
+
+5. 
+
+The industry should essentially have previous experience in integration/production of 
+
+one  or  more  of  the  following  systems:  Complex  engineering  systems.  Aerospace 
+
+grade  systems,  weapon  systems,  airborne  related  systems,  space  related  systems, 
+
+Missile systems etc.  
+
+6. 
+
+Previous  &  on-going  experience  of  delivery  of  above  systems  with  clearance  by 
+
+Defence QA agencies like DGQA, MSQA/R&QA, RCI, CQA. 
+
+7. 
+
+The  Industry  should  also  have  skilled  manpower,  established  quality  management 
+
+system,  willingness  and  capability  to  setup  specialized  infrastructure,  experience  in 
+
+handling large supply chain. 
+
+ 
+ 
+ 
+8. 
+
+The Other Terms and conditions for industry seeking ToT are the following:-  
+
+a)  Submission of EOI does not guarantee ToT to applicant industry. 
+
+b)  The other terms and conditions are as per the ‘DRDO Policy and Procedures 
+
+for ToT’ for Category ‘A’ mentioned at 
+
+https://www.drdo.gov.in/sites/default/files/inline-
+
+files/DRDO%20Policy%20%26%20Procedure%20%20for%20ToT.pdf at 
+
+DRDO website.  
+
+Contact Details  
+
+9. 
+
+The desirous industries should send their Expression of Interest (EoI) to Director, RCI  
+
+on the following address:-  
+
+Director, 
+
+Research Centre Imarat (RCI) 
+
+Vignanyana Kancha 
+
+Hyderabad- 500 028  
+
+Fax:040-24306002 
+
+E-Mail: director[at]rcilab[dot]in  
+
+Copy to:-  
+
+Director,  
+
+Directorate of Industry Interface and Technology Management (DIITM),  
+
+DRDO Headquarters,  
+
+DRDO Bhawan, Rajaji Marg, 
+
+New Delhi- 110011.  
+
+Fax: 011-23793008. 
+
+E-Mail: diitm[dot]hqr[at]gov[dot]in  
+
+ tot[dot]hqr[a]gov[dot]in 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Appendix-A 
+
+List of support documents to be attached with EOI 
+
+a)  Memorandum  and  Articles  of  Association  (Should  be  incorporated  as  per  Indian 
+
+Companies Act, as amended time to time)  
+
+b)  Certificates of registration as a manufacturing unit, if any.  
+
+c)  Audited  Balance  Sheet,  turnover  and  net  worth  of  the  company  for  the  preceding 
+
+three years.  
+
+d)  Income Tax returns for the preceding three year period  
+
+e)  Details  of  shareholding/ownership  pattern  especially  foreign  partners/  shareholders, 
+foreign employees, directors, etc. The company must adhere to the prevailing Govt of 
+India  policies  and  regulations  on  Foreign  Direct  Investment  (FDI)/DIPP  norms  as 
+applicable.  
+
+f)  Annual budget (if any) for R&D during last three years. 
+
+g)  Numbers and details of IPR or patents, etc., held by the company.  
+
+h)  Number of technically or professionally qualified personnel.  
+
+i)  Record  of  past  performance  (e.g.,  Supply  orders  executed  against  of  Ministry  of 
+
+Defence orders, Public Sectors and Paramilitary Forces, if any).  
+
+j)  Availability  of  adequate  infrastructure  (List  of  machines  and  their  production 
+
+capacities) and technical expertise to assemble, integrate and test GNC Kits.  
+
+k)  List of Testing and Support equipments  
+
+l) 
+
+ISO/ ISI certification or any other certification (if any). 
+
+m)  Relevant clearances form the authorities/ ministries (if any).  
+
+n)  Capacity  and  capability  to  undertake  developmental  work  and  to  accept  attendant 
+
+financial and commercial risks. 
+
+o)  Capacity/capability  to  market  the  product  through  the  marketing  network,  sales  and 
+
+service network, reliability to maintain confidentiality.  
+
+p)  Under  taking  from  company  seeking  ToT  that  none  of  its  Directors,  Independent 
+Directors,  non-executive  Directors,  and  Key  management  personnel  are  involved  in 
+any corrupt practices, unfair means and illegal activities.  
+
+q)  Under taking from Company seeking ToT in respect of Para 1 (g) and Para  1(h) of 
+
+EoI.  
+
+r)  Brief description of R&D facilities and certificates recognised by any Govt agencies.  
+
+

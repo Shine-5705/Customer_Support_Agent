@@ -1,0 +1,84 @@
+Bulk production of cyclo organopentasilane for deposition of Silicon thin 
+
+films 
+
+The  amorphous  silicon  and  crystalline  silicon  thin  films  are  used  for  electronic 
+
+applications  such  as  LED,  solar  panels,  TFT,  sensors,  display  devices  etc. 
+
+Conventional  processes  use  organometallic  precursors  such  as  Si,  SiC,  GaAs, 
+
+GaP, AIN, CdSe, CdHgTe, CuGaInSe to prepare electronic thin films. The present 
+
+research 
+
+is  related 
+
+to  non-pyrophoric  and  non-corrosive  precursors  cyclic 
+
+organopentasilane  precursors  used  in  bulk  quantity  for electronic  applications  and 
+
+the  process for preparing  the  same. These processes  require  highly  sophisticated 
+
+instrumentation facility like CVI, CVD or laser ablation etc. Out of these the Si thin 
+
+films  have  attracted  most  of  the  users  due  to  their  longer  life  and  comparatively 
+
+easy  availability  of  raw  materials.  For  such  applications  SiH4  and  SiCl4  are  most 
+
+commonly  used  precursor  materials.Due  to  pyrophoric  nature  of  silanes,  handling 
+
+and  processing  of  these  materials  required  high  degree  of  manipulation  skills  and 
+
+highly sophisticated processing devices which restrict easy commercialization of the 
+
+products and technology.  
+
+The hygroscopic and corrosive nature of SiCl4 also restrict its applications and due 
+
+to  generation  of  HCl,  the  Si  thin  films  could  not  be  grown  beyond  the  certain 
+
+thickness  thus  further  limiting  its  applications.  So  continuously  attempts  are  going 
+
+on to use oligomeric / polymeric Si materials for deposition of Si thin films. Recently 
+
+pentasilane  has  shown  very  promising  results  as LED materials. But  the  synthetic 
+
+processes of these materials are also very cumbersome though safer to handle.            
+
+Further,  the  CVD  and  other  thermal  techniques  are  being  used  for  deposition  of 
+
+amorphous  Si  and  crystalline  silicon  thin  films,  which  are  very  costly  and  also 
+
+precursors  used  in  these  techniques  are  highly  toxic  and  pyrophoric  in  nature. 
+
+Hence there is a global demand to develop simplest techniques for the deposition 
+
+of Si thin films.   
+
+DMSRDE, Kanpur has successfully optimized the technology for “Bulk production of 
+
+cycloorganopentasilane  for  deposition  of  Si  thin  films”more  particularly  to  a  non-
+
+pyrophoric  and  non-corrosive  precursors  cyclic  organopentasilane  precursors  for 
+
+deposition  of  silicon  thin  films  in  bulk  quantity  for  electronic  applications.  The 
+
+present 
+
+invention  also 
+
+relates 
+
+to 
+
+the  process 
+
+for  preparation  of  
+
+cyclicorganopentasilane. 
+
+Page 1 of 1 
+
+ 
+

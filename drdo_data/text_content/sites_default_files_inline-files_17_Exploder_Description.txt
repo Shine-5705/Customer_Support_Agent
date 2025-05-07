@@ -1,0 +1,99 @@
+PRODUCT DESCRIPTION DOCUMENT 
+
+EBW Detonator based Exploder System for Naval Warheads 
+
+Exploder  is  a  critical  subsystem  of  Naval  warhead,  which  ensures  safety  of  the 
+
+warhead  in  transportation,  handling,  storage  and  operations.  Exploder  prevents 
+
+inadvertent  arming  and detonation  of  warhead by  removing all  safety  interlocks  and 
+
+initiating explosive train only when intended. 
+
+As  part  of  the  Torpedo  and  Sea  Mines  development  program  taken  up  by  NSTL, 
+
+TBRL has designed  and developed Exploder  and  Warhead  for  Light weight torpedo 
+
+TAL  and  Exploder  for  Heavy  weight  torpedo  VARUNASTRA  and  Multi  Influence 
+
+Ground Mine(MIGM) 
+
+EBW  detonator  based  Exploder  for  HWT  VARUNASTRA  and  MIGM  is  a  new 
+
+generation  Exploder  system  that  besides  incorporating  various  safety  interlocks, 
+
+houses a high voltage unit for initiating high energy detonators. It has modular design 
+
+with  no  moving  component  and  significant  reduction  in  number  of  components  as 
+
+compared  to  traditional  exploder  system.    Exploder  mechanism  provides  various 
+
+prescribed  safeties  to  prevent  inadvertent  initiation  of  warhead  during  storage, 
+
+transportation, handling and operations. Safeties provided by exploder are mentioned 
+
+below: 
+
+A)  Storage and Transportation Safety 
+
+i.  Detonator holder is kept separate from exploder and need to be placed only 
+
+for War shot torpedo 
+
+B) Handling  Safety 
+
+i. 
+
+EBW detonator needs high voltage short pulse supply to function 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ii. 
+iii. 
+
+Exploder does not have any battery 
++28V is made available when torpedo enters water 
+
+C)Depth Safety 
+
+i. Depth sensor is normally shorted so that  power supply doesn’t reach second 
+stage. At 3m±1m depth sensors operates 
+
+D) Course Safety 
+
+i. 
+
+ii. 
+
+Another  safety  break  is  provided  that  open  only  when  Enable  switch  is 
+closed by torpedo’s OBC 
+Final safety break is impact switch and proximity switch that closes only on 
+an impact of 3g or higher. 
+
+Fig1. Shows sequence of operations of Exploder system 
+
+Fig 1: Exploder Sequence of Operations 
+
+EBW detonator based Exploder is immune to spurious stimulus pulses like EMI and 
+
+EMP  and  initiates  the  Warhead  on  proximity  or  impact  to  the  target.  Exploder  has 
+
+qualified all QT and AT level tests and ready for warshot trials. As this exploder uses 
+
+state  of  the  art  technology,  it  can  be  used  in  all  future  Naval  weapons  warhead  like 
+
+Torpedoes and Multi Influence Ground Mine. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

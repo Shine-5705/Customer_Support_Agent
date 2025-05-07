@@ -1,0 +1,64 @@
+ZnTe single crystal growth for broadband Terahertz applications  
+
+                    Single crystal ZnTe substrates are used for broadband THz generation and detection. THz 
+are  electromagnetic  waves  lying  between  microwave  and  infrared  region  which  are  invisible,  non-
+invasive, non-ionizing and biologically safe and offer higher resolution than other safe wavelengths. 
+In addition, the interaction of THz with various materials in terms of molecular vibrations and carrier 
+dynamics  bestows  it  with  a  unique  ability  to  probe  and  provide  material  spectroscopic  information 
+which  is  beyond  the  limits  of  conventional  systems.    Moreover,  THz  transparency  of  most  of  non-
+metallic, plastic materials render its use in imaging of concealed items. Hence, wide range of possible 
+THz  applications  in  various  fields,  such  as  spectroscopy,  imaging,  sensing  or  scanning,  quality 
+control,  wireless  communication,  and  basic  sciences  have  started  burgeoning  which  has  stimulated 
+extensive research in different frontiers of THz worldwide. However,  the realization of THz devices 
+and  systems  is  plagued  by  non-availability  of  efficient  terahertz  source  and  detectors. Amongst  the 
+various  techniques  for  THz  generation  and  detection;  broadband  THz  generation  using  optical 
+rectification of ultrafast laser pulses and THz detection using electro-optic sampling using non-linear 
+crystals have been one the simplest yet fast and reliable technique used for broadband THz generation 
+and detection. ZnTe owing to its high non-linear susceptibility, high electro-optic coefficient and low 
+THz  absorption  is  the  most  extensively  used  non-linear  crystal  material  in  various  commercial THz 
+systems for broadband THz generation and detection. 
+
+With the research on Terahertz burgeoning in both academia and industry in the country; the demand 
+for  high  quality  ZnTe  substrates  is  expected  to  rise  significantly  in  near  future.  Presently,  ZnTe 
+substrates  for  THz  applications  are  not  available  within  the  country  and  are  being  imported  at 
+exorbitantly  high  cost  by  various  users  in  country  involved  in  THz  research  and  development  like 
+TIFR, IITs, IISER, NISER, NPL and many other institutes of national importance. Typically, a 10 x 10 
+mm2  (110)  ZnTe  substrate  costs  ~  1800  €  with  the  cost  increasing  exponentially  both  with  the 
+substrate size and thickness. Moreover, the cost of high resistivity (≥ 104 Ω-cm) (110) ZnTe substrates 
+is still higher. Keeping the above points under consideration, SSPL has developed the complete single 
+crystal  growth  and  substrate  fabrication  facility  for  development  of  (110)  oriented  ZnTe  substrates. 
+Typical technological parameters/specifications of SSPL developed ZnTe substrates are: 
+
+Orientation 
+Size 
+
+Thickness 
+
+Resistivity 
+THz 
+detection range 
+
+generation/ 
+
+(110) ± 0.25o 
+10 x 10 mm2 both sides polished  
+(Up  to  18x18  mm2  substrate  have  been  fabricated 
+presently) 
+200  microns 
+achievable) 
+≥ 105 Ω-cm 
+0.1 to 3 THz  
+(Higher  THz  ranges  possible  with  thinner  ZnTe 
+substrates) 
+
+to  3  mm  (higher 
+
+thickness  also 
+
+SSPL  fabricated  ZnTe  substrates  have  been  extensively  tested  for  THz  characteristics  (THz 
+transmission, THz detection and THz generation) at TIFR, Mumbai  and NISER,  Bhubaneshwar and 
+were found to perform exceptionally well in comparison to imported ZnTe substrates.  
+
+ 
+ 
+

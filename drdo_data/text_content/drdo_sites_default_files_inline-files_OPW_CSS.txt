@@ -1,0 +1,532 @@
+           Canopy Severance System (CSS)
+
+Canopy Severance System (CSS) is part of the pilot’s escape aid system in aircraft. It is
+designed  to   rescue  the  pilot  in   shortest  possible   time   during   in-flight  and   on-ground
+emergencies in combat aircrafts. The development is based on ejection through Canopy
+Severance   System   instead   of   Canopy   Jettisoning   method,   which   has   a   major
+shortcoming of consuming vital  time required  for safe escape  ejection  of pilots from
+endangered aircraft.  
+
+Dual In-flight Egress system is operated by the pilot in case of emergencies occurring
+
+while the aircraft is in flight. In the other systems, during emergency, when the pilot
+
+pulled   the   Seat   Ejection   handle,   the   series   of   operations,   entailed   more   than   1400
+
+milliseconds. By the use of Canopy Severance System, the time to sever the Canopy is
+
+reduced to merely 20 milliseconds, thus giving a clean cut on the canopy, providing a
+
+safe passage to the Pilot and the Seat to eject safely. A portion of gas pressure is
+
+tapped from the Seat Ejection initiation gas pressure which is fed into the Pressure
+
+Actuated Initiator (PAI). Thus PAI is actuated and a detonation wave is developed which
+
+travels   through   Explosive   Transfer   Lines   (ETLs),   Junction   Boxes   and   finally   to   the
+
+Shaped Miniature Detonating Cord which cuts the Acrylic bubble of the Canopy linearly
+
+near the centre line and thus weakens it. The pieces of the weakened acrylic will be
+
+thrown away by the movement of the seat. This will provide the path through which seat
+
+and pilot can eject safely.
+
+Technologies Involved
+
+The following technologies are involved
+
+ Controlled propagation of detonation wave. 
+ Preparation of explosive cord.
+ Testing & Proof Methodology of explosive systems.
+ Cutting of target material using optimized explosive charges.
+ Mfg technologies for explosive lines & hardware.   
+
+Interested   companies/industries   are   requested   to   apply   against   this   EoI   to
+
+1. 
+following address:-
+
+To,
+
+The Director
+
+Armament Research & Development Establishment (ARDE),
+
+Dr. Homi Bhabha Road, Pashan, Pune-411021
+
+Email-director.arde@gov.in
+
+Phone No: 020-25932001
+
+Fax No: 020-25865102
+
+2.
+
+ A copy of interest may be sent to the following address without any attachment:-
+
+Copy to:- 
+
+To,
+
+The Director
+
+Directorate of Industry Interface & Technology Management (DIITM)
+
+Room No. 447, DRDO Bhawan, Rajaji Marg, New Delhi-110 011
+
+Email-diitm.hqr@gov.in
+
+Phone No. 011-23007446
+
+Fax No. 23793008
+
+All industries interested in seeking ToT are requested to apply in the format given below
+along with supporting documents (as applicable). Kindly provide reference of page no.
+of supporting document in the relevant field also. The list of documents to be attached is
+provided in Annexure - I. 
+
+General Information 
+
+PART-1
+
+1.
+
+2.
+
+3.
+
+Name of the Technology requested for Technology Transfer
+(Technology name and concerned Lab, Category)
+
+Name of the industry/ organization
+
+Complete Address and other details
+Registered Office
+
+State
+Phone No
+Fax
+Email
+Website
+Factory
+
+4.
+
+State
+Phone No
+Fax
+Email
+Website
+Point of Contact
+Name
+Designation
+Address
+Mobile No
+Ph No
+Email ID
+
+5. NAME OF CMD/ MD /PARTNERS/ PROPRIETOR/ etc
+
+Name
+Designation
+Address
+Mobile No
+Ph No
+Email ID
+Date of Incorporation of company
+
+Foreign Direct Investment in company (if any in %)
+
+Shareholding pattern
+
+Turn over as per Audited Balance Sheet for the preceding 
+three years.
+Year ____
+Year ____
+Year ____
+
+6.
+
+7.
+
+8.
+
+9.
+
+10. Annual budget for R&D during last three years
+
+(if any)
+Year ____
+Year ____
+Year ____
+
+11.
+
+Income Tax returns for the preceding three years period
+Year ____
+Year ____
+Year ____
+
+12. Nature of company
+
+DPSU, Private Limited, Public Limited, Partnership, Proprietary, 
+Ex- Serviceman Unit
+
+13. Category of industry
+
+Large Scale, Medium Scale, Small Scale, Micro, Startup
+
+14. MSME Registration No
+
+15. Certificates of registration as a manufacturing unit, if any.
+
+16.
+
+If Startup, DPIIT Registration No
+
+17. UDYOG AADHAR No
+
+18. PAN Number
+
+19. Details of Industrial license for defence manufacturing 
+
+issued by DPIIT (if any)
+
+20. Details of PESO license (if any)
+
+21. GST Number
+
+22. Nature of business
+
+Manufacturing/ Sole Selling or Authorized Agent/ Assembler/ 
+Traders/ Dealer/ Processor/ Repacker/ Others
+
+23. Details of current products and services
+
+Products and services Supplied (please specify Govt/ Domestic 
+market/ Export)
+
+24. Record of past performance (e.g., Supply orders executed 
+against of Ministry of Defence orders, Public Sectors and 
+Paramilitary Forces, if any).
+
+25. Details of registration with
+
+NSIC / SSI, DGS&D, other Defence Department, other Govt. 
+Dept, membership of FICCI/ASSOCHAM/CII or other Industrial 
+Association
+
+(Attach relevant copies of registration letters)
+
+26. Have you already taken any technology from DRDO (If yes, 
+
+give details attaching separate sheet)
+
+Name of the Technology, Lab, Year, License number & Status
+
+27.
+
+ISO/ ISI certification or any other certification (If yes, give 
+details)
+
+28. Relevant clearances form the authorities/ ministries (if any)
+29. Capacity and capability to undertake developmental work 
+
+and to accept attendant financial and commercial risks.
+
+30. Capacity/capability to market the product through the 
+
+marketing network, sales and service network, reliability to 
+maintain confidentiality.
+
+Infrastructure and other Information
+
+PART-2
+
+
+
+
+
+
+
+
+
+
+
+Total area of factory
+Covered (m2),
+Uncovered (m2),
+Bonded space available (m2)
+Ownership of factory
+Self-owned, partnership, rental
+Electric power
+Sanctioned
+Installed
+Standby (if any)
+Availability of adequate infrastructure (List of 
+machines and their production capacities) and 
+technical expertise
+Name of bank & A/c No
+Name of bank
+A/c type
+A/c no
+Address of the bank
+Phone: Email:
+
+Details of current products:
+
+Sl.no
+.
+
+Type
+
+Description
+
+Licensed/installed 
+capacity
+
+Annual production 
+for preceding 3 years
+
+Details of foreign collaboration, if any
+
+Sl.no
+.
+
+Product
+
+Name & address of collaborator
+
+Year
+
+Remarks
+
+Details of products developed for services
+Sl.no
+.
+
+Nomenclature of stores
+
+Order no and date
+
+Remarks
+
+Please give details of important facilities & infrastructure as per following format 
+for:
+
+a)Production
+b)Unconventional, special m/c
+c)Testing & quality control facilities
+
+Sl.no
+.
+
+Description of 
+m/c
+
+Make & 
+model
+
+Qty
+
+date of    
+purchase
+
+Remarks
+
+Furnish the following details with relevant certificates and documents
+
+a)  R&D facilities available
+b)  Inspection quality control of raw material components
+c)  Assistance from central agency for testing / calibration etc.
+:
+d)  laboratory and drawing office facility
+
+:
+
+:    
+:
+
+Principal customers:
+Sl.no
+.
+
+Name & address
+
+S.O No. & 
+date
+
+Date of last 
+supply
+
+Products 
+supplied
+
+Value
+
+Future plan (if any) in respect of expansion programme installation of additional 
+
+machines/ test facilities etc.
+
+Name of the technology requested for transfer (give self-assessment of your 
+
+capability to absorb the technology)   
+
+Details of employee as on date on firm’s pay roll 
+
+PERMANENT
+Category
+
+Technical
+
+Administrative
+
+TEMPORARY
+Category
+
+Technical
+
+Post Held
+
+Number Qualification Total 
+
+Service
+
+Prod. Manager
+Q.C. Manager Supervisor
+Testing Staff (Qc) Skilled 
+workers
+Unskilled workers, etc.
+Purchase Manager 
+Accounts Officer Office 
+Superintendent Clerical 
+Others etc
+
+Post Held
+
+Number Qualification
+
+Total 
+Service
+
+Prod. Manager
+Q.C. Manager 
+Supervisor
+Testing Staff (Qc) 
+Skilled workers
+Unskilled workers, etc
+
+Administrative Purchase Manager 
+
+Accounts Officer Office
+Superintendent Clerical
+Others, etc
+
+DECLARATION :
+
+I / we confirm that the information furnished in Part 1 & 2 above is correct. In the 
+
+event of any information given by me / us is found incorrect / false at any time, I / we 
+
+understand our EoI for ToT will be cancelled/ rejected without notice, beside any other 
+appropriate action against me / us.
+
+Industry seal
+
+Authorized signatory
+
+Name(s) in capital
+designation and seal of authorized 
+signatory
+
+dated:
+Place:
+
+Annexure - I
+
+List of Support documents to be attached with EoI
+
+(a)  Memorandum and Articles of Association (Should be incorporated as per Indian
+
+Companies Act, as amended time to time)
+
+(b) 
+
+Certificates of registration as a manufacturing unit, if any.
+
+(c) 
+
+(d) 
+
+(e) 
+
+(f) 
+
+(g) 
+
+(h) 
+
+(i) 
+
+(j) 
+
+Audited Balance Sheet for the preceding three years. 
+
+Income Tax returns for the preceding three year period 
+
+Details   of   shareholding/ownership   pattern   especially   foreign   partners/
+shareholders, foreign employees, directors, etc. The company must adhere to
+the prevailing Govt of India policies and regulations on Foreign Direct Investment
+(FDI)/DIPP norms as applicable. 
+
+Annual budget for R&D during last three years. 
+
+Numbers and details of IPR or patents, etc., held by the company.
+
+Number of technically or professionally qualified personnel.
+
+Record of past performance (e.g., Supply orders executed against of Ministry of
+Defence orders, Public Sectors and Paramilitary Forces, if any). 
+
+Availability   of   adequate   infrastructure   (List   of   machines   and   their   production
+capacities) and technical expertise. 
+
+(k) 
+
+List of Testing and Support equipment’s
+
+(l) 
+
+ISO/ ISI certification or any other certification 
+
+(m)  Relevant clearances form the authorities/ ministries (if any)
+
+(n) 
+
+(o) 
+
+Capacity   and   capability   to   undertake   developmental   work   and   to   accept
+attendant financial and commercial risks. 
+
+Capacity/capability to market the product through the marketing network, sales
+and service network, reliability to maintain confidentiality.
+
+(p) 
+
+(q) 
+
+(r) 
+
+PESO and DPIIT license for explosive handling if ToT is for high energy Material,
+explosives, propellants, and component/ system dealing with it etc. 
+
+Under taking form company seeking ToT that none of its Directors, Independent
+Directors, non-executive Directors, Key management personnel are involved in
+any corrupt practices, unfair means and illegal activities.
+
+Details of the industrials license for defence manufacturing be provided by the
+industry seeking ToTs.
+
+
