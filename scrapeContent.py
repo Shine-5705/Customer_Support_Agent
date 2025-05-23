@@ -7,7 +7,7 @@ import time
 import os
 
 class DRDOCrawler:
-    def __init__(self, base_url, output_dir="drdo_output", delay=1):
+    def __init__(self, base_url, output_dir="drdo_output2", delay=1):
         self.base_url = base_url
         self.domain = urlparse(base_url).netloc
         self.visited = set()
