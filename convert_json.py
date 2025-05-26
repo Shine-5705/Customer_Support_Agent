@@ -2,7 +2,7 @@ import os
 import json
 
 input_folder = 'drdo_output2'
-output_file = 'output.jsonnew28'
+output_file = 'newoutput.json'
 
 with open(output_file, 'w', encoding='utf-8') as out_file:
     out_file.write('[\n')  # Start of JSON array
