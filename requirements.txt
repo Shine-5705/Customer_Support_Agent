@@ -2,3 +2,7 @@ axios
 cheerio
 pdf-parse
 pymongo
+streamlit
+sentence-transformers
+faiss-cpu
+ollama
